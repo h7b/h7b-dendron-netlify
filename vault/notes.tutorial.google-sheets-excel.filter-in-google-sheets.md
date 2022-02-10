@@ -2,14 +2,13 @@
 id: HGAS1CK0zAaHORLkRwQ5k
 title: Filter in Google Sheets
 desc: ''
-updated: 1644324109710
+updated: 1644516463411
 created: 1639108579551
 ---
 # How to filter to get a subset data in Google Sheets
 
 ref: 
 - [Learn Google Spreadsheets | Google Sheets - Filter, Filter by Text, Date, Condition, Custom Formula, Regular Expression Tutorial](https://www.youtube.com/watch?v=e7gLjNp9Qo0)
-- [Learn Google Spreadsheets | Google Sheets - Filter Views & SUBTOTAL Function Tutorial](https://www.youtube.com/watch?v=49kkP04Whn8)
 
 Beside of basic techniques, there are some interesting advanced tips that I used
 
@@ -33,6 +32,8 @@ Regular Expression, which is case sensitive
 ```
 
 ## Filter View and SUBTOTAL function
+ref: [Learn Google Spreadsheets](https://www.youtube.com/watch?v=49kkP04Whn8)
+
 Instead of apply `Filter` to table, I can create a `Filter View` for myself or temporary use, which make the data table less confused for other users.
 ![filter-view](https://i.imgur.com/q2U3h7m.jpg){max-width: 300px, display: block, margin: 0 auto}
 

@@ -2,7 +2,7 @@
 id: JM7rJtqjPECioZxYc3k3Y
 title: Tools for Thought
 desc: ''
-updated: 1642633215143
+updated: 1644522184155
 created: 1635205995281
 nav_order: 2
 ---
@@ -61,6 +61,11 @@ Difficulty to use: 2/5
 [Pricing plan](https://www.remnote.com/pricing) starts at USD 6/month, with a free tier for individual use.  
 Thoughts: some frequently used feature (eg. aliases, graph view, templates) are moved to paid tier. The unique selling point of this product is its spaced repetition flashcards and unlimited notes in free tier.
 
+[Coda](https://coda.io/)  
+Difficulty to use: 1/5  
+Pricing: limited free tier. Their [pricing](https://coda.io/pricing) starts at USD 12/month per Doc Maker (have the ability to create new docs)  
+Thoughts: it has an advantage with the embedded [[inline formula|notes.tutorial.calculation-in-txt-editor#coda]]
+
 [Anytype](https://anytype.io/en)  
 Difficulty to use: 2/5  
 Thoughts: I can't understand their logic with relation and objects. Need more time to play and learn its features.
@@ -69,10 +74,8 @@ Thoughts: I can't understand their logic with relation and objects. Need more ti
 Difficulty to setup: 1/5  
 Thoughts: currently provide only `Sign in with Google` (2021-11-01), so I hesitate to test. But their demo public note [Book Recommendation](https://innos.io/space/7ecfa27d-bda6-c188-4418-f4189244b425?p=7ecfa27d-bda6-c188-4418-f4189244b425) looks great. However, its owner, [Lark](https://www.larksuite.com/), is a subsidiary of [ByteDance](https://www.bytedance.com/en/). Although [Lark](https://www.larksuite.com/) is based in Singapore, ByteDance’s ownership might be problematic.
 
-[Coda](https://coda.io/)  
-Difficulty to use: 1/5  
-Pricing: limited free tier. Their [pricing](https://coda.io/pricing) starts at USD 12/month per Doc Maker (have the ability to create new docs)  
-Thoughts: it has an advantage with the embedded [[inline formula|notes.tutorial.calculation-in-txt-editor#coda]]
+[Lark](https://www.larksuite.com/)
+![[notes.tutorial.tools-work-spreadsheet#^ATnKtk2k4GHy:#^JhDvg1v0ffvX]]
 
 [Gitbook](https://www.gitbook.com/)  
 Difficulty to setup: 3/5  
@@ -81,7 +84,7 @@ Thoughts: This is a solution for technical project documentation, rather a pkm l
 
 [MkDocs](https://www.mkdocs.org/)  
 Pricing: `Community version` is free  
-![[notes.tutorial.mkdocs-publish-obsidian#thoughts,1:#*]]
+![[notes.tutorial.mkdocs-publish-obsidian#overview,1:#*]]
 
 [[Docusaurus|notes.tutorial.docusaurus]]  
 Difficulty to setup: 4/5  
@@ -121,7 +124,8 @@ Thoughts: new open source Notion alternative, founded in 2021-11. Promising but 
 Thoughts: combination of outliner type (eg. [Logseq](https://logseq.com/)) and many other features (rss reader, email, feeds and inbox). Promising but currently not available.
 
 [Heptabase](https://heptabase.com/)  
-Thoughts: combination of whiteboard and note taking. Promising but currently not available
+Thoughts: combination of whiteboard and note taking. Promising but currently not available for public. 
+- 2022-01, they have private beta for paid subscribers in their discord server 
 
 [Siyuan](https://b3log.org/siyuan/)  
 [Pricing plan](https://b3log.org/siyuan/pricing.html) starts at RMB 96/year for cloud service features like data synchronization, backups. The product is completely free for individual use.  

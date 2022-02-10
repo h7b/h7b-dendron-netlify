@@ -2,7 +2,7 @@
 id: baGORJmKVcZBnAycpuA9E
 title: Merge Query
 desc: ''
-updated: 1640305827517
+updated: 1644501181380
 created: 1639453504535
 ---
 # Merge query
@@ -21,3 +21,7 @@ Select the column that drive the join between the tables
 
 Beside of 4 typical join as in [[SQL|notes.tutorial.sql-join]], `Power Query` support 2 more, which add up to total 6 types of `Merge` query, and 1 `Self-join` particular type.
 ![six-merge-query](https://i.imgur.com/0amnN3Y.jpg){max-width: 300px, display: block, margin: 0 auto}
+
+## Related resources
+
+[ExcelTown | Multiple columns as a key for merging in Power Query](https://exceltown.com/en/tutorials/power-bi/powerbi-com-and-power-bi-desktop/power-bi-data-sources/multiple-columns-as-a-key-for-merging-in-power-query/)

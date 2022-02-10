@@ -2,10 +2,10 @@
 id: Ruw6Q1WlSQPTSGrK5fi29
 title: Tools Work Spreadsheet
 desc: ''
-updated: 1636711742096
+updated: 1644529253670
 created: 1636706940589
 ---
-#  Excel and their alternatives
+#  Excel and its alternatives
 
 [Microsoft 365](https://www.microsoft.com/en-us/microsoft-365)  
 [Pricing plan](https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products?tab=1) starts at USD 70/year
@@ -19,6 +19,7 @@ Thoughts:
 - similar to [retool](https://retool.com/) which is used to build internal tools
 - read [here](https://blog.rows.com/p/delivering-more-meals-with-rows) to know how a client use `Rows` in their workflow
 - They are really onto something, especially in how to work get structured data out of other systems into a spreadsheet and then work with that kind of data in the "spreadsheet way" that we've all been trained in. This is a pain point of current spreadsheets and one that Rows is addressing in a really nice way (ref: [Hacker News](https://news.ycombinator.com/item?id=29189776))
+- 2022-02-07 evaluation: this app is limited in feature vs google sheets. Rows.com can not customize charts, doesn't have yet function like FILTER. Though it has [workaround](https://forum.rows.com/t/lookup-or-filter-data-using-multiple-criteria/559) with their Range2JSON function. They have some custom function using [Alpha Vantage API](https://www.alphavantage.co/), as an alternative of [GOOOGLEFINANCE function](https://support.google.com/docs/answer/3093281?hl=en). After juggling in 2h, I gave up. Switch back to google sheets for publish data on my blog
 
 [Grid](https://grid.is/)  
 [Pricing plan](https://grid.is/product/pricing) starts at USD 29/month, with good free tier  
@@ -46,8 +47,18 @@ Thoughts:
 [Pricing plan](https://www.smartsheet.com/pricing) starts at USD 9/month/user, min 3 users. With 30-day free trial.
 
 [Airtable](https://www.airtable.com/)  
-[Pricing plan](https://airtable.com/pricing) starts at USD 12/month. With limited free tier (1200 records per base)
+[Pricing plan](https://airtable.com/pricing) starts at USD 12/month. With limited free tier (1200 records per base).  
 Thoughts: small database use case
+
+[Lark](https://www.larksuite.com/)
+
+[Pricing plan](https://www.larksuite.com/pricing) is currently set to free.^ATnKtk2k4GHy
+
+Thoughts:
+- alternative of Google Workspace, Microsoft 365 and Notion
+- [Bitable](https://www.larksuite.com/hc/en-US/articles/360048488253) is its approach to database inside a document, with [two-way links](https://www.larksuite.com/hc/en-US/articles/360048488383) support, similar to Notion or Airtable
+- [Wiki](https://www.larksuite.com/hc/en-US/articles/360048488372) is their feature for team knowledge base, as the current offer of Notion and others
+- [Lark Flow](https://www.larksuite.com/hc/en-US/articles/360048487755-Workplace-How-to-use-Lark-Flow) is the automation tool similar to [Zapier](https://zapier.com/) and [Microsoft Power Automate](https://powerplatform.microsoft.com/en-us/power-automate/) ^JhDvg1v0ffvX
 
 ## The 3 types of spreadsheets
 
@@ -58,7 +69,7 @@ spreadsheet in the world is used for one of three things:
 - Models
 - Business Processes
 
-![grid.is](https://miro.medium.com/max/875/1*gWLTwAq5U5jVGBTpJPWzgQ.png){max-width: 500px, display: block, margin: 0 auto}
+![grid.is](https://miro.medium.com/max/875/1*gWLTwAq5U5jVGBTpJPWzgQ.png){max-width: 300px, display: block, margin: 0 auto}
 
 **Small databases**
 
