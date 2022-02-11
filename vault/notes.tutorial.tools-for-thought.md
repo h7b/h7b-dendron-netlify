@@ -2,7 +2,7 @@
 id: JM7rJtqjPECioZxYc3k3Y
 title: Tools for Thought
 desc: ''
-updated: 1644522184155
+updated: 1644592285698
 created: 1635205995281
 nav_order: 2
 ---
@@ -52,9 +52,11 @@ Publishing: share directly using Notion public link, or [[3rd-party service prov
 Difficulty to use: 2/5  
 Publishing with GitHub Page:  
 - tutorial at [here](https://logseq.github.io/#/page/Publishing%20(Desktop%20App%20Only))
-- Pricing: free  
+- Pricing: free
 
-Thoughts: notes are saved locally as plaintext md files. It also has spaced repetition flashcards feature. 
+Thoughts: notes are saved locally as plaintext md files. It also has spaced repetition flashcards feature.  
+A sketch of the current UI. *Credit*: [danzu](https://discord.com/channels/725182569297215569/756886540038438992/940821337449046097) in Logseq discord
+![logseq-ui](https://ik.imagekit.io/casa/h7b-dendron/2022-02-11_logseq-UI_zj-UxZtBZ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1644592013237){max-width: 300px, display: block, margin: 0 auto}
 
 [Remnote](https://www.remnote.com/)  
 Difficulty to use: 2/5  
@@ -149,6 +151,13 @@ Thoughts: currently in beta. At first glance, it seems to be another clone of [N
 [HackMD](https://hackmd.io/)  
 [Pricing](https://hackmd.io/pricing) starts at USD 5/month. Free tier is offered for team less than 3.    
 Thoughts: collaborative features for team. With the limit of 20 push to Git repo per month, their free tier is not attractive enough to experiment, compared to Notion. 
+
+[Athens](https://www.athensresearch.org/)  
+Thoughts: open source, alternative of Roam, Logseq. User base is significant less than Logseq
+
+[Inkdrop](https://www.inkdrop.app/)  
+[Pricing](https://www.inkdrop.app/pricing) starts at USD 5/month. Free trial only  
+Thoughts: cross platform markdown note app. Alternative of Obsidian. I can't find enough interest to experiment a note-taking app with a monthly subscription. 
 
 ## Other reviews for Knowledge Base software
 - [review from slite](https://slite.com/learn/knowledge-base-softwares)

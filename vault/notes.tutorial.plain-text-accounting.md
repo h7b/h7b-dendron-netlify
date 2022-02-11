@@ -2,7 +2,7 @@
 id: BMYLBFSZCzSdDt1hjzmA0
 title: Plain Text Accounting
 desc: ''
-updated: 1643684249215
+updated: 1644604737844
 created: 1643679182773
 ---
 # Plain text accounting with Beancount
@@ -116,3 +116,5 @@ Formatting is critical
 - [Beancount Language Syntax](https://beancount.github.io/docs/beancount_language_syntax.html)
 - [Beancount | Command-line Accounting Cookbook](https://beancount.github.io/docs/command_line_accounting_cookbook.html)
 - [Don't Sink Your First Attempts at Plaintext Accounting ](https://github.com/plaintextaccounting/plaintextaccounting/wiki/Don't-Sink-Your-First-Attempts-at-Plaintext-Accounting)
+- [Tea Leaves | Double Entry Bookkeeping for Personal Finance](https://www.youtube.com/watch?v=lIGJzQw79hg)
+- [PizzaBeer Engineering | Plain Text Accounting: How to do Signed Number Accounting](https://www.youtube.com/watch?v=FLbe3X3FiT8)

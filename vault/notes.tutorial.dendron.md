@@ -2,7 +2,7 @@
 id: c1-h7c_wOFHJkpzI1t4Gx
 title: Dendron
 desc: ''
-updated: 1643855526038
+updated: 1644591516053
 created: 1625432744672
 ---
 # Write and publish notes using Dendron
@@ -20,3 +20,5 @@ An illustration that helps me to understand the concept of workspace, local vaul
 
 ![dendron-workspace](https://ik.imagekit.io/casa/h7b-dendron/2022-02-02_dendron.remote-full_elP09EX8B.png?ik-sdk-version=javascript-1.4.3&updatedAt=1643846444601){max-width: 300px, display: block, margin: 0 auto}
 Credit: [seadude | Dendron community discord](https://discord.com/channels/717965437182410783/783027389919658025/938534904415789096)
+
+2022-02-11, in this [[discussion|notes.tutorial.dendron.discussion-20220211]], Kevin explained the reason why the current url of note in Dendron is not human-readable, which helps the url would not break when user refactor the hierarchy of their notes. He also suggested 2 possible solutions and pointed out how they affect the published site' SEO
