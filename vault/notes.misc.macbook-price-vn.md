@@ -2,12 +2,12 @@
 id: c94yuuUyyzUNGRTmq3JBx
 title: Macbook Price Vn
 desc: ''
-updated: 1644216511118
+updated: 1644664859615
 created: 1644126854458
 ---
 # Price of macbook in Vietnam
 
-The vn retail price markup vs apple-us is impressively low. However due to the high demand, there are so many retail shops which target only Apple users. Vietnamese could feel relief when they look at the retail price in France with the highest markup 20%, based on VND. The markup rate for apple-fr vs apple-us will be 16.41%, based on EUR.
+The vn retail price markup vs apple-us is impressively low. However due to the high demand, there are so many retail shops which target only Apple users. Vietnamese could feel relief when they look at the retail price in France with the highest markup 20%, based on VND or 19%, based on EUR.
 
 ![chart](https://docs.google.com/spreadsheets/d/e/2PACX-1vTmE3yTc1k5LYrDGkECxZsso3Ca0zEVlPu_-fAUI9YDrxLieO71HZ6wSB_yrXMijYt6srjK-f8lB60L/pubchart?oid=333778645&format=image){max-width: 300px, display: block, margin: 0 auto}
 

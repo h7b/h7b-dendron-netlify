@@ -2,7 +2,7 @@
 id: hrGH2IsGXmxlDMVydip5h
 title: Power Bi
 desc: ''
-updated: 1644591682637
+updated: 1644686344615
 created: 1640234050326
 ---
 # Introduction of Power BI
@@ -67,9 +67,8 @@ With respect to report usage, typical usage can be seen below.
 - [Power BI Sidetools](https://thebipower.fr/index.php/power-bi-sidetools/) is an external tool intended to increase productivity during reports development in Power BI desktop. It combine sereral tools, such as [DAX generator](https://thebipower.fr/index.php/dax-generator/), [DAX debugger](https://thebipower.fr/index.php/2021/04/05/dax-debugger/), `DAX parser`
 
 ### Add-on for Dashboard reporting:
-- [Charticulator](https://charticulator.com/index.html) to create custom charts for your reports using data modeled in Power BI.
-  - Free
-  - Example template
+- [[Charticulator|notes.tutorial.google-sheets-excel.power-bi.charticulator]] create custom chart designs for your reports using data modeled in Power BI.
+  - Free with many templates
   ![charticulator-example](https://charticulator.azureedge.net/images/gallery/les_miserables_linear.png){max-width: 300px, display: block, margin: 0 auto}
 - [Zebra BI](https://zebrabi.com/) offer many report templates both free and paid
   - [Pricing](https://zebrabi.com/pricing/?product=pbi)
@@ -82,4 +81,4 @@ With respect to report usage, typical usage can be seen below.
   ![howtopopwerbi-example](https://i.imgur.com/WSw6P3L.jpg){max-width: 300px, display: block, margin: 0 auto}
 - [Entreprise DNA | Power BI Showcase](https://enterprisedna.co/power-bi-showcase), some great dashboard from which I get inspiration 
   ![entreprise-dna-showcase](https://ik.imagekit.io/casa/h7b-dendron/Screenshot_2022-01-08_011815_hI98ottixMf.jpg?updatedAt=1641601140091){max-width: 300px, display: block, margin: 0 auto}
-- [inforiver](https://inforiver.com/): besides of visualization, it has [features](https://inforiver.com/features/) like simulation, planning, and writeback capabilities. This app might be considered as a combination on steroid of Excel and Power BI. It is interesting to compare this solution vs [Causal](https://www.causal.app/)
+- [inforiver](https://inforiver.com/): besides of visualization, this add-in put Power Bi on steroid with Excel-like [features](https://powerbi.microsoft.com/en-us/blog/inforiver-no-code-partner-innovation-for-end-user-self-service-inside-power-bi/), which are simulation, planning, and writeback capabilities. It is interesting to compare this solution vs [Causal](https://www.causal.app/)
