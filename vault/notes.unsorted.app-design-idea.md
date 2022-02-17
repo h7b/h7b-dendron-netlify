@@ -2,7 +2,7 @@
 id: xIHUqgJilv3BmnvbvwlhF
 title: App Design Idea
 desc: ''
-updated: 1643855371395
+updated: 1644850501340
 created: 1643854567901
 ---
 # Idea of app design
@@ -20,3 +20,6 @@ Some interesting UI/UX that inspired me to implement
 ![list-of-accounts](https://ik.imagekit.io/casa/h7b-dendron/2022-02-03_percento_IMG_0424_Zd1-ZrgiK.PNG?ik-sdk-version=javascript-1.4.3&updatedAt=1643855111666){max-width: 300px, display: block, margin: 0 auto}
 - list of accounts, detail view
 ![list-of-accounts-in-details](https://ik.imagekit.io/casa/h7b-dendron/2022-02-03_percento_IMG_0425_1q_y-lQJ7.PNG?ik-sdk-version=javascript-1.4.3&updatedAt=1643855111818){max-width: 300px, display: block, margin: 0 auto}
+
+[Birdee](https://birdee.co/en-fr)
+- investment partner of [bunq](https://www.bunq.com/) for their [Easy Investments](https://together.bunq.com/d/47183-easy-investments-invest-in-socially-responsible-companies/6) feature

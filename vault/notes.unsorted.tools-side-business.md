@@ -2,7 +2,7 @@
 id: yiWxICoo4iZjgeZQH4bty
 title: Tools Side Business
 desc: ''
-updated: 1642116463724
+updated: 1644959708931
 created: 1636496890368
 ---
 # If I open my own business, what tools I should look at for admin and management tasks?
@@ -22,3 +22,6 @@ Animation software to make whiteboard videos/presentation for marketing/educatio
 
 HR hire employees for content marketing
 - [Breezy](https://breezy.hr/): used by [Inkr](https://inkr.com/) to hire [translator](https://inkr.breezy.hr/)
+
+Internal process
+![[notes.tutorial.tools-internal-business-apps#tools-to-build-internal-business-apps,1]]

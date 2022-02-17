@@ -2,7 +2,7 @@
 id: IFkmOftixcfW3dCs93j3d
 title: Tools Internal Business Apps
 desc: ''
-updated: 1640118264202
+updated: 1644959652942
 created: 1640117790361
 ---
 # Tools to build internal business apps
@@ -23,4 +23,7 @@ created: 1640117790361
 
 [appsmith](https://www.appsmith.com/)
 - [Pricing](https://www.appsmith.com/pricing). Free for `Self-hosted`
+
+[jet admin](https://www.jetadmin.io/)
+- different [pricing plan](https://www.jetadmin.io/pricing/internal-tool) for *internal tool* or *customer portal* use case, starting from USD 30/month with basic Free tier and 14-day free trials
 
