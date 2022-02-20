@@ -2,10 +2,10 @@
 id: Ruw6Q1WlSQPTSGrK5fi29
 title: Tools Work Spreadsheet
 desc: ''
-updated: 1644529253670
+updated: 1645312504418
 created: 1636706940589
 ---
-#  Excel and its alternatives
+#  Excel and alternatives of spreadsheet database
 
 [Microsoft 365](https://www.microsoft.com/en-us/microsoft-365)  
 [Pricing plan](https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products?tab=1) starts at USD 70/year
@@ -50,15 +50,12 @@ Thoughts:
 [Pricing plan](https://airtable.com/pricing) starts at USD 12/month. With limited free tier (1200 records per base).  
 Thoughts: small database use case
 
-[Lark](https://www.larksuite.com/)
+[Grist](https://www.getgrist.com/)  
+[Pricing plan](https://www.getgrist.com/pricing/) starts at USD 8/month. With limited free tier for individuals.
 
-[Pricing plan](https://www.larksuite.com/pricing) is currently set to free.^ATnKtk2k4GHy
+![[notes.tutorial.tools-for-thought#^8qCuS55CFBal:#^jZqRA6esAHZr]]
 
-Thoughts:
-- alternative of Google Workspace, Microsoft 365 and Notion
-- [Bitable](https://www.larksuite.com/hc/en-US/articles/360048488253) is its approach to database inside a document, with [two-way links](https://www.larksuite.com/hc/en-US/articles/360048488383) support, similar to Notion or Airtable
-- [Wiki](https://www.larksuite.com/hc/en-US/articles/360048488372) is their feature for team knowledge base, as the current offer of Notion and others
-- [Lark Flow](https://www.larksuite.com/hc/en-US/articles/360048487755-Workplace-How-to-use-Lark-Flow) is the automation tool similar to [Zapier](https://zapier.com/) and [Microsoft Power Automate](https://powerplatform.microsoft.com/en-us/power-automate/) ^JhDvg1v0ffvX
+![[notes.tutorial.tools-for-thought#^qhuXZ3LjXE70:#^ChykvdjHZIdf]]
 
 ## The 3 types of spreadsheets
 
