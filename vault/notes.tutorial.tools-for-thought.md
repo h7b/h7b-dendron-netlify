@@ -45,7 +45,7 @@ PKM: Personal Knowledge Management
 - [Pricing plan](https://www.notion.so/pricing), starting at USD 10/month per user. It has an unlimited free tier for individual use.  
 - Publishing: share directly using Notion public link, or [[3rd-party service provider|notes.tutorial.notion.publish-notion]]
 
-## Things I know
+## Things I played with
 
 [Logseq](https://logseq.com/)  
 Difficulty to use: 2/5  
@@ -154,7 +154,9 @@ Thoughts: This is a solution for technical project documentation, rather a pkm l
 
 [HackMD](https://hackmd.io/)  
 - [Pricing](https://hackmd.io/pricing) starts at USD 5/month. Free tier is offered for team less than 3.    
-- Thoughts: collaborative features for team. With the limit of 20 push to Git repo per month, their free tier is not attractive enough to experiment, compared to Notion. 
+- Thoughts: 
+    - real-time collaborative edit in markdown for team. With the limit of 20 push to Git repo per month, their free tier is not attractive enough to experiment, compared to Notion. 
+    - [CodiMD](https://github.com/hackmdio/codimd) is their self-hosted version. Another forked version, maintained by community is [HedgeDoc](https://hedgedoc.org/)
 
 [Athens](https://www.athensresearch.org/)  
 - Thoughts: open source, alternative of Roam, Logseq. User base is significant less than Logseq
@@ -163,5 +165,6 @@ Thoughts: This is a solution for technical project documentation, rather a pkm l
 - [Pricing](https://www.inkdrop.app/pricing) starts at USD 5/month. Free trial only  
 - Thoughts: cross platform markdown note app. Alternative of Obsidian. I can't find enough interest to experiment a note-taking app with a monthly subscription. 
 
-## Other reviews for Knowledge Base software
-- [review from slite](https://slite.com/learn/knowledge-base-softwares)
+## Related resources 
+- [review from slite](https://slite.com/learn/knowledge-base-softwares) about knowledge base softwares
+- a [curated list](https://www.notion.so/db13644f08144495ad9877f217a161a1?v=ff6777802811416ba08dc114e0b11837) of all current tools for thoughts

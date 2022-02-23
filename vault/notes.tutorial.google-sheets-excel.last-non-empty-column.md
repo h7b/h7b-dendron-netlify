@@ -2,7 +2,7 @@
 id: 9cQxkfHauxrDVrO1Arbsz
 title: Last Non Empty Column
 desc: ''
-updated: 1644516402545
+updated: 1645392096986
 created: 1644283869190
 ---
 # Find the Last Non-Empty Column or Row in Google Sheets
@@ -57,7 +57,7 @@ Explain:
 
 > Note: This can be applied to generate automatically in column A, the row number of non-blank lines based on contents of column B.
 ```javascript
-=ArrayFormula(IF(row(B:B)>max((B:B<>"")*row(B:B))),"",row(B:B))
+=ArrayFormula(IF(row(B2:B)>max((B2:B<>"")*row(B2:B)),"",row(B2:B)))
 ```
 
 Explain:
