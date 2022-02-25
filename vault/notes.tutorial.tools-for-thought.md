@@ -2,7 +2,7 @@
 id: JM7rJtqjPECioZxYc3k3Y
 title: Tools for Thought
 desc: ''
-updated: 1645312411759
+updated: 1645641901795
 created: 1635205995281
 nav_order: 2
 ---
@@ -65,7 +65,7 @@ Thoughts: some frequently used feature (eg. aliases, graph view, templates) are 
 [Coda](https://coda.io/)
 - Difficulty to use: 1/5  
 - Pricing: limited free tier. Their [pricing](https://coda.io/pricing) starts at USD 12/month per Doc Maker (have the ability to create new docs)  
-Thoughts: it has an advantage with the embedded [[inline formula|notes.tutorial.calculation-in-txt-editor#coda]]
+Thoughts: it has an advantage with the embedded [[inline formula in Coda|notes.tutorial.calculation-in-txt-editor#coda]]
 
 [Anytype](https://anytype.io/en)
 - Difficulty to use: 2/5  
