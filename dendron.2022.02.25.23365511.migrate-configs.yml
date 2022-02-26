@@ -1,7 +1,29 @@
-version: 5
+version: 4
+useFMTitle: false
+useNoteTitleForLink: true
+mermaid: true
+useKatex: true
 dev:
     enablePreviewV2: true
     enableWebUI: false
+site:
+    copyAssets: true
+    siteHierarchies:
+        - root
+    siteRootDir: docs
+    usePrettyRefs: true
+    title: Kool Casa
+    description: Kool Casa is my personal blog and notes. The site is published using Dendron, deployed on Netlify. Articles are plain Markdown files located in the vault directory. Each Mardown file also has a yaml frontmatter for storing metadata. The URL for each article is determined by the id in the frontmatter.
+    author: Huy
+    logo: vault/assets/logo.png
+    siteFaviconPath: vault/assets/favicon.ico
+    siteUrl: 'https://kool.casa/'
+    siteLastModified: false
+    gh_edit_branch: main
+    duplicateNoteBehavior:
+        action: useVault
+        payload:
+            - vault
 commands:
     lookup:
         note:
@@ -10,7 +32,6 @@ commands:
             leaveTrace: false
             bubbleUpCreateNew: true
             fuzzThreshold: 0.76
-            vaultSelectionModeOnCreate: smart
     randomNote: {}
     insertNote:
         initialValue: templates
@@ -19,7 +40,6 @@ commands:
         enableMultiSelect: false
     insertNoteIndex:
         enableMarker: false
-    copyNoteLink: {}
 workspace:
     vaults:
         -
@@ -66,7 +86,7 @@ workspace:
     enableAutoFoldFrontmatter: false
     maxPreviewsCached: 10
     maxNoteLength: 204800
-    dendronVersion: 0.83.0
+    dendronVersion: 0.70.0
     enableEditorDecorations: true
 preview:
     enableFMTitle: false
@@ -75,40 +95,3 @@ preview:
     enablePrettyRefs: true
     enableKatex: true
     automaticallyShowPreview: false
-publishing:
-    enableFMTitle: false
-    enableNoteTitleForLink: true
-    enableMermaid: true
-    enablePrettyRefs: true
-    enableKatex: true
-    copyAssets: true
-    logoPath: vault/assets/logo.png
-    siteFaviconPath: vault/assets/favicon.ico
-    siteHierarchies:
-        - root
-    enableSiteLastModified: false
-    siteRootDir: docs
-    siteUrl: 'https://kool.casa/'
-    enableFrontmatterTags: true
-    enableHashesForFMTags: false
-    enableRandomlyColoredTags: true
-    duplicateNoteBehavior:
-        action: useVault
-        payload:
-            - vault
-    writeStubs: false
-    seo:
-        title: Kool Casa
-        description: >-
-            Kool Casa is my personal blog and notes. The site is published using
-            Dendron, deployed on Netlify. Articles are plain Markdown files
-            located in the vault directory. Each Mardown file also has a yaml
-            frontmatter for storing metadata. The URL for each article is
-            determined by the id in the frontmatter.
-        author: Huy
-    github:
-        enableEditLink: true
-        editLinkText: Edit this page on GitHub
-        editBranch: main
-        editViewMode: tree
-    enablePrettyLinks: true

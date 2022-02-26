@@ -2,7 +2,7 @@
 id: BMYLBFSZCzSdDt1hjzmA0
 title: Plain Text Accounting
 desc: ''
-updated: 1644604737844
+updated: 1645833406923
 created: 1643679182773
 ---
 # Plain text accounting with Beancount
@@ -12,15 +12,14 @@ ref:
 - [Blog de Cyril Deguet | Beancount ou la comptabilité pour les hackers](https://cyril.deguet.com/fr/2015/09/03/beancount-comptabilite-pour-hackers/)
 - [Leo's Blog | No-Bullshit Beancount Introduction](https://blog.leononame.dev/2019/08/beancount/)
 
-`Plain text accounting` means doing accounting with plain text data formats and scriptable software
+`Plain Text Accounting` (PTA) means doing accounting with plain text data formats and scriptable software
 
 Beancount does not represent time, only dates. The minimal time interval is one day.
 
-Currencies must be entirely in capital letters (allowing numbers and some special characters, like “_” or “-”). Currency symbols (such as $ or €) are not supported. The syntax for a currency is a word all in capital letters like "USD, CAD, MSFT"
+Most (not all) plain text accounting implementations use signed amounts instead of debits and credits. It has been a rather successful simplification, intuitive to most newcomers. It is also by far the preferred way to export a trial balance or general ledger account from any system to excel. It is the norm in the accounting industry.
 
-In beancount, a comment is declared by a semicolon `;`. Any text on a line after the character `;` is ignored.
+## Syntax directives
 
-Syntax directives
 - Open a new account. Accounts must be opened before being referenced.
   ```text
   2018-09-27 open Assets:EUR:Cash
@@ -107,14 +106,21 @@ Formatting is critical
   Liabilities:CreditCard
   ```
 
+Currencies must be entirely in capital letters (allowing numbers and some special characters, like “_” or “-”). Currency symbols (such as $ or €) are not supported. The syntax for a currency is a word all in capital letters like "USD, CAD, MSFT"
+
+In beancount, a comment is declared by a semicolon `;`. Any text on a line after the character `;` is ignored.
+
 ## Related resources:
 
 - [Awesome Beancount | curated list of resources for Beancount](https://awesome-beancount.com/)
 - [Hacker News | Beancount: Double-entry accounting from text files](https://news.ycombinator.com/item?id=30138434)
 - [Hacker News | Simple Personal Finance Tracking with GnuCash](https://news.ycombinator.com/item?id=23237687)
+- [Hacker News | Plain Text Accounting](https://news.ycombinator.com/item?id=25745615)
+- [Hacker News | Plain Text Accounting, a guide to Ledger and friends](https://news.ycombinator.com/item?id=28420797)
 - [GUI interface for Beancount](https://beancount.github.io/fava/)
 - [Beancount Language Syntax](https://beancount.github.io/docs/beancount_language_syntax.html)
 - [Beancount | Command-line Accounting Cookbook](https://beancount.github.io/docs/command_line_accounting_cookbook.html)
 - [Don't Sink Your First Attempts at Plaintext Accounting ](https://github.com/plaintextaccounting/plaintextaccounting/wiki/Don't-Sink-Your-First-Attempts-at-Plaintext-Accounting)
 - [Tea Leaves | Double Entry Bookkeeping for Personal Finance](https://www.youtube.com/watch?v=lIGJzQw79hg)
 - [PizzaBeer Engineering | Plain Text Accounting: How to do Signed Number Accounting](https://www.youtube.com/watch?v=FLbe3X3FiT8)
+- [[My own notes about accounting basics|notes.reading.accounting-basics]]

@@ -2,7 +2,7 @@
 id: MXh2EKQomVbG7wP96SQld
 title: Accounting Basics
 desc: ''
-updated: 1644787559779
+updated: 1645833274435
 created: 1644707675560
 ---
 # Reading 2022-02-13
@@ -26,6 +26,7 @@ created: 1644707675560
   - [Accrued Expenses Broken Down | Adjusting Entries](https://www.youtube.com/watch?v=9aZ6CCj-ies)
   - [Accrued Revenue MADE EASY | Adjusting Entries](https://www.youtube.com/watch?v=7ibN25VCvFg)
   - [How Prepaid Expenses Work | Adjusting Entries](https://www.youtube.com/watch?v=RE7wrflFOGA)
+  - [Martin Kleppmann | Accounting for Computer Scientists](https://martin.kleppmann.com/2011/03/07/accounting-for-computer-scientists.html)
 
 ## Notes from reading
 
