@@ -2,10 +2,10 @@
 id: DgpESplxOc3FCyUunecEw
 title: Mkdocs Publish Obsidian
 desc: ''
-updated: 1642117204947
+updated: 1645916123834
 created: 1639879650950
 ---
-# Publish Obsidian vault using MkDocs
+# Use MkDocs to publish my Obsidian vault
 
 ## Overview:
 
@@ -30,7 +30,7 @@ Thoughts:
 - mkdocs-material has native support for diagrams with `mermaid.js` in [Insider tier](https://squidfunk.github.io/mkdocs-material/reference/diagrams/0)
 - mkdocs-material has [Insider sponsorship](https://squidfunk.github.io/mkdocs-material/reference/diagrams/) starting at USD 10 / month.
 
-## Helpful resources:
+## Related resources:
 
 Tutorial:
 - Current best tutorial that I used: [Obsidian Mkdocs : A free Publish Alternative WorkFlow](https://forum.obsidian.md/t/obsidian-mkdocs-a-free-publish-alternative-workflow/29540)

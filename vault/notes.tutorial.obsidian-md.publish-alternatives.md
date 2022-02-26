@@ -2,13 +2,16 @@
 id: aIzdxkgBr2LmKOsw
 title: Publish Alternatives
 desc: ''
-updated: 1640118459456
+updated: 1645916462669
 created: 1628033267974
 ---
 ## Alternative methods to publish Obsidian vault
 
 Obsidian is great but finding a way to publish my Obsidian vault without purchasing `Obsidian Publish` [subscription](https://obsidian.md/publish) is a fun experiment though.
 
+- [Obsidian Digital Garden](https://github.com/oleeskild/obsidian-digital-garden), the current easiest way to publish your notes 
+    - use GitHub repo, deployed via Netlify
+    - [demo page](https://ole.dev/notes/Set%20up%20your%20own%20digital%20garden), which is also the tutorial from plugin's owner
 - [[Use MkDocs|notes.tutorial.mkdocs-publish-obsidian]]
     - Thoughts: has dark theme, built-in navigation bar, search feature. Tags in notes not yet supported. My current favorite approach.
 - [MdToNotion](https://github.com/Layjoo/MdToNotion) script to publish notes to Notion page using Notion API
