@@ -2,7 +2,7 @@
 id: xIHUqgJilv3BmnvbvwlhF
 title: App Design Idea
 desc: ''
-updated: 1644850501340
+updated: 1646007027224
 created: 1643854567901
 ---
 # Idea of app design
@@ -23,3 +23,12 @@ Some interesting UI/UX that inspired me to implement
 
 [Birdee](https://birdee.co/en-fr)
 - investment partner of [bunq](https://www.bunq.com/) for their [Easy Investments](https://together.bunq.com/d/47183-easy-investments-invest-in-socially-responsible-companies/6) feature
+
+[Portfolio Performance](https://www.portfolio-performance.info/en/)
+- open source tool to calculate the overall performance of an investment portfolio - across all accounts
+- [tutorial](http://indexfundinvestor.eu/2019/06/27/how-to-track-your-investments-with-portfolio-performance/) by [Index Fund (European) Investor](https://indexfundinvestor.eu/)
+
+[TopHat Finance](https://github.com/Athenodoros/TopHat)
+- personal finance app, free, local only
+- SPA on GitHub Pages with no backend, where all data is stored in browser storage (plus a Dropbox sync option, as a backup)
+- discussion in [Hacker News](https://news.ycombinator.com/item?id=30484235)

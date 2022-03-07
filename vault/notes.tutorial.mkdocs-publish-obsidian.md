@@ -2,7 +2,7 @@
 id: DgpESplxOc3FCyUunecEw
 title: Mkdocs Publish Obsidian
 desc: ''
-updated: 1645916123834
+updated: 1646178526646
 created: 1639879650950
 ---
 # Use MkDocs to publish my Obsidian vault
@@ -13,6 +13,7 @@ Workflow:
 - Write notes in Obsidian
 - Prepare files to publish with [MkDocs](https://www.mkdocs.org/)
 - Deploy in GitHub Pages or any static site hosting (like [Render](https://render.com/), [Netlify](https://www.netlify.com/), [Vercel](https://vercel.com/))
+- or use [Mkdocs Obsidian | Obsidian To Mkdocs | Obs2mk](https://github.com/Mara-Li/mkdocs_obsidian_publish) python script to publish obsidian's note on mkdocs
     
 Discussion of workflow in Obsidian forum
 - [My Obsidian & Mkdocs workflow](https://forum.obsidian.md/t/my-obsidian-mkdocs-workflow/24424)

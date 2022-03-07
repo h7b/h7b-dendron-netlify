@@ -2,7 +2,7 @@
 id: Hs0V11FbDMMurMrFArdkC
 title: Note Reference
 desc: ''
-updated: 1642528122663
+updated: 1646585347137
 created: 1636948922923
 ---
 # How to reference content from other notes and embed them in your current note (transclusion)
@@ -27,3 +27,8 @@ You can use line offsets to skip a number of lines when using a header reference
 Example of using a note reference offset to offset an initial heading, skipping the actual header when doing the embedding.
 
 `![[demo.embed.block#head1,1]]`
+
+### Wildcard Headers as a Range Boundary
+
+For example, the following would reference the content from header1 to the next header.
+`![[demo.embed.block#head1:#*]]`

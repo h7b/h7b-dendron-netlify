@@ -1,19 +1,21 @@
 ---
 id: Ruw6Q1WlSQPTSGrK5fi29
-title: Tools Work Spreadsheet
+title: Excel Spreadsheet Alternatives
 desc: ''
-updated: 1645312504418
+updated: 1646585752651
 created: 1636706940589
 ---
-#  Excel and alternatives of spreadsheet database
+# Excel and the alternatives of spreadsheet 
 
-[Microsoft 365](https://www.microsoft.com/en-us/microsoft-365)  
-[Pricing plan](https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products?tab=1) starts at USD 70/year
+## List of alternatives
 
-[Google Workspace](https://workspace.google.com/)  
-[Pricing plan](https://workspace.google.com/intl/en/pricing.html) starts at USD 6/month
+### [Microsoft 365](https://www.microsoft.com/en-us/microsoft-365)  
+[Pricing plan](https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products?tab=1) starts at USD 70/year. Has a [free Microsoft 365 E5 developer license](https://developer.microsoft.com/en-us/microsoft-365/dev-program#Subscription)
 
-[Rows](https://rows.com/)  
+### [Google Workspace](https://workspace.google.com/)  
+[Pricing plan](https://workspace.google.com/intl/en/pricing.html) starts at USD 6/month. Has a [free Essential Starter](https://workspace.google.com/essentials/)
+
+### [Rows](https://rows.com/)  
 [Pricing plan](https://rows.com/pricing) starts at USD 59/month, with limited free tier  
 Thoughts:
 - similar to [retool](https://retool.com/) which is used to build internal tools
@@ -21,20 +23,20 @@ Thoughts:
 - They are really onto something, especially in how to work get structured data out of other systems into a spreadsheet and then work with that kind of data in the "spreadsheet way" that we've all been trained in. This is a pain point of current spreadsheets and one that Rows is addressing in a really nice way (ref: [Hacker News](https://news.ycombinator.com/item?id=29189776))
 - 2022-02-07 evaluation: this app is limited in feature vs google sheets. Rows.com can not customize charts, doesn't have yet function like FILTER. Though it has [workaround](https://forum.rows.com/t/lookup-or-filter-data-using-multiple-criteria/559) with their Range2JSON function. They have some custom function using [Alpha Vantage API](https://www.alphavantage.co/), as an alternative of [GOOOGLEFINANCE function](https://support.google.com/docs/answer/3093281?hl=en). After juggling in 2h, I gave up. Switch back to google sheets for publish data on my blog
 
-[Grid](https://grid.is/)  
+### [Grid](https://grid.is/)  
 [Pricing plan](https://grid.is/product/pricing) starts at USD 29/month, with good free tier  
 Thoughts:
 - Turn spreadsheets into interactive web documents. Exambples: [mortgage calculator](https://grid.is/@grid_templates/template-mortgage-calculator-M77pS0K3SKixlk6PaS8nWg), [sales report](https://grid.is/@grid/example-report-week-x-sales-GigKWCT9T2OZmj_pnEGlfg), [financial model explanation](https://grid.is/@jordan/saas-financial-models-an-interactive-breakdown-vriV71vcSXG4NnNYukcfhQ)
 - GRID does not write back into your original spreadsheet when a GRID document is interacted with or altered
 - Similar to [Causal](https://www.causal.app/)
 
-[Causal](https://www.causal.app/)  
+### [Causal](https://www.causal.app/)  
 [Pricing plan](https://www.causal.app/pricing) starts at USD 50/month, with good free tier.
 Thoughts: 
 - better tools to build models and scenarios, compared to Excel
 - publish beautiful, interactive report
 
-[Spreadsheet.com](https://www.spreadsheet.com/)  
+### [Spreadsheet.com](https://www.spreadsheet.com/)  
 [Pricing plan](https://www.spreadsheet.com/pricing) starts at USD 11/month/creator, free for editor/commenter/viewer. With limited free tier, 2000 rows per workbook, similar to Airtable  
 Thoughts:
 - Rows that link together across worksheets, even across different workbooks, like tables in a relational database. Learn more [here](https://support.spreadsheet.com/hc/en-us/articles/360029505012-Quick-Start-Related-Rows-and-Lookups)
@@ -43,19 +45,23 @@ Thoughts:
 - identical spreadsheet GUI as Excel and Google Sheets
 - has similar formula [functions](https://support.spreadsheet.com/hc/en-us/categories/360001544671-Function-Reference) with identical syntax to Excel and Google Sheets
 
-[Smartsheet](https://www.smartsheet.com/)  
-[Pricing plan](https://www.smartsheet.com/pricing) starts at USD 9/month/user, min 3 users. With 30-day free trial.
+### [Smartsheet](https://www.smartsheet.com/)  
+[Pricing plan](https://www.smartsheet.com/pricing) starts at USD 9/month/user, min 3 users. 30-day free trial only.
 
-[Airtable](https://www.airtable.com/)  
+### [Airtable](https://www.airtable.com/)  
 [Pricing plan](https://airtable.com/pricing) starts at USD 12/month. With limited free tier (1200 records per base).  
 Thoughts: small database use case
 
-[Grist](https://www.getgrist.com/)  
+### [Grist](https://www.getgrist.com/)  
 [Pricing plan](https://www.getgrist.com/pricing/) starts at USD 8/month. With limited free tier for individuals.
 
-![[notes.tutorial.tools-for-thought#^8qCuS55CFBal:#^jZqRA6esAHZr]]
+![[notes.tutorial.tools-for-thought#fibery,0:#*]]
 
-![[notes.tutorial.tools-for-thought#^qhuXZ3LjXE70:#^ChykvdjHZIdf]]
+![[notes.tutorial.tools-for-thought#notion,0:#*]]
+
+![[notes.tutorial.tools-for-thought#coda,0:#*]]
+
+![[notes.tutorial.tools-for-thought#lark,0:#*]]
 
 ## The 3 types of spreadsheets
 
