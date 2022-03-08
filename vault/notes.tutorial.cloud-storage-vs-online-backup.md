@@ -2,13 +2,13 @@
 id: RSCijRCuIR1xl0R3TWCg5
 title: Cloud Storage Vs Online Backup
 desc: ''
-updated: 1646603132030
+updated: 1646675045747
 created: 1641946099458
 ---
 # Cloud Storage vs Online Backup: What’s The Difference
 ref: [Cloudwards](https://www.cloudwards.net/online-storage-vs-online-backup-whats-the-difference/)
 
-I collected this [list](https://docs.google.com/spreadsheets/d/1enE0KFKkUm9rvMB4zG1A8Qn5OlCTEswAAe7ztVlvoHo/edit?usp=sharing) of cloud storage pricing.
+I curated my own [list of pricing plans](https://docs.google.com/spreadsheets/d/1enE0KFKkUm9rvMB4zG1A8Qn5OlCTEswAAe7ztVlvoHo/edit?usp=sharing) of cloud storage and online backup services.
 
 Cloud storage solution: 
 - The vital purpose of cloud storage is to supplement your hard drive. Cloud storage is an extension of the physical storage capability of your device

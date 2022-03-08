@@ -2,7 +2,7 @@
 id: tQP1ujPMEgGv6hMZ2lf8z
 title: Obsidian Md
 desc: ''
-updated: 1640053179003
+updated: 1646699897471
 created: 1633862309359
 ---
 # Obsidian - Tips and Experiences
@@ -19,4 +19,12 @@ all of these elements will also be updated:
 
 ## Related resources 
 
- A recent [article bt tfthacker](https://tfthacker.medium.com/obsidian-understanding-its-core-design-principles-7f3fafbd6e36) that aim to explain to others what Obsidian is and its use cases
+A recent [article bt tfthacker](https://tfthacker.medium.com/obsidian-understanding-its-core-design-principles-7f3fafbd6e36) that aim to explain to others what Obsidian is and its use cases
+
+## Plugin
+
+- [Obsidian Web](https://chrome.google.com/webstore/detail/obsidian-web/edoacekkjanmingkbkgjndndibhkegad)
+  - Connect your browser with your notes in Obsidian
+  - Note Recall: Obsidian Web can search your notes to see if you've mentioned this page before, and if so, let you open that note in Obsidian or update it with new content
+- [MarkDownload - Markdown Web Clipper](https://chrome.google.com/webstore/detail/markdownload-markdown-web/pcmpcfapbekmbjjkdalcgopdkipoggdi)
+  - This extension works like a web clipper, but it downloads articles in markdown format

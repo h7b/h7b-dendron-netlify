@@ -2,7 +2,7 @@
 id: BMYLBFSZCzSdDt1hjzmA0
 title: Plain Text Accounting
 desc: ''
-updated: 1645833406923
+updated: 1646702098371
 created: 1643679182773
 ---
 # Plain text accounting with Beancount
@@ -112,6 +112,8 @@ In beancount, a comment is declared by a semicolon `;`. Any text on a line after
 
 ## Related resources:
 
+- [Plain Text Accounting Workshop](https://github.com/colindean/plaintextaccounting_workshop)
+  - reup [pdf](https://app.box.com/s/bl1p0iz1oarys539ay2g0bpw69j6r1j0)
 - [Awesome Beancount | curated list of resources for Beancount](https://awesome-beancount.com/)
 - [Hacker News | Beancount: Double-entry accounting from text files](https://news.ycombinator.com/item?id=30138434)
 - [Hacker News | Simple Personal Finance Tracking with GnuCash](https://news.ycombinator.com/item?id=23237687)

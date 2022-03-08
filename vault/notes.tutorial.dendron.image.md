@@ -2,7 +2,7 @@
 id: p6DAGnvvh2NUL4A2zsAW6
 title: Image
 desc: ''
-updated: 1640775192941
+updated: 1646701655943
 created: 1631926358221
 ---
 # Tips with image in Dendron
@@ -74,7 +74,27 @@ Benefits:
 - have a note with an image with a caption, and metadata
 
 Current limitation of this trick (wrt Dendron v0.74):
-- cannot do [[image formatting with inline css|notes.tutorial.tools-for-thought.dendron.image#resize-and-display-image,1:#*]]
+- cannot do image formatting with inline css as presented in previous section
 - I can insert note refs into a Markdown table, though it may not render or look the way you may want if having more customization options available
 
 There is a discussion about this issue in [Dendron GitHub](https://github.com/dendronhq/dendron/issues/1450)
+
+## Embed video in a note
+ref: [Dendron GitHub Issue 533](https://github.com/dendronhq/dendron/issues/533), [markdown-it-html5-embed](https://github.com/cmrd-senya/markdown-it-html5-embed)
+
+Dendron has not supported rich content link yet.
+
+So I can not use
+```markdown
+![test-video](https://example.com/file.webm)
+```
+
+But I have to use html tag
+```html
+<p><video width="320" height="240" class="audioplayer" controls>
+<source type="video/webm" src="https://example.com/file.webm"></source>
+Your browser does not support playing HTML5 video. You can
+<a href="https://example.com/file.webm" download>download a copy of the video
+file</a> instead.
+</video></p>
+```
