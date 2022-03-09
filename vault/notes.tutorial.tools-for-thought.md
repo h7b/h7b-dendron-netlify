@@ -2,7 +2,7 @@
 id: JM7rJtqjPECioZxYc3k3Y
 title: Tools for Thought
 desc: ''
-updated: 1646585043830
+updated: 1646784026755
 created: 1635205995281
 nav_order: 2
 ---
@@ -164,6 +164,18 @@ Thoughts: This is a solution for technical project documentation, rather a pkm l
 ### [Inkdrop](https://www.inkdrop.app/)  
 - [Pricing](https://www.inkdrop.app/pricing) starts at USD 5/month. Free trial only  
 - Thoughts: cross platform markdown note app. Alternative of Obsidian. I can't find enough interest to experiment a note-taking app with a monthly subscription. 
+
+### [Read the Docs](https://readthedocs.com/)
+- [Pricing](https://readthedocs.com/pricing/) starts at USD 50/month. Free [community version](https://readthedocs.org/) for open source projects. Not free for individual use
+- Thoughts: 
+  - alternative of [GitBook](https://www.gitbook.com/)
+  - can [export to other formats](https://docs.readthedocs.io/en/stable/downloadable-documentation.html) like pdf or epub
+
+### [Jupyter Book](https://jupyterbook.org/intro.html)
+- open source project for building beautiful, publication-quality books and documents from computational material
+- Thoughts:
+  - alternative of [GitBook](https://www.gitbook.com/)
+  - can [publish via Netlify or GitHub Pages](https://jupyterbook.org/publish/web.html)
 
 ## Related resources 
 - [review from slite](https://slite.com/learn/knowledge-base-softwares) about knowledge base softwares

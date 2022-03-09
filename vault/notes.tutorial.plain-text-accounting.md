@@ -2,7 +2,7 @@
 id: BMYLBFSZCzSdDt1hjzmA0
 title: Plain Text Accounting
 desc: ''
-updated: 1646702098371
+updated: 1646781583950
 created: 1643679182773
 ---
 # Plain text accounting with Beancount

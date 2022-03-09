@@ -2,7 +2,7 @@
 id: vvqWsP14qir4piOwoTAaW
 title: Markdown
 desc: ''
-updated: 1645582366066
+updated: 1646783342136
 created: 1625878005785
 ---
 # Markdown basics
@@ -30,5 +30,9 @@ line break
 
 ## Related resources
 - [[notes.reading.thoughts-on-markdown]]
+- [GitHub Flavored Markdown](https://github.github.com/gfm/)
 - [GitLab Flavored Markdown](https://docs.gitlab.com/ee/user/markdown.html)
 - [Syntax specification](https://spec.commonmark.org/) of Markdown flavored by [CommonMark](https://commonmark.org/)
+- [Microsoft Docs style](https://docs.microsoft.com/en-us/contribute/markdown-reference)
+- [Pandoc's Markdown variant](https://pandoc.org/MANUAL.html#pandocs-markdown)
+- [MyST - Markedly Structured Text syntax cheat sheet](https://jupyterbook.org/reference/cheatsheet.html)

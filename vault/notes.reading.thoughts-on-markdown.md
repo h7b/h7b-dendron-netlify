@@ -2,7 +2,7 @@
 id: jxv1ptNuKOtO6aUhTFCGt
 title: Thoughts on Markdown
 desc: ''
-updated: 1645564613359
+updated: 1646781594307
 created: 1645557747998
 ---
 # Reading 2022-02-22
@@ -19,6 +19,9 @@ created: 1645557747998
   - [Hacker News | Thoughts On Markdown](https://news.ycombinator.com/item?id=30395130)
   - [Hacker News | Compare AsciiDoc to Markdown](https://news.ycombinator.com/item?id=27744509)
   - [Reddit | Markdown vs Asciidoc](https://www.reddit.com/r/technicalwriting/comments/qxcsx6/markdown_vs_asciidoc/)
+  - [MyST - Markedly Structured Text](https://myst-parser.readthedocs.io/en/latest/)
+  - [Dendron discussion](https://github.com/dendronhq/dendron/discussions/2347#discussioncomment-2277719)
+
 ## Notes from reading
 
 [Compare AsciiDoc vs Markdown](https://docs.asciidoctor.org/asciidoc/latest/asciidoc-vs-markdown/)
@@ -31,3 +34,7 @@ Markdown:
 The main advantages of AsciiDoc:
 - more flexible/powerful formatting options
 - letting you implement a ton of structural/metadata type stuff with a syntax that is more complicated than Markdown but far simpler than XML
+
+MyST - Markedly Structured Text:
+- extending CommonMark to merge with a lot of the strengths from reStructuredText
+- implement [directives](https://myst-parser.readthedocs.io/en/latest/syntax/syntax.html#directives-a-block-level-extension-point) in Markdown as a standard format for special properties to things like images, admonitions, and for entry points for plugins to integrate well directly within the Markdown
