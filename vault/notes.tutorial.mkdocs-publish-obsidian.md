@@ -22,7 +22,7 @@ Discussion of workflow in Obsidian forum
 Showcase: [Tarek Shehata](https://tarekshehata.github.io/alkashi/Math/Basic%20Shapes/Circle/), [Mara-Li](https://mara-li.github.io/mkdocs_obsidian_template/)
 
 Thoughts:
-- My current favorite if I need to publish my Obsidian vault
+- My 2nd favorite if I need to publish my Obsidian vault
 - has dark theme, built-in navigation bar, search feature, `Next` and `Previous` UI links at the end of each doc page, support `mermaid.js` diagram using [mkdocs-mermaid2-plugin](https://github.com/fralau/mkdocs-mermaid2-plugin)
 - open source, static site generator, documents are markdown md files
 - has [guide](https://squidfunk.github.io/mkdocs-material/setup/adding-a-comment-system/) to integrate [[3rd party comment system|notes.tutorial.comments-static-site]]
@@ -45,7 +45,7 @@ Showcase:
 - [Steve Martinelli | 5 Features I Like About Material for MkDocs](https://www.stevemar.net/five-things-about-mkdocs/)
 
 Tools:
-- Current best option: [Mkdocs Obsidian template | GitHub](https://github.com/Mara-Li/mkdocs_obsidian_template)
+- Current 2nd best option: [Mkdocs Obsidian template | GitHub](https://github.com/Mara-Li/mkdocs_obsidian_template)
 - [A Material Design theme for MkDocs | GitHub](https://github.com/squidfunk/mkdocs-material)
 - [obsidian-export | GitHub](https://github.com/zoni/obsidian-export), CLI program and a Rust library to export an Obsidian vault to regular Markdown
 - [mkdocs-static-i18n | GitHub](https://github.com/ultrabug/mkdocs-static-i18n)

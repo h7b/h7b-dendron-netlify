@@ -2,7 +2,7 @@
 id: c94yuuUyyzUNGRTmq3JBx
 title: Macbook Price Vn
 desc: ''
-updated: 1644664859615
+updated: 1646871982468
 created: 1644126854458
 ---
 # Price of macbook in Vietnam
@@ -30,3 +30,6 @@ Table: retail price of a `macbook air M1 8GB 256GB` from retailer and Apple Auth
 | futureworld    |               27,490,000  |        |          |          | 12%                |
 | mainguyen      |             27,990,000    |        |          |          | 14%                |
 | apple-fr       |               29,256,996  |        | 1,290.56 | 1,129.00 | 20%                |
+
+## Related resources
+- [Hacker News | Brazil the country with the most expensive Apple products on the planet](https://news.ycombinator.com/item?id=30610454)

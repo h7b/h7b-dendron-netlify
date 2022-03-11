@@ -15,7 +15,7 @@ Obsidian is great but finding a way to publish the Obsidian vault without purcha
     - [demo page](https://ole.dev/notes/set-up-your-own-digital-garden), which is also the tutorial from plugin's owner
     - Thoughts: the current easiest free alternative of `Obsidian Publish`, simple, no navigation side bar
 - [[MkDocs|notes.tutorial.mkdocs-publish-obsidian]]
-    - Thoughts: has dark theme, built-in navigation bar, search feature. Tags in notes not yet supported. My current favorite approach.
+    - Thoughts: has dark theme, built-in navigation bar, search feature. Tags in notes not yet supported. My current 2nd favorite approach.
 - [MdToNotion](https://github.com/Layjoo/MdToNotion) script to publish notes to Notion page using Notion API
     - Discussion in [Obsidian forum](https://forum.obsidian.md/t/publish-obsidian-note-using-notion/27227)
 - [Quartz](https://quartz.jzhao.xyz/)

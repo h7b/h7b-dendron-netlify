@@ -1,19 +1,27 @@
 ---
 id: Ruw6Q1WlSQPTSGrK5fi29
-title: Excel Spreadsheet Alternatives
+title: Tools Spreadsheet Alternatives
 desc: ''
-updated: 1646585752651
+updated: 1646868382438
 created: 1636706940589
 ---
-# Excel and the alternatives of spreadsheet 
+# The alternatives of spreadsheet 
 
 ## List of alternatives
 
+![[notes.tutorial.tools-for-thought#fibery,0:#*]]
+
+![[notes.tutorial.tools-for-thought#notion,0:#*]]
+
+![[notes.tutorial.tools-for-thought#coda,0:#*]]
+
+![[notes.tutorial.tools-for-thought#lark,0:#*]]
+
 ### [Microsoft 365](https://www.microsoft.com/en-us/microsoft-365)  
-[Pricing plan](https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products?tab=1) starts at USD 70/year. Has a [free Microsoft 365 E5 developer license](https://developer.microsoft.com/en-us/microsoft-365/dev-program#Subscription)
+[Pricing plan](https://www.microsoft.com/en-us/microsoft-365/buy/compare-all-microsoft-365-products?tab=1) starts at USD 70/year. Has a [free Microsoft 365 E5 developer license](https://developer.microsoft.com/en-us/microsoft-365/dev-program#Subscription).
 
 ### [Google Workspace](https://workspace.google.com/)  
-[Pricing plan](https://workspace.google.com/intl/en/pricing.html) starts at USD 6/month. Has a [free Essential Starter](https://workspace.google.com/essentials/)
+[Pricing plan](https://workspace.google.com/intl/en/pricing.html) starts at USD 6/month. Has a [free Essential Starter](https://workspace.google.com/essentials/) plan.
 
 ### [Rows](https://rows.com/)  
 [Pricing plan](https://rows.com/pricing) starts at USD 59/month, with limited free tier  
@@ -31,37 +39,47 @@ Thoughts:
 - Similar to [Causal](https://www.causal.app/)
 
 ### [Causal](https://www.causal.app/)  
-[Pricing plan](https://www.causal.app/pricing) starts at USD 50/month, with good free tier.
-Thoughts: 
-- better tools to build models and scenarios, compared to Excel
-- publish beautiful, interactive report
+- [Pricing plan](https://www.causal.app/pricing) starts at USD 50/month, with good free tier.
+- Thoughts: 
+  - better tools to build models and scenarios, compared to Excel
+  - publish beautiful, interactive report
 
 ### [Spreadsheet.com](https://www.spreadsheet.com/)  
-[Pricing plan](https://www.spreadsheet.com/pricing) starts at USD 11/month/creator, free for editor/commenter/viewer. With limited free tier, 2000 rows per workbook, similar to Airtable  
-Thoughts:
-- Rows that link together across worksheets, even across different workbooks, like tables in a relational database. Learn more [here](https://support.spreadsheet.com/hc/en-us/articles/360029505012-Quick-Start-Related-Rows-and-Lookups)
-- [Row hierarchies](https://support.spreadsheet.com/hc/en-us/articles/360029860151-Quick-Start-Indenting-Rows-to-Create-Hierarchies) with parent-child relationships for things like project plans, task lists and org structures
-- New ways to work with worksheet data that go beyond the traditional grid of cells, such as [Kanban views](https://support.spreadsheet.com/hc/en-us/articles/360029870251-Quick-Start-Kanban-Views) for managing workflows and responsibilities, [Gantt view](https://support.spreadsheet.com/hc/en-us/articles/4401779714964-Quick-Start-Gantt-Views-and-Project-Management) as interactive timeline to manage a project’s schedule and create task dependencies
-- identical spreadsheet GUI as Excel and Google Sheets
-- has similar formula [functions](https://support.spreadsheet.com/hc/en-us/categories/360001544671-Function-Reference) with identical syntax to Excel and Google Sheets
+- [Pricing plan](https://www.spreadsheet.com/pricing) starts at USD 11/month/creator, free for editor/commenter/viewer. With limited free tier, 2000 rows per workbook, similar to Airtable  
+- Thoughts:
+  - Rows that link together across worksheets, even across different workbooks, like tables in a relational database. Learn more [here](https://support.spreadsheet.com/hc/en-us/articles/360029505012-Quick-Start-Related-Rows-and-Lookups)
+  - [Row hierarchies](https://support.spreadsheet.com/hc/en-us/articles/360029860151-Quick-Start-Indenting-Rows-to-Create-Hierarchies) with parent-child relationships for things like project plans, task lists and org structures
+  - New ways to work with worksheet data that go beyond the traditional grid of cells, such as [Kanban views](https://support.spreadsheet.com/hc/en-us/articles/360029870251-Quick-Start-Kanban-Views) for managing workflows and responsibilities, [Gantt view](https://support.spreadsheet.com/hc/en-us/articles/4401779714964-Quick-Start-Gantt-Views-and-Project-Management) as interactive timeline to manage a project’s schedule and create task dependencies
+  - identical spreadsheet GUI as Excel and Google Sheets
+  - has similar formula [functions](https://support.spreadsheet.com/hc/en-us/categories/360001544671-Function-Reference) with identical syntax to Excel and Google Sheets
 
 ### [Smartsheet](https://www.smartsheet.com/)  
 [Pricing plan](https://www.smartsheet.com/pricing) starts at USD 9/month/user, min 3 users. 30-day free trial only.
 
 ### [Airtable](https://www.airtable.com/)  
-[Pricing plan](https://airtable.com/pricing) starts at USD 12/month. With limited free tier (1200 records per base).  
-Thoughts: small database use case
+- [Pricing plan](https://airtable.com/pricing) starts at USD 12/month. With limited free tier (1200 records per base).  
+- Thoughts: small database use case
 
 ### [Grist](https://www.getgrist.com/)  
 [Pricing plan](https://www.getgrist.com/pricing/) starts at USD 8/month. With limited free tier for individuals.
 
-![[notes.tutorial.tools-for-thought#fibery,0:#*]]
+### [Stackby](https://stackby.com/)
+- [Pricing](https://stackby.com/pricing) starts at USD 5/month. With limited free tier
+- Thoughts: database, alternative of [Airtable](https://www.airtable.com/)
 
-![[notes.tutorial.tools-for-thought#notion,0:#*]]
+### [Nocodb](https://nocodb.com/)
+- database, open source alternative of [Airtable](https://www.airtable.com/)
 
-![[notes.tutorial.tools-for-thought#coda,0:#*]]
+### [rowy](https://www.rowy.io/)
+- database, open source alternative of [Airtable](https://www.airtable.com/)
 
-![[notes.tutorial.tools-for-thought#lark,0:#*]]
+### [Baserow](https://baserow.io/)
+- [Pricing] starts at USD 5/month. Has free self hosted version
+- database, open source alternative of [Airtable](https://www.airtable.com/)
+
+### [Seatable](https://seatable.io/en/)
+- [Pricing](https://seatable.io/en/preise/) starts at EUR 7/month. With Free tier
+- database, open source alternative of [Airtable](https://www.airtable.com/)
 
 ## The 3 types of spreadsheets
 
