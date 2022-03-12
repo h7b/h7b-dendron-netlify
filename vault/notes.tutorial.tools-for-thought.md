@@ -2,7 +2,7 @@
 id: JM7rJtqjPECioZxYc3k3Y
 title: Tools for Thought
 desc: ''
-updated: 1646784026755
+updated: 1647035840744
 created: 1635205995281
 nav_order: 2
 ---
@@ -172,10 +172,16 @@ Thoughts: This is a solution for technical project documentation, rather a pkm l
   - can [export to other formats](https://docs.readthedocs.io/en/stable/downloadable-documentation.html) like pdf or epub
 
 ### [Jupyter Book](https://jupyterbook.org/intro.html)
-- open source project for building beautiful, publication-quality books and documents from computational material
+- free open source project for building beautiful, publication-quality books and documents from computational material
 - Thoughts:
   - alternative of [GitBook](https://www.gitbook.com/)
   - can [publish via Netlify or GitHub Pages](https://jupyterbook.org/publish/web.html)
+
+### [Readme](https://readme.com/)
+- [Pricing](https://readme.com/pricing) starts at USD 99/month. Has free plan
+- Thoughts:
+  - alternative of [GitBook](https://www.gitbook.com/)
+  - features: integrated voting feature request board
 
 ## Related resources 
 - [review from slite](https://slite.com/learn/knowledge-base-softwares) about knowledge base softwares

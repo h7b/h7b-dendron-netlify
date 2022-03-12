@@ -2,7 +2,7 @@
 id: 3ypvi35mjugdvaxq8uky33j
 title: Stock Valuation
 desc: ''
-updated: 1646962618707
+updated: 1647052100573
 created: 1646959091277
 ---
 # Stock valuation method
@@ -26,8 +26,8 @@ Commonly used multiples
     - enterprise value multiples allow for direct comparison of different firms, regardless of capital structure
     - enterprise valuation multiples are typically less affected by accounting differences
   - enterprise-value-to-sales ratio (EV/sales)
-  - EV/EBIT
-  - EV/EBITDA
+  - [[EV/EBIT|notes.tutorial.stock-valuation.ev-ebit]]
+  - [[EV/EBITDA|notes.tutorial.stock-valuation.ev-ebitda]]
 - Equity multiples
   - features:
     - equity multiples can be artificially impacted by a change in capital structure, even when there is no change in enterprise value (EV)
