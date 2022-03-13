@@ -2,7 +2,7 @@
 id: 3ypvi35mjugdvaxq8uky33j
 title: Stock Valuation
 desc: ''
-updated: 1647052100573
+updated: 1647137761585
 created: 1646959091277
 ---
 # Stock valuation method
@@ -25,15 +25,15 @@ Commonly used multiples
   - features:
     - enterprise value multiples allow for direct comparison of different firms, regardless of capital structure
     - enterprise valuation multiples are typically less affected by accounting differences
-  - enterprise-value-to-sales ratio (EV/sales)
+  - [[EV/sales|notes.tutorial.stock-valuation.ev-sales]]
   - [[EV/EBIT|notes.tutorial.stock-valuation.ev-ebit]]
   - [[EV/EBITDA|notes.tutorial.stock-valuation.ev-ebitda]]
 - Equity multiples
   - features:
     - equity multiples can be artificially impacted by a change in capital structure, even when there is no change in enterprise value (EV)
     - equity multiples are more commonly used by investors because they can be calculated easily and are readily available via most financial websites
-  - price-to-earnings (P/E)
-  - price-to-book (P/B)
+  - [[price-to-earnings (P/E)|notes.tutorial.stock-valuation.price-earnings-ratio]]
+  - [[price-to-book (P/B)|notes.tutorial.stock-valuation.price-book-ratio]]
   - price-to-sales (P/S)
   - price-to-cash flow (P/CF)
   - Price/Earnings-to-Growth (PEG)

@@ -2,7 +2,7 @@
 id: uxp7wc3imq5g8m6myzpack9
 title: EBIT/EV
 desc: ''
-updated: 1647051392881
+updated: 1647135448757
 created: 1647050831306
 ---
 # EBIT/EV Multiple
@@ -32,6 +32,8 @@ EBIT/EV is supposed to be an earnings yield, so the higher the multiple, the bet
 ## Benefits of the EBIT/EV Multiple
 - employing EBIT as a measure of profitability, as opposed to net income (NI), eliminates the potentially distorting effects of differences in tax rates
 - using EBIT/EV normalizes for effects of different capital structures
+
+The earnings yield is also useful in producing a metric when a company has zero or negative earnings. Because such a case is common among hi-tech, high-growth, or startup companies, EPS will be negative producing an undefined P/E ratio (denoted as N/A).
 
 ## Downside of the EBIT/EV Multiple
 - the EBIT/EV ratio does not normalize for depreciation and amortization costs. Thus, there are still potential distorting effects when companies use different methods of accounting for fixed assets
