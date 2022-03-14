@@ -1,6 +1,6 @@
 ---
 id: InFDySxriICCHyN51z9g2
-title: Use Tags in Dendron
+title: Tags in Dendron
 desc: ''
 updated: 1642616199784
 created: 1642614079563

@@ -2,7 +2,7 @@
 id: yiWxICoo4iZjgeZQH4bty
 title: Tools Side Business
 desc: ''
-updated: 1644959708931
+updated: 1647217115835
 created: 1636496890368
 ---
 # If I open my own business, what tools I should look at for admin and management tasks?
@@ -25,3 +25,8 @@ HR hire employees for content marketing
 
 Internal process
 ![[notes.tutorial.tools-internal-business-apps#tools-to-build-internal-business-apps,1]]
+
+Accounting
+- [Wave](https://www.waveapps.com/)
+  - currently available only for US and Canada
+  - [Pricing](https://www.waveapps.com/pricing) is amazing. Free for unlimited use, fee for payments processing only

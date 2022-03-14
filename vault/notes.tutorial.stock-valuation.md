@@ -2,7 +2,7 @@
 id: 3ypvi35mjugdvaxq8uky33j
 title: Stock Valuation
 desc: ''
-updated: 1647137761585
+updated: 1647223473523
 created: 1646959091277
 ---
 # Stock valuation method
@@ -34,15 +34,15 @@ Commonly used multiples
     - equity multiples are more commonly used by investors because they can be calculated easily and are readily available via most financial websites
   - [[price-to-earnings (P/E)|notes.tutorial.stock-valuation.price-earnings-ratio]]
   - [[price-to-book (P/B)|notes.tutorial.stock-valuation.price-book-ratio]]
-  - price-to-sales (P/S)
-  - price-to-cash flow (P/CF)
+  - [[price-to-sales (P/S)|notes.tutorial.stock-valuation.price-sales-ratio]]
+  - [[price-to-cash flow (P/CF)|notes.tutorial.stock-valuation.price-cashflow-ratio]]
   - Price/Earnings-to-Growth (PEG)
 
 - Working Capital Ratio
 - Quick Ratio
 - Earnings per Share (EPS)
 - Debt-Equity Ratio
-- Return on Equity (ROE)
+- [[Return on Equity (ROE)|notes.tutorial.stock-valuation.return-on-equity]]
 
 ## Dividend Discount Model (DDM)
 ref: [Investopedia](https://www.investopedia.com/terms/d/ddm.asp)

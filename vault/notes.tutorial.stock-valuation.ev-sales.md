@@ -2,7 +2,7 @@
 id: zh0ghgefcpo8eilt1ppt9n4
 title: EV/Sales
 desc: ''
-updated: 1647133387603
+updated: 1647211541636
 created: 1647132915759
 ---
 # Enterprise Value-to-Sales (EV/Sales)
@@ -19,7 +19,7 @@ where
 
 ## What Does Enterprise Value-to-Sales Tell You?
 
-Enterprise value-to-sales is an expansion of the price-to-sales (P/S) valuation. 
+Enterprise value-to-sales is an expansion of the [[price-to-sales (P/S)|notes.tutorial.stock-valuation.price-sales-ratio]] valuation. 
 
 EV/Sales is perceived to be more accurate than P/S, in part, because the market capitalization alone does not take a company's debt into account when valuing the company, while enterprise value does.
 
