@@ -2,7 +2,7 @@
 id: 1990uyssx6v17agix81p5ao
 title: Price-to-Earnings Ratio
 desc: ''
-updated: 1647136778723
+updated: 1647319758563
 created: 1647133514433
 ---
 # Price-to-Earnings (P/E) Ratio
@@ -18,7 +18,7 @@ Simply put, a P/E ratio of 15 would mean that the current market value of the co
 
 $$P/E=\frac{Market\ value\ per\ share}{Earnings\ per\ share}$$
 
-where the earnings per share (EPS) comes in two main varieties
+where the [[earnings per share (EPS)|notes.tutorial.stock-valuation.earnings-per-share]] comes in two main varieties
 - TTM is a Wall Street acronym for "trailing 12 months". This number signals the company's performance over the past 12 months
 - The second type of EPS is found in a company's earnings release. This is the company's best-educated guess of what it expects to earn in the future
 

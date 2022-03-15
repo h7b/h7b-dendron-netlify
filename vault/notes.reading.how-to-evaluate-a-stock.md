@@ -2,7 +2,7 @@
 id: XthkB1AsPM7qr4db9Rvoc
 title: How to Evaluate a Stock
 desc: ''
-updated: 1642470856561
+updated: 1647319689082
 created: 1640656438112
 ---
 # Reading 2021-12-28
@@ -14,14 +14,14 @@ created: 1640656438112
 - Author: Angela Thompson
 - Year of publication: 2021
 - Category: Blog
-- Topic: 
+- Topic: #topic.investment
 
 ## Notes from reading
 
 Common metrics:
-- Earnings per share (EPS)
+- [[Earnings per share (EPS)|notes.tutorial.stock-valuation.earnings-per-share]]
     - The higher a company’s EPS, the more profitable it is considered and companies that have a track record of growing their EPS each year are highly regarded
-- Price-to-earnings ratio (P/E)
+- [[Price-to-earnings ratio (P/E)|notes.tutorial.stock-valuation.price-earnings-ratio]]
     - the relationship between a company’s stock price and its earnings
     - giving investors a good idea of what the market is willing to pay for the company’s potential earnings
     - A high P/E number generally suggests investors see high growth potential, but it is not considered a reliable standalone metric
@@ -29,7 +29,7 @@ Common metrics:
 - Net Tangible Assets
     - useful metric for evaluating a company’s future profitability, especially in capital intensive industries
     - This metric `net tangible asset per share of common stock` allows investors to focus on a company’s physical assets in isolation
-- Price-to-book ratio (P/B)
+- [[Price-to-book ratio (P/B)|notes.tutorial.stock-valuation.price-book-ratio]]
     - gives an indicator of how fairly priced – cheap or expensive – a share is at any given time
     - The book value of a company is a more conservative view of its value, as it simply looks at the difference between the balance sheet assets and balance sheet liabilities
     - The P/B ratio is of particular interest to value investors who like to invest in companies with a market value less than its book value with the expectation that the market perception will turn out to be wrong

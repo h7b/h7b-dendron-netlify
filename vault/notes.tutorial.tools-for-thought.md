@@ -2,7 +2,7 @@
 id: JM7rJtqjPECioZxYc3k3Y
 title: Tools for Thought
 desc: ''
-updated: 1647035840744
+updated: 1647315704479
 created: 1635205995281
 nav_order: 2
 ---
@@ -183,6 +183,18 @@ Thoughts: This is a solution for technical project documentation, rather a pkm l
   - alternative of [GitBook](https://www.gitbook.com/)
   - features: integrated voting feature request board
 
+### [Capacities](https://capacities.io/)
+- [Pricing](https://capacities.io/pricing) starts at USD 12/month. Has a Basic Free plan, with unlimited notes
+- Thoughts:
+  - alternative of [Notion](https://www.notion.so/)
+  - can share content via link
+  - only web version, not yet mobile or desktop apps
+
+### [Scrintal](https://www.scrintal.com/)
+- 2022-03-15, currently available only to private waitlist
+- the product self claim as a sweet blend of [Miro](https://miro.com/) and [Obsidian](https://obsidian.md/)
+- I considered this as an alternative of [Heptabase](https://heptabase.com/)
+
 ## Related resources 
-- [review from slite](https://slite.com/learn/knowledge-base-softwares) about knowledge base softwares
+- [review from slite](https://slite.com/learn/knowledge-base-softwares) about knowledge base software
 - a [curated list](https://www.notion.so/db13644f08144495ad9877f217a161a1?v=ff6777802811416ba08dc114e0b11837) of all current tools for thoughts
