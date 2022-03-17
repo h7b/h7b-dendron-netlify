@@ -2,7 +2,7 @@
 id: JM7rJtqjPECioZxYc3k3Y
 title: Tools for Thought
 desc: ''
-updated: 1647315704479
+updated: 1647482298971
 created: 1635205995281
 nav_order: 2
 ---
@@ -194,6 +194,19 @@ Thoughts: This is a solution for technical project documentation, rather a pkm l
 - 2022-03-15, currently available only to private waitlist
 - the product self claim as a sweet blend of [Miro](https://miro.com/) and [Obsidian](https://obsidian.md/)
 - I considered this as an alternative of [Heptabase](https://heptabase.com/)
+
+### [Stacks](https://stacks.rocks/)
+- [Pricing](https://stacks.rocks/pricing/) is one-time payment of USD 49
+- Thoughts:
+  - This is inclined to an offline project management apps, similar to [Trello](https://trello.com/en)
+  - Documents are stored in editable text based JSON files
+  - Sync your workspace through iCloud Drive, Dropbox, Google Drive or any service of your choice
+
+### [acreom](https://acreom.com/)
+- [Pricing](https://acreom.com/pricing) starts at USD 7.5/month, with unlimited free tier for personal use
+- Thoughts:
+  - sync between devices, document publishing is only available in Pro paid subscription
+  - documents are stored locally as markdown files, with offline mode available
 
 ## Related resources 
 - [review from slite](https://slite.com/learn/knowledge-base-softwares) about knowledge base software

@@ -2,7 +2,7 @@
 id: GrXw6FChLPca3mLHcMqwu
 title: Time Vs Money Rates
 desc: ''
-updated: 1642557652315
+updated: 1647480323319
 created: 1635725616283
 ---
 # Reading 2021-11-01
@@ -11,8 +11,8 @@ created: 1635725616283
 
 - Ref: [sharesight](https://www.sharesight.com/blog/time-weighted-vs-money-weighted-rates-of-return/)
 - Title: Time-Weighted vs Money-Weighted Rates of Return
-- Author: David Olsen
-- Year of publication: 2021
+- Author:: David Olsen
+- Year of publication:: 2021
 - Category: Blog
 - Topic: #topic.investment
 

@@ -2,7 +2,7 @@
 id: y0xnookb0xf0ifb3kaal0t1
 title: Discounted Cash Flow Model
 desc: ''
-updated: 1647319269304
+updated: 1647492572074
 created: 1647317532092
 ---
 # Discounted Cash Flow Model
@@ -25,3 +25,22 @@ where
 ## What DCF Can Tell You
 
 The purpose of DCF analysis is to estimate the money an investor would receive from an investment, adjusted for the time value of money. The time value of money assumes that a dollar today is worth more than a dollar tomorrow because it can be invested.
+
+## Variations of DCF
+ref: [Simply Wall St Help Center](https://support.simplywall.st/hc/en-us/articles/360001741016-How-is-fair-value-calculated)
+
+### 2-Stage Discounted Cash Flow Model
+
+Suitable for companies that are not expected to grow at a constant rate over time. These companies tend to be high-growth initially and become stable after a couple of years.
+
+### Excess Returns Model
+
+Used for financial companies such as banks and insurance firms. These companies generally do not have a significant proportion of physical assets and face different regulatory requirements for cash holdings to other businesses.
+
+### Adjusted-Funds-From-Operations (AFFO) 2-Stage Discounted Cash Flow Model
+
+Used for Real Estate Investment Trusts (REITs) as these companies incur capital gains and other real estate-specific factors which impacts their free cash flows.
+
+### [[Dividend Discount Model (DDM)|notes.tutorial.stock-valuation.dividend-discount-model]]
+
+Suitable for companies that consistently pay out a meaningful portion of their earnings as dividends.

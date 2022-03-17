@@ -2,7 +2,7 @@
 id: I2D9HnNFmTWDDini31qRL
 title: Bitcoin Etf Bito
 desc: ''
-updated: 1642468722073
+updated: 1647480375057
 created: 1634940439241
 ---
 # Reading 2021-10-23
@@ -11,10 +11,10 @@ created: 1634940439241
 
 - Ref: [Stake blog](https://hellostake.com/au/blog/stake-updates/how-to-buy-shares-in-bitcoin-etf)
 - Title: What is $BITO?
-- Author: Stake
-- Year of publication: 2021
+- Author:: Stake
+- Year of publication:: 2021
 - Category: Blog
-- Topic: #topic.cryptoAsset
+- Topic:: #topic.cryptoAsset
 
 ## Notes from reading
 

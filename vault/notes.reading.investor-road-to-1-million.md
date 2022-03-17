@@ -2,7 +2,7 @@
 id: BbTf9Ka2NkYqmlq0JCOg0
 title: Investor Road to 1 Million
 desc: ''
-updated: 1644199390489
+updated: 1647480375007
 created: 1644197586915
 ---
 # Reading 2022-02-07
@@ -11,10 +11,10 @@ created: 1644197586915
 
 - Ref: [The Swedish Investor | Youtube](https://www.youtube.com/watch?v=5Vxjyz9DZ6k)
 - Title: The Intelligent Investor’s Road to $1,000,000
-- Author: [The Swedish Investor](https://www.youtube.com/channel/UCAeAB8ABXGoGMbXuYPmiu2A)
-- Year of publication: 2022
+- Author:: [The Swedish Investor](https://www.youtube.com/channel/UCAeAB8ABXGoGMbXuYPmiu2A)
+- Year of publication:: 2022
 - Category: Blog
-- Topic: #topic.investment
+- Topic:: #topic.investment
 - Related: [Dunning–Kruger effect
 | Wikipedia](https://en.wikipedia.org/wiki/Dunning–Kruger_effect), [Idrees Dargahwala](https://dev.to/theiyd/the-dunning-kruger-effect-3cj2)
 

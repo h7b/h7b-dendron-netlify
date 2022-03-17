@@ -2,7 +2,7 @@
 id: gty0gR7TGyykSocW9DN8l
 title: Gardens Need Walls
 desc: ''
-updated: 1642470230349
+updated: 1647480375021
 created: 1639178171847
 ---
 # Reading 2021-12-11
@@ -11,10 +11,10 @@ created: 1639178171847
 
 - Ref: [ribbonfarm](https://www.ribbonfarm.com/2015/03/04/gardens-need-walls-on-boundaries-ritual-and-beauty/)
 - Title: Gardens Need Walls: On Boundaries, Ritual, and Beauty
-- Author: Sarah Perry
-- Year of publication: 2015
+- Author:: Sarah Perry
+- Year of publication:: 2015
 - Category: Blog
-- Topic: 
+- Topic:: 
 
 ## Notes from reading
 

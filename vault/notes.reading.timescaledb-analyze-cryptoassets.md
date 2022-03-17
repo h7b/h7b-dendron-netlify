@@ -2,7 +2,7 @@
 id: RJbDpgvHp3xExYjFK46QK
 title: TimescaleDB Analyze Cryptoassets
 desc: ''
-updated: 1642901660648
+updated: 1647480374965
 created: 1642817386230
 ---
 # Reading 2022-01-22
@@ -11,10 +11,10 @@ created: 1642817386230
 
 - Ref: [Timescale Blog](https://blog.timescale.com/blog/analyzing-bitcoin-ethereum-and-4100-other-cryptocurrencies-using-postgresql-and-timescaledb/)
 - Title: Analyzing Bitcoin, Ethereum, and 4100+ other cryptocurrencies using PostgreSQL and TimescaleDB
-- Author: Avthar Sewrathan
-- Year of publication: 2019
+- Author:: Avthar Sewrathan
+- Year of publication:: 2019
 - Category: Blog
-- Topic: #topic.cryptoAsset
+- Topic:: #topic.cryptoAsset
 - Related: [TimescaleDocs](https://docs.timescale.com/timescaledb/latest/tutorials/analyze-cryptocurrency-data/)
 
 ## Notes from reading

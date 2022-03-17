@@ -2,7 +2,7 @@
 id: EVniDeOnMHSjmunzEExdT
 title: Ontology Is Overrated
 desc: ''
-updated: 1642471991601
+updated: 1647480374995
 created: 1639173265883
 ---
 # Reading 2021-12-10
@@ -11,9 +11,9 @@ created: 1639173265883
 
 - Ref: [Clay Shirky's Writings About the Internet](https://www.gwern.net/docs/technology/2005-04-shirky-ontologyisoverratedcategorieslinksandtags.html)
 - Title: Ontology is Overrated: Categories, Links, and Tags
-- Author: Clay Shirky
-- Year of publication: 2005
-- Category: Blog
-- Topic: 
+- Author:: Clay Shirky
+- Year of publication:: 2005
+- Category:: Blog
+- Topic:: 
 
 ## Notes from reading

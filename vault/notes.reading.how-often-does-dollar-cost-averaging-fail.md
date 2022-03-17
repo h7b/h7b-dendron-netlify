@@ -2,7 +2,7 @@
 id: oKBnafKobUiCqbzocrTqn
 title: How Often Does Dollar Cost Averaging Fail
 desc: ''
-updated: 1642470379270
+updated: 1647480375013
 created: 1625883148849
 ---
 # Reading 2021-07-10
@@ -11,10 +11,10 @@ created: 1625883148849
 
 - Ref: [Of Dollars And Data](https://ofdollarsanddata.com/how-often-does-dollar-cost-averaging-fail/)
 - Title: How Often Does Dollar Cost Averaging Fail?
-- Author: Nick Maggiulli
-- Year of publication: 2021
-- Category: Blog
-- Topic: 
+- Author:: Nick Maggiulli
+- Year of publication:: 2021
+- Category:: Blog
+- Topic:: 
 
 ## Notes from reading
 

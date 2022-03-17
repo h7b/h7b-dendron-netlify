@@ -2,7 +2,7 @@
 id: Q3b7pRc4mEQAoxmpKYB9b
 title: Cryptocurrency Private Money
 desc: ''
-updated: 1643069125502
+updated: 1647480323438
 created: 1643067448055
 ---
 # Reading 2022-01-25
@@ -11,8 +11,8 @@ created: 1643067448055
 
 - Ref: [Patrick Boyle](https://www.youtube.com/watch?v=l7hZjV2rsbQ)
 - Title: How Cryptocurrencies Fit Into The Long History Of Private Money
-- Author: Patrick Boyle
-- Year of publication: 2022
+- Author:: Patrick Boyle
+- Year of publication:: 2022
 - Category: Blog
 - Topic: #topic.cryptoAsset
 

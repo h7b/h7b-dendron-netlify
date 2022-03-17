@@ -2,7 +2,7 @@
 id: AcqXbpGAwr1OMjWW6pLiU
 title: Fiinratings Vietnam Method
 desc: ''
-updated: 1642554673001
+updated: 1647480375026
 created: 1637318827239
 ---
 # Reading 2021-11-19
@@ -11,10 +11,10 @@ created: 1637318827239
 
 - Ref: [[FiinRatings Insight #2|notes.reading.fiinratings-insight-2]]
 - Title: Phương pháp xếp hạng nhà phát hành của FiinRatings
-- Author: Khối Dịch vụ Xếp hạng Tín nhiệm (FiinRatings), FiinGroup
-- Year of publication: 2021
+- Author:: Khối Dịch vụ Xếp hạng Tín nhiệm (FiinRatings), FiinGroup
+- Year of publication:: 2021
 - Category: Blog
-- Topic: 
+- Topic:: 
 
 ## Notes from reading
 

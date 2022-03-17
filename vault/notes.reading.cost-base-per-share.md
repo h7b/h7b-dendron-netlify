@@ -2,7 +2,7 @@
 id: lGo9GcVyHvwmYEDdJ8pJ1
 title: Cost Base per Share
 desc: ''
-updated: 1642469327145
+updated: 1647480375051
 created: 1640656960094
 ---
 # Reading 2021-12-28
@@ -11,10 +11,10 @@ created: 1640656960094
 
 - Ref: [Sharesight](https://www.sharesight.com/blog/at-a-glance-cost-base-per-share/)
 - Title: How to calculate cost base per share
-- Author: Stephanie Stefanovic
-- Year of publication: 2021
+- Author:: Stephanie Stefanovic
+- Year of publication:: 2021
 - Category: Blog
-- Topic: 
+- Topic:: 
 
 ## Notes from reading
 

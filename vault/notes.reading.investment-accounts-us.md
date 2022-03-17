@@ -2,7 +2,7 @@
 id: 7g0sTbbuYg57EDCzFsxYL
 title: Investment Accounts in US
 desc: ''
-updated: 1642555302644
+updated: 1647480323373
 created: 1635905317968
 ---
 # Reading 2021-11-03
@@ -11,8 +11,8 @@ created: 1635905317968
 
 - Ref: [[Investing Made Simple|notes.reading.investing-made-simple]]
 - Title: IRAs, 401(k)s, and Other Investment Accounts in US
-- Author: Mike Piper
-- Year of publication: 2018
+- Author:: Mike Piper
+- Year of publication:: 2018
 - Category: Book
 - Topic: 
 

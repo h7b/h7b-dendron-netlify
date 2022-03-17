@@ -2,7 +2,7 @@
 id: hECskx5SoBokQFjEohFEc
 title: Schopenhauer on Reading
 desc: ''
-updated: 1642472615042
+updated: 1647480374986
 created: 1638752045751
 ---
 # Reading 2021-12-06
@@ -11,10 +11,10 @@ created: 1638752045751
 
 - Ref: [fs](https://fs.blog/schopenhauer-on-reading/)
 - Title: Arthur Schopenhauer: On Reading and Books
-- Author: Farnam Street
-- Year of publication: 2016
+- Author:: Farnam Street
+- Year of publication:: 2016
 - Category: Blog
-- Topic: 
+- Topic:: 
 
 ## Notes from reading
 

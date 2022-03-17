@@ -2,7 +2,7 @@
 id: xsnOINP2EvvOsVY1kScaV
 title: TimescaleDB Intro New York City Taxi
 desc: ''
-updated: 1642809866719
+updated: 1647480374961
 created: 1642793399452
 ---
 # Reading 2022-01-21
@@ -11,10 +11,10 @@ created: 1642793399452
 
 - Ref: [TimescaleDocs](https://docs.timescale.com/timescaledb/latest/tutorials/nyc-taxi-cab/)
 - Title: Introduction to IoT: New York City Taxicabs
-- Author: TimescaleDB
-- Year of publication: 
-- Category: Blog
-- Topic: #topic.data
+- Author:: TimescaleDB
+- Year of publication:: 
+- Category:: Blog
+- Topic:: #topic.data
 
 ## Notes from reading
 

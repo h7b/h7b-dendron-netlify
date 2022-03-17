@@ -2,7 +2,7 @@
 id: IsFRUA6JOWA7uuX0TWHxv
 title: Apartment Vn Law
 desc: ''
-updated: 1642558411701
+updated: 1647480375061
 created: 1630432907101
 ---
 # Reading 2021-08-31
@@ -11,10 +11,10 @@ created: 1630432907101
 
 - Ref: [Luat Duong Gia](https://luatduonggia.vn/chung-cu-so-huu-50-nam-la-gi-phan-biet-voi-chung-cu-so-huu-lau-dai/)
 - Title: Chung cư sở hữu 50 năm là gì? Phân biệt với chung cư sở hữu lâu dài?
-- Author: Nguyễn Văn Dương
-- Year of publication: 2021
+- Author:: Nguyễn Văn Dương
+- Year of publication:: 2021
 - Category: Blog
-- Topic: #topic.investment
+- Topic:: #topic.investment
 
 ## Notes from reading
 

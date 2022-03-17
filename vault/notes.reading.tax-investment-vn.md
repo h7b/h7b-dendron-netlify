@@ -2,7 +2,7 @@
 id: Ianw2EU0MRFDo35bLj3Nk
 title: Tax Investment Vn
 desc: ''
-updated: 1642557536206
+updated: 1647480323330
 created: 1626043266714
 ---
 # Reading 2021-07-12
@@ -11,8 +11,8 @@ created: 1626043266714
 
 - Ref: [ETF VINACAPITAL VN100 – Báo cáo tài chính kiểm toán năm 2020 - p.33](https://wm.vinacapital.com/wp-content/uploads/sites/12/2021/03/20210330-fuevn100-bao-cao-tai-chinh-kiem-toan-nam-2020.pdf#page=33), [vesaf-ban-cao-bach-20210526 - p.30 - chính sánh thuế](https://wm.vinacapital.com/wp-content/uploads/sites/12/2021/05/vesaf-ban-cao-bach-sua-doi-bo-sung-26052021-reduce.pdf#page=30)
 - Title: Chính sách Thuế và thuế suất áp dụng cho nhà đầu tư tại thị trường Vietnam
-- Author: 
-- Year of publication: 
+- Author:: 
+- Year of publication:: 
 - Category: 
 - Topic: #topic.investment
 

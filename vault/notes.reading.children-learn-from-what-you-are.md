@@ -2,7 +2,7 @@
 id: jWG7Gjl6IYFyYW38694Lq
 title: Children Learn from What You Are
 desc: ''
-updated: 1642469131030
+updated: 1647480375054
 created: 1639438477789
 ---
 # Reading 2021-12-14
@@ -11,10 +11,10 @@ created: 1639438477789
 
 - Ref: [Christy Le](https://www.facebook.com/ledktrang/posts/10166075821440245)
 - Title: Lựa chọn của con
-- Author: Christy Le
-- Year of publication: 2021
+- Author:: Christy Le
+- Year of publication:: 2021
 - Category: Blog
-- Topic: 
+- Topic:: 
 
 ## Notes from reading
 

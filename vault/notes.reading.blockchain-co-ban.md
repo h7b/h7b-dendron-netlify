@@ -2,7 +2,7 @@
 id: EUx0H0srJlqJ0ZQBFvjCp
 title: Blockchain Co Ban
 desc: ''
-updated: 1642469152583
+updated: 1647480375056
 created: 1638053914069
 ---
 # Reading 2021-11-27
@@ -11,10 +11,10 @@ created: 1638053914069
 
 - Ref: [j2team](https://www.facebook.com/groups/j2team.community/permalink/1715076758824437/), [pdf version](https://app.box.com/s/c83dxlec2svs8k3dfqottmtdiinaaset)
 - Title: Blockchain cơ bản
-- Author: Việt Trần
-- Year of publication: 2021
-- Category: Blog
-- Topic: #topic.cryptoAsset
+- Author:: Việt Trần
+- Year of publication:: 2021
+- Category:: Blog
+- Topic:: #topic.cryptoAsset
 
 ## Notes from reading
 

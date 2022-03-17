@@ -2,7 +2,7 @@
 id: wFQa92ldJjdtEGUR
 title: Etf Pick En
 desc: ''
-updated: 1642701107950
+updated: 1647480375035
 created: 1626426755261
 ---
 # Reading 2021-07-16
@@ -11,10 +11,10 @@ created: 1626426755261
 
 - Ref: [The Poor Swiss](https://thepoorswiss.com/how-to-choose-index-fund-etf/), [[Sharesight|notes.reading.etf-pick-en.archive-sharesight]], [[Investopedia|notes.reading.etf-pick-en.archive-investopedia]], [[Five-factor ETF Model Portfolio|notes.reading.five-factor-investing-with-ETF]]
 - Title: What to look for when picking ETF and Index Fund
-- Author: 
-- Year of publication: 
+- Author:: 
+- Year of publication:: 
 - Category: Blog
-- Topic: #topic.investment
+- Topic:: #topic.investment
 
 ## Notes from reading
 

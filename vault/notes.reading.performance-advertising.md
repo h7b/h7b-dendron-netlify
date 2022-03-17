@@ -2,7 +2,7 @@
 id: YkYwteJAVA8RHTFl2crRy
 title: Performance Advertising
 desc: ''
-updated: 1642472441286
+updated: 1647480323349
 created: 1634151546563
 ---
 # Reading 2021-10-13
@@ -11,8 +11,8 @@ created: 1634151546563
 
 - Ref: [SparkToro](https://sparktoro.com/blog/what-if-performance-advertising-is-just-an-analytics-scam/)
 - Title: What If Performance Advertising Is Just an Analytics Scam?
-- Author: Rand Fishkin
-- Year of publication: 2021
+- Author:: Rand Fishkin
+- Year of publication:: 2021
 - Category: Blog
 - Topic: 
 

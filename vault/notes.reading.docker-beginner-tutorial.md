@@ -2,7 +2,7 @@
 id: bdELoEDysZjKpAFODYi3L
 title: Docker Beginner Tutorial
 desc: ''
-updated: 1642903727651
+updated: 1647480375041
 created: 1642903145544
 ---
 # Reading 2022-01-23
@@ -11,10 +11,10 @@ created: 1642903145544
 
 - Ref: [Fireship](https://www.youtube.com/watch?v=gAkwW2tuIqE)
 - Title: Learn Docker in 7 Easy Steps - Full Beginner's Tutorial
-- Author: [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
-- Year of publication: 2020
-- Category: Blog
-- Topic: 
+- Author:: [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
+- Year of publication:: 2020
+- Category:: Blog
+- Topic:: 
 - Related: [freeCodeCamp](https://www.freecodecamp.org/news/what-is-docker-used-for-a-docker-container-tutorial-for-beginners/)
 
 ## Notes from reading

@@ -2,7 +2,7 @@
 id: 0gZxNRc2LfiFYnlpgnvBM
 title: Noble Prize Econ 2021
 desc: ''
-updated: 1642471892629
+updated: 1647480374996
 created: 1634940134350
 ---
 # Reading 2021-10-23
@@ -11,10 +11,10 @@ created: 1634940134350
 
 - Ref: [Stake's blog](https://hellostake.com/au/blog/the-wrap/nobel-prize)
 - Title: Nobel Prize in Economics 2021
-- Author: Stake
-- Year of publication: 2021
+- Author:: Stake
+- Year of publication:: 2021
 - Category: Blog
-- Topic: 
+- Topic:: 
 
 ## Notes from reading
 

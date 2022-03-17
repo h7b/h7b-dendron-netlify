@@ -2,7 +2,7 @@
 id: iioUoDqanSIMiwhvzF7R8
 title: Gartner Hype Cycle
 desc: ''
-updated: 1643067310008
+updated: 1647480323391
 created: 1643066656305
 ---
 # Reading 2022-01-25
@@ -11,8 +11,8 @@ created: 1643066656305
 
 - Ref: [Gartner](https://www.gartner.com/en/documents/3887767/understanding-gartner-s-hype-cycles)
 - Title: Understanding Gartner’s Hype Cycles
-- Author: Marcus Blosch & Jackie Fenn
-- Year of publication: 2018
+- Author:: Marcus Blosch & Jackie Fenn
+- Year of publication:: 2018
 - Category: Article
 - Topic: 
 

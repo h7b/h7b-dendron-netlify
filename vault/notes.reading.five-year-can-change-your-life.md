@@ -2,7 +2,7 @@
 id: VK7Yot26LwHIF9WP1d2fP
 title: Five Year Can Change Your Life
 desc: ''
-updated: 1643155528495
+updated: 1647480375023
 created: 1643155127543
 ---
 # Reading 2022-01-26
@@ -11,10 +11,10 @@ created: 1643155127543
 
 - Ref: [Of Dollars and Data](https://ofdollarsanddata.com/just-five-years-can-change-your-life/)
 - Title: Just 5 Years Can Change Your Life
-- Author: Nick Maggiulli
-- Year of publication: 2021
+- Author:: Nick Maggiulli
+- Year of publication:: 2021
 - Category: Blog
-- Topic: 
+- Topic:: 
 
 ## Notes from reading
 

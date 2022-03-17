@@ -2,7 +2,7 @@
 id: hJbS6SNCGHVlvmQ4BX4IL
 title: Argentina Inflation
 desc: ''
-updated: 1643336431463
+updated: 1647480323464
 created: 1643334526236
 ---
 # Reading 2022-01-28
@@ -11,8 +11,8 @@ created: 1643334526236
 
 - Ref: [Washington Post](https://www.washingtonpost.com/world/2022/01/27/argentina-inflation-strategy-tactics/), [Hacker News](https://news.ycombinator.com/item?id=30101512)
 - Title: Worried about inflation? In Argentina, it’s a way of life
-- Author: David Feliba
-- Year of publication: 2022
+- Author:: David Feliba
+- Year of publication:: 2022
 - Category: News
 - Topic: 
 

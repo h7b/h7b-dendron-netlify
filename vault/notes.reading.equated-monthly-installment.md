@@ -2,7 +2,7 @@
 id: 1y0IwagaVuF7dVVhpNOoB
 title: Equated monthly installment
 desc: ''
-updated: 1642554260706
+updated: 1647480375038
 created: 1625608785411
 ---
 # Reading 2021-07-06
@@ -11,10 +11,10 @@ created: 1625608785411
 
 - Ref: [Corporate Finance Institute](https://corporatefinanceinstitute.com/resources/knowledge/credit/equated-monthly-installment-emi/)
 - Title: What is an Equated Monthly Installment (EMI)?
-- Author: 
-- Year of publication: 
+- Author:: 
+- Year of publication:: 
 - Category: Blog
-- Topic: 
+- Topic:: 
 
 ## Notes from reading
 

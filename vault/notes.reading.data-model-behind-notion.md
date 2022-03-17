@@ -2,7 +2,7 @@
 id: A34E5ysMVVDmygigYomiU
 title: Data Model behind Notion
 desc: ''
-updated: 1644497062145
+updated: 1647480375046
 created: 1644496858779
 ---
 # Reading 2022-02-10
@@ -11,10 +11,10 @@ created: 1644496858779
 
 - Ref: [Notion blog](https://www.notion.so/blog/data-model-behind-notion)
 - Title: The data model behind Notion's flexibility
-- Author: Jake Teton-Landis
-- Year of publication: 2021
+- Author:: Jake Teton-Landis
+- Year of publication:: 2021
 - Category: Blog
-- Topic: 
+- Topic:: 
 
 ## Notes from reading
 

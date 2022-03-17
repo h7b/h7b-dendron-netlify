@@ -2,7 +2,7 @@
 id: Ae3fbqLjqok3dJYj1XyV0
 title: Tim Keller Growing My Faith Face Death
 desc: ''
-updated: 1642472925773
+updated: 1647480374968
 created: 1638751395624
 ---
 # Reading 2021-12-06
@@ -11,10 +11,10 @@ created: 1638751395624
 
 - Ref: [The Atlantic](https://www.theatlantic.com/ideas/archive/2021/03/tim-keller-growing-my-faith-face-death/618219/)
 - Title: Growing My Faith in the Face of Death
-- Author: Timothy Keller
-- Year of publication: 2021
+- Author:: Timothy Keller
+- Year of publication:: 2021
 - Category: Blog
-- Topic: 
+- Topic:: 
 
 ## Notes from reading
 

@@ -2,7 +2,7 @@
 id: XthkB1AsPM7qr4db9Rvoc
 title: How to Evaluate a Stock
 desc: ''
-updated: 1647319689082
+updated: 1647480375011
 created: 1640656438112
 ---
 # Reading 2021-12-28
@@ -11,10 +11,10 @@ created: 1640656438112
 
 - Ref: [Sharesight](https://www.sharesight.com/blog/how-to-evaluate-a-stock/)
 - Title: How to evaluate a stock
-- Author: Angela Thompson
-- Year of publication: 2021
+- Author:: Angela Thompson
+- Year of publication:: 2021
 - Category: Blog
-- Topic: #topic.investment
+- Topic:: #topic.investment
 
 ## Notes from reading
 

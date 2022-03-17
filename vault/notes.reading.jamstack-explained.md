@@ -2,7 +2,7 @@
 id: NSnjhCH401CLXJvO0DisT
 title: Jamstack Explained
 desc: ''
-updated: 1642471025133
+updated: 1647480375006
 created: 1640897664704
 ---
 # Reading 2021-12-30
@@ -11,10 +11,10 @@ created: 1640897664704
 
 - Ref: [bejamas](https://bejamas.io/blog/jamstack/)
 - Title: Jamstack Explained
-- Author: Denis Kostrzewa
-- Year of publication: 2020
+- Author:: Denis Kostrzewa
+- Year of publication:: 2020
 - Category: Blog
-- Topic:  
+- Topic::  
 
 ## Notes from reading
 

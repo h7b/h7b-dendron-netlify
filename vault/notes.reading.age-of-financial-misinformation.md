@@ -2,7 +2,7 @@
 id: lAJDAf066lCDB6ezEiJYO
 title: Age of Financial Misinformation
 desc: ''
-updated: 1643156445168
+updated: 1647480375064
 created: 1643155585741
 ---
 # Reading 2022-01-26
@@ -11,10 +11,10 @@ created: 1643155585741
 
 - Ref: [Of Dollars and Data](https://ofdollarsanddata.com/the-age-of-financial-misinformation/)
 - Title: The Age of Financial Misinformation
-- Author: Nick Maggiulli
-- Year of publication: 2021
+- Author:: Nick Maggiulli
+- Year of publication:: 2021
 - Category: Blog
-- Topic: 
+- Topic:: 
 
 ## Notes from reading
 

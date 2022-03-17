@@ -2,7 +2,7 @@
 id: Vese3Oj829a1KGii28oXF
 title: Forced Entrepreneurs Hacamo Kleiner
 desc: ''
-updated: 1642470051528
+updated: 1647480375023
 created: 1637314369097
 ---
 # Reading 2021-11-19
@@ -11,10 +11,10 @@ created: 1637314369097
 
 - Ref: [pdf](https://hecspringfinance.github.io/HacamoKleiner_ForcedEntrepreneurs.pdf)
 - Title: Forced Entrepreneurs
-- Author: Isaac Hacamo & Kristoph Kleiner
-- Year of publication: 2020
+- Author:: Isaac Hacamo & Kristoph Kleiner
+- Year of publication:: 2020
 - Category: Article
-- Topic: 
+- Topic:: 
 
 ## Notes from reading
 

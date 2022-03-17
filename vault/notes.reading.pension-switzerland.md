@@ -2,7 +2,7 @@
 id: j3T09UpsjoDdi6t6Z3lKB
 title: Pension Switzerland
 desc: ''
-updated: 1642472278383
+updated: 1647480374992
 created: 1633040539998
 ---
 # Reading 2021-10-01
@@ -11,10 +11,10 @@ created: 1633040539998
 
 - Ref: [thepoorswiss.com](https://thepoorswiss.com/three-pillars-retirement-switzerland/)
 - Title: The Three Pillars of Retirement in Switzerland
-- Author: Baptiste Wicht
-- Year of publication: 2021
-- Category: Blog
-- Topic: 
+- Author:: Baptiste Wicht
+- Year of publication:: 2021
+- Category:: Blog
+- Topic:: 
 
 ## Notes from reading
 

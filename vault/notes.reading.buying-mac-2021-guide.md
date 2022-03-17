@@ -2,7 +2,7 @@
 id: FZ7lxt7vfqUGWXKApLmT3
 title: Buying Mac 2021 Guide
 desc: ''
-updated: 1643685446847
+updated: 1647480375053
 created: 1643684330929
 ---
 # Reading 2022-02-01
@@ -11,10 +11,10 @@ created: 1643684330929
 
 - Ref: [Dave2D](https://www.youtube.com/watch?v=p2PpqZeMkSs)
 - Title: Buying a MacBook in 2021 is VERY Different
-- Author: [Dave2D](https://www.youtube.com/channel/UCVYamHliCI9rw1tHR1xbkfw) 
-- Year of publication: 2021 
+- Author:: [Dave2D](https://www.youtube.com/channel/UCVYamHliCI9rw1tHR1xbkfw) 
+- Year of publication:: 2021 
 - Category: Blog
-- Topic: 
+- Topic:: 
 
 ## Notes from reading
 

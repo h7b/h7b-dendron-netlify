@@ -2,7 +2,7 @@
 id: MXh2EKQomVbG7wP96SQld
 title: Accounting Basics
 desc: ''
-updated: 1645833274435
+updated: 1647480323472
 created: 1644707675560
 ---
 # Reading 2022-02-13
@@ -11,8 +11,8 @@ created: 1644707675560
 
 - Ref: [ACCOUNTING BASICS: Debits and Credits Explained](https://www.youtube.com/watch?v=VhwZ9t2b3Zk)
 - Title: ACCOUNTING BASICS: Debits and Credits Explained
-- Author: [Accounting Stuff](https://www.youtube.com/channel/UCYJLdSmyKoXCbnd-pklMn5Q)
-- Year of publication: 2018
+- Author:: [Accounting Stuff](https://www.youtube.com/channel/UCYJLdSmyKoXCbnd-pklMn5Q)
+- Year of publication:: 2018
 - Category: Blog
 - Topic: 
 - Related: 

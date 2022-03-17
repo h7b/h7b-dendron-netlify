@@ -2,7 +2,7 @@
 id: OyjLhFTcAMSfmbiNN89Yp
 title: Opensea Insider Fraud
 desc: ''
-updated: 1642472068481
+updated: 1647480323352
 created: 1633303917717
 ---
 # Reading 2021-10-04
@@ -11,8 +11,8 @@ created: 1633303917717
 
 - Ref: [Hacker News](https://news.ycombinator.com/item?id=28544009)
 - Title: OpenSea Product Chief accused of fraud with NFT trading
-- Author: 
-- Year of publication: 2021
+- Author:: 
+- Year of publication:: 2021
 - Category: News
 - Topic: #topic.cryptoAsset
 

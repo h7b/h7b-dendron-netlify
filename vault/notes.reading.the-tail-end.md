@@ -2,7 +2,7 @@
 id: KvwSHkmob5lFYcfAv2jWJ
 title: The Tail End
 desc: ''
-updated: 1645133798227
+updated: 1647480374976
 created: 1645132619744
 ---
 # Reading 2022-02-17
@@ -11,10 +11,10 @@ created: 1645132619744
 
 - Ref: [Wait But Why](https://waitbutwhy.com/2015/12/the-tail-end.html)
 - Title: The Tail End
-- Author: Tim Urban
-- Year of publication: 2015
-- Category: Blog
-- Topic: 
+- Author:: Tim Urban
+- Year of publication:: 2015
+- Category:: Blog
+- Topic:: 
 
 ## Notes from reading
 

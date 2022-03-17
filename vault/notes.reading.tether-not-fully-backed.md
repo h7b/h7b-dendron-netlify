@@ -2,7 +2,7 @@
 id: mb7GxKXU6J8jFhpmgGvXG
 title: Tether Not Fully Backed
 desc: ''
-updated: 1642472832550
+updated: 1647480374977
 created: 1640657260105
 ---
 # Reading 2021-12-28
@@ -11,10 +11,10 @@ created: 1640657260105
 
 - Ref: [Financial Times](https://www.ft.com/content/529eb4e6-796a-4e81-8064-5967bbe3b4d9), [[archived version|notes.reading.tether-not-fully-backed.archive]]
 - Title: Tether says its reserves are backed by cash to the tune of 2.9%
-- Author: Jemima Kelly
-- Year of publication: 2021
+- Author:: Jemima Kelly
+- Year of publication:: 2021
 - Category: News
-- Topic: #topic.cryptoAsset
+- Topic:: #topic.cryptoAsset
 
 ## Notes from reading
 

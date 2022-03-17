@@ -2,7 +2,7 @@
 id: m6Vl5Epc2AeNsg3RnqglN
 title: Trading Business
 desc: ''
-updated: 1643182682888
+updated: 1647480323310
 created: 1643181645736
 ---
 # Reading 2022-01-26
@@ -11,8 +11,8 @@ created: 1643181645736
 
 - Ref: [Analyzing Alpha](https://analyzingalpha.com/trading-business)
 - Title: Trading as a Business: The Complete Guide
-- Author: Leo Smigel
-- Year of publication: 2022
+- Author:: Leo Smigel
+- Year of publication:: 2022
 - Category: Blog
 - Topic: 
 

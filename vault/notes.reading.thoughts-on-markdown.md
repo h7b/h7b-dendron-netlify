@@ -2,7 +2,7 @@
 id: jxv1ptNuKOtO6aUhTFCGt
 title: Thoughts on Markdown
 desc: ''
-updated: 1646781594307
+updated: 1647480374975
 created: 1645557747998
 ---
 # Reading 2022-02-22
@@ -11,10 +11,10 @@ created: 1645557747998
 
 - Ref: [Smashing Magazine](https://www.smashingmagazine.com/2022/02/thoughts-on-markdown/)
 - Title: Thoughts On Markdown
-- Author: Knut Melvær
-- Year of publication: 2022
+- Author:: Knut Melvær
+- Year of publication:: 2022
 - Category: Blog
-- Topic:
+- Topic::
 - Related:
   - [Hacker News | Thoughts On Markdown](https://news.ycombinator.com/item?id=30395130)
   - [Hacker News | Compare AsciiDoc to Markdown](https://news.ycombinator.com/item?id=27744509)

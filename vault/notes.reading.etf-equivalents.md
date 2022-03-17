@@ -2,7 +2,7 @@
 id: U2WPgBsWnjZEipj7ZBwzb
 title: Etf Equivalents
 desc: ''
-updated: 1642558820681
+updated: 1647480323418
 created: 1635729436943
 ---
 # Reading 2021-11-01
@@ -11,8 +11,8 @@ created: 1635729436943
 
 - Ref: [sharesight](https://www.sharesight.com/blog/open-ended-investment-company-oeic-explained/), [barclays](https://www.barclays.co.uk/smart-investor/investments-explained/funds-etfs-and-investment-trusts/whats-the-difference-between-an-etf-and-a-tracker-fund/)
 - Title: ETFs and the other pooled investment vehicles
-- Author: 
-- Year of publication: 2021
+- Author:: 
+- Year of publication:: 2021
 - Category: Blog
 - Topic: #topic.investment
 

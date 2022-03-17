@@ -2,7 +2,7 @@
 id: g6GdWOPn5kTGhW0ziK2oo
 title: Publish Notion
 desc: ''
-updated: 1646869396058
+updated: 1647481930787
 created: 1635966805057
 ---
 # Publish notes with Notion as CMS
@@ -24,6 +24,7 @@ created: 1635966805057
 
 ### [Fruition](https://fruitionsite.com/)  
 - Pricing: free
+- Find more free and paid templates to customize Fruition-based site at [Fruition Plus](https://fruitionplus.com/)
 - Cons: the possibility for anyone to host content on your URL (read more at [here](https://super.so/guides/fruition))
 
 ### Next.js Notion Starter Kit (aka Notion2site)  

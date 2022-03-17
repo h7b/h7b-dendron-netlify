@@ -2,7 +2,7 @@
 id: ReEuVvKV8REsTFx5e54iu
 title: Retirement Target
 desc: ''
-updated: 1642556337372
+updated: 1647480374988
 created: 1635906141112
 ---
 # Reading 2021-11-03
@@ -11,10 +11,10 @@ created: 1635906141112
 
 - Ref: [[Investing Made Simple|notes.reading.investing-made-simple]]
 - Title: Retirement target
-- Author: Mike Piper
-- Year of publication: 2018
+- Author:: Mike Piper
+- Year of publication:: 2018
 - Category: Book
-- Topic: #topic.investment
+- Topic:: #topic.investment
 
 ## Notes from reading
 

@@ -2,7 +2,7 @@
 id: IgzRtMZeUa7htWo5VKBE3
 title: Etf Tax Consideration
 desc: ''
-updated: 1642701145854
+updated: 1647480375033
 created: 1635727808386
 ---
 # Reading 2021-11-01
@@ -11,10 +11,10 @@ created: 1635727808386
 
 - Ref: [sharesight](https://www.sharesight.com/blog/how-to-track-exchange-traded-funds-etfs/)
 - Title: ETF tax considerations
-- Author: David Olsen
-- Year of publication: 2021
+- Author:: David Olsen
+- Year of publication:: 2021
 - Category: Blog
-- Topic: #topic.investment
+- Topic:: #topic.investment
 
 ## Notes from reading
 

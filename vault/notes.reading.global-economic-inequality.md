@@ -2,7 +2,7 @@
 id: 7SXwZAmiFmuJ881CSX71d
 title: Global Economic Inequality
 desc: ''
-updated: 1642470292424
+updated: 1647480375019
 created: 1640610027767
 ---
 # Reading 2021-12-27
@@ -11,10 +11,10 @@ created: 1640610027767
 
 - Ref: [Our World in Data](https://ourworldindata.org/global-economic-inequality-introduction)
 - Title: Global economic inequality: what matters most for your living conditions is not who you are, but where you are
-- Author: Max Roser
-- Year of publication: 2021
+- Author:: Max Roser
+- Year of publication:: 2021
 - Category: Blog
-- Topic: 
+- Topic:: 
 
 ## Notes from reading
 

@@ -2,7 +2,7 @@
 id: vT2qWgZBlOuS4VTn1OuJP
 title: NFT Current Viewpoint
 desc: ''
-updated: 1642544161029
+updated: 1647480323362
 created: 1633304407688
 ---
 # Reading 2021-10-04
@@ -11,8 +11,8 @@ created: 1633304407688
 
 - Ref: [Hacker News](https://news.ycombinator.com/item?id=28640636), [Huu Nguyen | fb](https://www.facebook.com/nhtuat/posts/10158248990824249), [Huu Nguyen | fb](https://www.facebook.com/nhtuat/posts/10158256014649249)
 - Title: Some current point of view from community about NFT and crypto
-- Author: 
-- Year of publication: 2021
+- Author:: 
+- Year of publication:: 2021
 - Category: Blog
 - Topic: #topic.cryptoAsset
 
