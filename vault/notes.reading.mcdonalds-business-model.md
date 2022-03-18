@@ -2,18 +2,18 @@
 id: hBJk6tsgMByZBUC8VXCGM
 title: Mcdonalds Business Model
 desc: ''
-updated: 1647480375002
+updated: 1647564055945
 created: 1633475468901
 ---
 # Reading 2021-10-06
 
 ## Metadata
 
-- Ref: [PolyMatter](https://www.youtube.com/watch?v=kJVj3vp-lho)
-- Title: How McDonald's Really Makes Money
+- Ref:: [PolyMatter](https://www.youtube.com/watch?v=kJVj3vp-lho)
+- Title:: How McDonald's Really Makes Money
 - Author:: PolyMatter
 - Year of publication:: 2020 
-- Category: Blog
+- Category:: Blog
 - Topic:: 
 
 ## Notes from reading

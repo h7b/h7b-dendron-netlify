@@ -2,20 +2,20 @@
 id: 15bWHoRShr3stqyDp3YAu
 title: Nha Dau Tu Ca Nhan Chuyen Nghiep
 desc: ''
-updated: 1647480374997
+updated: 1647564143070
 created: 1637316624926
 ---
 # Reading 2021-11-19
 
 ## Metadata
 
-- Ref: [[Nghị định 153/2020/NĐ-CP|notes.archives.gov-docs-vietnam.153-2020-nd-cp]]
-- Title: Thế nào là nhà đầu tư cá nhân chuyên nghiệp?
+- Ref:: [[Nghị định 153/2020/NĐ-CP|notes.archives.gov-docs-vietnam.153-2020-nd-cp]]
+- Title:: Thế nào là nhà đầu tư cá nhân chuyên nghiệp?
 - Author:: 
 - Year of publication:: 2020
-- Category: Government publication
+- Category:: Government publication
 - Topic:: #topic.investment
-- Related: [Investopedia](https://www.investopedia.com/terms/a/accreditedinvestor.asp)
+- Related:: [Investopedia](https://www.investopedia.com/terms/a/accreditedinvestor.asp)
 
 ## Notes from reading
 

@@ -2,20 +2,20 @@
 id: r1SEkbHOUE3EWKkd3cRWE
 title: UBS Buy Wealthfront
 desc: ''
-updated: 1647480323308
+updated: 1647565681097
 created: 1643249308181
 ---
 # Reading 2022-01-27
 
 ## Metadata
 
-- Ref: [Reuters](https://www.reuters.com/business/finance/ubs-buy-us-wealth-management-specialist-wealthfront-14-bln-2022-01-26/), [Hacker News](https://news.ycombinator.com/item?id=30088446)
-- Title: UBS Acquires Wealthfront for $1.4B
+- Ref:: [Reuters](https://www.reuters.com/business/finance/ubs-buy-us-wealth-management-specialist-wealthfront-14-bln-2022-01-26/), [Hacker News](https://news.ycombinator.com/item?id=30088446)
+- Title:: UBS Acquires Wealthfront for $1.4B
 - Author:: Michael Shields
 - Year of publication:: 2022
-- Category: News
-- Topic: #topic.investment
-- Related: 
+- Category:: News
+- Topic:: #topic.investment
+- Related:: 
   - [Vanguard | Target Retirement Funds](https://investor.vanguard.com/investment-products/mutual-funds/target-retirement-funds)
   - [Kubera | Track, manage, and secure all of your financial accounts in one place](https://www.kubera.com/)
   - [Tax-Loss Harvesting methodology](https://support.wealthfront.com/hc/en-us/articles/209348486-Tax-Loss-Harvesting)

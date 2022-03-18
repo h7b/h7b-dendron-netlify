@@ -2,19 +2,19 @@
 id: EklVZEWCcqXZsQ8Y
 title: MSCI Market Classification
 desc: ''
-updated: 1647480375000
+updated: 1647564088603
 created: 1626428623180
 ---
 # Reading 2021-07-16
 
 ## Metadata
 
-- Ref: [MSCI](https://www.msci.com/market-classification)
-- Title: Results of the MSCI 2021 global market accessibility review
+- Ref:: [MSCI](https://www.msci.com/market-classification)
+- Title:: Results of the MSCI 2021 global market accessibility review
 - Author:: MSCI
 - Year of publication:: 2021
-- Category: News
-- Topic:: 
+- Category:: News
+- Topic:: #topic.investment
 
 ## Notes from reading
 

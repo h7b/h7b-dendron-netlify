@@ -2,18 +2,18 @@
 id: cocke093qns495cpr4pojx9
 title: The Fed released a paper outlining pros and cons of a digital dollar
 desc: ''
-updated: 1647480323429
+updated: 1647563392564
 created: 1646696163539
 ---
 # Reading 2022-03-08
 
 ## Metadata
 
-- Ref: [Fed](https://www.federalreserve.gov/publications/january-2022-cbdc.htm)
-- Title: Money and Payments: The U.S. Dollar in the Age of Digital Transformation
+- Ref:: [Fed](https://www.federalreserve.gov/publications/january-2022-cbdc.htm)
+- Title:: Money and Payments: The U.S. Dollar in the Age of Digital Transformation
 - Author:: the Fed
 - Year of publication:: 2022
-- Category: 
+- Category:: News 
 - Topic: #topic.cryptoAsset
 - Related: 
   - [Hacker News | 	The Fed released a paper outlining pros and cons of a “digital dollar”](https://news.ycombinator.com/item?id=30592684)

@@ -2,20 +2,20 @@
 id: Teb0KpmGbtK8Vmn9vxg3x
 title: Google Workspace Essentials Starter
 desc: ''
-updated: 1647480375017
+updated: 1647563783598
 created: 1645012433529
 ---
 # Reading 2022-02-16
 
 ## Metadata
 
-- Ref: [Google Cloud](https://cloud.google.com/blog/products/workspace/unlock-collaboration-with-google-workspace-essentials)
-- Title: Unlock collaboration with Google Workspace Essentials
+- Ref:: [Google Cloud](https://cloud.google.com/blog/products/workspace/unlock-collaboration-with-google-workspace-essentials)
+- Title:: Unlock collaboration with Google Workspace Essentials
 - Author:: Kelly Waldher
 - Year of publication:: 2022
-- Category: News
+- Category:: News
 - Topic:: 
-- Related: [Techcrunch](https://techcrunch.com/2022/02/03/google-workspace-goes-all-in-on-shadow-it/) 
+- Related:: [Techcrunch](https://techcrunch.com/2022/02/03/google-workspace-goes-all-in-on-shadow-it/) 
 
 ## Notes from reading
 

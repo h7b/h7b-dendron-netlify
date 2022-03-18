@@ -2,18 +2,18 @@
 id: oLrSGOx3NVOOMC8VftQN2
 title: Dual Momentum Crypto Trading Strategy
 desc: ''
-updated: 1647480375039
+updated: 1647563458913
 created: 1640654073377
 ---
 # Reading 2021-12-28
 
 ## Metadata
 
-- Ref: [Finimize](https://subscriptions.finimize.com/content/Q29udGVudFBpZWNlOjM4ODM=/how-ride-best-performing-crypto-best-performing-crypto-sectors), [[archived version|notes.reading.dual-momentum-crypto-trading-strategy.archive]]
-- Title: How To Ride The Best-Performing Crypto In The Best-Performing Crypto Sectors
+- Ref:: [Finimize](https://subscriptions.finimize.com/content/Q29udGVudFBpZWNlOjM4ODM=/how-ride-best-performing-crypto-best-performing-crypto-sectors), [[archived version|notes.reading.dual-momentum-crypto-trading-strategy.archive]]
+- Title:: How To Ride The Best-Performing Crypto In The Best-Performing Crypto Sectors
 - Author:: Reda Farran
 - Year of publication:: 2021
-- Category: Blog
+- Category:: Blog
 - Topic:: #topic.cryptoAsset
 
 ## Notes from reading

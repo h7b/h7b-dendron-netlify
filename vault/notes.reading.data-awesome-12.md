@@ -2,15 +2,15 @@
 id: oZ63dGTYFQmaBpNKHRqb7
 title: Data Awesome 12
 desc: ''
-updated: 1647480375047
+updated: 1647563358840
 created: 1642988473357
 ---
 # Reading 2022-01-24
 
 ## Metadata
 
-- Ref: [Data Awesome](https://dataawesome.substack.com/p/data-awesome-12)
-- Title: Data Awesome #12
+- Ref:: [Data Awesome](https://dataawesome.substack.com/p/data-awesome-12)
+- Title:: Data Awesome #12
 - Author:: Jeff Hale
 - Year of publication:: 2021
 - Category:: Blog

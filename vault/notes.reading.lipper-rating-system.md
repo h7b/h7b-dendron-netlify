@@ -2,19 +2,19 @@
 id: 519dWN6lTQHe5yyb
 title: Lipper Rating System
 desc: ''
-updated: 1647480375003
+updated: 1647564037398
 created: 1626427988627
 ---
 # Reading 2021-07-16
 
 ## Metadata
 
-- Ref: [Investopedia](https://www.investopedia.com/articles/investing/091015/lipper-rating-system-explained.asp)
-- Title: The Lipper Rating System Explained
+- Ref:: [Investopedia](https://www.investopedia.com/articles/investing/091015/lipper-rating-system-explained.asp)
+- Title:: The Lipper Rating System Explained
 - Author:: Sean Ross
 - Year of publication:: 2019
-- Category: Blog
-- Topic:: 
+- Category:: Blog
+- Topic:: #topic.investment
 
 ## Notes from reading
 

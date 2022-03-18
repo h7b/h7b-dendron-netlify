@@ -2,18 +2,18 @@
 id: z9xuo6to5rgHrs1kQn3IC
 title: Devanney on the Nuclear Flop
 desc: ''
-updated: 1647480375045
+updated: 1647563380157
 created: 1638052501425
 ---
 # Reading 2021-11-27
 
 ## Metadata
 
-- Ref: [The Roots of Progress](https://rootsofprogress.org/devanney-on-the-nuclear-flop)
-- Title: Why has nuclear power been a flop?
+- Ref:: [The Roots of Progress](https://rootsofprogress.org/devanney-on-the-nuclear-flop)
+- Title:: Why has nuclear power been a flop?
 - Author:: The Roots of Progress
 - Year of publication:: 2021
-- Category: Blog
+- Category:: Blog
 - Topic:: 
 
 ## Notes from reading

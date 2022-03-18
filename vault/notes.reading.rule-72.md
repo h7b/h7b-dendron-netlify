@@ -2,15 +2,15 @@
 id: fE5ZVnZJa2A2blA8iGrKO
 title: Rule 72
 desc: ''
-updated: 1647480374987
+updated: 1647564289209
 created: 1628896223126
 ---
 # Reading 2021-08-14
 
 ## Metadata
 
-- Ref: [Interactive Mathematics](https://www.intmath.com/money-math/rule-of-72.php)
-- Title: Rule of 72
+- Ref:: [Interactive Mathematics](https://www.intmath.com/money-math/rule-of-72.php)
+- Title:: Rule of 72
 - Author:: 
 - Year of publication:: 2018
 - Category:: 

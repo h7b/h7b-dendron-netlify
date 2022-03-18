@@ -2,20 +2,20 @@
 id: g4VBHczgaAzqplNAGm1mu
 title: Working in VR
 desc: ''
-updated: 1647480374949
+updated: 1647565840531
 created: 1642633192671
 ---
 # Reading 2022-01-19
 
 ## Metadata
 
-- Ref: [Wired](https://www.wired.com/story/hours-working-vr-tips/), [Hacker News](https://news.ycombinator.com/item?id=29978036)
-- Title: I Spent Hundreds of Hours Working in VR. Here’s What I Learned
+- Ref:: [Wired](https://www.wired.com/story/hours-working-vr-tips/), [Hacker News](https://news.ycombinator.com/item?id=29978036)
+- Title:: I Spent Hundreds of Hours Working in VR. Here’s What I Learned
 - Author:: Ben Klemens
 - Year of publication:: 2022
-- Category: Blog
+- Category:: Blog
 - Topic:: 
-- Related: [Immersed Blog](https://blog.immersed.team/working-from-orbit-39bf95a6d385), [Hacker News](https://news.ycombinator.com/item?id=28678041), [reddit](https://www.reddit.com/r/Vive/comments/r1kfd7/does_anyone_else_work_in_vr_like_me/), [Nicole Valentine](https://medium.com/@nicoleva/writing-on-the-holodeck-1477677c4191), [Unscripted Coding](https://youtu.be/K2lUYm3TT-A), [Working in VR using Immersed | YouTube](https://youtu.be/4RPjdO68rcs)
+- Related:: [Immersed Blog](https://blog.immersed.team/working-from-orbit-39bf95a6d385), [Hacker News](https://news.ycombinator.com/item?id=28678041), [reddit](https://www.reddit.com/r/Vive/comments/r1kfd7/does_anyone_else_work_in_vr_like_me/), [Nicole Valentine](https://medium.com/@nicoleva/writing-on-the-holodeck-1477677c4191), [Unscripted Coding](https://youtu.be/K2lUYm3TT-A), [Working in VR using Immersed | YouTube](https://youtu.be/4RPjdO68rcs), [Greg Madison | Twitter](https://twitter.com/gregmadison/status/1504109561581432842?s=21)
 
 ## Notes from reading
 

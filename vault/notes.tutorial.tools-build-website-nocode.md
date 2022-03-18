@@ -2,7 +2,7 @@
 id: KE2M6fdHkylIGsY795s7e
 title: Tools Build Website Nocode
 desc: ''
-updated: 1646871663985
+updated: 1647554134499
 created: 1636706914265
 ---
 # Nocode tools to build app and website
@@ -12,16 +12,16 @@ created: 1636706914265
 ### [Bubble](https://bubble.io/)  
 - Launched: 2012
 - [Pricing plan](https://bubble.io/pricing) starts at USD 29/month. Free plan availability with some limits
-- Thoughts: the prominent leader of no-code movement, with largest community and plugin ecosystem.
+- Thoughts: the prominent leader of no-code movement, with the largest community and plugin ecosystem.
 
 ### [Glide](https://www.glideapps.com/)  
 - Founded: 2018  
-- [Pricing plan](https://www.glideapps.com/pricing) starts at USD 32/month. Free plan availability with some limits.  
+- [Pricing plan](https://www.glideapps.com/pricing) starts at USD 32/month. Free plan availability with some limits.
 - Thoughts: build mobile web apps. Turn spreadsheet to apps
 
 ### [AppSheet](https://www.appsheet.com/)  
 - Founded: 2014  
-- [Pricing plan](https://solutions.appsheet.com/pricing) starts at USD 5/month/app-user. Free plan for testing only.  
+- [Pricing plan](https://solutions.appsheet.com/pricing) starts at USD 5/month/app-user. Free plan for testing only.
 - Thoughts: build mobile web apps. Turn spreadsheet to apps
 
 ### [Softr](https://www.softr.io/)  
@@ -31,32 +31,32 @@ created: 1636706914265
 
 ### [Adalo](https://www.adalo.com/)  
 - Founded: 2018  
-- [Pricing plan](https://www.adalo.com/pricing) starts at USD 50/month. With a limited free tier.  
+- [Pricing plan](https://www.adalo.com/pricing) starts at USD 50/month. With a limited free tier.
 - Thoughts: build mobile apps
 
 ### [Stacker](https://www.stackerhq.com/)  
 - Founded: 2017  
-- [Pricing plan](https://www.stackerhq.com/pricing) starts at USD 79/month with 30-day free trial only.  
+- [Pricing plan](https://www.stackerhq.com/pricing) starts at USD 79/month with 30-day free trial only.
 - Thoughts: build website, connecting data stored in Airtable/Google Sheets. Turn spreadsheet to website/app
 
 ### [Bravo studio](https://www.bravostudio.app/)  
 - Founded: 2019  
-- [Pricing plan](https://projects.bravostudio.app/pricing) starts at EUR 19/month, 15-day free trial. With a limited free tier.  
+- [Pricing plan](https://projects.bravostudio.app/pricing) starts at EUR 19/month, 15-day free trial. With a limited free tier.
 - Thoughts: build mobile apps, use in combination with [Figma](https://www.figma.com/)
 
 ### [FlutterFlow](https://flutterflow.io/index.html)  
 - Founded: 2020  
-- [Pricing plan](https://flutterflow.io/pricing.html) starts at USD 30/month. With a limited free tier.  
+- [Pricing plan](https://flutterflow.io/pricing.html) starts at USD 30/month. With a limited free tier.
 - Thoughts: build mobile apps
 
 ### [Draftbit](https://draftbit.com/)  
 - Founded: 2017  
-- [Pricing plan](https://draftbit.com/pricing) starts at USD 19/month, 14-day free trial only.  
+- [Pricing plan](https://draftbit.com/pricing) starts at USD 19/month, 14-day free trial only.
 - Thoughts: build mobile apps
 
 ### [typedream](https://typedream.com/)  
 - Founded: 2021  
-- [Pricing plan](https://typedream.com/pricing) starts at USD 15/month. With a limited free tier.  
+- [Pricing plan](https://typedream.com/pricing) starts at USD 15/month. With a limited free tier.
 - Thoughts: build website with blocks in Notion's style
 
 ### [Jemi](https://jemi.so/)  
@@ -66,7 +66,7 @@ created: 1636706914265
 
 ### [webflow](https://webflow.com/)  
 - Founded: 2012  
-- [Pricing plan](https://webflow.com/pricing) starts at USD 15/month. With a limited free tier.  
+- [Pricing plan](https://webflow.com/pricing) starts at USD 15/month. With a limited free tier
 - Thoughts: website builder for designers
 
 ### [Squarespace](https://www.squarespace.com/)  
@@ -78,8 +78,28 @@ created: 1636706914265
 ### [Weebly](https://www.weebly.com/?lang=en)  
 [Pricing plan](https://www.weebly.com/pricing) starts at EUR 5/month. Limited free tier
 
+### [Appgyver](https://www.appgyver.com/)
+- [Pricing](https://www.appgyver.com/pricing) is currently free
+- 2021, Appgyver is [acquired by SAP](https://blog.appgyver.com/appgyver-joins-sap-2afe2d902645)
+
+### [Wappler](https://wappler.io/)
+- [Pricing](https://wappler.io/pricing/) starts at EUR 19/month. 7-day free trial only, no Free tier
+- Thoughts: 
+  - this is a low code solution for experienced developers
+
 ### [Super](https://super.so/)
 ![[notes.tutorial.notion.publish-notion#super,1:#*]]
+
+### [Frappe](https://frappeframework.com/)
+- open source web framework, written in Python and Javascript, which powers [ERPNext](https://erpnext.com/)
+
+### [Streamlit](https://streamlit.io/)
+- free, open-source, all-python framework to quickly build interactive dashboards and web apps
+
+### [Anvil](https://anvil.works/)
+- Founded: 2015
+- build web apps with Python
+- [Pricing](https://anvil.works/pricing) starts at USD 15/month
 
 ## Integrate membership into website
 
@@ -104,6 +124,7 @@ created: 1636706914265
   - unlimited members
   
 ### [Outseta](https://www.outseta.com/)
+- membership, billing, authentication, crm, help desk
 - [Pricing](https://www.outseta.com/pricing)
   - subscription plan has range from USD 39-99/month
   - transaction fee 1%

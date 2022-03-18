@@ -2,18 +2,18 @@
 id: zVWlyT2Qs8TH7JMB
 title: Bond Funds
 desc: ''
-updated: 1647480375055
+updated: 1647563207244
 created: 1626966954051
 ---
 # Reading 2021-07-22
 
 ## Metadata
 
-- Ref: [The Poor Swiss](https://thepoorswiss.com/bonds-funds/)
-- Title: How do bonds and bond funds work?
+- Ref:: [The Poor Swiss](https://thepoorswiss.com/bonds-funds/)
+- Title:: How do bonds and bond funds work?
 - Author:: Baptiste Wicht
 - Year of publication:: 2021
-- Category: Blog
+- Category:: Blog
 - Topic:: 
 
 ## Notes from reading

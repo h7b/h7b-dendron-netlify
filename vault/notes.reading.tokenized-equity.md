@@ -2,19 +2,20 @@
 id: 80kxZq79ET2QJGySDpp3t
 title: Tokenized Equity
 desc: ''
-updated: 1647480374957
+updated: 1647565639882
 created: 1635538030093
 ---
 # Reading 2021-10-29
 
 ## Metadata
 
-- Ref: [[Forbes|notes.reading.tokenized-equity.archive-forbes]], [Investopedia](https://www.investopedia.com/terms/t/tokenized-equity.asp), [ftx](https://help.ftx.com/hc/en-us/articles/360051229472-Tokenized-Stocks), [[Bloomberg|notes.reading.tokenized-equity.archive-bloomberg]]
-- Title: Tokenized stocks
+- Ref:: [[Forbes|notes.reading.tokenized-equity.archive-forbes]]
+- Title:: Tokenized stocks
 - Author:: 
 - Year of publication:: 2021
-- Category: Blog
+- Category:: Blog
 - Topic:: #topic.cryptoAsset
+- Related:: [Investopedia](https://www.investopedia.com/terms/t/tokenized-equity.asp), [ftx](https://help.ftx.com/hc/en-us/articles/360051229472-Tokenized-Stocks), [[Bloomberg|notes.reading.tokenized-equity.archive-bloomberg]]
 
 ## Notes from reading
 

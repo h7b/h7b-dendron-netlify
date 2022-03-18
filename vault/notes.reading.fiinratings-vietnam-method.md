@@ -2,19 +2,19 @@
 id: AcqXbpGAwr1OMjWW6pLiU
 title: Fiinratings Vietnam Method
 desc: ''
-updated: 1647480375026
+updated: 1647563666127
 created: 1637318827239
 ---
 # Reading 2021-11-19
 
 ## Metadata
 
-- Ref: [[FiinRatings Insight #2|notes.reading.fiinratings-insight-2]]
-- Title: Phương pháp xếp hạng nhà phát hành của FiinRatings
+- Ref:: [[FiinRatings Insight #2|notes.reading.fiinratings-insight-2]]
+- Title:: Phương pháp xếp hạng nhà phát hành của FiinRatings
 - Author:: Khối Dịch vụ Xếp hạng Tín nhiệm (FiinRatings), FiinGroup
 - Year of publication:: 2021
-- Category: Blog
-- Topic:: 
+- Category:: Blog
+- Topic:: #topic.investment
 
 ## Notes from reading
 

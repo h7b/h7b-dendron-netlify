@@ -2,15 +2,15 @@
 id: 62hu4qxm5c6q0uswvdr4x17
 title: Amazon Acquires MGM
 desc: ''
-updated: 1647481497666
+updated: 1647563102875
 created: 1647480470114
 ---
 # Reading 2022-03-17
 
 ## Metadata
 
-- Ref: [Hacker News](https://news.ycombinator.com/item?id=27289924)
-- Title: Amazon acquires MGM for $8.5B [(reuters.com)](https://www.reuters.com/technology/amazon-snaps-up-james-bond-owner-mgm-845-bln-streaming-war-heats-up-2021-05-26/)
+- Ref:: [Hacker News](https://news.ycombinator.com/item?id=27289924)
+- Title:: Amazon acquires MGM for $8.5B [(reuters.com)](https://www.reuters.com/technology/amazon-snaps-up-james-bond-owner-mgm-845-bln-streaming-war-heats-up-2021-05-26/)
 - Author:: Jeffrey Dastin
 - Year of publication:: 2021
 - Category:: News

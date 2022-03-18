@@ -2,19 +2,19 @@
 id: NUcazx6dInJ3TIMsu3sxW
 title: Amazon Price Fixing
 desc: ''
-updated: 1647480323470
+updated: 1647563115731
 created: 1643330244543
 ---
 # Reading 2022-01-28
 
 ## Metadata
 
-- Ref: [Office of the Attorney General - Washington state](https://www.atg.wa.gov/news/news-releases/ag-ferguson-investigation-shuts-down-amazon-price-fixing-program-nationwide), [Hacker News](https://news.ycombinator.com/item?id=30092673)
-- Title: Washington state shuts down Amazon price-fixing program nationwide
+- Ref:: [Office of the Attorney General - Washington state](https://www.atg.wa.gov/news/news-releases/ag-ferguson-investigation-shuts-down-amazon-price-fixing-program-nationwide), [Hacker News](https://news.ycombinator.com/item?id=30092673)
+- Title:: Washington state shuts down Amazon price-fixing program nationwide
 - Author:: The Office of the Attorney General
 - Year of publication:: 2022
-- Category: News
-- Topic: 
+- Category:: News
+- Topic:: 
 
 ## Notes from reading
 

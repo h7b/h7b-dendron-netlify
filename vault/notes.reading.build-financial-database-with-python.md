@@ -2,18 +2,18 @@
 id: 7GDitBrWh8EtejiUqqvJH
 title: Build Financial Data Database with Python
 desc: ''
-updated: 1647480375055
+updated: 1647563216038
 created: 1642738488330
 ---
 # Reading 2022-01-21
 
 ## Metadata
 
-- Ref: [PythonForFinance](https://pythonforfinance.net/2020/10/24/build-a-financial-data-database-with-python/) 
-- Title: Build a Financial Data Database with Python
+- Ref:: [PythonForFinance](https://pythonforfinance.net/2020/10/24/build-a-financial-data-database-with-python/) 
+- Title:: Build a Financial Data Database with Python
 - Author:: Stuart Jamieson
 - Year of publication:: 2020
-- Category: Blog
+- Category:: Blog
 - Topic::
 
 ## Notes from reading

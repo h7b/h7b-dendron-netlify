@@ -2,18 +2,18 @@
 id: U3fGAbDxYAU0gtbgWZuR1
 title: About Gift Cards
 desc: ''
-updated: 1647480375065
+updated: 1647562937287
 created: 1640610965197
 ---
 # Reading 2021-12-27
 
 ## Metadata
 
-- Ref: [Bits about Money](https://bam.kalzumeus.com/archive/more-than-you-want-to-know-about-gift-cards/)
-- Title: More than you want to know about gift cards
+- Ref:: [Bits about Money](https://bam.kalzumeus.com/archive/more-than-you-want-to-know-about-gift-cards/)
+- Title:: More than you want to know about gift cards
 - Author:: Patrick McKenzie (patio11)
 - Year of publication:: 2021
-- Category: Blog
+- Category:: Blog
 - Topic:: 
 
 ## Notes from reading

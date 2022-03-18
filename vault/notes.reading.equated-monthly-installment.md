@@ -2,18 +2,18 @@
 id: 1y0IwagaVuF7dVVhpNOoB
 title: Equated monthly installment
 desc: ''
-updated: 1647480375038
+updated: 1647563533339
 created: 1625608785411
 ---
 # Reading 2021-07-06
 
 ## Metadata
 
-- Ref: [Corporate Finance Institute](https://corporatefinanceinstitute.com/resources/knowledge/credit/equated-monthly-installment-emi/)
-- Title: What is an Equated Monthly Installment (EMI)?
+- Ref:: [Corporate Finance Institute](https://corporatefinanceinstitute.com/resources/knowledge/credit/equated-monthly-installment-emi/)
+- Title:: What is an Equated Monthly Installment (EMI)?
 - Author:: 
 - Year of publication:: 
-- Category: Blog
+- Category:: Blog
 - Topic:: 
 
 ## Notes from reading
@@ -22,7 +22,7 @@ created: 1625608785411
 - EMIs include both the interest and principal amounts. 
 - After a certain number of EMIs are made, the loan will be fully paid off.
 
-## Reducing-Balance Method
+### Reducing-Balance Method
 $$
 \boxed{A=P*\frac {r(1+r)^n} {(1+r)^n-1}}
 $$

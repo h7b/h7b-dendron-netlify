@@ -2,19 +2,19 @@
 id: pUPwawlZGNqtfNGvdg5xa
 title: Finance Youtubers Breaking Law
 desc: ''
-updated: 1647480323401
+updated: 1647563678340
 created: 1645312743950
 ---
 # Reading 2022-02-20
 
 ## Metadata
 
-- Ref: [The Plain Bagel](https://www.youtube.com/watch?v=yMA2L5IEBAE)
-- Title: Are Finance YouTubers Breaking the Law?
+- Ref:: [The Plain Bagel](https://www.youtube.com/watch?v=yMA2L5IEBAE)
+- Title:: Are Finance YouTubers Breaking the Law?
 - Author:: [The Plain Bagel](https://www.youtube.com/channel/UCFCEuCsyWP0YkP3CZ3Mr01Q)
 - Year of publication:: 2022
-- Category: Blog
-- Topic: #topic.investment
+- Category:: Blog
+- Topic:: #topic.investment
 
 ## Notes from reading
 

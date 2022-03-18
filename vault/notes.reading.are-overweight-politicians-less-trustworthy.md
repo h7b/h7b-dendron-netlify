@@ -2,7 +2,7 @@
 id: Z2HSnQEGDB5dff5w0QI3K
 title: Are Overweight Politicians Less Trustworthy
 desc: ''
-updated: 1647480375060
+updated: 1647563154110
 created: 1638729591300
 image:
   url: >-
@@ -12,11 +12,11 @@ image:
 
 ## Metadata
 
-- Ref: [The Economist](https://www.economist.com/graphic-detail/2020/07/30/are-overweight-politicians-less-trustworthy), [pdf](https://app.box.com/s/ul5wbwovd11c1r5f0wkll2uo28xpgi65)
-- Title: Are overweight politicians less trustworthy?
+- Ref:: [The Economist](https://www.economist.com/graphic-detail/2020/07/30/are-overweight-politicians-less-trustworthy), [pdf](https://app.box.com/s/ul5wbwovd11c1r5f0wkll2uo28xpgi65)
+- Title:: Are overweight politicians less trustworthy?
 - Author:: The Economist
 - Year of publication:: 2020
-- Category: Blog
+- Category:: Blog
 - Topic:: 
 
 ## Notes from reading

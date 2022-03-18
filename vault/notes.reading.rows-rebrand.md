@@ -2,18 +2,18 @@
 id: bfwMPl3TSuAzeo9GRoC8k
 title: Rows Rebrand
 desc: ''
-updated: 1647480374989
+updated: 1647564278738
 created: 1637932873157
 ---
 # Reading 2021-11-26
 
 ## Metadata
 
-- Ref: [The Rows blog](https://blog.rows.com/p/why-how-rebrand)
-- Title: Why and How we rebranded
+- Ref:: [The Rows blog](https://blog.rows.com/p/why-how-rebrand)
+- Title:: Why and How we rebranded
 - Author:: Humberto & Sandrina & Henrique Cruz
 - Year of publication:: 2020
-- Category: Blog
+- Category:: Blog
 - Topic:: 
 
 ## Notes from reading

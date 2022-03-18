@@ -2,18 +2,18 @@
 id: hwUOSzgzjwPrkDTFR6mTD
 title: Etf Tax US
 desc: ''
-updated: 1647480375030
+updated: 1647563587964
 created: 1635727958093
 ---
 # Reading 2021-11-01
 
 ## Metadata
 
-- Ref: [Investopedia](https://www.investopedia.com/articles/exchangetradedfunds/08/etf-taxes-introduction.asp)
-- Title: How are ETFs Taxed? (in US, for US residents)
+- Ref:: [Investopedia](https://www.investopedia.com/articles/exchangetradedfunds/08/etf-taxes-introduction.asp)
+- Title:: How are ETFs Taxed? (in US, for US residents)
 - Author:: Charles Potters
 - Year of publication:: 2021
-- Category: Blog
+- Category:: Blog
 - Topic:: #topic.investment
 
 ## Notes from reading

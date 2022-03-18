@@ -2,20 +2,20 @@
 id: 8gG5xt8vjDOe56zGYbdGn
 title: Excel Advanced Formula Environment
 desc: ''
-updated: 1647480375029
+updated: 1647563602303
 created: 1644745313709
 ---
 # Reading 2022-02-13
 
 ## Metadata
 
-- Ref: [Microsoft Tech Community](https://techcommunity.microsoft.com/t5/excel-blog/announcing-lambdas-to-production-and-advanced-formula/ba-p/3073293)
-- Title: Announcing LAMBDAs to Production and Advanced Formula Environment, A Microsoft Garage Project
+- Ref:: [Microsoft Tech Community](https://techcommunity.microsoft.com/t5/excel-blog/announcing-lambdas-to-production-and-advanced-formula/ba-p/3073293)
+- Title:: Announcing LAMBDAs to Production and Advanced Formula Environment, A Microsoft Garage Project
 - Author:: [Chris Gross](https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/584627)
 - Year of publication:: 2022
-- Category: News
+- Category:: News
 - Topic:: 
-- Related: [MrExcel](https://www.youtube.com/watch?v=ySaDkjx3TlI), [Access Analytic](https://www.youtube.com/watch?v=8MyzxtbxACE)
+- Related:: [MrExcel](https://www.youtube.com/watch?v=ySaDkjx3TlI), [Access Analytic](https://www.youtube.com/watch?v=8MyzxtbxACE)
 
 ## Notes from reading
 

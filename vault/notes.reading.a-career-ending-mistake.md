@@ -2,20 +2,20 @@
 id: 35xmkchcdryobsv0k8kocnm
 title: A Career Ending Mistake
 desc: ''
-updated: 1647480323477
+updated: 1647562628130
 created: 1646617317462
 ---
 # Reading 2022-03-07
 
 ## Metadata
 
-- Ref: [Bitfield Consulting](https://bitfieldconsulting.com/golang/career)
-- Title: A career ending mistake
+- Ref:: [Bitfield Consulting](https://bitfieldconsulting.com/golang/career)
+- Title:: A career ending mistake
 - Author:: John Arundel
 - Year of publication:: 2022
-- Category: Blog
-- Topic: 
-- Related: [Hacker News](https://news.ycombinator.com/item?id=30428602)
+- Category:: Blog
+- Topic:: 
+- Related:: [Hacker News](https://news.ycombinator.com/item?id=30428602)
 
 ## Notes from reading
 

@@ -2,13 +2,13 @@
 id: 16dbdmygkcwfn5zbrbkar0i
 title: Current Liabilities
 desc: ''
-updated: 1647221883404
+updated: 1647580124383
 created: 1647219500484
 ---
 # What Are Current Liabilities?
 ref: [Investopedia](https://www.investopedia.com/terms/c/currentliabilities.asp)
 
-Current liabilities are a company's short-term financial obligations that are due within one year or within a normal operating cycle.
+Current liabilities are a company's short-term debt or financial obligations that are due to be paid to creditors within one year or within a normal operating cycle.
 - An operating cycle, also referred to as the cash conversion cycle, is the time it takes a company to purchase inventory and convert it to cash from sales
 
 Most common current liabilities:

@@ -2,15 +2,15 @@
 id: eav9LPEiYS4tC3dBXzQ5V
 title: Becoming a Better Interviewer
 desc: ''
-updated: 1647480375058
+updated: 1647563179554
 created: 1639350768725
 ---
 # Reading 2021-12-13
 
 ## Metadata
 
-- Ref: [Brian Lovin](https://brianlovin.com/writing/becoming-a-better-interviewer)
-- Title: Becoming a better interviewer
+- Ref:: [Brian Lovin](https://brianlovin.com/writing/becoming-a-better-interviewer)
+- Title:: Becoming a better interviewer
 - Author:: Brian Lovin
 - Year of publication:: 2021
 - Category:: Blog

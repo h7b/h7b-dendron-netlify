@@ -2,7 +2,7 @@
 id: 3ypvi35mjugdvaxq8uky33j
 title: Stock Valuation
 desc: ''
-updated: 1647492408633
+updated: 1647581270827
 created: 1646959091277
 ---
 # Stock valuation method
@@ -38,8 +38,8 @@ Commonly used multiples
   - [[price-to-cash flow (P/CF)|notes.tutorial.stock-valuation.price-cashflow-ratio]]
   - [[Price/Earnings-to-Growth (PEG)|notes.tutorial.stock-valuation.price-earnings-growth]]
 
-- Working Capital Ratio
-- Quick Ratio
+- [[Working Capital Ratio|notes.tutorial.stock-valuation.current-ratio]]
+- [[Quick Ratio|notes.tutorial.stock-valuation.quick-ratio]]
 - [[Earnings per Share (EPS)|notes.tutorial.stock-valuation.earnings-per-share]]
 - Debt-Equity Ratio
 - [[Return on Equity (ROE)|notes.tutorial.stock-valuation.return-on-equity]]

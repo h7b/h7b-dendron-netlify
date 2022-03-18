@@ -2,19 +2,19 @@
 id: Q7attJXePy0DT9sCWnDtl
 title: How AI Conquered Poker
 desc: ''
-updated: 1647480323386
+updated: 1647563807747
 created: 1642635147089
 ---
 # Reading 2022-01-20
 
 ## Metadata
 
-- Ref: [The New York Times](https://www.nytimes.com/2022/01/18/magazine/ai-technology-poker.html), [Hacker News](https://news.ycombinator.com/item?id=29983043)
-- Title: How A.I. Conquered Poker
+- Ref:: [The New York Times](https://www.nytimes.com/2022/01/18/magazine/ai-technology-poker.html), [Hacker News](https://news.ycombinator.com/item?id=29983043)
+- Title:: How A.I. Conquered Poker
 - Author:: Keith Romer
 - Year of publication:: 2022
-- Category: Blog
-- Topic: 
+- Category:: Blog
+- Topic::
 
 ## Notes from reading
 

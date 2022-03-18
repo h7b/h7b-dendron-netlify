@@ -2,19 +2,19 @@
 id: H9KVu5G3HRv07f3r1pf1F
 title: Fiinratings Insight 2
 desc: ''
-updated: 1647480375027
+updated: 1647563641095
 created: 1637316126614
 ---
 # Reading 2021-11-19
 
 ## Metadata
 
-- Ref: [FiinRatings Insight #2](https://fiingroup.vn/upload/docs/fiinratings-insight-trai-phieu-doanh-nghiep-viet-nam.pdf)
-- Title: Trái phiếu Doanh nghiệp Việt Nam - Cân bằng giữa Lợi nhuận và Rủi ro
+- Ref:: [FiinRatings Insight #2](https://fiingroup.vn/upload/docs/fiinratings-insight-trai-phieu-doanh-nghiep-viet-nam.pdf)
+- Title:: Trái phiếu Doanh nghiệp Việt Nam - Cân bằng giữa Lợi nhuận và Rủi ro
 - Author:: Khối Dịch vụ Xếp hạng Tín nhiệm (FiinRatings), FiinGroup
 - Year of publication:: 2021
-- Category: Blog
-- Topic:: 
+- Category:: Blog
+- Topic:: #topic.investment
 
 ## Notes from reading
 

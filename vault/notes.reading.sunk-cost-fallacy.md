@@ -2,19 +2,19 @@
 id: rCCTXKbBcFiSYTbAWzbpj
 title: Sunk Cost Fallacy
 desc: ''
-updated: 1647480323332
+updated: 1647564395408
 created: 1634156950013
 ---
 # Reading 2021-10-13
 
 ## Metadata
 
-- Ref: [VWA](https://www.facebook.com/groups/CoVanTaichinhVietnam/permalink/2940528236199968/), [lifehack](https://www.lifehack.org/articles/communication/how-the-sunk-cost-fallacy-makes-you-act-stupid.html)
-- Title: The Art Of Thinking Clearly & How the Sunk Cost Fallacy Makes You Act Stupid
+- Ref:: [VWA](https://www.facebook.com/groups/CoVanTaichinhVietnam/permalink/2940528236199968/), [lifehack](https://www.lifehack.org/articles/communication/how-the-sunk-cost-fallacy-makes-you-act-stupid.html)
+- Title:: The Art Of Thinking Clearly & How the Sunk Cost Fallacy Makes You Act Stupid
 - Author:: 
 - Year of publication:: 2021
-- Category: Blog
-- Topic: 
+- Category:: Blog
+- Topic:: 
 
 ## Notes from reading
 

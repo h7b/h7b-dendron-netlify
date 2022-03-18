@@ -2,18 +2,18 @@
 id: 3EaIjsx8FtBFEOHjIQwoC
 title: Economics of Football Wages
 desc: ''
-updated: 1647480375038
+updated: 1647563469764
 created: 1637312774456
 ---
 # Reading 2021-11-19
 
 ## Metadata
 
-- Ref: [Stake's blog | Sponsorships](https://hellostake.com/au/blog/stake-updates/economics-of-football-1), [Stake's blog | Wages](https://hellostake.com/au/blog/stake-updates/economics-of-football-wages)
-- Title: Economics of Football
+- Ref:: [Stake's blog | Sponsorships](https://hellostake.com/au/blog/stake-updates/economics-of-football-1), [Stake's blog | Wages](https://hellostake.com/au/blog/stake-updates/economics-of-football-wages)
+- Title:: Economics of Football
 - Author:: Stake
 - Year of publication:: 2021
-- Category: Blog
+- Category:: Blog
 - Topic:: 
 
 ## Notes from reading

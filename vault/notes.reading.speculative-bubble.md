@@ -2,18 +2,18 @@
 id: dwhjWCnIif1pSjeZAwITG
 title: Speculative Bubble
 desc: ''
-updated: 1647480374985
+updated: 1647564319709
 created: 1633304217601
 ---
 # Reading 2021-10-04
 
 ## Metadata
 
-- Ref: [Hacker News](https://news.ycombinator.com/item?id=28544167)
-- Title: Founder of $90M cryptocurrency hedge fund sentenced to seven years in prison
+- Ref:: [Hacker News](https://news.ycombinator.com/item?id=28544167)
+- Title:: Founder of $90M cryptocurrency hedge fund sentenced to seven years in prison
 - Author:: U.S. Attorney’s Office - Southern District of New York
 - Year of publication:: 2021
-- Category: News
+- Category:: News
 - Topic:: #topic.cryptoAsset
 
 ## Notes from reading

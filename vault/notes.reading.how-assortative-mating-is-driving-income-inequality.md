@@ -2,7 +2,7 @@
 id: 93u6reqlr85pe2wlaqj796b
 title: How Assortative Mating Is Driving Income Inequality
 desc: ''
-updated: 1647480375015
+updated: 1647562978625
 created: 1647392865982
 ---
 # Reading 2022-03-16
@@ -11,10 +11,10 @@ created: 1647392865982
 
 - Ref:: [Quillette](https://quillette.com/2019/10/18/rich-like-me-how-assortative-mating-is-driving-income-inequality/)
 - Title:: Rich Like Me: How Assortative Mating Is Driving Income Inequality
-- Author::: Branko Milanovic
-- Year of publication::: 2019
+- Author:: Branko Milanovic
+- Year of publication:: 2019
 - Category:: Blog
-- Topic:::
+- Topic::
 - Related:: [Capitalism, Alone: The Future of the System That Rules the World](https://www.amazon.com/Capitalism-Alone-Future-System-Rules-ebook/dp/B07THB6Y4K) 
 
 ## Notes from reading

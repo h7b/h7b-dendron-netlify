@@ -2,18 +2,18 @@
 id: sjGC9y0pxYqe11TPE4kB2
 title: Tax Crypto Vietnam
 desc: ''
-updated: 1647480374980
+updated: 1647564413359
 created: 1628657134109
 ---
 # Reading 2021-08-11
 
 ## Metadata
 
-- Ref: [fb](https://www.facebook.com/groups/phocapblockchain/posts/265451325035158/)
-- Title: Quy định thuế thu nhập cá nhân ntn đối với crypto assets?
+- Ref:: [fb](https://www.facebook.com/groups/phocapblockchain/posts/265451325035158/)
+- Title:: Quy định thuế thu nhập cá nhân ntn đối với crypto assets?
 - Author:: 
 - Year of publication:: 2021
-- Category: Blog
+- Category:: Blog
 - Topic:: #topic.cryptoAsset
 
 ## Notes from reading

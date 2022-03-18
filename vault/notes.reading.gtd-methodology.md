@@ -2,20 +2,20 @@
 id: aaz1liOPZJptF2Fxzc03t
 title: GTD Methodology
 desc: ''
-updated: 1647480375018
+updated: 1647563793971
 created: 1642641293957
 ---
 # Reading 2022-01-20
 
 ## Metadata
 
-- Ref: [Wikipedia](https://en.wikipedia.org/wiki/Getting_Things_Done)
-- Title: Getting Things Done: The Art of Stress-Free Productivity
+- Ref:: [Wikipedia](https://en.wikipedia.org/wiki/Getting_Things_Done)
+- Title:: Getting Things Done: The Art of Stress-Free Productivity
 - Author:: David Allen
 - Year of publication:: 2015
 - Category:: Book
 - Topic:: 
-- Related: [`@levsthings` tweet](https://twitter.com/levsthings/status/1224104529324412929)
+- Related:: [`@levsthings` tweet](https://twitter.com/levsthings/status/1224104529324412929)
 
 ## Notes from reading
 

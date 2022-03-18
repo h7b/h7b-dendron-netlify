@@ -2,15 +2,15 @@
 id: ULuJXR56U8u4abF8
 title: Provision Receivable
 desc: ''
-updated: 1647480374991
+updated: 1647564243822
 created: 1627160135210
 ---
 # Reading 2021-07-24
 
 ## Metadata
 
-- Ref: [[Thông tư số 48/2019/TT-BTC|notes.archives.gov-docs-vietnam.48-2019-TT-BTC]]
-- Title: Mức trích lập dự phòng đối với các khoản nợ phải thu quá hạn thanh toán
+- Ref:: [[Thông tư số 48/2019/TT-BTC|notes.archives.gov-docs-vietnam.48-2019-TT-BTC]]
+- Title:: Mức trích lập dự phòng đối với các khoản nợ phải thu quá hạn thanh toán
 - Author:: 
 - Year of publication:: 2019
 - Category:: Government publication

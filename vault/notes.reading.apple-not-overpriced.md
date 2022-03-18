@@ -2,18 +2,18 @@
 id: vVl6JHDKDspZKWZIeOr40
 title: Apple Not Overpriced
 desc: ''
-updated: 1647480375061
+updated: 1647563138193
 created: 1644662866287
 ---
 # Reading 2022-02-12
 
 ## Metadata
 
-- Ref: [Logically Answered](https://www.youtube.com/watch?v=91123HP7Amw)
-- Title: Apple Does NOT Overprice Their Products | Change My Mind
+- Ref:: [Logically Answered](https://www.youtube.com/watch?v=91123HP7Amw)
+- Title:: Apple Does NOT Overprice Their Products | Change My Mind
 - Author:: [Logically Answered](https://www.youtube.com/channel/UCZRoNJu1OszFqABP8AuJIuw)
 - Year of publication:: 2021
-- Category: Blog
+- Category:: Blog
 - Topic:: 
 
 ## Notes from reading

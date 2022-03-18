@@ -2,19 +2,19 @@
 id: dOj5Cz71GZ3FhWQPd3xN8
 title: REIT Real Estate
 desc: ''
-updated: 1647480323346
+updated: 1647564259812
 created: 1635722670051
 ---
 # Reading 2021-11-01
 
 ## Metadata
 
-- Ref: [canstar](https://www.canstar.com.au/investor-hub/real-estate-investment-trusts/), [sharesight](https://www.sharesight.com/blog/real-estate-investment-trust-reit/)
-- Title: What are REITs? (Real Estate Investment Trusts)
+- Ref:: [canstar](https://www.canstar.com.au/investor-hub/real-estate-investment-trusts/), [sharesight](https://www.sharesight.com/blog/real-estate-investment-trust-reit/)
+- Title:: What are REITs? (Real Estate Investment Trusts)
 - Author:: 
 - Year of publication:: 2021
-- Category: Blog
-- Topic: #topic.investment
+- Category:: Blog
+- Topic:: #topic.investment
 
 ## Notes from reading
 

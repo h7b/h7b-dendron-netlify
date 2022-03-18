@@ -2,19 +2,19 @@
 id: rTQLymA0PTxY9hhUWydDr
 title: Etf Pick Vn
 desc: ''
-updated: 1647480323412
+updated: 1647563568776
 created: 1633304916288
 ---
 # Reading 2021-10-04
 
 ## Metadata
 
-- Ref: [VWA](https://www.facebook.com/groups/CoVanTaichinhVietnam/posts/2932762823643176/)
-- Title: 5 thông tin quan trọng khi đầu tư ETF có thể bạn biết chưa biết
+- Ref:: [VWA](https://www.facebook.com/groups/CoVanTaichinhVietnam/posts/2932762823643176/)
+- Title:: 5 thông tin quan trọng khi đầu tư ETF có thể bạn biết chưa biết
 - Author:: 
 - Year of publication:: 2021
-- Category: Blog
-- Topic: #topic.investment
+- Category:: Blog
+- Topic:: #topic.investment
 
 ## Notes from reading
 

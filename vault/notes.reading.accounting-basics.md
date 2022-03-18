@@ -2,20 +2,20 @@
 id: MXh2EKQomVbG7wP96SQld
 title: Accounting Basics
 desc: ''
-updated: 1647480323472
+updated: 1647563012636
 created: 1644707675560
 ---
 # Reading 2022-02-13
 
 ## Metadata
 
-- Ref: [ACCOUNTING BASICS: Debits and Credits Explained](https://www.youtube.com/watch?v=VhwZ9t2b3Zk)
-- Title: ACCOUNTING BASICS: Debits and Credits Explained
+- Ref:: [ACCOUNTING BASICS: Debits and Credits Explained](https://www.youtube.com/watch?v=VhwZ9t2b3Zk)
+- Title:: ACCOUNTING BASICS: Debits and Credits Explained
 - Author:: [Accounting Stuff](https://www.youtube.com/channel/UCYJLdSmyKoXCbnd-pklMn5Q)
 - Year of publication:: 2018
-- Category: Blog
-- Topic: 
-- Related: 
+- Category:: Blog
+- Topic:: 
+- Related:: 
   - [What Does Equity ACTUALLY Mean?](https://www.youtube.com/watch?v=Fr5oHEYrT2A), 
   - [CLOSING ENTRIES: Everything You Need To Know](https://www.youtube.com/watch?v=e1z2lpdQyGQ), 
   - [DEPRECIATION BASICS! With Journal Entries](https://www.youtube.com/watch?v=_pas1ETbrj8), 

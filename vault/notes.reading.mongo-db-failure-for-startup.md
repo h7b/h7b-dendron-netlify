@@ -2,18 +2,18 @@
 id: qIPhaFw1xzQkBCRfjodtC
 title: Mongo DB Failure for Startup
 desc: ''
-updated: 1647480375001
+updated: 1647564074015
 created: 1642814355483
 ---
 # Reading 2022-01-22
 
 ## Metadata
 
-- Ref: [nemil](https://www.nemil.com/mongo/index.html)
-- Title: On MongoDB, a three-part series on MongoDB and startups
+- Ref:: [nemil](https://www.nemil.com/mongo/index.html)
+- Title:: On MongoDB, a three-part series on MongoDB and startups
 - Author:: Nemil Dalal
 - Year of publication:: 2017
-- Category: Blog
+- Category:: Blog
 - Topic:: 
 
 ## Notes from reading

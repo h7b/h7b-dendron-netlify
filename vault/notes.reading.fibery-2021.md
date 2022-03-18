@@ -2,18 +2,18 @@
 id: 5G1SqmyWyZ9fuZEFeBD5m
 title: Fibery 2021
 desc: ''
-updated: 1647480375028
+updated: 1647563612437
 created: 1640140796238
 ---
 # Reading 2021-12-22
 
 ## Metadata
 
-- Ref: [Fibery blog](https://fibery.io/blog/fibery-2021/)
-- Title: Fibery.io 2021 year in review
+- Ref:: [Fibery blog](https://fibery.io/blog/fibery-2021/)
+- Title:: Fibery.io 2021 year in review
 - Author:: Michael Dubakov
 - Year of publication:: 2021
-- Category: Blog
+- Category:: Blog
 - Topic:: 
 
 ## Notes from reading

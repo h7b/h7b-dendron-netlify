@@ -2,18 +2,18 @@
 id: OT08lHDzwgjIqobX5I3Mf
 title: Doctors Smoking Ads
 desc: ''
-updated: 1647480375040
+updated: 1647563439757
 created: 1643069393816
 ---
 # Reading 2022-01-25
 
 ## Metadata
 
-- Ref: [History](https://www.history.com/news/cigarette-ads-doctors-smoking-endorsement), [Hacker News](https://news.ycombinator.com/item?id=30002926)
-- Title: When cigarette companies used doctors to push smoking
+- Ref:: [History](https://www.history.com/news/cigarette-ads-doctors-smoking-endorsement), [Hacker News](https://news.ycombinator.com/item?id=30002926)
+- Title:: When cigarette companies used doctors to push smoking
 - Author:: Becky Little
 - Year of publication:: 2018
-- Category: Blog
+- Category:: Blog
 - Topic:: 
 
 ## Notes from reading
