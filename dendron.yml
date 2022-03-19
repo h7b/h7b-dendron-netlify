@@ -91,7 +91,7 @@ publishing:
     siteUrl: 'https://kool.casa/'
     enableFrontmatterTags: true
     enableHashesForFMTags: false
-    enableRandomlyColoredTags: true
+    enableRandomlyColoredTags: false
     duplicateNoteBehavior:
         action: useVault
         payload:

@@ -2,47 +2,32 @@
 id: 3ypvi35mjugdvaxq8uky33j
 title: Stock Valuation
 desc: ''
-updated: 1647581270827
+updated: 1647657430575
 created: 1646959091277
 ---
 # Stock valuation method
 ref: [Investopedia](https://www.investopedia.com/articles/fundamental-analysis/11/choosing-valuation-methods.asp)
 
+![valuation-methods](https://cdn.corporatefinanceinstitute.com/assets/overview-valuation-methods.png){max-width: 300px, display: block, margin: 0 auto}
+
 2 categories of valuation models
 - absolute
   - attempt to find the intrinsic or "true" value of an investment based only on fundamentals, such things as dividends, cash flow, and the growth rate for a single company and not worry about any other companies
-  - notable method: Discounted Cash Flow model (DCF) and its variations, Dividend Discount Model (DDM)
+  - notable method: Discounted Cash Flow model (DCF), Dividend Discount Model (DDM)
 - relative
   - compare the company in question to other similar companies. These methods involve calculating multiples and ratios, such as the price-to-earnings (P/E) ratio, and comparing them to the multiples of similar companies
+  ![relative-valuation](https://cdn.corporatefinanceinstitute.com/assets/valuation-multiples-1200x720.png){max-width: 300px, display: block, margin: 0 auto}
 
-## Comparables Model
+## Comparables Model using Financial Ratios
 ref: [Investopedia](https://www.investopedia.com/terms/m/multiplesapproach.asp)
 
-The comparable analysis is an example of relative stock valuation. It compares the stock's price multiples to a benchmark to determine if the stock is relatively undervalued or overvalued
+The comparable analysis is an example of relative stock valuation. It compares the stock's price multiples to a benchmark to determine if the stock is relatively undervalued or overvalued.
 
-Commonly used multiples
-- [[Enterprise value|notes.tutorial.stock-valuation.entreprise-value]] multiples
-  - features:
-    - enterprise value multiples allow for direct comparison of different firms, regardless of capital structure
-    - enterprise valuation multiples are typically less affected by accounting differences
-  - [[EV/sales|notes.tutorial.stock-valuation.ev-sales]]
-  - [[EV/EBIT|notes.tutorial.stock-valuation.ev-ebit]]
-  - [[EV/EBITDA|notes.tutorial.stock-valuation.ev-ebitda]]
-- Equity multiples
-  - features:
-    - equity multiples can be artificially impacted by a change in capital structure, even when there is no change in enterprise value (EV)
-    - equity multiples are more commonly used by investors because they can be calculated easily and are readily available via most financial websites
-  - [[price-to-earnings (P/E)|notes.tutorial.stock-valuation.price-earnings-ratio]]
-  - [[price-to-book (P/B)|notes.tutorial.stock-valuation.price-book-ratio]]
-  - [[price-to-sales (P/S)|notes.tutorial.stock-valuation.price-sales-ratio]]
-  - [[price-to-cash flow (P/CF)|notes.tutorial.stock-valuation.price-cashflow-ratio]]
-  - [[Price/Earnings-to-Growth (PEG)|notes.tutorial.stock-valuation.price-earnings-growth]]
+A multiple measures some aspect of a company's financial well-being, determined by dividing one metric by another metric.
 
-- [[Working Capital Ratio|notes.tutorial.stock-valuation.current-ratio]]
-- [[Quick Ratio|notes.tutorial.stock-valuation.quick-ratio]]
-- [[Earnings per Share (EPS)|notes.tutorial.stock-valuation.earnings-per-share]]
-- Debt-Equity Ratio
-- [[Return on Equity (ROE)|notes.tutorial.stock-valuation.return-on-equity]]
+![multiple-formula](https://www.investopedia.com/thmb/MAqq3qL0B7AzBFHkgSl4-99h2Gg=/660x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dotdash_Final_Multiple_Nov_2020-01-5cc7fb72038d42a7a9ea850d8b4c2208.jpg){max-width: 300px, display: block, margin: 0 auto}
+
+![[notes.tutorial.stock-valuation.financial-ratios#financial-ratios,1]]
 
 ## Dividend Discount Model
 ![[notes.tutorial.stock-valuation.dividend-discount-model#dividend-discount-model,1]]
@@ -55,4 +40,6 @@ Commonly used multiples
 - [6 Basic Financial Ratios and What They Reveal](https://www.investopedia.com/financial-edge/0910/6-basic-financial-ratios-and-what-they-tell-you.aspx)
 - [Guide to Financial Ratios](https://www.investopedia.com/articles/stocks/06/ratios.asp)
 - [Multiples Approach](https://www.investopedia.com/terms/m/multiplesapproach.asp)
+- [Business Valuation Guides](https://corporatefinanceinstitute.com/resources/knowledge/valuation/)
+- [Types of Valuation Multiples](https://corporatefinanceinstitute.com/resources/knowledge/valuation/types-of-valuation-multiples/)
 - #topic.investment
