@@ -2,7 +2,7 @@
 id: aIzdxkgBr2LmKOsw
 title: Publish Alternatives
 desc: ''
-updated: 1647126051143
+updated: 1647794077275
 created: 1628033267974
 ---
 ## Alternative methods to publish Obsidian vault
@@ -41,5 +41,8 @@ Obsidian is great but finding a way to publish the Obsidian vault without purcha
     - publish Obsidian documents to [Steemit](https://steemit.com/), a blockchain-based blogging and social media website
 - [Obsidian Telegraph Publish](https://github.com/reorx/obsidian-telegraph-publish)
     - Publish your Obsidian note to a [Telegra.ph](https://telegra.ph/) page
+- [Etherpad-Lite Obsidian Plugin](https://github.com/egradman/obsidian-etherpad-lite)
+    - [Etherpad](https://etherpad.org/), the alternative of [Pastebin](https://pastebin.com/) for editors
+    - Create an [Etherpad-Lite](https://github.com/ether/etherpad-lite) server to host, share and invite for collaboration on your Obsidian note
 
 Comparison in details for publishing digital garden from [kez.ie](https://www.kez.ie/notes/choosing%20the%20right%20platform%20to%20create%20a%20public%20digital%20garden/)

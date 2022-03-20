@@ -2,7 +2,7 @@
 id: JM7rJtqjPECioZxYc3k3Y
 title: Tools for Thought
 desc: ''
-updated: 1647482298971
+updated: 1647793624547
 created: 1635205995281
 nav_order: 2
 ---
@@ -210,4 +210,5 @@ Thoughts: This is a solution for technical project documentation, rather a pkm l
 
 ## Related resources 
 - [review from slite](https://slite.com/learn/knowledge-base-softwares) about knowledge base software
-- a [curated list](https://www.notion.so/db13644f08144495ad9877f217a161a1?v=ff6777802811416ba08dc114e0b11837) of all current tools for thoughts
+- a [curated list](https://www.notion.so/db13644f08144495ad9877f217a161a1?v=ff6777802811416ba08dc114e0b11837) by Steve Yang, that list tools for thoughts, aka note taking apps
+- another [curated list](https://arieluna.notion.site/Apps-29ffc475bd3a4539b48eeb5bb551d713)

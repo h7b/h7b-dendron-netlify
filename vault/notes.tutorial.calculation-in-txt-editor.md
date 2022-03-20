@@ -2,7 +2,7 @@
 id: CroxQVfNqCIcpUBNCgLaW
 title: Calculation in Txt Editor
 desc: ''
-updated: 1636709749663
+updated: 1647793178028
 created: 1635893931967
 ---
 # Implement inline calculations in text editor
@@ -45,3 +45,10 @@ created: 1635893931967
 - [reactivepad](https://reactivepad.com/)
 - [Math Notepad](https://mathnotepad.com/)
 - [Blockpad](https://blockpad.net/)
+- [Livedocs](https://livedocs.com/)
+    - [Hacker News discussion](https://news.ycombinator.com/item?id=30735058)
+    - [Pricing](https://livedocs.com/pricing) starts at USD 30/month, with 14-day trial only
+    - create interactive document with live data
+- [Patera](https://patera.io/)
+    - embed variables, calculations in dynamic interactive documents
+- [[Grid|notes.tutorial.tools-spreadsheet-alternatives#grid]]

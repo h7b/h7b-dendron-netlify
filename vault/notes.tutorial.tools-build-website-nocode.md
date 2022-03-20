@@ -2,7 +2,7 @@
 id: KE2M6fdHkylIGsY795s7e
 title: Tools Build Website Nocode
 desc: ''
-updated: 1647554134499
+updated: 1647793202457
 created: 1636706914265
 ---
 # Nocode tools to build app and website
@@ -95,6 +95,10 @@ created: 1636706914265
 
 ### [Streamlit](https://streamlit.io/)
 - free, open-source, all-python framework to quickly build interactive dashboards and web apps
+
+### [evidence](https://evidence.dev/)
+- [Hacker News discussion](https://news.ycombinator.com/item?id=28304781)
+- build automated reports as static website with inline SQL-query and markdown
 
 ### [Anvil](https://anvil.works/)
 - Founded: 2015
