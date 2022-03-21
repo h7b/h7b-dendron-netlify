@@ -2,7 +2,7 @@
 id: xbg2551wuxeamybbeyu7ru2
 title: Financial Ratios
 desc: ''
-updated: 1647656158803
+updated: 1647863635963
 created: 1647654845505
 ---
 # Financial Ratios
@@ -70,7 +70,7 @@ Solvency ratios, also known as leverage ratios, are used by investors to get a p
 - Net income to liabilities
 - Times interest earned
 
-## Valuation Ratios
+## Valuation Ratios aka Multiples
 
 Valuation ratios, also known as Multiples, are some of the most commonly quoted and easily used ratios for analyzing the attractiveness of an investment in a company. 
 

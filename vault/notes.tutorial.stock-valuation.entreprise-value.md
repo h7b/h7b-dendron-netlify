@@ -2,7 +2,7 @@
 id: fgf6lo76722sroquinfiy9d
 title: Entreprise Value
 desc: ''
-updated: 1647657376716
+updated: 1647863165464
 created: 1646962131841
 ---
 # Enterprise Value (EV)
@@ -27,7 +27,7 @@ EV is useful in comparing firms with different capital structures since the valu
 
 To buy a company outright, an acquirer would have to assume the acquired company’s debt, though it would also receive all of the acquired company’s cash. 
 - Acquiring the debt increases the cost of buying the company, 
-- but acquiring the cash reduces the cost of acquiring the company.
+- but acquiring the cash reduces the cost of acquiring the company
 
 ![entrerprise-value-vs-equity-value](https://cdn.wallstreetmojo.com/wp-content/uploads/2014/04/Enterprise-Value-Vs-Equity-Value-Diagram.png.webp){max-width: 300px, display: block, margin: 0 auto}
 
