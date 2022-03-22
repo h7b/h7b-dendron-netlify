@@ -2,7 +2,7 @@
 id: 3ypvi35mjugdvaxq8uky33j
 title: Stock Valuation
 desc: ''
-updated: 1647657430575
+updated: 1647899749232
 created: 1646959091277
 ---
 # Stock valuation method
@@ -22,10 +22,6 @@ ref: [Investopedia](https://www.investopedia.com/articles/fundamental-analysis/1
 ref: [Investopedia](https://www.investopedia.com/terms/m/multiplesapproach.asp)
 
 The comparable analysis is an example of relative stock valuation. It compares the stock's price multiples to a benchmark to determine if the stock is relatively undervalued or overvalued.
-
-A multiple measures some aspect of a company's financial well-being, determined by dividing one metric by another metric.
-
-![multiple-formula](https://www.investopedia.com/thmb/MAqq3qL0B7AzBFHkgSl4-99h2Gg=/660x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dotdash_Final_Multiple_Nov_2020-01-5cc7fb72038d42a7a9ea850d8b4c2208.jpg){max-width: 300px, display: block, margin: 0 auto}
 
 ![[notes.tutorial.stock-valuation.financial-ratios#financial-ratios,1]]
 

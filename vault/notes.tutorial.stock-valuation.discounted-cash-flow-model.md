@@ -2,13 +2,17 @@
 id: y0xnookb0xf0ifb3kaal0t1
 title: Discounted Cash Flow Model
 desc: ''
-updated: 1647492572074
+updated: 1647900263621
 created: 1647317532092
 ---
 # Discounted Cash Flow Model
-ref: [Investopedia](https://www.investopedia.com/terms/d/dcf.asp)
+ref: 
+- [Investopedia](https://www.investopedia.com/terms/d/dcf.asp)
+- [Aswath Damodaran | Session 2: Intrinsic Value - Foundation](https://www.youtube.com/watch?v=8vYQpWXQ5hE&list=PLUkh9m2BorqnKWu0g5ZUps_CbQ-JGtbI9&index=2)
 
 Discounted cash flow (DCF) analysis attempts to figure out the value of an investment today, based on projections of how much money it will generate in the future.
+
+![dcf-model](https://ik.imagekit.io/casa/h7b-dendron/Screenshot_2022-03-21_230130_Hml7ZRE5b.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1647900103621){max-width: 300px, display: block, margin: 0 auto}
 
 ## Formula
 

@@ -2,11 +2,13 @@
 id: 1990uyssx6v17agix81p5ao
 title: Price-to-Earnings Ratio
 desc: ''
-updated: 1647319758563
+updated: 1647909952606
 created: 1647133514433
 ---
 # Price-to-Earnings (P/E) Ratio
-ref: [Investopedia](https://www.investopedia.com/terms/p/price-earningsratio.asp)
+ref: 
+- [Investopedia](https://www.investopedia.com/terms/p/price-earningsratio.asp)
+- [Aswath Damodaran | Session 15: PE Ratios](https://www.youtube.com/watch?v=42iyR6Geqiw&list=PLUkh9m2BorqnKWu0g5ZUps_CbQ-JGtbI9&index=15)
 
 The price-to-earnings ratio (P/E ratio) is the ratio for valuing a company that measures its current share price relative to its earnings per share (EPS)
 
@@ -16,11 +18,15 @@ Simply put, a P/E ratio of 15 would mean that the current market value of the co
 
 ## Formula
 
-$$P/E=\frac{Market\ value\ per\ share}{Earnings\ per\ share}$$
+$$P/E=\frac{Market\ Palue\ per\ Share}{Earnings\ per\ Share}$$
 
-where the [[earnings per share (EPS)|notes.tutorial.stock-valuation.earnings-per-share]] comes in two main varieties
-- TTM is a Wall Street acronym for "trailing 12 months". This number signals the company's performance over the past 12 months
-- The second type of EPS is found in a company's earnings release. This is the company's best-educated guess of what it expects to earn in the future
+where the [[earnings per share (EPS)|notes.tutorial.stock-valuation.earnings-per-share]] has many variants:
+- Time variants:
+    - EPS in most recent financial year (current)
+    - TTM is a Wall Street acronym for "trailing twelve months". This number signals the company's performance over the past 12 months
+    - EPS expected in next fiscal year (forward), found in a company's earnings release. This is the company's best-educated guess of what it expects to earn in the future
+- Primary or diluted
+- Measured using different accounting rules 
 
 $$Forward\ P/E=\frac{Current\ share\ price}{Estimated\ Future\ Earnings\ per\ share}$$
 

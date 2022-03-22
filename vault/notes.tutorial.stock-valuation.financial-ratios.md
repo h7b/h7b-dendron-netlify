@@ -2,11 +2,13 @@
 id: xbg2551wuxeamybbeyu7ru2
 title: Financial Ratios
 desc: ''
-updated: 1647863635963
+updated: 1647899872175
 created: 1647654845505
 ---
 # Financial Ratios
-ref: [Investopedia](https://www.investopedia.com/articles/stocks/06/ratios.asp)
+ref: 
+- [Investopedia](https://www.investopedia.com/articles/stocks/06/ratios.asp) 
+- [Aswath Damodaran | Session 14: Relative Valuation - First Principles](https://www.youtube.com/watch?v=WDZwqSierZ4&list=PLUkh9m2BorqnKWu0g5ZUps_CbQ-JGtbI9&index=14)
 
 Financial ratios are powerful tools to help summarize financial statements and the health of a company.
 
@@ -72,7 +74,11 @@ Solvency ratios, also known as leverage ratios, are used by investors to get a p
 
 ## Valuation Ratios aka Multiples
 
-Valuation ratios, also known as Multiples, are some of the most commonly quoted and easily used ratios for analyzing the attractiveness of an investment in a company. 
+Valuation ratios, also known as Multiples, are some of the most commonly quoted and easily used ratios for analyzing the attractiveness of an investment in a company.
+
+A multiple measures some aspect of a company's financial well-being, determined by dividing one metric by another metric.
+
+![multiple-formula](https://ik.imagekit.io/casa/h7b-dendron/Screenshot_2022-03-21_225300_hVsF-sNHaV.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1647899639324){max-width: 300px, display: block, margin: 0 auto}
 
 ### Popular valuation ratios
 

@@ -2,7 +2,7 @@
 id: fgf6lo76722sroquinfiy9d
 title: Entreprise Value
 desc: ''
-updated: 1647863165464
+updated: 1647909958326
 created: 1646962131841
 ---
 # Enterprise Value (EV)
