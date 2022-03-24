@@ -44,5 +44,14 @@ Obsidian is great but finding a way to publish the Obsidian vault without purcha
 - [Etherpad-Lite Obsidian Plugin](https://github.com/egradman/obsidian-etherpad-lite)
     - [Etherpad](https://etherpad.org/), the alternative of [Pastebin](https://pastebin.com/) for editors
     - Create an [Etherpad-Lite](https://github.com/ether/etherpad-lite) server to host, share and invite for collaboration on your Obsidian note
+- [Sekund](https://www.sekund.io/)
+    - share your notes and collaborate with others via [community plugin](https://github.com/Sekund/sekund-plugin-react) 
+- [OzanShare Publish Plugin](https://github.com/ozntel/ozanshare-publish-plugin)
+    - 2022-03-24, only accessible for exclusive subscribed member at USD 10/monthly
+- [Perlite](https://github.com/secure-77/Perlite)
+    - open source, self host version of [Obsidian Publish]((https://obsidian.md/publish))
+    - [demo page](https://perlite.secure77.de/)
+    - [explanation in details](https://secure77.de/perlite/) from author's blog
+
 
 Comparison in details for publishing digital garden from [kez.ie](https://www.kez.ie/notes/choosing%20the%20right%20platform%20to%20create%20a%20public%20digital%20garden/)

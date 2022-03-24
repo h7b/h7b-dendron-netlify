@@ -126,3 +126,9 @@ In beancount, a comment is declared by a semicolon `;`. Any text on a line after
 - [Tea Leaves | Double Entry Bookkeeping for Personal Finance](https://www.youtube.com/watch?v=lIGJzQw79hg)
 - [PizzaBeer Engineering | Plain Text Accounting: How to do Signed Number Accounting](https://www.youtube.com/watch?v=FLbe3X3FiT8)
 - [[My own notes about accounting basics|notes.reading.accounting-basics]]
+- [Reddit | Do you think PTA has commercial applications in its future?](https://www.reddit.com/r/plaintextaccounting/comments/tdter7/do_you_think_pta_has_commercial_applications_in/)
+  - tldr: PTA will not be suitable for accounting in business
+  - A business doesn’t care if its accounting data is in plain text, or JSON, or some binary format, as long as they have reasonable access to that data and a migration path available. For most of the commercial accounting products, they do.
+  - accounting in business needs 
+    - the ability to do accrual, rather than cash-based accounting
+    - and a robust and efficient accounts payable and accounts receivable workflow - which again implies the existence of controls and approvals

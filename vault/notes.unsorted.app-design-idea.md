@@ -32,3 +32,16 @@ Some interesting UI/UX that inspired me to implement
 - personal finance app, free, local only
 - SPA on GitHub Pages with no backend, where all data is stored in browser storage (plus a Dropbox sync option, as a backup)
 - discussion in [Hacker News](https://news.ycombinator.com/item?id=30484235)
+
+## Robo advisor
+
+[moneyfarm](https://www.moneyfarm.com/uk/)
+
+## Investing app
+
+[Master Works](https://www.masterworks.io/)
+- invest in art
+
+## Trading app
+
+[TradeStation](https://www.tradestation.com/)
