@@ -42,6 +42,33 @@ Some interesting UI/UX that inspired me to implement
 [Master Works](https://www.masterworks.io/)
 - invest in art
 
+[FranShares](https://franshares.com/)
+- Generate passive income from investing into franchise
+
 ## Trading app
 
 [TradeStation](https://www.tradestation.com/)
+
+[Composer](https://www.composer.trade/)
+- a no code platform for creating and investing with rules-based trading strategies. They have dozens of [pre-made investing templates](https://app.composer.trade/discover). But you can also build your own strategy
+- Composer removes the subjectivity of buying breakouts and then having to make decisions during the heat of the moment. I’m all about rules-based investing
+- With Composer you can create, backtest and invest in your own quant strategy - no code, spreadsheets or Terminal required
+
+### Apps for non-US residents to invest in US companies
+
+[Gotrade](https://www.heygotrade.com/)
+- founded: 2020
+- asset type: stocks
+- can buy fractional share
+- related: 
+    - [Techcrunch](https://techcrunch.com/2021/06/24/gotrade-gets-7m-led-by-localglobe-to-let-investors-around-the-world-buy-fractional-shares-of-u-s-stocks/)
+
+[eToro](https://www.etoro.com/)
+- founded: 2007
+- asset type: stocks, etf, crypto, cfd
+- can buy fractional share
+
+### Tokenized commodities, securities
+
+[Aurus](https://aurus.io/)
+- tokenized precious metal like gold, silver, platinum
