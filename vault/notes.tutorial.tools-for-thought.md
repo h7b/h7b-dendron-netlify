@@ -208,6 +208,11 @@ Thoughts: This is a solution for technical project documentation, rather a pkm l
   - sync between devices, document publishing is only available in Pro paid subscription
   - documents are stored locally as markdown files, with offline mode available
 
+### [Legend](https://legendapp.com/)
+- [Pricing](https://legendapp.com/pricing/) starts at USD 7/month. Has Free tier with unlimited documents
+- task management app for work with email client built-in 
+- has web, mobile, desktop version
+
 ## Related resources 
 - [review from slite](https://slite.com/learn/knowledge-base-softwares) about knowledge base software
 - a [curated list](https://www.notion.so/db13644f08144495ad9877f217a161a1?v=ff6777802811416ba08dc114e0b11837) by Steve Yang, that list tools for thoughts, aka note taking apps

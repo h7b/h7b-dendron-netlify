@@ -40,3 +40,19 @@ HR hire employees for content marketing
 
 Internal process
 ![[notes.tutorial.tools-internal-business-apps#tools-to-build-internal-business-apps,1]]
+
+Team email app
+- [missive](https://missiveapp.com/)
+  - [pricing](https://missiveapp.com/pricing) starts at USD 13/month. Has Free tier
+- [front](https://front.com/)
+  - [pricing](https://front.com/pricing) starts at USD 38/month
+- [Spark for Teams](https://sparkmailapp.com/teams)
+  - [pricing](https://sparkmailapp.com/pricing) starts at USD 8/month. Has Free tier
+
+Corporate bank and cards
+- [ramp](https://ramp.com/)
+  - [Hacker News discussion 2021](https://news.ycombinator.com/item?id=28291851)
+  - [Not Boring by Packy McCormick | company analysis](https://www.notboring.co/p/ramping-up?s=r)
+- [Brex](https://www.brex.com/)
+- [Mercury](https://mercury.com/)
+- [Privacy](https://privacy.com/)
