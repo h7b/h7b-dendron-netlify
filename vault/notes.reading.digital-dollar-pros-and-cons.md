@@ -14,8 +14,8 @@ created: 1646696163539
 - Author:: the Fed
 - Year of publication:: 2022
 - Category:: News 
-- Topic: #topic.cryptoAsset
-- Related: 
+- Topic:: #topic.cryptoAsset
+- Related:: 
   - [Hacker News | 	The Fed released a paper outlining pros and cons of a “digital dollar”](https://news.ycombinator.com/item?id=30592684)
   - [Hacker News | 	U.S. is considering a radical rethinking of the dollar for today's digital world](https://news.ycombinator.com/item?id=30239803)
   - [Boston Fed | Project Hamilton Phase 1 Executive Summary](https://www.bostonfed.org/publications/one-time-pubs/project-hamilton-phase-1-executive-summary.aspx)

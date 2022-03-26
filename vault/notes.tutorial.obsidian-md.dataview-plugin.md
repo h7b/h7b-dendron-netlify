@@ -39,3 +39,13 @@ Example query, which show all games in the "game" folder, sorted by "rating", wi
 If the field name has spaces, punctuation, or other non-letter/number characters, then you can refer to it using Dataview's simplified name, which is all lower case with spaces replaced with hyphen (`-`). For example, 
 - "this is a field" becomes *this-is-a-field* 
 - "Hello!" becomes *hello*
+
+## Tips
+
+1. In frontmatter (format name: value) and in inline-field (format name:: value) you can write a long paragraph (multiple lines) without problem
+    - A paragraph is a group of continuous sentences, without line breaks
+    - You can *simulate* multiple paragraphs by using the html tag `<br>` as newline break
+    - [Discussion in Obsidian forum](https://forum.obsidian.md/t/dataview-aggeregate-bigger-chunks-of-text-more-than-one-line/22612)
+
+2. Use Dataview inline field as a tag to consolidate information from multiple notes
+    - [Discussion in Obsidian forum](https://forum.obsidian.md/t/reverse-block-reference-possible/22445/4)
