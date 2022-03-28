@@ -19,7 +19,7 @@ created: 1648121279638
 
 ## Notes from reading
 
-Nothing special, just another inspirational article for building wealth. 
+Nothing exceptional, just another inspirational article for building wealth. 
 
 A road map of building wealth as climbing a series of ladders
 

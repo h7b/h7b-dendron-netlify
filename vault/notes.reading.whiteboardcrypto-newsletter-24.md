@@ -38,6 +38,13 @@ created: 1648167623886
 [Singapore To Tax NFT Income](https://cryptopotato.com/singapore-to-tax-income-generated-from-nft-transactions/)
 - Finance Minister Lawrence Wong was addressing parliament that income from NFTs will be taxed, while capital gains from NFTs will not be taxed
 
+[The First Over-The-Counter Crypto Options Trade](https://www.newswire.ca/news-releases/galaxy-digital-facilitates-goldman-sachs-s-first-otc-crypto-options-trade-830533375.html)
+- [Galaxy Digital Holdings](https://www.newswire.ca/news/galaxy-digital-holdings-ltd/) has just announced the first over-the-counter crypto trade to banking giant Goldman Sachs for a Bitcoin option.
+- Galaxy Digital is a technology-driven financial services and investment management firm that provides institutions and direct clients with a full suite of financial solutions spanning the digital assets ecosystem.
+
+[Malaysia To Make Bitcoin Legal Tender](https://cryptopotato.com/bitcoin-to-be-adopted-as-legal-tender-proposes-malaysian-ministry-report/)
+- Even though Malaysia has had a rough start with crypto ([bitcoin mining rigs being seized](https://www.cnbc.com/2021/07/19/malaysian-police-steamroll-1point25-million-worth-of-bitcoin-mining-rigs.html) and [such](https://cryptopotato.com/this-is-how-malaysia-plans-to-fight-electricity-theft-for-bitcoin-mining/)), there is a proposition to make Bitcoin a legal tender in the country. “We hope the government can allow this. We are trying to see how we can legalize this so that we can develop youth participation in crypto and assist them,” says Zahidi Zainul Abidin, Deputy Minister at Malaysia’s Communication Ministry. Adding another country to the list of places where bitcoin is widely accepted.
+
 Finimize 2022-03-24
 - The entire crypto market is big and growing fast: it’s now worth $1.7 trillion, having grown tenfold between the start of 2020 and the end of 2021. And while that’s still a fraction of the $469 trillion sloshing around the global financial system as a whole, it’s still bigger than the $1.2 trillion subprime mortgage market that triggered the global financial crisis
 

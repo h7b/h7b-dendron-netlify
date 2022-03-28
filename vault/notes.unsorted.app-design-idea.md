@@ -37,20 +37,30 @@ Some interesting UI/UX that inspired me to implement
 
 [moneyfarm](https://www.moneyfarm.com/uk/)
 
+[Titan](https://www.titan.com/)
+- Titan invests you like an active manager, with the personalization of an advisor in your pocket.
+- currently only available to U.S. citizens
+- Management fee
+    - ≥$10,000 Net Deposits: 1% AUM Per Year
+    - <$10,000 Net Deposits: $5 per month
+
 ## Investing app
 
-[Master Works](https://www.masterworks.io/)
+[Masterworks](https://www.masterworks.io/)
 - invest in art
 
 [FranShares](https://franshares.com/)
 - Generate passive income from investing into franchise
+
+[alts.co](https://alts.co/)
+- discover and invest in alternative assets, such as wines, game trading cards, artwork, etc.  
 
 ## Trading app
 
 [TradeStation](https://www.tradestation.com/)
 
 [Composer](https://www.composer.trade/)
-- a no code platform for creating and investing with rules-based trading strategies. They have dozens of [pre-made investing templates](https://app.composer.trade/discover). But you can also build your own strategy
+- a no code platform for creating and investing with rules-based trading strategies. It's basically algo-trading without Python or Excel. They have dozens of [pre-made investing templates](https://app.composer.trade/discover). But you can also build your own strategy
 - Composer removes the subjectivity of buying breakouts and then having to make decisions during the heat of the moment. I’m all about rules-based investing
 - With Composer you can create, backtest and invest in your own quant strategy - no code, spreadsheets or Terminal required
 
@@ -72,3 +82,13 @@ Some interesting UI/UX that inspired me to implement
 
 [Aurus](https://aurus.io/)
 - tokenized precious metal like gold, silver, platinum
+
+[Fusang](https://www.fusang.co/)
+- Tokenize real-world assets
+- Asia’s first fully licensed and regulated digital financial ecosystem for security tokens and assets
+- Licensed in two jurisdictions (Hong Kong and Labuan, Malaysia), Fusang operates a fully licensed and regulated digital ecosystem which includes Fusang Exchange, Asia’s first regulated stock exchange for security tokens.
+
+[dacxi](https://dacxi.com/home)
+- crypto exchange
+- bundle a portfolio of many crypto currencies into 1 index coin
+- bundle the trifecta of precious metals (gold, silver and platinum) into 1 index coin ([60% gold, 15% silver, 5% platinum, and 20% Dacxi Coins](https://dacxi.com/dacxi-precious-metal-bundle))

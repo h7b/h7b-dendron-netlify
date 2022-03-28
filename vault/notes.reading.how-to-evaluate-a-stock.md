@@ -15,6 +15,7 @@ created: 1640656438112
 - Year of publication:: 2021
 - Category:: Blog
 - Topic:: #topic.investment
+- Related:: [[notes.tutorial.stock-valuation]]
 
 ## Notes from reading
 

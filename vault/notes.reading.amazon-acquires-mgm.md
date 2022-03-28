@@ -18,7 +18,7 @@ created: 1647480470114
 
 ## Notes from reading
 
-The news itself is nothing special, just proving the fact that 
+The news itself is not exceptional, just proving the fact that 
 - streaming services will be balkanized, 
 - consumers need to unhappily subscribe to many concurrent providers to watch all the shows they have interest in, like the old days of cable TV
 

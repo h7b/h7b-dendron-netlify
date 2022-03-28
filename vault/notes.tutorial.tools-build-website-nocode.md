@@ -105,6 +105,11 @@ created: 1636706914265
 - build web apps with Python
 - [Pricing](https://anvil.works/pricing) starts at USD 15/month
 
+### [Sheety](https://sheety.co/)
+- Turn spreadsheets into websites and web apps
+- [Pricing](https://sheety.co/pricing) starts at USD 10/month
+- So limited in number of rows per sheet, even for premium plan
+
 ## Integrate membership into website
 
 ### [Memberstack](https://www.memberstack.com/)
