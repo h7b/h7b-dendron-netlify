@@ -103,3 +103,20 @@ The free tier limit of Netlify is
 Wrt my usage during 30 days (from 2021-12-20 to 2022-01-20), by pushing daily updates to my repo, I spent 220/300 build minutes
 
 2022-01-27 update: there's [a workaround from Luke Carrier](https://luke.carrier.im/notes/soaskhwfxi1em8dzidvbn/) that use GitHub Actions to build the site then deploy on Netlify, as a workaround from 300 minutes free limit of Netlify.
+
+## Manually update template repo when available
+
+ref: [Dendron Discord](https://discord.com/channels/717965437182410783/956700776963645520/958041226786009189)
+
+There is a challenge for using [template](https://github.com/dendronhq/template.publish.netlify) repo. When your project becomes out of date, there isn't an easy way to sync them.
+
+I was thinking that we should have CHANGELOG.md files that details what was done in the template to upgrade to the next version.
+
+I just upgraded the template to the latest Dendron config and yarn dependencies lock file.
+
+To inherit the changes currently:
+- Make sure you open your workspace in VS Code with the Dendron extension. You will be prompted to migrate to the latest Dendron configuration. This should update your dendron.yml.
+- Copy the latest `package.json`, `.gitignore`, `netlify.toml`, and `dendron-publish-site.sh` into your repo, in case any of these files have updated since you started using the template.
+- Remove `package-lock.json` if that is present.
+- Use yarn upgrade to upgrade the packages of your repo. You can also just choose to copy over `yarn.lock`, instead.
+

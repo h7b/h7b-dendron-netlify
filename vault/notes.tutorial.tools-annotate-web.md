@@ -37,3 +37,9 @@ created: 1635907966623
 - [Pricing](https://www.conote.page/pricing) starts at GBP 10/month. With unlimited free tier.
 
 ![demo-conote](https://www.conote.page/assets/images/ipad_mockup_2.webp){max-width: 300px, display: block, margin: 0 auto}
+
+## [Glasp](https://glasp.co/)
+
+- discussed in [Obsidian Roundup](https://www.obsidianroundup.org/2022-02-19/)
+- social highlighting and annotating tool that lets you extract highlight/annotations from web url and [manually send them to Obsidian](https://medium.com/glasp/tutorial-how-to-export-web-articles-highlighted-sentences-into-obsidian-25d63285bcb9)
+- alternatives: [Readwise](https://readwise.io/), [Matter](https://hq.getmatter.app/)
