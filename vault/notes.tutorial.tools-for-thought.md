@@ -213,6 +213,20 @@ Thoughts: This is a solution for technical project documentation, rather a pkm l
 - task management app for work with email client built-in 
 - has web, mobile, desktop version
 
+### [Infinity Maps](https://infinitymaps.io/en/)
+- [Pricing](https://infinitymaps.io/en/pricing-and-plans/) starts at EUR 8/month. With limited free tier
+- alternative of [Heptabase](https://heptabase.com/)
+
+### [Kosmik](https://www.kosmik.app/)
+- a visual note taking with an IPFS database
+- alternative of [Scrintal](https://www.scrintal.com/)
+- related: [fission blog](https://fission.codes/blog/kosmik-app-tool-for-thought-ipfs-database/)
+
+### [Clover](https://cloverapp.com/)
+- [Pricing](https://cloverapp.com/pricing) starts at USD 10/month. With limited Free tier
+- note taking with whiteboard
+- alternative of [Scrintal](https://www.scrintal.com/)
+
 ## Related resources 
 - [review from slite](https://slite.com/learn/knowledge-base-softwares) about knowledge base software
 - a [curated list](https://www.notion.so/db13644f08144495ad9877f217a161a1?v=ff6777802811416ba08dc114e0b11837) by Steve Yang, that list tools for thoughts, aka note taking apps

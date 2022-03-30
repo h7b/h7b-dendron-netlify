@@ -1,6 +1,6 @@
 ---
 id: Q6n45InVXCFI76N3zMIQK
-title: Comments Static Site
+title: Integrate comments into a static site
 desc: ''
 updated: 1642438540652
 created: 1636768617130

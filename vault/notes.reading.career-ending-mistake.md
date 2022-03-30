@@ -1,6 +1,6 @@
 ---
 id: 35xmkchcdryobsv0k8kocnm
-title: A Career Ending Mistake
+title: Career Ending Mistake
 desc: ''
 updated: 1647562628130
 created: 1646617317462

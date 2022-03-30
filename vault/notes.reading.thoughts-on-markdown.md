@@ -18,9 +18,11 @@ created: 1645557747998
 - Related::
   - [Hacker News | Thoughts On Markdown](https://news.ycombinator.com/item?id=30395130)
   - [Hacker News | Compare AsciiDoc to Markdown](https://news.ycombinator.com/item?id=27744509)
+  - [Hacker News | Plaintext Productivity](https://news.ycombinator.com/item?id=30745524)
   - [Reddit | Markdown vs Asciidoc](https://www.reddit.com/r/technicalwriting/comments/qxcsx6/markdown_vs_asciidoc/)
   - [MyST - Markedly Structured Text](https://myst-parser.readthedocs.io/en/latest/)
   - [Dendron discussion](https://github.com/dendronhq/dendron/discussions/2347#discussioncomment-2277719)
+  - [Org Mode Is One of the Most Reasonable Markup Languages to Use for Text](https://karl-voit.at/2017/09/23/orgmode-as-markup-only/)
 
 ## Notes from reading
 
