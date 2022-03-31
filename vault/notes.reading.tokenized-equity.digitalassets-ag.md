@@ -4,6 +4,7 @@ title: Digitalassets Ag
 desc: ''
 updated: 1635734097743
 created: 1635730433264
+tags: topic.crypto-asset
 ---
 # DigitalAssets AG
 

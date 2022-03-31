@@ -14,7 +14,7 @@ created: 1633304407688
 - Author:: 
 - Year of publication:: 2021
 - Category:: Blog
-- Topic: #topic.cryptoAsset
+- Topic: #topic.crypto-asset
 - Related:: [Huu Nguyen | fb](https://www.facebook.com/nhtuat/posts/10158248990824249), [Huu Nguyen | fb](https://www.facebook.com/nhtuat/posts/10158256014649249)
 
 ## Notes from reading

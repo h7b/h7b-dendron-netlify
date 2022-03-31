@@ -4,6 +4,7 @@ title: highlight
 desc: ''
 updated: 1639177993722
 created: 1637314843408
+tags: topic.etf
 ---
 # Notes from reading [[notes.reading.five-factor-investing-with-ETF]]
 

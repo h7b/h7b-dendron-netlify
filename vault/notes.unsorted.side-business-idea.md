@@ -1,15 +1,17 @@
 ---
 id: xIHUqgJilv3BmnvbvwlhF
-title: App Design Idea
+title: Side Business Idea
 desc: ''
 updated: 1646007027224
 created: 1643854567901
 ---
-# Idea of app design
+# My fantasy of wealth management business
 
-I want to build an app for wealth management sector.
+I want to build a business in wealth management sector.
 
-Some interesting UI/UX that inspired me to implement
+Is there an equivalent entity of [Regulated Investment Company (RIC)](https://www.investopedia.com/terms/r/ric.asp) in Vietnam?
+
+## Some interesting UI/UX that inspired me to implement
 
 [Percento](https://www.percento.app/)
 - distribution of assets
@@ -33,7 +35,9 @@ Some interesting UI/UX that inspired me to implement
 - SPA on GitHub Pages with no backend, where all data is stored in browser storage (plus a Dropbox sync option, as a backup)
 - discussion in [Hacker News](https://news.ycombinator.com/item?id=30484235)
 
-## Robo advisor
+## Players in the market
+
+### Robo advisor
 
 [moneyfarm](https://www.moneyfarm.com/uk/)
 
@@ -44,7 +48,7 @@ Some interesting UI/UX that inspired me to implement
     - ≥$10,000 Net Deposits: 1% AUM Per Year
     - <$10,000 Net Deposits: $5 per month
 
-## Investing app
+### Investing app, Funds
 
 [Masterworks](https://www.masterworks.io/)
 - invest in art
@@ -53,9 +57,13 @@ Some interesting UI/UX that inspired me to implement
 - Generate passive income from investing into franchise
 
 [alts.co](https://alts.co/)
-- discover and invest in alternative assets, such as wines, game trading cards, artwork, etc.  
+- discover and invest in alternative assets, such as wines, game trading cards, artwork, etc.
 
-## Trading app
+[Fundsmith](https://www.fundsmith.co.uk/) equity fund
+- [Investment strategy](https://en.wikipedia.org/wiki/Fundsmith): looks for companies generating high returns on capital and operating in sectors driven by a large number of everyday, repeat events and transactions, such as consumer staples and medical consumables. It avoids emerging technology firms, owing to their inherent unpredictability; it also avoids firms in heavily cyclical industries, such as airlines and real estate. Fundsmith also looks for companies with an established competitive advantage.
+- [Youtube | Fundshmith](https://www.youtube.com/channel/UCEW0yRVs0CbqT9CrP8i3mSQ)
+
+### Trading app
 
 [TradeStation](https://www.tradestation.com/)
 
@@ -64,7 +72,7 @@ Some interesting UI/UX that inspired me to implement
 - Composer removes the subjectivity of buying breakouts and then having to make decisions during the heat of the moment. I’m all about rules-based investing
 - With Composer you can create, backtest and invest in your own quant strategy - no code, spreadsheets or Terminal required
 
-### Apps for non-US residents to invest in US companies
+#### Apps for non-US residents to invest in US companies
 
 [Gotrade](https://www.heygotrade.com/)
 - founded: 2020
@@ -78,7 +86,7 @@ Some interesting UI/UX that inspired me to implement
 - asset type: stocks, etf, crypto, cfd
 - can buy fractional share
 
-### Tokenized commodities, securities
+#### Tokenized commodities, securities
 
 [Aurus](https://aurus.io/)
 - tokenized precious metal like gold, silver, platinum

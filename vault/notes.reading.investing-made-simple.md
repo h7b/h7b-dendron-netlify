@@ -14,6 +14,6 @@ created: 1635905724920
 - Author:: Mike Piper
 - Year of publication:: 2018
 - Category:: Book
-- Topic:: #topic.investment 
+- Topic:: #topic.investment, #topic.etf
 
 ## Notes from reading

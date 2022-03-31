@@ -14,6 +14,6 @@ created: 1636948416740
 - Author:: Ben Felix
 - Year of publication:: 2021
 - Category:: Article
-- Topic:: 
+- Topic:: #topic.etf, #topic.investment
 
 ## Notes from reading

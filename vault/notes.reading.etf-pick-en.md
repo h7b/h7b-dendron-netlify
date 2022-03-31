@@ -1,6 +1,6 @@
 ---
 id: wFQa92ldJjdtEGUR
-title: Etf Pick En
+title: ETF Pick en
 desc: ''
 updated: 1647563555839
 created: 1626426755261
@@ -14,7 +14,7 @@ created: 1626426755261
 - Author:: 
 - Year of publication:: 
 - Category:: Blog
-- Topic:: #topic.investment
+- Topic:: #topic.investment, #topic.etf
 
 ## Notes from reading
 

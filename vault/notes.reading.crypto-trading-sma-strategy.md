@@ -14,7 +14,7 @@ created: 1648422732474
 - Author:: Jonathan Hobbs
 - Year of publication:: 2022
 - Category:: Blog
-- Topic:: #topic.cryptoAsset
+- Topic:: #topic.crypto-asset
 - Related:: 
 
 ## Notes from reading

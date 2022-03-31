@@ -14,7 +14,7 @@ created: 1642817386230
 - Author:: Avthar Sewrathan
 - Year of publication:: 2019
 - Category:: Blog
-- Topic:: #topic.cryptoAsset
+- Topic:: #topic.crypto-asset
 - Related:: [TimescaleDocs](https://docs.timescale.com/timescaledb/latest/tutorials/analyze-cryptocurrency-data/)
 
 ## Notes from reading

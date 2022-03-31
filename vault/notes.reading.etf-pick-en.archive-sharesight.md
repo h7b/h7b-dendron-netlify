@@ -4,6 +4,7 @@ title: Archive Sharesight
 desc: ''
 updated: 1642559789368
 created: 1642559710656
+tags: topic.etf
 ---
 # What to look for when buying ETFs
 ref: [Sharesight](https://www.sharesight.com/blog/what-to-look-for-when-buying-etfs/)

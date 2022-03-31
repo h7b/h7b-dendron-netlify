@@ -14,7 +14,7 @@ created: 1643067448055
 - Author:: Patrick Boyle
 - Year of publication:: 2022
 - Category:: Blog
-- Topic:: #topic.cryptoAsset
+- Topic:: #topic.crypto-asset
 
 ## Notes from reading
 

@@ -38,7 +38,7 @@ A summary table of 3 best `Online Backup` services by [Wirecutter](https://www.n
 | File   sharing | Yes | Yes | No |
 | File   syncing | No | Yes | No |
 
-## Helpful resources
+## Related resources
 
 [iDrive review](https://www.bestbackupreviews.com/reviews/idrive-backup-review/) with plenty of screencap
 
@@ -54,3 +54,6 @@ A summary table of 3 best `Online Backup` services by [Wirecutter](https://www.n
 [iCloud+ plans and pricing](https://support.apple.com/en-us/HT201238) start at USD 0.99/month for 50GB 
 
 [Carbonite review](https://www.cloudwards.net/review/carbonite/)
+
+[Hetzner | Storage Share](https://www.hetzner.com/storage/storage-share)
+- a cloud storage service, provided by Hetzner, powered by [Nextcloud](https://nextcloud.com/)

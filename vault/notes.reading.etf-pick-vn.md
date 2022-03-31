@@ -1,6 +1,6 @@
 ---
 id: rTQLymA0PTxY9hhUWydDr
-title: Etf Pick Vn
+title: ETF Pick vn
 desc: ''
 updated: 1647563568776
 created: 1633304916288
@@ -14,7 +14,7 @@ created: 1633304916288
 - Author:: 
 - Year of publication:: 2021
 - Category:: Blog
-- Topic:: #topic.investment
+- Topic:: #topic.investment, #topic.etf
 
 ## Notes from reading
 

@@ -14,7 +14,7 @@ created: 1648423808078
 - Author:: Reda Farran
 - Year of publication:: 2022
 - Category:: Blog
-- Topic:: #topic.cryptoAsset
+- Topic:: #topic.crypto-asset
 - Related:: 
 
 ## Notes from reading

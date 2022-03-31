@@ -14,7 +14,7 @@ created: 1635538030093
 - Author:: 
 - Year of publication:: 2021
 - Category:: Blog
-- Topic:: #topic.cryptoAsset
+- Topic:: #topic.crypto-asset
 - Related:: [Investopedia](https://www.investopedia.com/terms/t/tokenized-equity.asp), [ftx](https://help.ftx.com/hc/en-us/articles/360051229472-Tokenized-Stocks), [[Bloomberg|notes.reading.tokenized-equity.archive-bloomberg]]
 
 ## Notes from reading

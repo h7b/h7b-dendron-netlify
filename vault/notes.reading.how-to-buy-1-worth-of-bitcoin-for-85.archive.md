@@ -4,6 +4,9 @@ title: Archive
 desc: ''
 updated: 1642470743880
 created: 1642470701415
+tags:
+    - topic.etf
+    - topic.crypto-asset
 ---
 # How To Buy $1 Worth Of Bitcoin For 85¢
 ref: [Finimize](https://subscriptions.finimize.com/content/Q29udGVudFBpZWNlOjM3NjU=/how-to-buy-1-worth-of-bitcoin-for-85)

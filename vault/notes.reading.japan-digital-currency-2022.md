@@ -14,7 +14,7 @@ created: 1637781323339
 - Author:: Takero Minami
 - Year of publication:: 2021
 - Category:: News
-- Topic:: #topic.cryptoAsset
+- Topic:: #topic.crypto-asset
 
 ## Notes from reading
 

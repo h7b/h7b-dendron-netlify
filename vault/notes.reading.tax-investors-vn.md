@@ -1,6 +1,6 @@
 ---
 id: Ianw2EU0MRFDo35bLj3Nk
-title: Tax Investment Vn
+title: Tax Basics for Investors in Vietnam
 desc: ''
 updated: 1647564425349
 created: 1626043266714
@@ -14,7 +14,7 @@ created: 1626043266714
 - Author:: 
 - Year of publication:: 
 - Category:: 
-- Topic:: #topic.investment
+- Topic:: #topic.investment, #topic.etf
 
 ## Notes from reading
 

@@ -1,6 +1,6 @@
 ---
 id: IgzRtMZeUa7htWo5VKBE3
-title: Etf Tax Consideration
+title: ETF Tax Consideration
 desc: ''
 updated: 1647563577511
 created: 1635727808386
@@ -14,7 +14,7 @@ created: 1635727808386
 - Author:: David Olsen
 - Year of publication:: 2021
 - Category:: Blog
-- Topic:: #topic.investment
+- Topic:: #topic.investment, #topic.etf
 
 ## Notes from reading
 
@@ -22,7 +22,7 @@ ETFs are a unitised trust structure that hold a number of underlying assets that
 
 The tax implications will vary by region
 
-- in the USA distributions earned by the ETF are typically treated as ‘ordinary dividends’ and taxed accordingly. Read more about [[etf tax in us|notes.reading.etf-tax-us]]
+- in the USA distributions earned by the ETF are typically treated as *ordinary dividends* and taxed accordingly. Read more about [[etf tax in us|notes.reading.etf-tax-us]]
 - in Australia most ETFs use the Attribution Managed Investment Trust (AMIT) structure and are a tax nightmare.
 - ETFs also create complexity for UK investors, as depending whether the ETF has reporting status or not, or whether it was purchased through an ISA or SIPP, this can have significant implications on [how it is taxed](https://www.justetf.com/en/news/passive-investing/how-etfs-are-taxed-in-the-uk.html).
 

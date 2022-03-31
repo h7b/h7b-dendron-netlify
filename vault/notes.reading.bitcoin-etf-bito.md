@@ -14,7 +14,7 @@ created: 1634940439241
 - Author:: Stake
 - Year of publication:: 2021
 - Category:: Blog
-- Topic:: #topic.cryptoAsset
+- Topic:: #topic.crypto-asset, #topic.etf
 
 ## Notes from reading
 

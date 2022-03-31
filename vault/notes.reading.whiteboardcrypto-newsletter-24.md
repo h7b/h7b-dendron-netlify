@@ -14,7 +14,7 @@ created: 1648167623886
 - Author:: Theodore
 - Year of publication:: 2022
 - Category:: Blog
-- Topic:: #topic.cryptoAsset
+- Topic:: #topic.crypto-asset
 - Related:: 
 
 ## Notes from reading

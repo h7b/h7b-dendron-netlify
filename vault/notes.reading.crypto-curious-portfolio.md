@@ -14,6 +14,6 @@ created: 1640658335463
 - Author:: Reda Farran
 - Year of publication:: 2021
 - Category:: Blog
-- Topic:: #topic.cryptoAsset
+- Topic:: #topic.crypto-asset
 
 ## Notes from reading
