@@ -4,25 +4,18 @@ title: How to Collect Market Data (stocks/crypto)
 desc: ''
 updated: 1643865864172
 created: 1626513463054
+tags: topic.investment
 ---
 # How do I get stocks/crypto trading data
 
 Ref: [Towards Data Science](https://towardsdatascience.com/best-5-free-stock-market-apis-in-2019-ad91dddec984), [Algotrading101](https://algotrading101.com/learn/yfinance-guide/), [awesome-quant | Data Sources](https://github.com/wilsonfreitas/awesome-quant#data-sources)
 
-Paid official data sources:
-- [IEX Cloud](https://iexcloud.io/)
-    - [Pricing](https://iexcloud.io/pricing/) starts at USD 19/month. Has free plan 
-- [Alpha Vantage](https://www.alphavantage.co/)
-    - Has [addon](https://www.alphavantage.co/spreadsheets/) for spreadsheet apps
-    - [Premium plan](https://www.alphavantage.co/premium/) starts at USD 50/month. It also has Free API key for consumers
-- [polygon.io](https://polygon.io/)
-    - Different [Pricing](https://polygon.io/pricing) for stocks, currencies and options. Has free plan
-- [Alpaca](https://alpaca.markets/)
-    - [Pricing](https://alpaca.markets/data) starts at USD 9/month. Has free plan
-    - US stocks and etf only
-    - [Paper trading](https://alpaca.markets/docs/trading-on-alpaca/paper-trading/) is a real-time simulation environment where you can test your code. You can reset and test your algorithm as much as you want using free, real-time market data. Paper trading simulates crypto trading as well. Paper trading works the same way as live trading end to end - except the order is not routed a live exchange
+## Paid data sources
 
-Free unofficial community package:
+![[notes.unsorted.side-business-idea#data-api-provider,1]]
+
+## Free community package:
+
 - manually download historical data from <https://www.investing.com/> or use [investpy](https://github.com/alvarobartt/investpy)
 - [pandas-datareader](https://pydata.github.io/pandas-datareader/) Python package
 - and many other can be found in this list [awesome-quant | Data Sources](https://github.com/wilsonfreitas/awesome-quant#data-sources)
@@ -37,6 +30,8 @@ Free unofficial community package:
 
 [TradeKit](https://github.com/hackingthemarkets/tradekit)
 - list of various Python libraries and frameworks used for financial applications
+
+[Investopedia | Basics of Algorithmic Trading: Concepts and Examples](https://www.investopedia.com/articles/active-trading/101014/basics-algorithmic-trading-concepts-and-examples.asp)
 
 [Algotrading101 | Yahoo Finance API Guide](https://algotrading101.com/learn/yahoo-finance-api-guide/)
 

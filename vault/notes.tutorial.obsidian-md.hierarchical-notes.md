@@ -15,7 +15,7 @@ Now Obsidian with Breadcrumbs plugin is great to read and edit Dendron notes on 
 
 Then a problem now is how to include only `.vault` folder of Dendron into a vault folder of Obsidian, so the icloud sync for Obsidian is not flooded by the swarms of files in` .next` folder of Dendron
 
-I need only the Breadcrumbs plugin for Obsidian to navigate the hierarchy structure of Dendron notes, without modifying the frontmatter of each notes.
+I need only the *Breadcrumbs* plugin for Obsidian to navigate the hierarchy structure of Dendron notes, without modifying the frontmatter of each notes.
 
 **Update 2021-12-31:**
 
@@ -24,3 +24,14 @@ The situation is even better after I used the [[Netlify publishing workflow|note
 From there I can open, edit and navigate the hierarchy structure of my Dendron vault using Obsidian on iOS
 
 This is basically a game changer workflow for me. It means that I can edit my Dendron vault on the fly on mobile. When I’m on desk, the change will sync to my laptop via iCloud. Then i open Dendron workspace to push changes to GitHub repo. Done. My notes are published. So great
+
+**Update 2022-04-01:**
+
+*Breadcrumbs* has its own [codeblocks](https://breadcrumbs-wiki.onrender.com/docs/Codeblocks). I use it to display the hierarchical tree view of notes in Dendron-hierarchy format, by inserting the breadcrumbs codeblock into a specific note.
+
+````
+```breadcrumbs
+type: tree
+dir: down
+```
+````

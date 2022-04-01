@@ -4,6 +4,7 @@ title: Side Business Idea
 desc: ''
 updated: 1646007027224
 created: 1643854567901
+tags: topic.investment
 ---
 # My fantasy of wealth management business
 
@@ -63,7 +64,7 @@ Is there an equivalent entity of [Regulated Investment Company (RIC)](https://ww
 - [Investment strategy](https://en.wikipedia.org/wiki/Fundsmith): looks for companies generating high returns on capital and operating in sectors driven by a large number of everyday, repeat events and transactions, such as consumer staples and medical consumables. It avoids emerging technology firms, owing to their inherent unpredictability; it also avoids firms in heavily cyclical industries, such as airlines and real estate. Fundsmith also looks for companies with an established competitive advantage.
 - [Youtube | Fundshmith](https://www.youtube.com/channel/UCEW0yRVs0CbqT9CrP8i3mSQ)
 
-### Trading app
+### Brokerage trading app
 
 [TradeStation](https://www.tradestation.com/)
 
@@ -72,7 +73,15 @@ Is there an equivalent entity of [Regulated Investment Company (RIC)](https://ww
 - Composer removes the subjectivity of buying breakouts and then having to make decisions during the heat of the moment. I’m all about rules-based investing
 - With Composer you can create, backtest and invest in your own quant strategy - no code, spreadsheets or Terminal required
 
-#### Apps for non-US residents to invest in US companies
+[Streak](https://streak.world/)
+- no code platform for algo trade
+- [pricing](https://streak.world/pricing) starts USD 20/month for algo trading. Free for manual trading
+
+[Quantreex](https://www.quantreex.com/)
+- Create advanced automated trading strategies without coding
+- [pricing](https://www.quantreex.com/plans) starts at USD 89/month. Free for demo trading account
+
+#### Brokerage apps for non-US residents to invest in US companies
 
 [Gotrade](https://www.heygotrade.com/)
 - founded: 2020
@@ -100,3 +109,45 @@ Is there an equivalent entity of [Regulated Investment Company (RIC)](https://ww
 - crypto exchange
 - bundle a portfolio of many crypto currencies into 1 index coin
 - bundle the trifecta of precious metals (gold, silver and platinum) into 1 index coin ([60% gold, 15% silver, 5% platinum, and 20% Dacxi Coins](https://dacxi.com/dacxi-precious-metal-bundle))
+
+### Investment research platform
+
+[OpenBB](https://openbb.co/) terminal
+- open source investment research platform investment research platform for retail traders
+- alternative of [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
+- GitHub [repo](https://github.com/OpenBB-finance/OpenBBTerminal)
+- related news: [VentureBeat](https://venturebeat.com/2022/03/30/openbb-wants-to-be-an-open-source-challenger-to-bloomberg-terminal/)
+
+[koyfin](https://www.koyfin.com/)
+- financial data and analytics platform for researching stocks and understanding market trends
+- [pricing](https://www.koyfin.com/pricing/) starts at USD 25/month, with a Free tier available
+
+[Stock Unlock](https://stockunlock.com/)
+- investing education and analysis platform
+- pricing starts at USD 7/month, with 7-day free trial without credit card requirement
+
+[Simply Wall St](https://simplywall.st/)
+- investing stock analysis platform
+- [pricing](https://simplywall.st/plans) starts at USD 10/month, with a limited Free plan
+
+[Simplize](https://simplize.vn/)
+- investing stock analysis platform for Vietnam market only
+- they learn and imitate the UI of [Simply Wall St](https://simplywall.st/)
+
+### Data API provider
+
+[Alpaca](https://alpaca.markets/)
+- API service provider for Stock and Crypto Trading
+- [Pricing](https://alpaca.markets/data) starts at USD 9/month. Has free plan
+- US stocks and etf only
+- [Paper trading](https://alpaca.markets/docs/trading-on-alpaca/paper-trading/) is a real-time simulation environment where you can test your code. You can reset and test your algorithm as much as you want using free, real-time market data. Paper trading simulates crypto trading as well. Paper trading works the same way as live trading end to end - except the order is not routed a live exchange
+
+[IEX Cloud](https://iexcloud.io/)
+- [Pricing](https://iexcloud.io/pricing/) starts at USD 19/month. Has free plan 
+
+[Alpha Vantage](https://www.alphavantage.co/)
+- Has [addon](https://www.alphavantage.co/spreadsheets/) for spreadsheet apps
+- [Premium plan](https://www.alphavantage.co/premium/) starts at USD 50/month. It also has Free API key for consumers
+
+[polygon](https://polygon.io/)
+- Different [Pricing](https://polygon.io/pricing) for stocks, currencies and options. Has free plan

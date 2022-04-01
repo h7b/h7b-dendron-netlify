@@ -1,4 +1,4 @@
-This is an Obsidian Dataview query page, served for personal test purpose
+This is an Obsidian Dataview query page, served as an overview of vault's content
 
 ```dataview
 TABLE category, topic, year-of-publication, related
