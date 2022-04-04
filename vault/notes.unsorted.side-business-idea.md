@@ -81,6 +81,16 @@ Is there an equivalent entity of [Regulated Investment Company (RIC)](https://ww
 - Create advanced automated trading strategies without coding
 - [pricing](https://www.quantreex.com/plans) starts at USD 89/month. Free for demo trading account
 
+[Quantower](https://www.quantower.com/)
+- Analysis and trading
+- multi-asset coverage: forex, cfd, crypto, digital assets, stocks, options
+- [Pricing](https://www.quantower.com/pricing) starts at USD 40/month. Free plan available
+
+[HyperTrader](https://hypertrader.app/)
+- Crypto Trading Terminal
+- [Pricing](https://hypertrader.app/pricing/) starts at USD 42/month. 21-day free trial only
+- backed by Y Combinator. [Discussion](https://news.ycombinator.com/item?id=28107989) on Hacker News
+
 #### Brokerage apps for non-US residents to invest in US companies
 
 [Gotrade](https://www.heygotrade.com/)
@@ -113,7 +123,7 @@ Is there an equivalent entity of [Regulated Investment Company (RIC)](https://ww
 ### Investment research platform
 
 [OpenBB](https://openbb.co/) terminal
-- open source investment research platform investment research platform for retail traders
+- open source investment research platform for retail traders
 - alternative of [Bloomberg Terminal](https://www.bloomberg.com/professional/solution/bloomberg-terminal/)
 - GitHub [repo](https://github.com/OpenBB-finance/OpenBBTerminal)
 - related news: [VentureBeat](https://venturebeat.com/2022/03/30/openbb-wants-to-be-an-open-source-challenger-to-bloomberg-terminal/)
@@ -123,15 +133,19 @@ Is there an equivalent entity of [Regulated Investment Company (RIC)](https://ww
 - [pricing](https://www.koyfin.com/pricing/) starts at USD 25/month, with a Free tier available
 
 [Stock Unlock](https://stockunlock.com/)
-- investing education and analysis platform
+- investment education and analysis platform
 - pricing starts at USD 7/month, with 7-day free trial without credit card requirement
 
 [Simply Wall St](https://simplywall.st/)
-- investing stock analysis platform
+- investment stock analysis platform
 - [pricing](https://simplywall.st/plans) starts at USD 10/month, with a limited Free plan
 
+[TIKR Terminal](https://tikr.com/)
+- investment stock analysis platform
+- [pricing](https://app.tikr.com/pricing) starts at USD 20/month, with a Free plan for US data feeds
+
 [Simplize](https://simplize.vn/)
-- investing stock analysis platform for Vietnam market only
+- investment stock analysis platform for Vietnam market only
 - they learn and imitate the UI of [Simply Wall St](https://simplywall.st/)
 
 ### Data API provider

@@ -110,6 +110,28 @@ created: 1636706914265
 - [Pricing](https://sheety.co/pricing) starts at USD 10/month
 - So limited in number of rows per sheet, even for premium plan
 
+### [FireJet](https://www.firejet.io/)
+- Turn [Figma](https://www.figma.com/) design into Code
+- [Pricing](https://www.firejet.io/pricing) starts at USD 38/month
+
+### [mmm.page](https://mmm.page/)
+- Drag and drop visual blocks to create website
+- Pricing starts at USD 15/month. Free plan available
+
+### [linktree](https://linktr.ee/)
+- [Pricing](https://linktr.ee/s/pricing/) starts at USD 3/month. Free plan available
+- Create a simple mobile launchpad for your online presence, to sell products, share contents or grow audience
+
+## Design Prototype Mockup tool
+
+### [Figma](https://www.figma.com/)
+- [Pricing](https://www.figma.com/pricing/) starts at USD 15/month. Free plan available
+- Collaborative design and prototype
+
+### [ProtoPie](https://www.protopie.io/)
+- [Pricing](https://www.protopie.io/plans) starts at USD 13/month. 30-day free trial only
+- Create interactive, realistic prototypes that work like the actual digital product
+
 ## Integrate membership into website
 
 ### [Memberstack](https://www.memberstack.com/)
@@ -142,6 +164,7 @@ created: 1636706914265
 
 ### [Meeps](https://meeps.app/)
 - 2022-03-10, currently has only `Early Access Plan` for USD 99/year
+
 
 ## Related resources
 - [Curated list](https://www.makerpad.co/tool-directory) by Makerpad

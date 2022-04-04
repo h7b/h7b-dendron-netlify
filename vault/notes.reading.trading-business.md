@@ -14,7 +14,8 @@ created: 1643181645736
 - Author:: Leo Smigel
 - Year of publication:: 2022
 - Category:: Blog
-- Topic:: 
+- Topic::
+- Related:: [[notes.unsorted.side-business-idea]]
 
 ## Notes from reading
 
