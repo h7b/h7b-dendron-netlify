@@ -62,7 +62,7 @@ Is there an equivalent entity of [Regulated Investment Company (RIC)](https://ww
 
 [Fundsmith](https://www.fundsmith.co.uk/) equity fund
 - [Investment strategy](https://en.wikipedia.org/wiki/Fundsmith): looks for companies generating high returns on capital and operating in sectors driven by a large number of everyday, repeat events and transactions, such as consumer staples and medical consumables. It avoids emerging technology firms, owing to their inherent unpredictability; it also avoids firms in heavily cyclical industries, such as airlines and real estate. Fundsmith also looks for companies with an established competitive advantage.
-- [Youtube | Fundshmith](https://www.youtube.com/channel/UCEW0yRVs0CbqT9CrP8i3mSQ)
+- [Youtube | Fundsmith](https://www.youtube.com/channel/UCEW0yRVs0CbqT9CrP8i3mSQ)
 
 ### Brokerage trading app
 
