@@ -116,4 +116,5 @@ publishing:
     enablePrettyLinks: true
     hierarchy:
         personal-finance: # hierarchy name
-            publishByDefault: false
+            publishByDefault: 
+                h7b-dendron: false
