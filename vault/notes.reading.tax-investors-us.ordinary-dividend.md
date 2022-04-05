@@ -9,7 +9,7 @@ created: 1648744793033
 
 ref: [Investopedia](https://www.investopedia.com/terms/o/ordinary-dividends.asp)
 
-Dividends are considered *ordinary* by default, unless they meet specific criteria put in place by the IRS to be classified as *[[qualified|notes.reading.etf-tax-us.qualified-dividend]]*.
+Dividends are considered *ordinary* by default, unless they meet specific criteria put in place by the IRS to be classified as *[[qualified|notes.reading.tax-investors-us.qualified-dividend]]*.
 
 The tax rate you pay on ordinary dividend earnings is at the same level as taxes for regular federal income or wages.
 

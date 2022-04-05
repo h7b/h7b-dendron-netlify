@@ -11,7 +11,7 @@ ref:
 - [Investopedia | Qualified Dividend](https://www.investopedia.com/terms/q/qualifieddividend.asp)
 - [Investopedia | Are Qualified Dividends Included in Gross Income?](https://www.investopedia.com/ask/answers/082316/are-qualified-dividends-included-gross-income.asp)
 
-qualified dividends must meet the following requirements, as outlined by the Internal Revenue Service (IRS):
+Qualified dividends must meet the following requirements, as outlined by the Internal Revenue Service (IRS):
 - The dividend must have been paid by a U.S. company or a qualifying foreign company
 - The dividends are not listed with the IRS as those that do not qualify
 - The required dividend holding period has been met [^1]

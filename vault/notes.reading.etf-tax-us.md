@@ -15,14 +15,12 @@ created: 1635727958093
 - Year of publication:: 2021
 - Category:: Blog
 - Topic:: #topic.investment, #topic.etf
-- Related:: 
+- Related::
+    - [[Tax Basics for Investors in US|notes.reading.tax-investors-us]]
     - [Tax Efficiency Differences: ETFs vs. Mutual Funds](https://www.investopedia.com/articles/investing/090215/comparing-etfs-vs-mutual-funds-tax-efficiency.asp)
     - [Net Investment Income (NII)](https://www.investopedia.com/terms/n/netinvestmentincome.asp)
-    - [Taxable Income](https://www.investopedia.com/terms/t/taxableincome.asp)
     - [How Capital Gains from Mutual Funds Are Taxed in the U.S.](https://www.investopedia.com/articles/investing/060215/how-mutual-funds-are-taxed-us.asp)
-    - [Ordinary Income](https://www.investopedia.com/terms/o/ordinaryincome.asp)
-    - [Long-Term Capital Gain or Loss](https://www.investopedia.com/terms/l/long-term_capital_gain_loss.asp)
-    - [How Capital Gains and Dividends Are Taxed Differently](https://www.investopedia.com/ask/answers/12/how-are-capital-gains-dividends-taxed-differently.asp)
+    - [Using Tax-Loss Harvesting to Improve Investment Returns](https://www.investopedia.com/articles/taxes/08/tax-loss-harvesting.asp)
 
 ## Notes from reading
 
@@ -42,13 +40,7 @@ Many ETFs generate dividends from the stocks they hold. Ordinary (taxable) divid
 
 Exceptions: ETFs that invest in currencies, metals, and futures do not follow the general tax rules. Rather, as a general rule, they follow the tax rules of the underlying asset, which usually results in short-term gain tax treatment.
 
-When investors sell assets from their portfolios, the proceeds from the transaction results in either a [realized gain](https://www.investopedia.com/terms/r/realizedprofit.asp) or loss. 
-
-This trade triggers a taxable event
-- Federal Income Tax
-- State Income Tax
-
-In case of ETFs and stocks, the realized gains will be 
+In case of ETFs and stocks, the realized gains from selling assets in portfolio will be 
 - capital gains from selling a stock or ETF
 - dividends paid to shareholders of a company
 - interest income received from fixed income products (bond)
@@ -57,26 +49,4 @@ The difference between any realized gains (before taxes are applied) and trade c
 
 Possible tax liability for an ETF
 - tax on capital gains
-- tax on [distributions](https://www.investopedia.com/terms/d/distribution.asp) (ie. dividends, interest earned) 
-
-### Tax on Dividends
-
-- [[qualified dividends|notes.reading.etf-tax-us.qualified-dividend]]
-    - A qualified dividend is taxed at the capital gains tax rate [^2]
-    - The tax rate for qualified dividends ranges from 0% to 20% [^1] [^2]
-- [[ordinary dividends|notes.reading.etf-tax-us.ordinary-dividend]]
-    - aka non-qualified / unqualified dividends
-    - ordinary dividends are taxed at standard federal income tax rates [^2]
-    - The maximum tax rate for ordinary dividends for the 2021 and 2022 calendar years, is 37% [^1] [^2]
-
-### Tax on capital gains
-
-For capital gains, there are two rates: 
-- long-term (for assets held longer than one year). 
-    - Long-term capital gains are smaller with a maximum of 20%
-- short-term (less than one year)
-    - Short-term gains are taxed as ordinary income
-
-[^1]: Internal Revenue Service. [IRS Provides Tax Inflation Adjustments for Tax Year 2022](https://www.irs.gov/newsroom/irs-provides-tax-inflation-adjustments-for-tax-year-2022). Accessed Jan. 22, 2022.
-
-[^2]: Internal Revenue Service. [Publication 550: Investment Income and Expenses (Including Capital Gains and Losses), Page 19](https://www.irs.gov/pub/irs-pdf/p550.pdf#page=19). Accessed Jan. 22, 2022.
+- tax on [distributions](https://www.investopedia.com/terms/d/distribution.asp) (ie. dividends, interest earned)

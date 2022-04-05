@@ -1,6 +1,6 @@
 ---
 id: 7fk0mnvdwoyopv489ooae9x
-title: Income Tax
+title: Income Tax in US
 desc: ''
 updated: 1648757651699
 created: 1648757651699
@@ -73,6 +73,8 @@ ref: [nerdwallet](https://www.nerdwallet.com/article/taxes/california-state-tax)
 
 The standard deduction for state income taxes in California is $4,803 (single or married filing separately) and $9,606 (married filing jointly, qualifying widow/er or head of household).
 
+California does not have a lower rate for qualified dividends. All dividends are taxed as ordinary income. [^5]
+
 Regardless of filing status, an additional 1% tax applies to income exceeding $1 million.
 
 If your California residency type is *Resident*, California taxes all income from all sources inside and outside California.
@@ -95,6 +97,7 @@ California state tax rates and tax brackets for *Married filing jointly*
 
 - [State Income Tax vs. Federal Income Tax: What's the Difference?](https://www.investopedia.com/ask/answers/060515/what-difference-between-state-income-tax-and-federal-income-tax.asp)
 - [Tax Rate](https://www.investopedia.com/terms/t/taxrate.asp)
+- [Taxable Income](https://www.investopedia.com/terms/t/taxableincome.asp)
 
 [^1]: Internal Revenue Service. [IRS Provides Tax Inflation Adjustments for Tax Year 2022](https://www.irs.gov/newsroom/irs-provides-tax-inflation-adjustments-for-tax-year-2022). Accessed Jan. 22, 2022.
 
@@ -103,3 +106,5 @@ California state tax rates and tax brackets for *Married filing jointly*
 [^3]: Tax Foundation. [State Individual Income Tax Rates and Brackets for 2021](https://taxfoundation.org/state-income-tax-rates-2021/). Accessed Feb. 5, 2022.
 
 [^4]: Utah Income Taxes. [Tax Rates](https://incometax.utah.gov/paying/tax-rates). Accessed Feb. 5, 2022.
+
+[^5]: California Income Taxes. [1099 guidance for recipients, 1099-DIV: Dividend income](https://www.ftb.ca.gov/file/personal/income-types/information-returns-1099.html#1099-DIV-Dividend-income). Accessed Apr. 5, 2022.
