@@ -2,7 +2,7 @@
 id: Ruw6Q1WlSQPTSGrK5fi29
 title: Tools Spreadsheet Alternatives
 desc: ''
-updated: 1646868382438
+updated: 1649282303463
 created: 1636706940589
 ---
 # The alternatives of spreadsheet 
@@ -38,11 +38,16 @@ Thoughts:
 - GRID does not write back into your original spreadsheet when a GRID document is interacted with or altered
 - Similar to [Causal](https://www.causal.app/)
 
-### [Causal](https://www.causal.app/)  
+### [Causal](https://www.causal.app/)
 - [Pricing plan](https://www.causal.app/pricing) starts at USD 50/month, with good free tier.
 - Thoughts: 
   - better tools to build models and scenarios, compared to Excel
   - publish beautiful, interactive report
+
+### [Modeloptic](https://www.modeloptic.com/)
+- [Pricing] starts at USD 350/month
+- alternative of [Causal](https://www.causal.app/)
+- focus in financial reporting and modeling
 
 ### [Spreadsheet.com](https://www.spreadsheet.com/)  
 - [Pricing plan](https://www.spreadsheet.com/pricing) starts at USD 11/month/creator, free for editor/commenter/viewer. With limited free tier, 2000 rows per workbook, similar to Airtable  
@@ -56,7 +61,7 @@ Thoughts:
 ### [Smartsheet](https://www.smartsheet.com/)  
 [Pricing plan](https://www.smartsheet.com/pricing) starts at USD 9/month/user, min 3 users. 30-day free trial only.
 
-### [Airtable](https://www.airtable.com/)  
+### [Airtable](https://www.airtable.com/)
 - [Pricing plan](https://airtable.com/pricing) starts at USD 12/month. With limited free tier (1200 records per base).  
 - Thoughts: small database use case
 
@@ -80,6 +85,24 @@ Thoughts:
 ### [Seatable](https://seatable.io/en/)
 - [Pricing](https://seatable.io/en/preise/) starts at EUR 7/month. With Free tier
 - database, open source alternative of [Airtable](https://www.airtable.com/)
+
+### [Subset](https://subset.so/)
+- modern spreadsheet built on an endless canvas
+- Currently (2022-04-06) available for invite only
+
+### [Ultorg](https://www.ultorg.com/)
+- Currently (2022-04-06) in private beta only
+- a general-purpose, graphical user interface for relational databases. spreadsheets re-built atop the RDBMS datamodel
+
+### [Google Tables](https://support.google.com/area120-tables/answer/10831919?hl=en&ref_topic=9904105)
+- an experimental project in Area 120, Google's internal incubator
+- alternative of [Airtable](https://www.airtable.com/)
+
+### [Amazon Honeycode](https://www.honeycode.aws/)
+- alternative of [Airtable](https://www.airtable.com/)
+
+### [Clay](https://www.clay.run/)
+- [pricing](https://www.clay.run/pricing) need to contact sales. 14-day free trial
 
 ## The 3 types of spreadsheets
 
