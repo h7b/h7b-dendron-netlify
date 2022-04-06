@@ -2,7 +2,7 @@
 id: 62hu4qxm5c6q0uswvdr4x17
 title: Amazon Acquires MGM
 desc: ''
-updated: 1647563102875
+updated: 1649269896144
 created: 1647480470114
 ---
 # Reading 2022-03-17
@@ -25,5 +25,6 @@ The news itself is not exceptional, just proving the fact that
 With such hindrance, would the trend of content piracy resurrect?
 
 Nowadays, nobody with average knowledge will use open source bittorrent client like [qBittorrent](https://www.qbittorrent.org/) or [BiglyBT](https://www.biglybt.com/) to search for pirated content, because of legal issues. 
-- They can search for private free or paid Plex server in [Plex shares reddit](https://www.reddit.com/r/plexshares/)
+- They can search for private free or paid Plex server in [Plex shares reddit](https://www.reddit.com/r/plexshares/), with a [tweaked](https://appdb.to/app/cydia/1900000472) iOS app to be sideloaded
 - Or spin up a personal media server using [Jellyfin](https://jellyfin.org/)
+- [Stremio](https://www.stremio.com/) is another option, with a [r/StremioAddons](https://www.reddit.com/r/StremioAddons/) or [an addon-curated-list](https://github.com/danamag/stremio-addons-list/blob/main/README.md) to explore if you want to go down the road of torrent

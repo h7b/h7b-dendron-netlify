@@ -66,7 +66,7 @@ workspace:
     enableAutoFoldFrontmatter: false
     maxPreviewsCached: 10
     maxNoteLength: 204800
-    dendronVersion: 0.83.0
+    dendronVersion: 0.89.0
     enableEditorDecorations: true
 preview:
     enableFMTitle: false
@@ -87,7 +87,13 @@ publishing:
     logoPath: vault/assets/logo.png
     siteFaviconPath: vault/assets/favicon.ico
     siteHierarchies:
-        - root
+        - blog
+        - notes
+        - p-fin
+    hierarchy:
+        p-fin: # hierarchy name
+            publishByDefault: 
+                h7b-dendron: false
     enableSiteLastModified: false
     siteRootDir: docs
     siteUrl: 'https://kool.casa/'
@@ -109,12 +115,11 @@ publishing:
             determined by the id in the frontmatter.
         author: Huy
     github:
-        enableEditLink: true
-        editLinkText: Edit this page on GitHub
+        enableEditLink: false
+        editLinkText: Click here to edit this page on GitHub
         editBranch: main
-        editViewMode: tree
+        editViewMode: edit
+        editRepository: https://github.com/
     enablePrettyLinks: true
-    hierarchy:
-        personal-finance: # hierarchy name
-            publishByDefault: 
-                h7b-dendron: false
+    enableHierarchyDisplay: true
+    hierarchyDisplayTitle: Children

@@ -2,7 +2,7 @@
 id: xIHUqgJilv3BmnvbvwlhF
 title: Side Business Idea
 desc: ''
-updated: 1646007027224
+updated: 1649277563044
 created: 1643854567901
 tags: topic.investment
 ---
@@ -67,6 +67,7 @@ Is there an equivalent entity of [Regulated Investment Company (RIC)](https://ww
 ### Brokerage trading app
 
 [TradeStation](https://www.tradestation.com/)
+- trading platform for stock, etf, derivatives, crypto
 
 [Composer](https://www.composer.trade/)
 - a no code platform for creating and investing with rules-based trading strategies. It's basically algo-trading without Python or Excel. They have dozens of [pre-made investing templates](https://app.composer.trade/discover). But you can also build your own strategy
@@ -145,8 +146,11 @@ Is there an equivalent entity of [Regulated Investment Company (RIC)](https://ww
 - [pricing](https://app.tikr.com/pricing) starts at USD 20/month, with a Free plan for US data feeds
 
 [Simplize](https://simplize.vn/)
-- investment stock analysis platform for Vietnam market only
+- stock analysis platform for Vietnam market only
 - they learn and imitate the UI of [Simply Wall St](https://simplywall.st/)
+
+[VnDirect | DStock](https://dstock.vndirect.com.vn/)
+- stock analysis platform for Vietnam market only
 
 ### Data API provider
 
@@ -165,3 +169,19 @@ Is there an equivalent entity of [Regulated Investment Company (RIC)](https://ww
 
 [polygon](https://polygon.io/)
 - Different [Pricing](https://polygon.io/pricing) for stocks, currencies and options. Has free plan
+
+[Fiingroup](https://fiingroup.vn/)
+- [API Data Feed Services](https://fiingroup.vn/ApiDataFeed)
+    - Vietnam market only
+- [FiinTrade](https://fiingroup.vn/FiinTrade)
+    - platform for traders in Vietnam stock market
+    - pricing starts at VND 1,399,000/month. 14-day free trial
+- [FiinPro](https://fiingroup.vn/FiinPro)
+    - In-depth Financial Database in Vietnam
+    - pricing starts at VND 9,000,000/month. 14-day free trial
+
+[SSI | Fast Connect API](https://www.ssi.com.vn/khach-hang-ca-nhan/fast-connect-api)
+- Data for Vietnam market only
+
+[VietStock | DataFeed](https://dichvu.vietstock.vn/du-lieu-tai-chinh/datafeed---du-lieu-tai-chinh-tich-hop-chuyen-nghiep)
+- Data for Vietnam market only
