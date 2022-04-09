@@ -2,7 +2,7 @@
 id: 3ypvi35mjugdvaxq8uky33j
 title: Stock Valuation
 desc: ''
-updated: 1647899749232
+updated: 1649445364121
 created: 1646959091277
 ---
 # Stock valuation method
@@ -13,7 +13,7 @@ ref: [Investopedia](https://www.investopedia.com/articles/fundamental-analysis/1
 2 categories of valuation models
 - absolute
   - attempt to find the intrinsic or "true" value of an investment based only on fundamentals, such things as dividends, cash flow, and the growth rate for a single company and not worry about any other companies
-  - notable method: Discounted Cash Flow model (DCF), Dividend Discount Model (DDM)
+  - notable method: Discounted Cash Flow model (DCF) and its variant Dividend Discount Model (DDM)
 - relative
   - compare the company in question to other similar companies. These methods involve calculating multiples and ratios, such as the price-to-earnings (P/E) ratio, and comparing them to the multiples of similar companies
   ![relative-valuation](https://cdn.corporatefinanceinstitute.com/assets/valuation-multiples-1200x720.png){max-width: 300px, display: block, margin: 0 auto}

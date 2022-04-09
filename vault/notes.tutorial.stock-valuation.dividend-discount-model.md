@@ -2,7 +2,7 @@
 id: 4x2hvv0tbb71b7gqjdawyc9
 title: Dividend Discount Model
 desc: ''
-updated: 1647901076094
+updated: 1649457691304
 created: 1647318303482
 ---
 # Dividend Discount Model
@@ -29,11 +29,12 @@ The most common and straightforward variant of the Dividend Discount Model (DDM)
 
 The GGM assumes that a company exists forever and that there is a constant growth in dividends when valuing a company's stock.
 
-$$P = \frac{D_1}{r-g}$$
+$$P = \frac{D_0*(1+g)}{r-g} = \frac{D_1}{r-g}$$
 
 where
 - $P =$ current stock Price
-- $D_1 =$ value of next year's Dividends
+- $D_0 =$ the most recent dividend
+- $D_1 =$ value of next year's dividend (after $D_0$)
 - $r =$ constant Cost of Capital Equity for the company, or rate of return
 - $g =$ constant Growth rate expected for dividends, in perpetuity
 

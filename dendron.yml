@@ -87,6 +87,7 @@ publishing:
     logoPath: vault/assets/logo.png
     siteFaviconPath: vault/assets/favicon.ico
     siteHierarchies:
+        - root
         - blog
         - notes
         - p-fin

@@ -2,7 +2,7 @@
 id: 7g0sTbbuYg57EDCzFsxYL
 title: Investment Accounts in US
 desc: ''
-updated: 1647563896447
+updated: 1649443772147
 created: 1635905317968
 ---
 # Reading 2021-11-03
@@ -19,7 +19,7 @@ created: 1635905317968
     - [Roth IRA](https://www.investopedia.com/terms/r/rothira.asp)
     - [Roth 401(k)](https://www.investopedia.com/terms/r/roth401k.asp)
     - [IRS | 401(k) Plans](https://www.irs.gov/retirement-plans/401k-plans)
-    - [[Tax Investors in US|notes.reading.tax-investors-us]]
+    - [[Tax Basics for Investors in US|notes.reading.tax-investors-us]]
 
 ## Notes from reading
 
