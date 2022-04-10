@@ -88,12 +88,10 @@ publishing:
     siteFaviconPath: vault/assets/favicon.ico
     siteHierarchies:
         - root
-        - blog
-        - notes
         - p-fin
     hierarchy:
         p-fin: # hierarchy name
-            publishByDefault: 
+            publishByDefault:
                 h7b-dendron: false
     enableSiteLastModified: false
     siteRootDir: docs

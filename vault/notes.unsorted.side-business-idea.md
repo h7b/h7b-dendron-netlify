@@ -2,7 +2,7 @@
 id: xIHUqgJilv3BmnvbvwlhF
 title: Side Business Idea
 desc: ''
-updated: 1649277563044
+updated: 1649554670689
 created: 1643854567901
 tags: topic.investment
 ---
@@ -91,6 +91,9 @@ Is there an equivalent entity of [Regulated Investment Company (RIC)](https://ww
 - Crypto Trading Terminal
 - [Pricing](https://hypertrader.app/pricing/) starts at USD 42/month. 21-day free trial only
 - backed by Y Combinator. [Discussion](https://news.ycombinator.com/item?id=28107989) on Hacker News
+
+[Fmarket](https://fmarket.vn/home)
+- brokerage platform for etf and mutual funds in Vietnam market only
 
 #### Brokerage apps for non-US residents to invest in US companies
 
