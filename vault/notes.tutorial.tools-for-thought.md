@@ -2,7 +2,7 @@
 id: JM7rJtqjPECioZxYc3k3Y
 title: Tools for Thought
 desc: ''
-updated: 1647793624547
+updated: 1649722666703
 created: 1635205995281
 nav_order: 2
 ---
@@ -176,6 +176,8 @@ Thoughts: This is a solution for technical project documentation, rather a pkm l
 - Thoughts:
   - alternative of [GitBook](https://www.gitbook.com/)
   - can [publish via Netlify or GitHub Pages](https://jupyterbook.org/publish/web.html)
+  - support Markdown or [MyST Markdown](https://jupyterbook.org/content/myst.html) to write [narrative content](https://jupyterbook.org/content/index.html)
+  - [executable content](https://jupyterbook.org/content/executable/index.html) like code outputs and interactive data visualization is also integrated
 
 ### [Readme](https://readme.com/)
 - [Pricing](https://readme.com/pricing) starts at USD 99/month. Has free plan
@@ -203,7 +205,7 @@ Thoughts: This is a solution for technical project documentation, rather a pkm l
   - Sync your workspace through iCloud Drive, Dropbox, Google Drive or any service of your choice
 
 ### [acreom](https://acreom.com/)
-- [Pricing](https://acreom.com/pricing) starts at USD 7.5/month, with unlimited free tier for personal use
+- [Pricing](https://acreom.com/pricing) starts at USD 7.5/month. Unlimited free tier for personal use
 - Thoughts:
   - sync between devices, document publishing is only available in Pro paid subscription
   - documents are stored locally as markdown files, with offline mode available

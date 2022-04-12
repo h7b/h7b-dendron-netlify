@@ -14,7 +14,7 @@ Three spreadsheets are appended into one based on column names
 ![append](https://miro.medium.com/max/875/1*Nz9XJR5wXwvqom3magTY3g.png){max-width: 300px, display: block, margin: 0 auto}
 
 Join / Merge  
-Similar to [[SQL Join|notes.tutorial.sql-join]], two spreadsheets are joined into one based on the same `Name` values
+Similar to [[SQL Join|notes.tutorial.sql.sql-join]], two spreadsheets are joined into one based on the same `Name` values
 ![join](https://miro.medium.com/max/528/1*_ISxVeW0kMDqfvUpcYGFBg.png){max-width: 300px, display: block, margin: 0 auto}
 
 ## Use [[Power Query|notes.tutorial.google-sheets-excel.power-query]] in Microsoft Excel

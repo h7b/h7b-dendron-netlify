@@ -2,7 +2,7 @@
 id: xIHUqgJilv3BmnvbvwlhF
 title: Side Business Idea
 desc: ''
-updated: 1649554670689
+updated: 1649721614913
 created: 1643854567901
 tags: topic.investment
 ---
@@ -147,6 +147,11 @@ Is there an equivalent entity of [Regulated Investment Company (RIC)](https://ww
 [TIKR Terminal](https://tikr.com/)
 - investment stock analysis platform
 - [pricing](https://app.tikr.com/pricing) starts at USD 20/month, with a Free plan for US data feeds
+
+[Discounting Cash Flows](https://discountingcashflows.com/)
+- dedicated to Fundamental Stock Analysis. Offer 30+ years of Financial Data for public Companies for FREE. Focus in Business Valuation, or determining the intrinsic value of a Company
+- Supported Exchanges: AMEX, NASDAQ, NYSE, EURONEXT, NSE, XETRA, TSX, LSE
+- Thoughts: indie developer, so data accuracy is questionable
 
 [Simplize](https://simplize.vn/)
 - stock analysis platform for Vietnam market only

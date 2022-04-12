@@ -2,7 +2,7 @@
 id: KE2M6fdHkylIGsY795s7e
 title: Tools Build Website Nocode
 desc: ''
-updated: 1647793202457
+updated: 1649723287451
 created: 1636706914265
 ---
 # Nocode tools to build app and website
@@ -165,6 +165,34 @@ created: 1636706914265
 ### [Meeps](https://meeps.app/)
 - 2022-03-10, currently has only `Early Access Plan` for USD 99/year
 
+## Static Site Generator
+
+### [Publii](https://getpublii.com/)
+- site generator with GUI to build fast and SEO-friendly website
+- Can use GitHub Pages, Netlify as [hosting service](https://getpublii.com/docs/server-configuration.html)
+- free to use. Has [marketplace](https://marketplace.getpublii.com/themes/) for paid premium theme (like [ProDocs](https://marketplace.getpublii.com/themes/prodocs/) for documentation purpose)
+- demo page: [ProDocs Live Preview](https://demo.getpublii.com/themes/prodocs/)
+
+### [Zine](https://github.com/zineland/zine)
+- static site generator to build magazine-style website
+- demo site: https://2d2d.io/
+
+### [Jupyter Book](https://jupyterbook.org/intro.html)
+![[notes.tutorial.tools-for-thought#jupyter-book,1:#*]]
+
+### [Bookdown](https://bookdown.org/)
+- write and publish book with R Markdown
+- Integrated with the [RStudio IDE](https://www.rstudio.com/products/rstudio/)
+- demo page: [bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)
+
+### [HonKit](https://github.com/honkit/honkit)
+- alternative of [Jupyter Book](https://jupyterbook.org/intro.html)
+- HonKit is a fork of [GitBook (Legacy)](https://github.com/GitbookIO/gitbook)
+- demo page: [HonKit Toolchain Documentation](https://honkit.netlify.app/)
+
+### [mdBook](https://github.com/rust-lang/mdBook)
+- the Rust equivalent of R's [Bookdown](https://bookdown.org/)
+- demo page: [mdBook Documentation](https://rust-lang.github.io/mdBook/index.html)
 
 ## Related resources
 - [Curated list](https://www.makerpad.co/tool-directory) by Makerpad

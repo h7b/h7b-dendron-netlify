@@ -19,7 +19,7 @@ The merge operation requires two tables
 Select the column that drive the join between the tables  
 ![merge-key](https://docs.microsoft.com/en-us/power-query/images/me-merge-operations-overview-merge-window-one-column-sample.png){max-width: 300px, display: block, margin: 0 auto}
 
-Beside of 4 typical join as in [[SQL|notes.tutorial.sql-join]], `Power Query` support 2 more, which add up to total 6 types of `Merge` query, and 1 `Self-join` particular type.
+Beside of 4 typical join as in [[SQL|notes.tutorial.sql.sql-join]], `Power Query` support 2 more, which add up to total 6 types of `Merge` query, and 1 `Self-join` particular type.
 ![six-merge-query](https://i.imgur.com/0amnN3Y.jpg){max-width: 300px, display: block, margin: 0 auto}
 
 ## Related resources
