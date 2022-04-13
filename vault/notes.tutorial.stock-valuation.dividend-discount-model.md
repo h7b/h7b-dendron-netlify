@@ -12,7 +12,7 @@ The dividend discount model (DDM) is a quantitative method used for predicting t
 
 The DDM is based on the theory that the value of a company is the present worth of the sum of all of its future dividend payments.
 
-DDM is a variant of [[DCF model|notes.tutorial.stock-valuation.discounted-cash-flow-model]], called an equity discounted cash flow model.
+DDM is a variant of [[DCF model|notes.tutorial.stock-valuation.dcf-model]], called an equity discounted cash flow model.
 
 ## Formula
 Mathetically, 

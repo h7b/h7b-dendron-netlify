@@ -92,7 +92,7 @@ publishing:
     hierarchy:
         p-fin: # hierarchy name
             publishByDefault:
-                h7b-dendron: false
+                h7b-dendron: true
     enableSiteLastModified: false
     siteRootDir: docs
     siteUrl: 'https://kool.casa/'

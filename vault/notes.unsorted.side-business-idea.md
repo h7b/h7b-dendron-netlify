@@ -2,7 +2,7 @@
 id: xIHUqgJilv3BmnvbvwlhF
 title: Side Business Idea
 desc: ''
-updated: 1649721614913
+updated: 1649796911762
 created: 1643854567901
 tags: topic.investment
 ---
@@ -82,6 +82,10 @@ Is there an equivalent entity of [Regulated Investment Company (RIC)](https://ww
 - Create advanced automated trading strategies without coding
 - [pricing](https://www.quantreex.com/plans) starts at USD 89/month. Free for demo trading account
 
+[StratGen](https://www.stratgen.io/)
+- [pricing](https://www.stratgen.io/pricing) starts at USD 50/month. Free demo only
+- Build automated algorithmic trading strategies with no coding required
+
 [Quantower](https://www.quantower.com/)
 - Analysis and trading
 - multi-asset coverage: forex, cfd, crypto, digital assets, stocks, options
@@ -152,6 +156,9 @@ Is there an equivalent entity of [Regulated Investment Company (RIC)](https://ww
 - dedicated to Fundamental Stock Analysis. Offer 30+ years of Financial Data for public Companies for FREE. Focus in Business Valuation, or determining the intrinsic value of a Company
 - Supported Exchanges: AMEX, NASDAQ, NYSE, EURONEXT, NSE, XETRA, TSX, LSE
 - Thoughts: indie developer, so data accuracy is questionable
+
+[Morningstar](https://www.morningstar.com/)
+- [Performance](http://performance.morningstar.com/)
 
 [Simplize](https://simplize.vn/)
 - stock analysis platform for Vietnam market only

@@ -2,8 +2,9 @@
 id: 3ypvi35mjugdvaxq8uky33j
 title: Stock Valuation
 desc: ''
-updated: 1649445364121
+updated: 1649804000835
 created: 1646959091277
+tags: topic.investment
 ---
 # Stock valuation method
 ref: [Investopedia](https://www.investopedia.com/articles/fundamental-analysis/11/choosing-valuation-methods.asp)
@@ -29,7 +30,7 @@ The comparable analysis is an example of relative stock valuation. It compares t
 ![[notes.tutorial.stock-valuation.dividend-discount-model#dividend-discount-model,1]]
 
 ## Discounted Cash Flow Model
-![[notes.tutorial.stock-valuation.discounted-cash-flow-model#discounted-cash-flow-model,1]]
+![[notes.tutorial.stock-valuation.dcf-model#discounted-cash-flow-model,1]]
 
 ## Related resources
 - [When to Use Fundamental, Technical, and Quantitative Analysis](https://www.investopedia.com/ask/answers/050515/it-better-use-fundamental-analysis-technical-analysis-or-quantitative-analysis-evaluate-longterm.asp)
@@ -38,4 +39,3 @@ The comparable analysis is an example of relative stock valuation. It compares t
 - [Multiples Approach](https://www.investopedia.com/terms/m/multiplesapproach.asp)
 - [Business Valuation Guides](https://corporatefinanceinstitute.com/resources/knowledge/valuation/)
 - [Types of Valuation Multiples](https://corporatefinanceinstitute.com/resources/knowledge/valuation/types-of-valuation-multiples/)
-- #topic.investment

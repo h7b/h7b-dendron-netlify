@@ -2,7 +2,7 @@
 id: KE2M6fdHkylIGsY795s7e
 title: Tools Build Website Nocode
 desc: ''
-updated: 1649723287451
+updated: 1649776460631
 created: 1636706914265
 ---
 # Nocode tools to build app and website
@@ -121,6 +121,11 @@ created: 1636706914265
 ### [linktree](https://linktr.ee/)
 - [Pricing](https://linktr.ee/s/pricing/) starts at USD 3/month. Free plan available
 - Create a simple mobile launchpad for your online presence, to sell products, share contents or grow audience
+
+### [The.com](https://www.the.com/)
+- [Pricing](https://www.the.com/pricing) starts at USD 36/month. Free plan available for demo only
+- Thoughts:
+    - they break any website you build into Blocks, which can be re-used and remixed by others, turning web-development into a multi-player experience. YOU as the (no-code) builder can earn credit and get paid for your work (for the Blocks you create and that others are remixing)
 
 ## Design Prototype Mockup tool
 
