@@ -1,8 +1,8 @@
 ---
 id: 5kcuzl0d8zxh1ezo36qhu09
-title: Googl
+title: GOOGL
 desc: ''
-updated: 1649811938964
+updated: 1649867008086
 created: 1649806000111
 ---
 # Alphabet Inc.
@@ -33,7 +33,7 @@ Price target and recommendation from analysts
 
 ![price-target](https://ik.imagekit.io/casa/h7b-dendron/koyfin_20220413_014314967_coiAd0e4b.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1649807163457){max-width: 300px, display: block, margin: 0 auto}
 
-Historical price target for reference
+Historical price target estimate for reference
 
 ![historical-price-target](https://ik.imagekit.io/casa/h7b-dendron/koyfin_20220413_014314966_5qDqRyC_l.png?ik-sdk-version=javascript-1.4.3&updatedAt=1649807163956){max-width: 300px, display: block, margin: 0 auto}
 
@@ -48,6 +48,12 @@ Open Interest for GOOGL expiring 2022-04-22. Learn details with [interactive cha
 ![chart-option-open-interest](https://media.discordapp.net/attachments/943940632148340796/963604209540952135/opt_oi_e5df2a03bac411ecac0ceb61fbe2b8f5.png?width=1005&height=670){max-width: 300px, display: block, margin: 0 auto}
 
 Thoughts: judging by volume of call vs put within and their strike prices within 1 week from now until 2022-04-22, we saw that the call strike at 2990 has the highest volume (1525 calls). It may imply that traders are buying more calls than puts. It suggests that they see a bull market ahead.
+
+## Technical estimate
+
+![price-chart-google-20220413](https://ik.imagekit.io/casa/h7b-dendron/tradylitics_2022-04-13_181758_hpbDvvxx7.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1649866714242){max-width: 300px, display: block, margin: 0 auto}
+
+Thougts: both AVWAP and MACD shows a sign of trend of price moving down
 
 ## Related:
 - [SimplyWallSt | Relative Valuation: Why Our Industry Analysis Arrived at Alphabet Inc.](https://simplywall.st/stocks/us/media/nasdaq-googl/alphabet/news/relative-valuation-why-our-industry-analysis-arrived-at-alph)
