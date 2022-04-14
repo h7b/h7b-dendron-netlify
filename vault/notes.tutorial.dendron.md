@@ -2,10 +2,10 @@
 id: c1-h7c_wOFHJkpzI1t4Gx
 title: Dendron
 desc: ''
-updated: 1644591516053
+updated: 1649885487578
 created: 1625432744672
 ---
-# Write and publish notes using Dendron
+# Write and publish notes using [Dendron](https://www.dendron.so/)
 
 [[Workflow|notes.tutorial.dendron.publish-netlify]] to publish vault by deploying via [Netlify](https://www.netlify.com/) and notes are stored as md files in GitHub private repo.
 - My favorite method

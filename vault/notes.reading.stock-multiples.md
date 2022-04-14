@@ -15,7 +15,7 @@ created: 1626856822473
 - Year of publication:: 2018
 - Category:: Blog
 - Topic:: #topic.investment
-- Related:: [[notes.tutorial.stock-valuation.financial-ratios#valuation-ratios-aka-multiples]]
+- Related:: [[notes.tutorial.finance.stock-valuation.financial-ratios#valuation-ratios-aka-multiples]]
 
 ## Notes from reading
 

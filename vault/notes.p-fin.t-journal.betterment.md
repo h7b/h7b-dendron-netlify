@@ -2,7 +2,7 @@
 id: cgpdk2bsfim0hbtdrft3che
 title: Betterment
 desc: ''
-updated: 1649864369546
+updated: 1649885061425
 created: 1649199078028
 ---
 # Betterment
@@ -11,7 +11,7 @@ My current experiment with robo-advisor Betterment.
 
 Thoughts:
 - Nothing impressive
-- My current portfolio of 90% stocks and 10% bonds has weaker performance vs market index (S&P500) within the same timeframe
+- Current portfolio of 90% stocks and 10% bonds has weaker performance vs market index (S&P500) within the same timeframe
 - Low management fee vs certain mutual fund. But still more expensive than ETF provider like Vanguard
 - Tax-loss-harvesting feature did not justify its value
 - Tax statements provided by Betterment are clear and concise. Though I don't have experience with other institutions, so this is opinionated
