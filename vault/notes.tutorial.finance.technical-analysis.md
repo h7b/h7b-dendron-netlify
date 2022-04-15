@@ -1,8 +1,8 @@
 ---
 id: v1lg3jwujx9b4wtg9dnjbyz
-title: Technical Analsis
+title: Technical Analysis
 desc: ''
-updated: 1649985596342
+updated: 1650026762812
 created: 1649887089567
 tags: topic.investment
 ---

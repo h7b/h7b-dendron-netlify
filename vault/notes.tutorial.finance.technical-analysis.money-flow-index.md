@@ -9,7 +9,7 @@ created: 1649980727556
 
 ref: [Investopedia](https://www.investopedia.com/terms/m/mfi.asp), [Fidelity](https://www.fidelity.com/learning-center/trading-investing/technical-analysis/technical-indicator-guide/MFI), [Wikipedia](https://en.wikipedia.org/wiki/Money_flow_index)
 
-The Money Flow Index (MFI) is a momentum indicator that measures the flow of money into and out of a security over a specified period of time. It is related to the [[Relative Strength Index (RSI)|notes.tutorial.finance.technical-analsis.rsi]] but incorporates volume, whereas the RSI only considers price. Hence MFI is sometimes also called as volume-weighted RSI.
+The Money Flow Index (MFI) is a momentum indicator that measures the flow of money into and out of a security over a specified period of time. It is related to the [[Relative Strength Index (RSI)|notes.tutorial.finance.technical-analysis.rsi]] but incorporates volume, whereas the RSI only considers price. Hence MFI is sometimes also called as volume-weighted RSI.
 
 An MFI reading above 80 is considered overbought and an MFI reading below 20 is considered oversold, although levels of 90 and 10 are also used as thresholds.
 

@@ -53,7 +53,7 @@ Thoughts: judging by volume of call vs put within and their strike prices within
 
 ![price-chart-google-20220413](https://ik.imagekit.io/casa/h7b-dendron/tradylitics_2022-04-13_181758_hpbDvvxx7.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1649866714242){max-width: 300px, display: block, margin: 0 auto}
 
-Thougts: both [[AVWAP|notes.tutorial.finance.technical-analsis.avwap]] and MACD shows a sign of trend of price moving down
+Thougts: both [[AVWAP|notes.tutorial.finance.technical-analysis.avwap]] and MACD shows a sign of trend of price moving down
 
 ## Related resources
 

@@ -15,8 +15,8 @@ The reason for calculating the moving average of a stock is to help smooth out t
 
 ## Simple Moving Average (SMA)
 
-![[notes.tutorial.finance.technical-analsis.ma.sma#simple-moving-average-sma,1]]
+![[notes.tutorial.finance.technical-analysis.ma.sma#simple-moving-average-sma,1]]
 
 ## Exponential Moving Average (EMA)
 
-![[notes.tutorial.finance.technical-analsis.ma.ema#exponential-moving-average-ema,1]]
+![[notes.tutorial.finance.technical-analysis.ma.ema#exponential-moving-average-ema,1]]
