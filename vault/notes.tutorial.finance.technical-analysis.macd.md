@@ -2,7 +2,7 @@
 id: 5jfgjba48t32gnfq5oor1p9
 title: Moving Average Convergence Divergence (MACD)
 desc: ''
-updated: 1649903102680
+updated: 1650148266902
 created: 1649900674681
 ---
 # Moving Average Convergence Divergence (MACD)
