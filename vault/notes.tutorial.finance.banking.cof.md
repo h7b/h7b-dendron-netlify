@@ -2,7 +2,7 @@
 id: 4hrzuu6d8949n7ymxfbueoz
 title: Cost of Funds (COF)
 desc: ''
-updated: 1650066989941
+updated: 1650214775937
 created: 1650058194851
 ---
 # Cost of Funds
@@ -28,6 +28,6 @@ Cost of Funds $\not =$ Cost of Capital
 - the cost of funds refers to how much banks pay in order to acquire funds to lend to their customers
 - The cost of capital is the total amount of money a business requires to get the money it needs for its operations
 
-## Translation in Vietnamese
+## Translation to Vietnamese
 
 - Cost of Funds: chi phí vốn

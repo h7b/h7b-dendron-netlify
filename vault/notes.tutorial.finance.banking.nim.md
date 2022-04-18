@@ -2,7 +2,7 @@
 id: 0s6wqs5knmanvrih94e0d7z
 title: Net Interest Margin (NIM)
 desc: ''
-updated: 1650058157587
+updated: 1650214764423
 created: 1650057377691
 ---
 # Net Interest Margin (NIM)
@@ -23,7 +23,7 @@ For example, a bank's average interest-earning assets (which generally includes,
 
 Then The bank's net interest margin can be calculated using the following formula: net interest margin = ($5.5 million - $2.5 million) / $100 million = 3%.
 
-## Translation in Vietnamese
+## Translation to Vietnamese
 
 - NIM: Biên lãi ròng tín dụng
 - interest-earning assets: tài sản sinh lãi

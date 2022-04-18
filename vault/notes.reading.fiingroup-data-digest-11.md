@@ -2,7 +2,7 @@
 id: lfbehduimhf59kh069fbopb
 title: FiinGroup Data Digest 11
 desc: ''
-updated: 1650161398266
+updated: 1650212701476
 created: 1650028788083
 ---
 # Reading 2022-04-15
@@ -19,7 +19,7 @@ created: 1650028788083
 
 ## Notes from reading
 
-Thanh khoản từ đầu tháng 3/2022 với mức bình quân 25,5 ngàn tỷ/phiên (~1b USD) trên HOSE.
+Thanh khoản từ đầu tháng 3/2022 với mức bình quân 25,5 ngàn tỷ/phiên (1b USD) trên HOSE (vs daily trading volume of US market: 220b USD).
 
 Thị trường vẫn mang đặc tính đầu cơ hoặc đầu tư ngắn hạn là chính.
 
