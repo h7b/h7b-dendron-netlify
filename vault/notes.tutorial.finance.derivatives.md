@@ -2,7 +2,7 @@
 id: ejxikh5p52u5fqb2wlgdgjb
 title: Derivatives
 desc: ''
-updated: 1650216734684
+updated: 1650321915935
 created: 1650215018628
 ---
 # Derivatives
@@ -34,4 +34,4 @@ Derivatives generally trade at lower transaction costs than comparable spot mark
 
 ## Related readings
 
-- p. 5-147. Session *15 Derivatives*. Book *2022 CFA Program Curriculum Level I Box Set Volumes 1-6*. Calibre Library.
+- p. 5-147. Session *15 Derivatives*. Book *2022 CFA Program Curriculum Level I Box Set Volumes 1-6*. Calibre Library id:"=1831".

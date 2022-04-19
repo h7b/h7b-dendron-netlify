@@ -2,7 +2,7 @@
 id: c4z82l4ncarghnxdqoe20hz
 title: Thời bao cấp Việt Nam
 desc: ''
-updated: 1650242686290
+updated: 1650321038552
 created: 1650239563210
 ---
 # Reading 2022-04-18
@@ -19,9 +19,9 @@ created: 1650239563210
 
 ## Notes from reading
 
-It would be fun if I had chance to learn this in history class when I was in high school. Just simply the facts, the reasons and its consequences. Sadly history was always written by the winners.
+It would be fun if I had chance to learn this in history class when I was in high school. Just simply the facts, the reasons and its consequences. Sadly history was always written by the winners. Lịch sử không nên bị lãng quên, và hận thù có thể bị xóa nhòa.
 
-Thời kỳ bao cấp, một trong những giai đoạn lịch sử tăm tối của dân tộc
+Thời kỳ bao cấp, một trong những giai đoạn lịch sử tăm tối của dân tộc.
 
 GDP per capita Vietnam 1985: 89 USD
 

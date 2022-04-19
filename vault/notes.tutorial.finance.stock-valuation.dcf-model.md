@@ -2,7 +2,7 @@
 id: y0xnookb0xf0ifb3kaal0t1
 title: Discounted Cash Flow Model
 desc: ''
-updated: 1649801053746
+updated: 1650321983345
 created: 1647317532092
 ---
 # Discounted Cash Flow Model
@@ -87,7 +87,7 @@ Fig: The building blocks of Valuation
 
 #### Related readings
 
-- pp. v3_440 - v3_448. Section *3 The Gordon Growth Model*. Book *2022 CFA Program Curriculum Level II Box Set Volumes 1-6*. Calibre Library.
+- pp. v3_440 - v3_448. Section *3 The Gordon Growth Model*. Book *2022 CFA Program Curriculum Level II Box Set Volumes 1-6*. Calibre Library id:"=1828".
 
 ### DCF model for Firm with two distinct stages of growth
 
@@ -95,7 +95,7 @@ Fig: The building blocks of Valuation
 
 #### Related readings
 
-- pp. v3_456 - v3_461. Section *6.1 Multistage Dividend Discount Models: Two-Stage Dividend Discount Model and Valuing a non-dividend paying company*. Book *2022 CFA Program Curriculum Level II Box Set Volumes 1-6*. Calibre Library.
+- pp. v3_456 - v3_461. Section *6.1 Multistage Dividend Discount Models: Two-Stage Dividend Discount Model and Valuing a non-dividend paying company*. Book *2022 CFA Program Curriculum Level II Box Set Volumes 1-6*. Calibre Library id:"=1828".
 
 ### DCF model for Firm with three distinct stages of growth
 
@@ -111,7 +111,7 @@ aka three-stage growth model.
 
 #### Related readings
 
-- pp. v3_461 - v3_461. Section *7 The H-model and three-stage Dividend Discount Model*. Book *2022 CFA Program Curriculum Level II Box Set Volumes 1-6*. Calibre Library.
+- pp. v3_461 - v3_461. Section *7 The H-model and three-stage Dividend Discount Model*. Book *2022 CFA Program Curriculum Level II Box Set Volumes 1-6*. Calibre Library id:"=1828".
 
 ### Excess Returns Model
 
