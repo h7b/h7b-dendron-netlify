@@ -2,7 +2,7 @@
 id: c4z82l4ncarghnxdqoe20hz
 title: Thời bao cấp Việt Nam
 desc: ''
-updated: 1650321038552
+updated: 1650421839174
 created: 1650239563210
 ---
 # Reading 2022-04-18
@@ -56,7 +56,7 @@ Thảm họa cải cách giá - lương - tiền.
 
 Ngân hàng nhà nước Việt Nam thời kỳ đó khuyến khích người dân gửi tiền. Nhưng khi muốn rút tiền thì phải làm đơn xin phép và phải liệt kê từng món chi tiêu. Và người dân không được rút quá 30% lượng tiền mà mình đã gửi.
 
-Thảm họa kế hoạch đổi tiền ngày 1985-09-14. Mỗi gia đình chỉ được đổi lấy 2 nghìn đồng tiền mới. Tỷ giá 10 đồng tiền cũ đổi được 1 đồng tiền mới. Số tiền cũ không đổi được phải tiêu hủy hoặc gửi vào ngân hàng chờ xem xét. Dẫn đến tài sản tích lũy của người dân bị mất sạch. Đây là nỗi kinh hoàng của hàng vạn gia đình, nỗi đau của cả dân tộc.
+Thảm họa kế hoạch đổi tiền ngày 1985-09-14. Mỗi gia đình chỉ được đổi lấy 2 nghìn đồng tiền mới. Tỷ giá 10 đồng tiền cũ đổi được 1 đồng tiền mới. Số tiền cũ không đổi được phải tiêu hủy hoặc gửi vào ngân hàng chờ xem xét. Dẫn đến tài sản tích lũy của người dân bị mất sạch. Đây là nỗi kinh hoàng của hàng vạn gia đình, nỗi đau của cả dân tộc. ^u2ewxl7p6sx3
 
 Thảm họa cải cách giá - lương - tiền đã đẩy mọi thứ tới cùng cực. Buộc nhà nước phải bỏ mô hình cũ, thực hiện đổi mới toàn bộ nền kinh tế vào 1986-12.
 - bãi bỏ chính sách hợp tác hóa nông nghiệp
