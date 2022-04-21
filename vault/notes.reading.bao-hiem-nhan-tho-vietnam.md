@@ -2,7 +2,7 @@
 id: 3sitore49j6eyy2arz1crs7
 title: Bảo hiểm nhân thọ tại Vietnam
 desc: ''
-updated: 1650423208704
+updated: 1650499697457
 created: 1650409947468
 ---
 # Reading 2022-04-20
@@ -14,8 +14,10 @@ created: 1650409947468
 - Author:: Quy Nguyen
 - Year of publication:: 2022
 - Category:: Blog
-- Topic:: 
-- Related:: [archive](https://app.box.com/s/plpcb9hgo0splhm7vw8211auru2i9fp8), [counterargument](https://www.facebook.com/groups/CoVanTaichinhVietnam/posts/2818630668389726/)
+- Topic:: #topic.investment
+- Related:: 
+    - [discussion in VWA](https://www.facebook.com/groups/CoVanTaichinhVietnam/posts/2817932301792896/), [archived pdf](https://app.box.com/s/plpcb9hgo0splhm7vw8211auru2i9fp8)
+    - [continued discussion in VWA](https://www.facebook.com/groups/CoVanTaichinhVietnam/posts/2819339751652151/), [archived pdf](https://app.box.com/s/0lrfgxn4q228wiz5qnfrurxonhf0uerf)
 
 ## Notes from reading
 
@@ -178,5 +180,39 @@ Update 2021-10-00
 
 sản phẩm bảo hiểm nhân thọ có tỉ lệ mức phí / quyền lợi tốt nhất
 - [FWD Bộ đôi tài sản](https://www.fwd.com.vn/products/investments/fwd-bo-doi-tai-san/)
+
+### Những lưu ý khi mua bảo hiểm sức khỏe
+
+- Có rất nhiều công ty bảo hiểm phi nhân thọ bán bảo hiểm sức khỏe trên thị trường Vietnam (Bảo Việt, VBI, Pacific Cross,...) vì vậy không nhất thiết phải mua bảo hiểm sức khỏe kèm bảo hiểm nhân thọ
+- bảo hiểm sức khỏe là 1 sản phẩm tương đối quy chuẩn, tiền nào của nấy. Phí bảo hiểm thường khoảng 2-10 tr/năm
+- bảo hiểm sức khỏe thường chỉ chi trả cho nằm viện nội trú. Khách hàng có thể mua kèm quyền lợi điều trị ngoại trú, tuy nhiên phí thường đắt so với quyền lợi nhận lại
+- khi mua bảo hiểm sức khỏe, vấn đề không nằm ở con số tổng quyền lợi bảo hiểm, mà nằm ở 3 yếu tố
+    - giới hạn phụ:
+        - như là số tiền chi trả tối đa cho 1 lần nằm viện, cho 1 lần phẫu thuật
+        - vd: công ty bán gói bảo hiểm sức khỏe chi trả tối đa 1 tỷ / bệnh (gói cao cấp) trong suốt thời hạn hợp đồng. Tuy nhiên giới hạn phụ cho chi phí điều trị nội trú (thuốc, xét nghiệm,...) chỉ là 60tr/năm/bệnh -> Không hiệu quả!
+        - vd: công ty bán gói bảo hiểm sức khỏe quyền lợi tối đa 250tr/năm (gói Titan) nhưng giới hạn phụ 1 lần nằm viện không phẫu thuật chỉ 50tr -> Nghĩa là 1 năm phải nằm viện 5 lần mới xài hết!!
+    - điều khoản loại trừ:
+        - khách hàng cần đọc kỹ trong bản Quy tắc và Điều khoản của sản phẩm bảo hiểm
+    - thời gian chờ:
+        - với nhiều bệnh thì khách hàng cần phải chờ 90-360 ngày mới bắt đầu được chi trả
+        - khách hàng cần đọc kỹ trong bản Quy tắc và Điều khoản của sản phẩm bảo hiểm
+
+### Những lưu ý trước khi đặt bút ký mua bảo hiểm nhân thọ
+
+- hãy yêu cầu tư vấn viên của bạn đọc cùng bạn. Nếu bạn có thắc mắc thì giải đáp ngay tại chỗ
+- đọc kỹ hợp đồng trước khi ký đóng tiền mua bảo hiểm nhân thọ, chứ không phải chờ sau khi ký
+    - tư vấn viên bảo có 21 ngày để hủy hợp đồng và hoàn tiền
+    - không nên nghe
+    - vì trong điều khoản hợp đồng sẽ có 1 điều liên quan đến "Thời hạn xem xét lại". Thường điều khoản này nói rằng công ty bảo hiểm sẽ hoàn trả lại phí bảo hiểm mà khách hàng đã đóng, sau khi khấu trừ chi phí khám, xét nghiệm y khoa liên quan đến hợp đồng bảo hiểm
+- khách hàng phải kê khai tình trạng sức khỏe trung thực và đầy đủ, dù cho công ty bảo hiểm có cho đi khám thẩm định
+    - vì trong điều khoản hợp đồng sẽ có nhắc: việc thẩm định sức khỏe không thay thế cho nghĩa vụ phải cung cấp thông tin đầy đủ và trung thực của Bên mua bảo hiểm. Trong trường hợp Bên mua cố ý vi phạm nghĩa vụ này, công ty bảo hiểm có quyền đơn phương chấm dứt hợp đồng và không chi trả bất cứ quyền lợi bảo hiểm hay hoàn trả bất cứ khoản phí bảo hiểm nào mà Bên mua đã đóng
+
+### Related discussion
+
+Counterarguments from insurance consultants/resellers
+- [counterargument](https://www.facebook.com/groups/CoVanTaichinhVietnam/posts/2818630668389726/)
+- [counterargument](https://www.facebook.com/groups/CoVanTaichinhVietnam/posts/2819950121591114/). I evaluated this post as weak arguments, wordy, did not concentrate in facts and numbers, and ad hominem. Put here to remind myself that this person lacks financial knowledge
+- [investment linked product - ILP](https://www.facebook.com/groups/CoVanTaichinhVietnam/posts/2821172321468894/) discussion by ex-insurance agency
+
 
 [^1]: https://vanban.chinhphu.vn. [Thông tư số 50/2017/TT-BTC, p.5](https://datafiles.chinhphu.vn/cpp/files/vbpq/2017/07/50-btc.signed.pdf#page=5). Accessed Apr. 20, 2022
