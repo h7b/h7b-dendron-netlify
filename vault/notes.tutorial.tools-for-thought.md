@@ -2,7 +2,7 @@
 id: JM7rJtqjPECioZxYc3k3Y
 title: Tools for Thought
 desc: ''
-updated: 1649722666703
+updated: 1650673432711
 created: 1635205995281
 nav_order: 2
 ---
@@ -47,15 +47,8 @@ PKM: Personal Knowledge Management
 
 ## Things I played with
 
-### [Logseq](https://logseq.com/)  
-Difficulty to use: 2/5  
-Publishing with GitHub Page:  
-- tutorial at [here](https://logseq.github.io/#/page/Publishing%20(Desktop%20App%20Only))
-- Pricing: free
-
-Thoughts: notes are saved locally as plaintext md files. It also has spaced repetition flashcards feature.  
-A sketch of the current UI. *Credit*: [danzu](https://discord.com/channels/725182569297215569/756886540038438992/940821337449046097) in Logseq discord
-![logseq-ui](https://ik.imagekit.io/casa/h7b-dendron/2022-02-11_logseq-UI_zj-UxZtBZ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1644592013237){max-width: 300px, display: block, margin: 0 auto}
+### [[Logseq|notes.tutorial.logseq]]
+![[notes.tutorial.logseq#overview,1:#*]]
 
 ### [Remnote](https://www.remnote.com/)
 - Difficulty to use: 2/5  
