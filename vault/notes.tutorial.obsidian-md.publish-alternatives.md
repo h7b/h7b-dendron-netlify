@@ -2,7 +2,7 @@
 id: aIzdxkgBr2LmKOsw
 title: Publish Alternatives
 desc: ''
-updated: 1650670484134
+updated: 1650761223063
 created: 1628033267974
 ---
 ## Alternative methods to publish Obsidian vault
@@ -31,6 +31,12 @@ Obsidian is great but finding a way to publish the Obsidian vault without purcha
     - Thoughts:
         - similar UI to `Obsidian Publish`, has left-side file tree, node graph
         - aesthetically, this solution is second after [obsidian-zola](https://github.com/ppeetteerrs/obsidian-zola)
+- [Obsius Publish](https://github.com/jonstodle/obsius-obsidian-plugin)
+    - This plugin integrates with [obsius.site](https://obsius.site/) to publish markdown notes on the web
+    - [demo page](https://obsius.site/0m593p6z1h233y18714m)
+    - Thoughts:
+        - simple plugin to share one note to public
+        - not suitable for publish a whole vault or multiple notes
 - [obsidian-mkdocs-publisher](https://github.com/Mara-Li/obsidian-mkdocs-publisher)
     - the author of [Obs2mk](https://github.com/Mara-Li/mkdocs_obsidian_publish) script decide to develop a plugin for Obsidian to enhance the publishing experience
     - use GitHub repo, deployed via GitHub Pages, automated with GitHub Actions
