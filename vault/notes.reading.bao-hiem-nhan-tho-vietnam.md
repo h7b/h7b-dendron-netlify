@@ -43,13 +43,13 @@ Cấu trúc tài chính cá nhân cơ bản gồm 4 phần:
 - Bảo vệ bảo hiểm
     - giảm phí bảo hiểm tối đa có thể
 
-Cấu trúc của phí của sản phẩm bảo hiểm tử kỳ mà khách hàng đóng:
+Cấu trúc phí của sản phẩm bảo hiểm tử kỳ mà khách hàng đóng:
 - phí ban đầu
     - được tính bằng X% của phí bảo hiểm (X được ghi rõ trong hợp đồng, năm đầu thường 60-80% phí bảo hiểm). Phần này là khách hàng mất trắng, được dùng để chi trả hoa hồng cho tư vấn viên và chi phí hoạt động của công ty bảo hiểm
 - phí bảo hiểm rủi ro
     - đây là khoản phí khách hàng chi trả để nhận lại quyền lợi bảo hiểm rủi ro. Cơ bản thì phí bảo hiểm rủi ro giữa các công ty bảo hiểm hầu như không khác biệt nhiều nếu xét trên cùng điều kiện (cùng 1 khách hàng, 1 loại rủi ro, 1 số tiền bảo hiểm, 1 thời hạn bảo vệ rủi ro)
 
-Cấu trúc của phí của sản phẩm bảo hiểm hỗn hợp:
+Cấu trúc phí của sản phẩm bảo hiểm hỗn hợp:
 - phí ban đầu (như trên)
 - phí bảo hiểm rủi ro (như trên)
 - phần tích lũy/đầu tư
@@ -125,7 +125,7 @@ Có 4 câu hỏi mà người mua bảo hiểm nhân thọ cần tự trả lờ
     - kê khai thông tin sức khoẻ dễ bị bỏ sót, dẫn đến nguy cơ hợp đồng vô hiệu
     - mua cho người lớn tuổi để bảo vệ rủi ro gì?
         - rủi ro tử vong / thương tật toàn bộ vĩnh viễn
-            - với người đã về hưu hoặc gần nghỉ hưu, nếu rủi ro tử vong xảy ra thì thu nhận mất đi là bao nhiêu? có đáng so với chi phí bảo hiểm cần trả để bảo vệ hay không?
+            - với người đã về hưu hoặc gần nghỉ hưu, nếu rủi ro tử vong xảy ra thì thu nhập mất đi là bao nhiêu? có đáng so với chi phí bảo hiểm cần trả để bảo vệ hay không?
         - rủi ro bệnh hiểm nghèo
             - phí đắt
             - người lớn tuổi thường sẽ đi kèm với nhiều bệnh nền. Khi mua bảo hiểm nhân thọ sẽ bị loại trừ các vấn đề sức khoẻ sẵn có. Làm giảm ý nghĩa của bảo hiểm
@@ -135,7 +135,7 @@ Có 4 câu hỏi mà người mua bảo hiểm nhân thọ cần tự trả lờ
     
     Tóm lại, chỉ cân nhắc mua bảo hiểm nhân thọ cho người lớn tuổi nếu:
     - có đủ điều kiện tài chính để đóng phí
-    - người được bảo hiểm về cơ bản còn khoẻ mạnh không có nhiều bệnh nền
+    - người được bảo hiểm về cơ bản còn khoẻ mạnh, không có nhiều bệnh nền
 
 3. Số tiền bảo hiểm là bao nhiêu
 
@@ -153,7 +153,7 @@ Có 4 câu hỏi mà người mua bảo hiểm nhân thọ cần tự trả lờ
 
     Ví dụ
     - TH1: 1 người thu nhập 15tr/tháng (200tr/năm) thì mua bảo hiểm tử vong ở mức 1 tỷ (gấp 5 lần thu nhập) là quá cao, và mua bảo hiểm bệnh hiểm nghèo ở mức 100tr là quá thấp
-    - TH2: 1 người thu nhập 4-5 tỷ/năm thì có thể không nhất thiết phải mua bảo hiểm nhân thọ vì khách hàng cũng đã tự xây dựng được 1 lượng tài sản đủ lớn cho gia đình rồi. Nhưng cũng không thể mua ở mức 1 tỷ vì 1 tỷ không đáng kể so với thu nhập tài sản hiện có
+    - TH2: 1 người thu nhập 4-5 tỷ/năm thì có thể không nhất thiết phải mua bảo hiểm nhân thọ vì khách hàng cũng đã tự xây dựng được 1 lượng tài sản đủ lớn cho gia đình rồi. Nhưng cũng không thể mua ở mức 1 tỷ, vì 1 tỷ không đáng kể so với thu nhập tài sản hiện có
 
 4. Thời gian bảo vệ trong bao lâu?
 
