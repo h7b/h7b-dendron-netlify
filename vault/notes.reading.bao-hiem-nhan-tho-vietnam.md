@@ -2,7 +2,7 @@
 id: 3sitore49j6eyy2arz1crs7
 title: Bảo hiểm nhân thọ tại Vietnam
 desc: ''
-updated: 1650499697457
+updated: 1651084909154
 created: 1650409947468
 ---
 # Reading 2022-04-20
@@ -55,7 +55,7 @@ Cấu trúc của phí của sản phẩm bảo hiểm hỗn hợp:
 - phần tích lũy/đầu tư
     - khoản này không liên quan đến bảo hiểm, mà tương tự như việc đầu tư vào quỹ mở. Nghĩa là khách hàng ủy thác cho công ty bảo hiểm để họ mang đi đầu tư hộ, sau này công ty bảo hiểm sẽ trả lại cho khách hàng
 
-![cau-truc-phi-bao-hiem](https://ik.imagekit.io/casa/h7b-dendron/Screenshot_2022-04-20_030756_JbCOH8Z5U.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1650416909791{max-width: 300px, display: block, margin: 0 auto})
+![cau-truc-phi-bao-hiem](https://ik.imagekit.io/casa/h7b-dendron/Screenshot_2022-04-20_030756_JbCOH8Z5U.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1650416909791){max-width: 300px, display: block, margin: 0 auto}
 
 Hiện trên thị trường Vietnam chủ yếu có 2 loại sản phẩm bảo hiểm nhân thọ có thêm phần tích lũy đầu tư:
 - sản phẩm liên kết chung
