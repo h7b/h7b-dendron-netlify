@@ -9,4 +9,4 @@ created: 1649805744654
 
 ## Alphabet Inc.
 
-![[notes.p-fin.r.2022-04-12.googl#alphabet-inc,1]]
+![[notes.p-fin.r.2022.04-12.googl#alphabet-inc,1]]

@@ -9,4 +9,4 @@ created: 1649878959523
 
 ## Advanced Micro Devices, Inc.
 
-![[notes.p-fin.r.2022-04-14.amd#advanced-micro-devices-inc,1]]
+![[notes.p-fin.r.2022.04-14.amd#advanced-micro-devices-inc,1]]
