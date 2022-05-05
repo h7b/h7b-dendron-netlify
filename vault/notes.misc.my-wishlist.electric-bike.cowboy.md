@@ -2,7 +2,7 @@
 id: uy5nff071mkz6ljp6sgkvek
 title: Cowboy
 desc: ''
-updated: 1651705496531
+updated: 1651763709979
 created: 1651702651924
 ---
 # [Cowboy](https://cowboy.com/)
@@ -21,4 +21,4 @@ created: 1651702651924
     - Motor: Custom designed 45 Nm / 250 W motor, integrated in the rear wheel
         - top speed: 25 km/h (in EU)
     - Torque sensor: N/A
-    - Hydraulic disc brakes
+    - Brakes: Hydraulic disc

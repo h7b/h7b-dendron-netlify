@@ -2,14 +2,14 @@
 id: bdlrvumwswrrt67o6mp1jy8
 title: Superstrata
 desc: ''
-updated: 1651706785377
+updated: 1651764962912
 created: 1651705387356
 ---
 # [Superstrata](https://superstrata.bike/)
 
 ## [Superstrata Electric](https://superstrata.bike/product/superstrata-e)
 
-Lack basic info, like weight, battery. Use chain drivetrain. Not interested.
+Thoughts: lack basic info, like weight, battery. Use chain drivetrain. Not interested.
 
 - Price: USD 3,999
 - Included features:
