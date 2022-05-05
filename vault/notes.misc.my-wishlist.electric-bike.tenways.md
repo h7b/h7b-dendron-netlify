@@ -2,7 +2,7 @@
 id: 8yvt8c8rpvo5aerh5c43bbp
 title: TENWAYS
 desc: ''
-updated: 1651704763888
+updated: 1651781315512
 created: 1651701379764
 ---
 # [TENWAYS](https://www.tenways.com/)
@@ -24,6 +24,8 @@ My current favorite.
         - top speed: 32 km/h (in US), 25 km/h (in EU)
     - Torque sensor
     - Hydraulic disc brakes
+
+![tenways-cgo600](https://cdn.shopify.com/s/files/1/0563/3926/7733/products/p3_698x.png?v=1651620998){max-width: 300px, display: block, margin: 0 auto}
 
 ## Related resources
 

@@ -2,7 +2,7 @@
 id: n3kr8d7vfnn5fizobx7h4xu
 title: Desiknio
 desc: ''
-updated: 1651764923254
+updated: 1651780209120
 created: 1651761981585
 ---
 # [Desiknio](https://desiknio.com/)
@@ -24,3 +24,5 @@ Thoughts: both specs and appearance are similar to [[TENWAYS CGO600|notes.misc.m
         - top speed: 25 km/h (in EU)
     - Torque sensor: N/A
     - Brakes: Shimano MT201 Hydraulic Brakes, 160mm Shimano Front Rotor | 160mm Shimano Rear Rotor
+
+![desiknio-urban-pinion](https://img.ricardostatic.ch/t_1000x750/pl/1140213520/4/1/desiknio-pinion-urban-e-bike-individual.jpg){max-width: 300px, display: block, margin: 0 auto}

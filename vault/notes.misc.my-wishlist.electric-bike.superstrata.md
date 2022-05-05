@@ -2,7 +2,7 @@
 id: bdlrvumwswrrt67o6mp1jy8
 title: Superstrata
 desc: ''
-updated: 1651764962912
+updated: 1651781241327
 created: 1651705387356
 ---
 # [Superstrata](https://superstrata.bike/)
@@ -24,6 +24,8 @@ Thoughts: lack basic info, like weight, battery. Use chain drivetrain. Not inter
         - top speed: 25 km/h (in EU)
     - Torque sensor: N/A
     - Hydraulic disc brakes
+
+![superstrata](https://th.bing.com/th/id/OIP.aDDB84WNF0Y6ZvpRYvl_5QHaEH?w=333&h=185&c=7&r=0&o=5&dpr=1.25&pid=1.7){max-width: 300px, display: block, margin: 0 auto}
 
 ## Related resources
 

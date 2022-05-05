@@ -2,7 +2,7 @@
 id: 0ndptxltg7qhy4npqpg2mdd
 title: Electric Bike
 desc: ''
-updated: 1651764586503
+updated: 1651779897422
 created: 1651617348774
 ---
 # Electric Bike
@@ -21,11 +21,11 @@ created: 1651617348774
 
 ## [VanMoof A5](https://www.vanmoof.com/fr-FR/a5)
 
-![[notes.misc.my-wishlist.electric-bike.vanmoof#vanmoof-a5,1]]
+![[notes.misc.my-wishlist.electric-bike.vanmoof#vanmoof-a5,1:#*]]
 
 ## [Cowboy 4 ST](https://cowboy.com/products/e-bike-cowboy-4?variant=39314404606091)
 
-![[notes.misc.my-wishlist.electric-bike.cowboy#cowboy-4-st,1]]
+![[notes.misc.my-wishlist.electric-bike.cowboy#cowboy-4-st,1:#*]]
 
 ## [Super73-Z](https://eu.super73.com/collections/z-series/products/super73-z-powder-grey)
 

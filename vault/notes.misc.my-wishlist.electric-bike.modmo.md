@@ -2,7 +2,7 @@
 id: aa8nch05mblj40bc14z256u
 title: Modmo
 desc: ''
-updated: 1651704754065
+updated: 1651781650839
 created: 1651701607168
 ---
 # [MODMO](https://modmo.io/)
@@ -23,6 +23,8 @@ created: 1651701607168
     - Torque sensor: N/A
     - Hydraulic disc brakes
 
+![modmo-saigon-s](https://th.bing.com/th/id/OIP.PhqAQdz0zDAPFJl-MZfK9gHaF-?w=223&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7){max-width: 300px, display: block, margin: 0 auto}
+
 ## [MODMO Saigon+](https://modmo.io/products/saigon)
 
 - Price: EUR 2,999
@@ -38,6 +40,8 @@ created: 1651701607168
         - top speed: N/A
     - Torque sensor: N/A
     - Hydraulic disc brakes
+
+![modmo-saigon-plus](https://th.bing.com/th/id/OIP.tRnGkrdS1nt45gRCW8V5KQHaEK?w=309&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7){max-width: 300px, display: block, margin: 0 auto}
 
 ## Related resources
 - [Company info](https://modmo.io/pages/about)

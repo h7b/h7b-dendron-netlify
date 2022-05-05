@@ -2,7 +2,7 @@
 id: flzduh6t3f2p6gsno4fsiez
 title: Gogoro Eeyo
 desc: ''
-updated: 1651764863648
+updated: 1651780430071
 created: 1651701749973
 ---
 # [Gogoro Eeyo](https://eeyo.bike/)
@@ -22,6 +22,8 @@ created: 1651701749973
         - top speed: 25 km/h (in EU)
     - Torque sensor: N/A
     - Hydraulic disc brakes
+
+![gogoro-eeyo-1s](https://th.bing.com/th/id/OIP.lp3NU6fMqmYHj6bB_aWeggHaFA?w=285&h=192&c=7&r=0&o=5&dpr=1.25&pid=1.7){max-width: 300px, display: block, margin: 0 auto}
 
 ## Related resources
 

@@ -2,7 +2,7 @@
 id: nlushqk7slc6051f4yjpfdc
 title: Riese & Müller
 desc: ''
-updated: 1651764768658
+updated: 1651780750935
 created: 1651763581206
 ---
 # [Riese & Müller](https://www.r-m.de/fr/)
@@ -23,6 +23,8 @@ created: 1651763581206
     - Torque sensor: N/A
     - Brakes: Tektro Auriga Comp HD-500, disc brake
 
+![tinker-vario](https://th.bing.com/th/id/OIP.rlRJOPTA11m1ZrB5nw9WZwHaE8?w=306&h=204&c=7&r=0&o=5&dpr=1.25&pid=1.7){max-width: 300px, display: block, margin: 0 auto}
+
 ## [Nevo vario](https://www.r-m.de/fr/bikes/nevo/nevo-vario/#F00715_05031110)
 
 - Price: EUR 4,949 
@@ -39,6 +41,8 @@ created: 1651763581206
     - Torque sensor: N/A
     - Brakes: Magura MT4, disc brake
 
+![nevo-vario](https://th.bing.com/th/id/OIP.QUOHQA-cW2Cy_pP-6sftAgHaEq?w=269&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7){max-width: 300px, display: block, margin: 0 auto}
+
 ## [Roadster Mixte vario](https://www.r-m.de/fr/bikes/roadster-mixte/roadster-mixte-vario/#F00739_04020709)
 
 - Price: EUR 5,049 
@@ -54,6 +58,8 @@ created: 1651763581206
         - top speed: 25 km/h (in EU)
     - Torque sensor: N/A
     - Brakes: Magura MT4, disc brake
+
+![roadster-mixte-vario](https://th.bing.com/th/id/OIP.FDL8-8QkkbCXrLIIKQCbwwHaE8?w=276&h=184&c=7&r=0&o=5&dpr=1.25&pid=1.7){max-width: 300px, display: block, margin: 0 auto}
 
 ## Related resources
 
