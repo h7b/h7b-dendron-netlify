@@ -14,7 +14,7 @@ created: 1651701749973
     - Frame: Fibre de carbone
     - Weight: 11.9 kg
     - Range: de 60 à 90 km
-    - Drivetrain: [[Gates Carbon Belt Drive|notes.misc.my-wishlist.electric-bike.gates-carbon-belt-drive]]
+    - Drivetrain: [[Gates Carbon Belt Drive|notes.misc.my-curated-list.electric-bike.gates-carbon-belt-drive]]
     - Battery: 43.6V 123Wh Lithium-ion
     - Charging time: 2h30 pour être totalement rechargée
     - Charger: 100V – 240 V AC

@@ -32,7 +32,7 @@ created: 1651701607168
     - Frame: 6061 Aluminium
     - Weight: N/A
     - Range: up to 120 km Range of Pedal Assistance
-    - Drivetrain: 55T/22T- [[Gates Carbon Belt Drive|notes.misc.my-wishlist.electric-bike.gates-carbon-belt-drive]]
+    - Drivetrain: 55T/22T- [[Gates Carbon Belt Drive|notes.misc.my-curated-list.electric-bike.gates-carbon-belt-drive]]
     - Battery: 17.5Ah
     - Charging time: N/A
     - Charger: N/A

@@ -14,7 +14,7 @@ created: 1651763581206
     - Frame: N/A
     - Weight: 24.9 kg, including battery
     - Range: N/A
-    - Drivetrain: [[Gates Carbon Belt Drive|notes.misc.my-wishlist.electric-bike.gates-carbon-belt-drive]], Gates drive belt CDX, gear ratio 55T/24T
+    - Drivetrain: [[Gates Carbon Belt Drive|notes.misc.my-curated-list.electric-bike.gates-carbon-belt-drive]], Gates drive belt CDX, gear ratio 55T/24T
     - Battery: Bosch PowerPack 500 Performance, 36 V, 13.4 Ah/500Wh
     - Charging time: N/A
     - Charger: N/A
@@ -32,7 +32,7 @@ created: 1651763581206
     - Frame: N/A
     - Weight: 28.5 kg, including battery
     - Range: N/A
-    - Drivetrain: [[Gates Carbon Belt Drive|notes.misc.my-wishlist.electric-bike.gates-carbon-belt-drive]], Gates drive belt CDX, gear ratio 55T/24T
+    - Drivetrain: [[Gates Carbon Belt Drive|notes.misc.my-curated-list.electric-bike.gates-carbon-belt-drive]], Gates drive belt CDX, gear ratio 55T/24T
     - Battery: Bosch PowerTube 625 Horizontal, 36 V, 13.4 Ah/625Wh
     - Charging time: N/A
     - Charger: N/A
@@ -50,7 +50,7 @@ created: 1651763581206
     - Frame: N/A
     - Weight: 24.3 kg, including battery
     - Range: N/A
-    - Drivetrain: [[Gates Carbon Belt Drive|notes.misc.my-wishlist.electric-bike.gates-carbon-belt-drive]], Gates drive belt CDX, gear ratio 55T/24T
+    - Drivetrain: [[Gates Carbon Belt Drive|notes.misc.my-curated-list.electric-bike.gates-carbon-belt-drive]], Gates drive belt CDX, gear ratio 55T/24T
     - Battery: Bosch PowerTube 625 Vertical, 36 V, 16.7 Ah/625Wh
     - Charging time: N/A
     - Charger: N/A

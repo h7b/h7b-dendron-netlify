@@ -14,7 +14,7 @@ created: 1651702651924
     - Frame: Aluminium 6061
     - Weight: 19.2 kg, including battery
     - Range: up to 70 km
-    - Drivetrain: [[Gates Carbon Belt Drive|notes.misc.my-wishlist.electric-bike.gates-carbon-belt-drive]], gear ratio 57T/21T
+    - Drivetrain: [[Gates Carbon Belt Drive|notes.misc.my-curated-list.electric-bike.gates-carbon-belt-drive]], gear ratio 57T/21T
     - Battery: 10 Ah, 360 Wh Lithium-ion, Removable
     - Charging time: 100% recharged in 3h20min
     - Charger: Custom designed 36V / 3A charger

@@ -9,14 +9,14 @@ created: 1651761981585
 
 ## [Desiknio Urban Pinion](https://desiknio.com/e-bikes/pinion/)
 
-Thoughts: both specs and appearance are similar to [[TENWAYS CGO600|notes.misc.my-wishlist.electric-bike.tenways#tenways-cgo600]], though the price is triple.
+Thoughts: both specs and appearance are similar to [[TENWAYS CGO600|notes.misc.my-curated-list.electric-bike.tenways#tenways-cgo600]], though the price is triple.
 
 - Price: EUR 4,000
 - Included features:
     - Frame: Aluminium 6061
     - Weight: 15.6 kg, including battery
     - Range: up to 50 km
-    - Drivetrain: [[Gates Carbon Belt Drive|notes.misc.my-wishlist.electric-bike.gates-carbon-belt-drive]], gear ratio 46T/30T
+    - Drivetrain: [[Gates Carbon Belt Drive|notes.misc.my-curated-list.electric-bike.gates-carbon-belt-drive]], gear ratio 46T/30T
     - Battery: 36 V, 7 Ah, 250 Wh Lithium-ion
     - Charging time: 2 – 3 hours
     - Charger: N/A
