@@ -2,11 +2,9 @@
 id: 4gPts-9ZNxtR4_EKMY8zD
 title: Mua vs Thuê nhà - Bạn quyết định dựa vào yếu tố nào?
 desc: ''
-updated: 1642631830096
+updated: 1651880718994
 created: 1625523588071
-excerpt: >-
-  Mô hình so sánh lợi ích kinh tế giữa 2 lựa chọn Mua vs Thuê nhà, với các tham
-  số đầu vào giả định
+excerpt: Mô hình so sánh lợi ích kinh tế giữa 2 lựa chọn Mua vs Thuê nhà
 published: true
 ---
 # Mua vs Thuê nhà - Bạn quyết định dựa vào yếu tố nào?

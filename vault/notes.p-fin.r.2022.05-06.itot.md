@@ -2,7 +2,7 @@
 id: zlb5i5hikmaefi8dvq7nfvu
 title: iShares Core S&P Total U.S. Stock (ITOT)
 desc: ''
-updated: 1651798375458
+updated: 1651883964332
 created: 1651797757102
 ---
 # [iShares Core S&P Total U.S. Stock (ITOT)](https://etfdb.com/etf/ITOT/#etf-ticker-profile)
@@ -20,3 +20,7 @@ created: 1651797757102
 - ITOT can be a one stop shop for domestic equity exposure, including equities across a number of different sectors and companies of various sizes as well
 - Relative to other broad-based funds such as IWV and SCHB, this ETF may have a heavier tilt towards large cap companies, making it appealing for investors looking for an equity profile tilted towards the larger companies in an economy
 - There are cheaper options available, such as SCHB, [[VTI|notes.p-fin.r.2022.05-06.vti]] and FMU
+
+## Research tools
+
+- [Schwab](https://www.schwab.com/research/etfs/quotes/summary/itot)

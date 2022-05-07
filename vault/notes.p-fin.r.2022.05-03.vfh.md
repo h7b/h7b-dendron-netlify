@@ -2,7 +2,7 @@
 id: mfnwl1now9uck1u209hqa9c
 title: Vanguard Financials ETF (VFH)
 desc: ''
-updated: 1651796431631
+updated: 1651883545011
 created: 1651791697117
 ---
 # [Vanguard Financials ETF (VFH)](https://etfdb.com/etf/VFH/#etf-ticker-profile)
@@ -14,4 +14,10 @@ created: 1651791697117
 - NAV as of 2022-05-02: $84.32
 - Index tracked: [MSCI US IMI 25/50 Financials](https://etfdb.com/index/msci-us-imi-2550-financials/)
 
-Seeks to track the performance of a benchmark index that measures the investment return of stocks in the financials sector.
+### Analyst report
+
+- Seeks to track the performance of a benchmark index that measures the investment return of stocks in the financials sector.
+
+## Research tools
+
+- [Schwab](https://www.schwab.com/research/etfs/quotes/summary/vfh)

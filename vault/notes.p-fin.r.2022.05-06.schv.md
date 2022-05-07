@@ -2,10 +2,10 @@
 id: kbws1kdlmbvgvg7yrqssvcn
 title: Schwab U.S. Large-Cap Value ETF (SCHV)
 desc: ''
-updated: 1651797542151
+updated: 1651883662934
 created: 1651797400141
 ---
-# Schwab U.S. Large-Cap Value ETF (SCHV)
+# [Schwab U.S. Large-Cap Value ETF (SCHV)](https://etfdb.com/etf/SCHV/#etf-ticker-profile)
 
 ## Overview
 
@@ -14,4 +14,10 @@ created: 1651797400141
 - NAV as of 2022-05-04: $68.17
 - Index tracked: [Dow Jones U.S. Large-Cap Value Total Stock Market Index](https://etfdb.com/index/dow-jones-us-large-cap-value-total-stock-market-index/)
 
-SCHV is linked to an index consisting of roughly 300 holdings and exposure is tilted most heavily towards financials, energy, and consumer staples.
+### Analyst report
+
+- SCHV is linked to an index consisting of roughly 300 holdings and exposure is tilted most heavily towards financials, energy, and consumer staples.
+
+## Research tools
+
+- [Schwab](https://www.schwab.com/research/etfs/quotes/summary/schv)

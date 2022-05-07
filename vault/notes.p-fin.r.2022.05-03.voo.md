@@ -2,7 +2,7 @@
 id: jgwzxlm26ky2anpw1i69ksj
 title: Vanguard S&P 500 ETF (VOO)
 desc: ''
-updated: 1651796435403
+updated: 1651883455452
 created: 1651791826402
 ---
 # [Vanguard S&P 500 ETF (VOO)](https://etfdb.com/etf/VOO/#etf-ticker-profile)
@@ -14,4 +14,10 @@ created: 1651791826402
 - NAV as of 2022-05-02: $380.92
 - Index tracked: [S&P 500 Index](https://etfdb.com/index/sp-500-index/)
 
-Invests in stocks in the S&P 500 Index, representing 500 of the largest U.S. companies.
+### Analyst report
+
+- Invests in stocks in the S&P 500 Index, representing 500 of the largest U.S. companies.
+
+## Research tools
+
+- [Schwab](https://www.schwab.com/research/etfs/quotes/summary/voo)

@@ -2,7 +2,8 @@
 id: qr9gdx0txg2y98s4a5j59ga
 title: '2022-04-12'
 desc: ''
-updated: 1649867473836
+excerpt: Alphabet Inc. (GOOGL)
+updated: 1651880777172
 created: 1649805744654
 ---
 # Research 2022-04-12

@@ -2,7 +2,8 @@
 id: wc2sttf5lnf2otxl6tx6k3c
 title: '2022-04-14'
 desc: ''
-updated: 1649879232061
+excerpt: Advanced Micro Devices, Inc. (AMD)
+updated: 1651880802339
 created: 1649878959523
 ---
 # Research 2022-04-14
