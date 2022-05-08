@@ -2,7 +2,7 @@
 id: 8i2ct9tkybvztia1ltyrz7j
 title: Optimization Modelling
 desc: ''
-updated: 1651104971090
+updated: 1651973168557
 created: 1651100841775
 ---
 # Optimization Modelling
@@ -44,6 +44,8 @@ I encountered an interesting question from playing a game. I want to find the op
 - the output damage from this combinations is max: $22013*x + 12653*y + 10312*z$
 
 Below are the code using PuLP.
+
+<script src="https://gist.github.com/h7b/5e02ceaa6545617464e40fc2dee71227.js"></script>
 
 ```python
 from pulp import LpMaximize, LpProblem, LpStatus, LpVariable
