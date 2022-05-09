@@ -2,7 +2,7 @@
 id: 7xc36bg75kqz6gth0qu3dc7
 title: VanMoof
 desc: ''
-updated: 1651781423007
+updated: 1652095040239
 created: 1651704817512
 ---
 # [VanMoof](https://www.vanmoof.com/en-US)
@@ -24,6 +24,12 @@ created: 1651704817512
     - Hydraulic disc brakes
 
 ![vanmoof-a5](https://th.bing.com/th/id/OIP.AF_d2V_xYod7Zfl-G2ofwQHaDt?w=342&h=174&c=7&r=0&o=5&dpr=1.25&pid=1.7){max-width: 300px, display: block, margin: 0 auto}
+
+## [VanMoof S3](https://www.vanmoof.com/en-US/s3?color=dark)
+
+- Price: USD 2,448
+
+![vanmoof-a5](https://www.vanmoof.com/sites/default/files/2021-04/D_S3Dark_2_0.jpg){max-width: 300px, display: block, margin: 0 auto}
 
 ## Related resources
 

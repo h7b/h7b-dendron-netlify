@@ -2,7 +2,7 @@
 id: 0ndptxltg7qhy4npqpg2mdd
 title: Electric Bike
 desc: ''
-updated: 1651789040472
+updated: 1652098925325
 created: 1651617348774
 ---
 # Electric Bike
@@ -10,6 +10,18 @@ created: 1651617348774
 ## [TENWAYS CGO600](https://www.tenways.com/products/cgo600)
 
 ![[notes.misc.my-curated-list.electric-bike.tenways#tenways-cgo600,1:#*]]
+
+## [ChainFree One](https://www.honbike.com/products/chainfreeone?variant=39979859017798)
+
+![[notes.misc.my-curated-list.electric-bike.honbike#chainfree-one,1:#*]]
+
+## [Alpha](https://vvolt.com/products/alpha)
+
+![[notes.misc.my-curated-list.electric-bike.vvolt#alpha,1:#*]]
+
+## [Roadster V2](https://ride1up.com/product/roadster-v2/)
+
+![[notes.misc.my-curated-list.electric-bike.ride1up#roadster-v2,1:#*]]
 
 ## [KAKUKA K70 Electric Bike](https://www.kakuka.com/products/kakuka-k70-electric-flat-bar-road-bike?variant=41369428689084)
 
@@ -27,9 +39,17 @@ created: 1651617348774
 
 ![[notes.misc.my-curated-list.electric-bike.vanmoof#vanmoof-a5,1:#*]]
 
+## [Proxima](https://vvolt.com/products/proxima)
+
+![[notes.misc.my-curated-list.electric-bike.vvolt#proxima,1:#*]]
+
 ## [Cowboy 4 ST](https://cowboy.com/products/e-bike-cowboy-4?variant=39314404606091)
 
 ![[notes.misc.my-curated-list.electric-bike.cowboy#cowboy-4-st,1:#*]]
+
+## [Priority Current E-BIKE](https://www.prioritybicycles.com/products/current)
+
+![[notes.misc.my-curated-list.electric-bike.prioritybicycles#priority-current-e-bike,1:#*]]
 
 ## [Super73-Z](https://eu.super73.com/collections/z-series/products/super73-z-powder-grey)
 
@@ -51,6 +71,10 @@ created: 1651617348774
 
 ![[notes.misc.my-curated-list.electric-bike.desiknio#desiknio-urban-pinion,1:#*]]
 
+## [Arthur](https://www.schindelhauerbikes.com/en/Bikes/Current/Arthur.html)
+
+![[notes.misc.my-curated-list.electric-bike.shindelhauer#arthur,1:#*]]
+
 ## [Gocycle G4](https://gocycle.com/eu/webstore/gocycles/gocycle-g4/)
 
 ![[notes.misc.my-curated-list.electric-bike.gocycle#gocycle-g4,1:#*]]
@@ -62,3 +86,7 @@ created: 1651617348774
 ## [Gogoro Eeyo 1S](https://www.gogoro-eeyo.fr/product/gogoro-eeyo-1s/)
 
 ![[notes.misc.my-curated-list.electric-bike.gogoro-eeyo#gogoro-eeyo-1s,1:#*]]
+
+## [Arthur VI/IX](https://www.schindelhauerbikes.com/en/Bikes/Current/Arthur-VI-IX.html)
+
+![[notes.misc.my-curated-list.electric-bike.shindelhauer#arthur-viix,1:#*]]

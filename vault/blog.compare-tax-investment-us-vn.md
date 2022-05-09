@@ -2,7 +2,7 @@
 id: iqrxok09sbvykmc3cjsn4me
 title: Compare tax on investment VN vs US
 desc: ''
-updated: 1651972277717
+updated: 1652087459453
 created: 1651971908547
 excerpt: Mô hình so sánh mức thuế trên thu nhập từ đầu tư cổ phiếu giữa hai nước VN và US
 published: true
@@ -132,15 +132,21 @@ T_{US} &= T_F + T_S \\
 \end{align}
 $$
 
-- Applying the assumption:
-    - constant dividend annual rate: $r_d = 3\%$
-    - constant capital annual rate of return: $r = 12\%$
+- Applying the assumption $r_d = 3\%$, $r = 12\%$ 
 
 $$
 T_{US} = 0.36725(1.12^t-1)V_0
 $$
 
-Now we compare the Tax in US $T_{US}$ with its equivalent in Vietnam $T_{VN}$
+
+
+## Comparison
+
+Now we compare the tax bill $T_{US}$ with its equivalent $T_{VN}$ to understand which is more beneficial for investor after how many years ($t$) and with how much initial investment value ($V_0$).
+
+$$
+T_{US} = 0.36725(1.12^t-1)V_0
+$$
 
 $$
 T_{VN} = 0.0125(1.08*1.12^t - 1)V_0

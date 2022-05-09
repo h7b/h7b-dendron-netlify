@@ -9,7 +9,7 @@ created: 1650215018628
 
 ## Introduction
 
-Equity, fixed- income, currency, and commodity markets are facilities for trading the basic assets of an economy. 
+Equity, fixed-income, currency, and commodity markets are facilities for trading the basic assets of an economy. 
 - Equity and fixed- income securities are claims on the assets of a company. 
 - Currencies are the monetary units issued by a government or central bank. 
 - Commodities are natural resources, such as oil or gold. 
