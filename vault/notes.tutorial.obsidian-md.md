@@ -2,7 +2,7 @@
 id: tQP1ujPMEgGv6hMZ2lf8z
 title: Obsidian MD
 desc: ''
-updated: 1651395125050
+updated: 1652222427202
 created: 1633862309359
 ---
 # Obsidian - Tips and Experiences
@@ -22,8 +22,6 @@ all of these elements will also be updated:
 - A [tutorial](https://tfthacker.medium.com/obsidian-understanding-its-core-design-principles-7f3fafbd6e36) that aim to explain to others what Obsidian is and its use cases
 - A [tutorial](https://forum.obsidian.md/t/my-task-management-system/36198) illustrate how a task management system can be implemented within Obsidian, using 3 plugins: Daily Notes, [Tasks](https://github.com/schemar/obsidian-tasks) and [[Dataview|notes.tutorial.obsidian-md.dataview-plugin]]
 - ![[notes.tutorial.obsidian-md.workflow#project-note-by-zsviczian]]
-
-
 
 ## Plugin
 
