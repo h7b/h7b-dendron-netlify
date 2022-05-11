@@ -2,7 +2,7 @@
 id: o29BprtAIME1WpDHPQWGO
 title: Regex Tutorial
 desc: ''
-updated: 1643332491174
+updated: 1652307592063
 created: 1639111891554
 ---
 # How to use Regular Expression Regex
@@ -25,6 +25,7 @@ Regex visualization tools to breakdown and understand:
 - [Debuggex](https://www.debuggex.com/)
   - when I already have a decent understanding of how to accomplish what I want and just want a simple way to edit & test, I think the interface is less busy for that case
 - [Regulex](https://github.com/CJex/regulex)
+- [Regex-Vis](https://regex-vis.com/?r=%5E%28%28%5BhH%5Dacker%29%5B+%5D%3F%28%5BnN%5Dews%7Cnewsletter%29%29%24)
 
 Regular expression syntax cheatsheet
 - [Cheatography](https://cheatography.com/davechild/cheat-sheets/regular-expressions/)

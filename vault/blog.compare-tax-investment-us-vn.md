@@ -2,7 +2,7 @@
 id: iqrxok09sbvykmc3cjsn4me
 title: Compare tax on investment VN vs US
 desc: ''
-updated: 1652087459453
+updated: 1652306375059
 created: 1651971908547
 excerpt: Mô hình so sánh mức thuế trên thu nhập từ đầu tư cổ phiếu giữa hai nước VN và US
 published: true
@@ -132,13 +132,11 @@ T_{US} &= T_F + T_S \\
 \end{align}
 $$
 
-- Applying the assumption $r_d = 3\%$, $r = 12\%$ 
+- Applying the assumption $r_d = 3\%$, $r = 12\%$
 
 $$
 T_{US} = 0.36725(1.12^t-1)V_0
 $$
-
-
 
 ## Comparison
 

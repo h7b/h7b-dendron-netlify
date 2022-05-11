@@ -2,7 +2,7 @@
 id: qvacktliy1b7kqnigmvewo1
 title: Workflow
 desc: ''
-updated: 1652222880651
+updated: 1652307403174
 created: 1647820438689
 ---
 # Typical workflow of Obsidian users
@@ -38,3 +38,28 @@ created: 1647820438689
     ```
     ````
 - demo: ![person-note](https://media.discordapp.net/attachments/744933215063638183/972992392368095252/unknown.png?width=1416&height=670){max-width: 300px, display: block, margin: 0 auto}
+
+## Create a movie database
+
+- [workflow](https://minimal.guide/Guides/Create+a+movie+database) by [`@kepano`](https://twitter.com/kepano) author of [Minimal theme](https://github.com/kepano/obsidian-minimal) for Obsidian
+- required other plugins
+    - [Minimal Theme Settings](https://github.com/kepano/obsidian-minimal-settings)
+    - [Dataview](https://blacksmithgu.github.io/obsidian-dataview/)
+    - [Quickadd](https://github.com/chhoumann/quickadd)
+    - [Sortable](https://github.com/alexandru-dinu/obsidian-sortable)
+- demo: ![minimal-theme](https://user-images.githubusercontent.com/10565871/148671516-348f2b48-440c-484b-8dc2-27006879a1a7.png){max-width: 300px, display: block, margin: 0 auto}
+
+## Retrieve annotations for Hypothes.is via Templater plugin (Hypothes.idian)
+
+ref: [Obsidian Community](https://forum.obsidian.md/t/retrieve-annotations-for-hypothes-is-via-templater-plugin-hypothes-idian/17225)
+
+demo: [youtube](https://youtu.be/f-mVj_DSaag)
+
+This script uses the Templater template.
+
+Template File: [Templater script hosted on GIST GitHub](https://gist.github.com/tfthacker/c48bca69f1520deed0ecbc8840f6241a)
+
+### Bonus
+
+use this site to upload and annotate any local document
+https://docdrop.org/
