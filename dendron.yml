@@ -90,10 +90,11 @@ publishing:
     siteHierarchies:
         - root
         - p-fin
+        - t-journal
     hierarchy:
-        p-fin:
+        t-journal:
             publishByDefault:
-                h7b-dendron: true
+                h7b-dendron: false
     enableSiteLastModified: false
     siteRootDir: docs
     siteUrl: https://kool.casa/
