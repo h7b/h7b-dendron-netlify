@@ -35,3 +35,4 @@ Thoughts: has LCD display similar to [[notes.misc.my-curated-list.electric-bike.
 
 - [Electrek.co | Ride1Up Roadster V2 review: A $995 Belt Drive E-Bike!](https://www.youtube.com/watch?v=jGo-19jXaxY)
 - [KevCentral | Ride1Up Roadster V2 | Belt Drive 36v 350w eBike with Hidden Battery](https://www.youtube.com/watch?v=m4ssWotOKqE)
+- [Electrek.co | Ride1Up Roadster V2 Gravel Edition](https://youtu.be/Q-yeqo8qb8o)

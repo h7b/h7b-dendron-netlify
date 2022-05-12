@@ -2,7 +2,7 @@
 id: hUaRNec8EuScPxslyPKQw
 title: Periodic Daily Notes
 desc: ''
-updated: 1643932508972
+updated: 1652338678958
 created: 1643923735587
 ---
 # How to organize Daily notes in Obsidian?

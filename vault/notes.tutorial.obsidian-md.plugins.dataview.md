@@ -1,6 +1,6 @@
 ---
 id: g3r6x8hiqtydjxfgk9n4cpq
-title: Dataview Plugin
+title: Dataview
 desc: ''
 updated: 1647570080399
 created: 1647568114967

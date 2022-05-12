@@ -1,11 +1,16 @@
 ---
 id: pLRYz6BnANNzAcmFyZ8ap
-title: Hierarchical Notes
+title: Breadcrumbs
 desc: ''
-updated: 1640942978774
+updated: 1652339325664
 created: 1640942481973
 ---
-# Use Breadcrumbs plugin to navigate the hierarchical notes in Dendron vault
+# Breadcrumbs
+
+- GitHub: https://github.com/SkepticMystic/breadcrumbs
+- demo ![breadcrumbs](https://user-images.githubusercontent.com/70717676/123402846-75a67f80-d5a8-11eb-8230-75c37441f122.png){max-width: 300px, display: block, margin: 0 auto}
+
+## Use Breadcrumbs plugin to navigate the hierarchical notes in Dendron vault
 
 With a recent patch to v2.9.1, the [Breadcrumbs plugin](https://github.com/SkepticMystic/breadcrumbs) now can be used to navigate the hierarchy of notes in Dendron vault. 
 Here is the screen cap from mobile ios. As in the photo, on the right pane, `up` means go back to parent of current active note. Looks awesome. 

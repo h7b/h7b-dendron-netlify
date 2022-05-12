@@ -14,7 +14,7 @@ created: 1625432744672
 
 [[Workflow|notes.tutorial.dendron.publish-github-pages]] to publish vault via GitHub Pages
 
-I use Obsidian on iOS with [[Breadcrumbs plugin|notes.tutorial.obsidian-md.hierarchical-notes]] to view and edit my Dendron vault on iPhone.
+I use Obsidian on iOS with [[Breadcrumbs plugin|notes.tutorial.obsidian-md.plugins.breadcrumbs]] to view and edit my Dendron vault on iPhone.
 
 An illustration that helps me to understand the concept of workspace, local vault, remote vault, and how they mingle in Dendron.
 
