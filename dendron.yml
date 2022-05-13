@@ -91,8 +91,9 @@ publishing:
         - root
         - p-fin
         - t-journal
+        - p-fin.t-journal
     hierarchy:
-        t-journal:
+        p-fin.t-journal:
             publishByDefault:
                 h7b-dendron: false
     enableSiteLastModified: false

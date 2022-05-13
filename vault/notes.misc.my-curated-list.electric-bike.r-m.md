@@ -2,7 +2,7 @@
 id: nlushqk7slc6051f4yjpfdc
 title: Riese & Müller
 desc: ''
-updated: 1651780750935
+updated: 1652441270429
 created: 1651763581206
 ---
 # [Riese & Müller](https://www.r-m.de/fr/)
@@ -38,7 +38,7 @@ created: 1651763581206
     - Charger: N/A
     - Motor: Performance Line CX (Gen4)
         - top speed: 25 km/h (in EU)
-    - Torque sensor: N/A
+    - Sensor: N/A
     - Brakes: Magura MT4, disc brake
 
 ![nevo-vario](https://th.bing.com/th/id/OIP.QUOHQA-cW2Cy_pP-6sftAgHaEq?w=269&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7){max-width: 300px, display: block, margin: 0 auto}

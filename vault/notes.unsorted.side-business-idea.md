@@ -2,7 +2,7 @@
 id: xIHUqgJilv3BmnvbvwlhF
 title: Side Business Idea
 desc: ''
-updated: 1649796911762
+updated: 1652442963422
 created: 1643854567901
 tags: topic.investment
 ---
@@ -159,6 +159,12 @@ Is there an equivalent entity of [Regulated Investment Company (RIC)](https://ww
 
 [Morningstar](https://www.morningstar.com/)
 - [Performance](http://performance.morningstar.com/)
+
+[Charles Schwab](https://www.schwab.com/)
+- [ETF research](https://www.schwab.com/research/etfs/quotes/summary/qqq)
+
+[Qualtrim](https://qualtrim.com/)
+- Portfolio Tracker
 
 [Simplize](https://simplize.vn/)
 - stock analysis platform for Vietnam market only

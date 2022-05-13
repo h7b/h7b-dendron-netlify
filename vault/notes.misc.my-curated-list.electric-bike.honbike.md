@@ -2,7 +2,7 @@
 id: 85stdc9m6in1ze8im9lod6h
 title: Honbike
 desc: ''
-updated: 1652096122090
+updated: 1652441160391
 created: 1652095406970
 ---
 # [Honbike](https://www.honbike.com/)
@@ -20,7 +20,7 @@ created: 1652095406970
     - Charger: 1.7A
     - Motor: 250 W, 1.92 Kg. Integrated in front wheel
         - top speed: 25 km/h (in EU)
-    - Speed sensor: Torque + Cadence sensor
+    - Sensor: Torque + Cadence sensor
     - Brakes: Hydraulic disc brakes
     - IP ratings: IP65 for electrical parts, IPX4 for other parts
 

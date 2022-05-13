@@ -2,7 +2,7 @@
 id: 73bnqu68nlnh8uv2tqder73
 title: Gocycle
 desc: ''
-updated: 1651780347695
+updated: 1652441141673
 created: 1651759316600
 ---
 # [Gocycle](https://gocycle.com/?noredirect=true#intro)
@@ -20,7 +20,7 @@ created: 1651759316600
     - Charger: Custom designed 36V / 3A charger
     - Motor: Gocycle proprietary front hub motor, G4drive with traction control 500 watt US / 250 watt EU
         - top speed: 25 km/h (in EU)
-    - Torque sensor
+    - Sensor: torque sensor
     - Hydraulic disc brakes: front and rear
 
 ![gocycle-g4](https://th.bing.com/th/id/OIP.Bx5_kghDbe1ritbkXPJ96gHaE0?pid=ImgDet&w=203&h=135.29950000000002&c=7&dpr=1,25){max-width: 300px, display: block, margin: 0 auto}

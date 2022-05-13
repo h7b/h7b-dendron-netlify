@@ -2,7 +2,7 @@
 id: 0ndptxltg7qhy4npqpg2mdd
 title: Electric Bike
 desc: ''
-updated: 1652098925325
+updated: 1652442515820
 created: 1651617348774
 ---
 # Electric Bike
@@ -11,6 +11,14 @@ created: 1651617348774
 
 ![[notes.misc.my-curated-list.electric-bike.tenways#tenways-cgo600,1:#*]]
 
+## [Roadster V2](https://ride1up.com/product/roadster-v2/)
+
+![[notes.misc.my-curated-list.electric-bike.ride1up#roadster-v2,1:#*]]
+
+## [Soltera Step-Through](https://www.aventon.com/products/soltera-step-through-ebike)
+
+![[notes.misc.my-curated-list.electric-bike.aventon#soltera-step-through,1:#*]]
+
 ## [ChainFree One](https://www.honbike.com/products/chainfreeone?variant=39979859017798)
 
 ![[notes.misc.my-curated-list.electric-bike.honbike#chainfree-one,1:#*]]
@@ -18,10 +26,6 @@ created: 1651617348774
 ## [Alpha](https://vvolt.com/products/alpha)
 
 ![[notes.misc.my-curated-list.electric-bike.vvolt#alpha,1:#*]]
-
-## [Roadster V2](https://ride1up.com/product/roadster-v2/)
-
-![[notes.misc.my-curated-list.electric-bike.ride1up#roadster-v2,1:#*]]
 
 ## [KAKUKA K70 Electric Bike](https://www.kakuka.com/products/kakuka-k70-electric-flat-bar-road-bike?variant=41369428689084)
 

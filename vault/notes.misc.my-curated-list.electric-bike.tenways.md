@@ -2,7 +2,7 @@
 id: 8yvt8c8rpvo5aerh5c43bbp
 title: TENWAYS
 desc: ''
-updated: 1651789537514
+updated: 1652441308901
 created: 1651701379764
 ---
 # [TENWAYS](https://www.tenways.com/)
@@ -22,7 +22,7 @@ My current favorite.
     - Charger: Custom-designed 36V / 3A charger
     - Motor: Custom-designed Mivice M070 40 Nm / 250 W, integrated in the rear hub
         - top speed: 32 km/h (in US), 25 km/h (in EU)
-    - Torque sensor
+    - Sensor: torque sensor
     - Hydraulic disc brakes
     - IP rating: IP65
 

@@ -2,7 +2,7 @@
 id: 8zy6zqoiafsjjw6h5nm0spi
 title: Priority Bicycles
 desc: ''
-updated: 1652097737873
+updated: 1652441250472
 created: 1652093549194
 ---
 # [Priority Bicycles](https://www.prioritybicycles.com/)
@@ -20,7 +20,7 @@ created: 1652093549194
     - Charger: N/A
     - Motor: 500W mid-drive torque sensing motor with 140NM of max torque
         - top speed: 32 km/h
-    - Speed sensor: Torque sensor
+    - Sensor: Torque sensor
     - Brakes: hydraulic disc brakes
     - Gear shiftt (integrated in rear wheel): E-bike specific Shimano Inter-5 internal hub or Enviolo Sportive
 

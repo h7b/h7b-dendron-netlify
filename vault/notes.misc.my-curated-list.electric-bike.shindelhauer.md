@@ -2,7 +2,7 @@
 id: vqj4r9v5nv7m06sdtygsvzu
 title: Shindelhauer
 desc: ''
-updated: 1652097708920
+updated: 1652441276703
 created: 1652096644272
 ---
 # [Shindelhauer Bikes](https://www.schindelhauerbikes.com/en/home/)
@@ -38,7 +38,7 @@ created: 1652096644272
     - Charger: N/A
     - Motor: Mahle-ebikemotion - Motor HUB Drive M1, power: 250 W, torque: ca. 40 Nm. Integrated in rear wheel
         - top speed: 25 km/h
-    - Speed sensor: Torque sensor
+    - Sensor: Torque sensor
     - Brakes: hydraulic disc brakes from Shimano, 160 mm
     - Gear shiftt (integrated in rear wheel): Pinion C-Line gear box 6-/9-speed (XR)
 

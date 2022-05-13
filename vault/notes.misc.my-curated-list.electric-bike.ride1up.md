@@ -2,7 +2,7 @@
 id: nevr9txcw07mugjhergpb75
 title: Ride1Up
 desc: ''
-updated: 1652097990535
+updated: 1652441257075
 created: 1652092567717
 ---
 # [Ride1Up](https://ride1up.com/)
@@ -24,7 +24,7 @@ Thoughts: has LCD display similar to [[notes.misc.my-curated-list.electric-bike.
     - Charger: 36V 2A
     - Motor: 350W Geared Hub Shengyi, integrated in the rear wheel
         - top speed: N/A
-    - Speed sensor: Cadence sensor
+    - Sensor: Cadence sensor
     - Brakes:
         - Tektro R315 Dual Pivot Brakes
         - Tektro Aries Mechanical 160mm Disc (only in ROADSTER V2 GRAVEL EDITION)

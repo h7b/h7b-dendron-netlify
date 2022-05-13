@@ -2,7 +2,7 @@
 id: s4tzrh2wjck4xurpmi2e6nk
 title: Kakuka
 desc: ''
-updated: 1651789003377
+updated: 1652441168581
 created: 1651787973888
 ---
 # [Kakuka](https://www.kakuka.com/)
@@ -22,7 +22,7 @@ Thoughts: has integrated display in handlebar, belt drivechain similar to [[Modm
     - Charger: N/A
     - Motor: XOFO motor 50 Nm / 250 W, integrated in the rear wheel
         - top speed: 25 km/h (in EU)
-    - Torque sensor: N/A
+    - Sensor: N/A
     - Brakes: mechanical disc
     - IP rating: IP54
 

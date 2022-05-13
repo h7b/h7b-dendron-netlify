@@ -2,7 +2,7 @@
 id: aa8nch05mblj40bc14z256u
 title: Modmo
 desc: ''
-updated: 1651781650839
+updated: 1652441177777
 created: 1651701607168
 ---
 # [MODMO](https://modmo.io/)
@@ -20,7 +20,7 @@ created: 1651701607168
     - Charger: N/A
     - Motor: 95RX: 36v 250W front motor
         - top speed: N/A
-    - Torque sensor: N/A
+    - Sensor: N/A
     - Hydraulic disc brakes
 
 ![modmo-saigon-s](https://th.bing.com/th/id/OIP.PhqAQdz0zDAPFJl-MZfK9gHaF-?w=223&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7){max-width: 300px, display: block, margin: 0 auto}
@@ -38,7 +38,7 @@ created: 1651701607168
     - Charger: N/A
     - Motor: 95RX: 36v 250W front motor
         - top speed: N/A
-    - Torque sensor: N/A
+    - Sensor: N/A
     - Hydraulic disc brakes
 
 ![modmo-saigon-plus](https://th.bing.com/th/id/OIP.tRnGkrdS1nt45gRCW8V5KQHaEK?w=309&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7){max-width: 300px, display: block, margin: 0 auto}

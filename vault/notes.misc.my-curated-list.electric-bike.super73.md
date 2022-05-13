@@ -2,7 +2,7 @@
 id: 7i8rualfx4tg3jde12f5x3o
 title: Super73
 desc: ''
-updated: 1651781824379
+updated: 1652441293622
 created: 1651760163393
 ---
 # [Super73](https://eu.super73.com/)
@@ -20,7 +20,7 @@ created: 1651760163393
     - Charger: 2A (6-7 hour charge time)
     - Motor: SUPER73 48V EPAC 250W, integrated in the rear wheel
         - top speed: 25 km/h (in EU)
-    - Torque sensor: N/A
+    - Sensor: N/A
     - Brakes: Tektro Mechanical Disc Brake Front 160mm - Rear 160mm Rotor
 
 ![super73-zg](https://th.bing.com/th/id/OIP.0l6sxjfNYKoc0QhDDYnqLQHaE8?w=295&h=197&c=7&r=0&o=5&dpr=1.25&pid=1.7){max-width: 300px, display: block, margin: 0 auto}
@@ -38,7 +38,7 @@ created: 1651760163393
     - Charger: 2A (6-7 hour charge time)
     - Motor: SUPER73 48V EPAC 250W, integrated in the rear wheel
         - top speed: 25 km/h (in EU)
-    - Torque sensor: N/A
+    - Sensor: N/A
     - Brakes: Tektro Mechanical Disc Brake Front 180mm - Rear 180mm Rotor
 
 ![super73-zg](https://th.bing.com/th/id/OIP.6rzCueHT4q18Q6SuxN1JdAHaEc?w=283&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7){max-width: 300px, display: block, margin: 0 auto}
@@ -56,7 +56,7 @@ created: 1651760163393
     - Charger: 48V/3A (6-7 hour charge time) / Optional: 5A (3-4 hour charge time)
     - Motor: SUPER73 48V EPAC 250W, integrated in the rear wheel
         - top speed: 25 km/h (in EU)
-    - Torque sensor: N/A
+    - Sensor: N/A
     - Brakes: Tektro Hydraulic Disc Brake, 2-piston caliper, Front 180mm - Rear 180mm Rotor
 
 ![super73-s2](https://th.bing.com/th/id/OIP.seLwxL0i5jYvoRYYrQlKNAHaFj?w=263&h=197&c=7&r=0&o=5&dpr=1.25&pid=1.7){max-width: 300px, display: block, margin: 0 auto}

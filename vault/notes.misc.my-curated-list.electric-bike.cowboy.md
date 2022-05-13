@@ -2,7 +2,7 @@
 id: uy5nff071mkz6ljp6sgkvek
 title: Cowboy
 desc: ''
-updated: 1651780108583
+updated: 1652441117433
 created: 1651702651924
 ---
 # [Cowboy](https://cowboy.com/)
@@ -20,7 +20,7 @@ created: 1651702651924
     - Charger: Custom designed 36V / 3A charger
     - Motor: Custom designed 45 Nm / 250 W motor, integrated in the rear wheel
         - top speed: 25 km/h (in EU)
-    - Torque sensor: N/A
+    - Sensor: N/A
     - Brakes: Hydraulic disc
 
 ![cowboy-4-st](https://urbanbike.news/wp-content/uploads/2021/05/Cowboy-4-Smart-E-Bike-2021-C4ST-Black.jpg){max-width: 300px, display: block, margin: 0 auto}

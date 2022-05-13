@@ -2,7 +2,7 @@
 id: 6o6rthrm9jlfn0kxnb5pl0g
 title: Vvolt
 desc: ''
-updated: 1652098776306
+updated: 1652441326402
 created: 1652098042230
 ---
 # [Vvolt](https://vvolt.com/)
@@ -38,7 +38,7 @@ created: 1652098042230
     - Charger: N/A
     - Motor: 250 W MPF mid-drive with 80 Nm of torque
         - top speed: 25 km/h
-    - Speed sensor: Torque sensor
+    - Sensor: Torque sensor
     - Brakes: hydraulic disc brakes, 160 mm rotors
     - Gear shiftt (integrated in rear wheel): Enviolo TR CVT with stepless shifting and 380% gear range
 
