@@ -2,7 +2,7 @@
 id: vqj4r9v5nv7m06sdtygsvzu
 title: Shindelhauer
 desc: ''
-updated: 1652441276703
+updated: 1652444450359
 created: 1652096644272
 ---
 # [Shindelhauer Bikes](https://www.schindelhauerbikes.com/en/home/)
@@ -40,6 +40,6 @@ created: 1652096644272
         - top speed: 25 km/h
     - Sensor: Torque sensor
     - Brakes: hydraulic disc brakes from Shimano, 160 mm
-    - Gear shiftt (integrated in rear wheel): Pinion C-Line gear box 6-/9-speed (XR)
+    - Gear shift (integrated in rear wheel): Pinion C-Line gear box 6-/9-speed (XR)
 
 ![arthur-vi-ix](https://www.schindelhauerbikes.com/out/pictures/master/product/3/x2021_arthur-pinion-cw_web.jpg.pagespeed.ic.973wbsf5AV.webp){max-width: 300px, display: block, margin: 0 auto}

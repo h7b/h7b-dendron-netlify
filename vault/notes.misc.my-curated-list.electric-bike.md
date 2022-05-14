@@ -2,7 +2,7 @@
 id: 0ndptxltg7qhy4npqpg2mdd
 title: Electric Bike
 desc: ''
-updated: 1652442515820
+updated: 1652444570509
 created: 1651617348774
 ---
 # Electric Bike
@@ -94,3 +94,7 @@ created: 1651617348774
 ## [Arthur VI/IX](https://www.schindelhauerbikes.com/en/Bikes/Current/Arthur-VI-IX.html)
 
 ![[notes.misc.my-curated-list.electric-bike.shindelhauer#arthur-viix,1:#*]]
+
+## [District 4 Equipped](https://www.trekbikes.com/fr/fr_FR/vélos/vélos-hybrides/vélos-fitness/district/district-4-equipped/p/33497/)
+
+![[notes.misc.my-curated-list.electric-bike.trek#district-4-equipped,1:#*]]

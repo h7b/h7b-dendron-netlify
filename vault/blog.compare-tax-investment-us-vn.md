@@ -2,7 +2,7 @@
 id: iqrxok09sbvykmc3cjsn4me
 title: Compare tax on investment VN vs US
 desc: ''
-updated: 1652306375059
+updated: 1652485721648
 created: 1651971908547
 excerpt: Mô hình so sánh mức thuế trên thu nhập từ đầu tư cổ phiếu giữa hai nước VN và US
 published: true
@@ -35,6 +35,7 @@ published: true
 ### Assumptions:
 
 - portfolio in both country use the same currency
+- portfolio growth is constantly positive
 - US tax situation: 
     - Single tax filling, 
     - annual income $90k, 
@@ -149,3 +150,11 @@ $$
 $$
 T_{VN} = 0.0125(1.08*1.12^t - 1)V_0
 $$
+
+### Visualization
+
+View code and visuals in my [Deepnote](https://deepnote.com/workspace/huy-f7e5bafc-3b5f-4e8e-86f0-50e9b599d9b9/project/comparetax-de6e2d11-321b-4c63-95bb-4cf14b2c868b/%2Fnotebook.ipynb).
+
+### Conclusion
+
+Surprisingly, with the simple and strict assumption as mentioned above, the tax bill of an investor in Vn will be much less than the one in US.   

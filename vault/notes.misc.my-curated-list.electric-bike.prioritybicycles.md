@@ -2,7 +2,7 @@
 id: 8zy6zqoiafsjjw6h5nm0spi
 title: Priority Bicycles
 desc: ''
-updated: 1652441250472
+updated: 1652444456075
 created: 1652093549194
 ---
 # [Priority Bicycles](https://www.prioritybicycles.com/)
@@ -22,6 +22,6 @@ created: 1652093549194
         - top speed: 32 km/h
     - Sensor: Torque sensor
     - Brakes: hydraulic disc brakes
-    - Gear shiftt (integrated in rear wheel): E-bike specific Shimano Inter-5 internal hub or Enviolo Sportive
+    - Gear shift (integrated in rear wheel): E-bike specific Shimano Inter-5 internal hub or Enviolo Sportive
 
 ![current](https://cdn.shopify.com/s/files/1/1245/1481/t/42/assets/eb3.gif?v=27698765335492847981601465493){max-width: 300px, display: block, margin: 0 auto}
