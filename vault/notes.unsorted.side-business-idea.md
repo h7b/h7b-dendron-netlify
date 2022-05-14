@@ -2,7 +2,7 @@
 id: xIHUqgJilv3BmnvbvwlhF
 title: Side Business Idea
 desc: ''
-updated: 1652442963422
+updated: 1652566892199
 created: 1643854567901
 tags: topic.investment
 ---
@@ -50,6 +50,11 @@ Is there an equivalent entity of [Regulated Investment Company (RIC)](https://ww
     - <$10,000 Net Deposits: $5 per month
 
 ### Investing app, Funds
+
+[Uprise](https://uprise.us/)
+- Personalized financial planner
+- 100% free
+- [Hacker News](https://news.ycombinator.com/item?id=31370775) discussion
 
 [Masterworks](https://www.masterworks.io/)
 - invest in art

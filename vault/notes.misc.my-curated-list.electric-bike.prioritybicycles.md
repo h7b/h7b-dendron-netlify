@@ -2,7 +2,7 @@
 id: 8zy6zqoiafsjjw6h5nm0spi
 title: Priority Bicycles
 desc: ''
-updated: 1652444456075
+updated: 1652566443423
 created: 1652093549194
 ---
 # [Priority Bicycles](https://www.prioritybicycles.com/)
@@ -25,3 +25,23 @@ created: 1652093549194
     - Gear shift (integrated in rear wheel): E-bike specific Shimano Inter-5 internal hub or Enviolo Sportive
 
 ![current](https://cdn.shopify.com/s/files/1/1245/1481/t/42/assets/eb3.gif?v=27698765335492847981601465493){max-width: 300px, display: block, margin: 0 auto}
+
+## [Priority Ace - The Ace of Clubs](https://www.prioritybicycles.com/products/ace)
+
+This is not an electric bike. But simple and cheap.
+
+- Price: USD 599
+- Included features:
+    - Frame: 6061 Aluminium
+    - Weight: 10.89 Kg
+    - Range: N/A
+    - Drivetrain: [[Gates Carbon Belt Drive|notes.misc.my-curated-list.electric-bike.gates-carbon-belt-drive]]. Gates CDN Belt Drive
+    - Battery: N/A
+    - Charging time: N/A
+    - Charger: N/A
+    - Motor: N/A
+    - Sensor: N/A
+    - Brakes: pivot brakes
+    - Gear shift: N/A
+
+![ace-clubs](https://cdn.shopify.com/s/files/1/1245/1481/products/main_ace_1024x1024.jpg?v=1650046531){max-width: 300px, display: block, margin: 0 auto}
