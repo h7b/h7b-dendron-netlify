@@ -1,6 +1,6 @@
 ---
 id: qkyX2H9dfjwIxGeX
-title: External Libraries
+title: Libraries
 desc: ''
 updated: 1639159423000
 created: 1628037199320
