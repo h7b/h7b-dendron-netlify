@@ -2,7 +2,7 @@
 id: hNBBHDI7PLFbYlq3ESWBc
 title: LaTex
 desc: ''
-updated: 1651891733440
+updated: 1652647850180
 created: 1625611476044
 ---
 # LaTex
@@ -25,6 +25,12 @@ $$
    d+e &= f
 \end{align}
 $$
+
+### Use OCR to convert scientific formula to Latex code
+
+![[notes.tutorial.latex.mathpix#mathpix,1]]
+
+![[notes.tutorial.latex.latex-ocr#pix2tex---latex-ocr,1]]
 
 ## Related resources:
 - [Overleaf | What is LaTex?](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes#What_is_LaTeX.3F)

@@ -2,7 +2,7 @@
 id: zUTHtkQuKQWwnIiQhb9uJ
 title: Jupyter Notebook and Alternatives
 desc: ''
-updated: 1649283171250
+updated: 1652648488022
 created: 1639628094199
 ---
 # Jupyter notebook and alternatives
@@ -12,7 +12,7 @@ created: 1639628094199
 ### Installing Mito
 ref: [Mito | Install Mito inside a virtual environment](https://docs.trymito.io/getting-started/installing-mito/installing-mito-inside-a-virtual-environment),
 
-Preparation: [[Install virtualenvwrapper|notes.tutorial.python.virtual-environment#install]]
+Preparation: Install [[virtualenvwrapper|notes.tutorial.python.virtual-environment.virtualenvwrapper#install-virtualenvwrapper]] or any [[alternatives|notes.tutorial.python.virtual-environment]] like [[poetry|notes.tutorial.python.virtual-environment.poetry.jupyter-in-poetry]]
 
 Step-by-step:
 
@@ -34,7 +34,7 @@ Step-by-step:
     py -m jupyter lab
     ```
 
-## Other alternatives
+## Alternatives of Jupyter notebook
 
 [Exploratory](https://exploratory.io/)
 - [pricing](https://exploratory.io/pricing) starts at USD 49/month. 30-day free trial only

@@ -2,7 +2,7 @@
 id: rq9qu5gxuldewr5zufwmfd6
 title: Pyenv
 desc: ''
-updated: 1652606694760
+updated: 1652631433574
 created: 1652605141936
 ---
 # [Pyenv](https://github.com/pyenv/pyenv)
@@ -43,3 +43,8 @@ pyenv local 2.7.17
 # To see which python is currently being used.
 pyenv version
 ```
+
+## Related resources
+
+- [The Python Corner | Managing Python versions with pyenv](https://thepythoncorner.com/posts/2022-05-06-managing-python-versions-with-pyenv/#)
+    - [Hacker News](https://news.ycombinator.com/item?id=31326052) discussion

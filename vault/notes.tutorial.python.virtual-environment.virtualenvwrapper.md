@@ -2,24 +2,27 @@
 id: 839n1pguofbfmcyyull5chx
 title: Virtualenvwrapper
 desc: ''
-updated: 1652604453387
+updated: 1652653676404
 created: 1652604401624
 ---
 # Manage Virtual Environments with [virtualenvwrapper](https://virtualenvwrapper.readthedocs.org/en/latest/)
 
+[virtualenvwrapper](https://virtualenvwrapper.readthedocs.org/en/latest/) is a set of extensions to [[virtualenv|notes.tutorial.python.virtual-environment.virtualenv]] tool. The extensions include wrappers for creating and deleting virtual environments and otherwise managing our development workflow, making it easier to work on more than one project at a time without introducing conflicts in their dependencies.
+
 ## Why virtualenvwrapper over other tools?
-Some useful features of [virtualenvwrapper](https://virtualenvwrapper.readthedocs.org/en/latest/) are that it:
+
+Some features of [virtualenvwrapper](https://virtualenvwrapper.readthedocs.org/en/latest/) are that it:
 - Organizes all of your virtual environments in one location
 - Provides methods to help you easily create, delete, and copy environments
 - Provides a single command to switch between environments. It's just
-  ```python
-  workon projectname
-  ```
-  rather than
-  ```python
-  source ~/Projects/flashylights-env/bin/activate
-  ```
-- Instead of having a `venv` directory inside or alongside your project directory, `virtualenvwrapper` keeps all your environments in one place: `~/.virtualenvs` by default.
+    ```python
+    workon projectname
+    ```
+    rather than
+    ```python
+    source ~/Projects/flashylights-env/bin/activate
+    ```
+- Instead of having a `venv` directory inside or alongside your project directory, `virtualenvwrapper` keeps all your environments in one place: `~/.virtualenvs` by default
 
 ## Install `virtualenvwrapper`
 
