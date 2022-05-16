@@ -2,7 +2,7 @@
 id: d1t8yo7mbwq7773anjk0qm6
 title: How ETFs make money
 desc: ''
-updated: 1648641849229
+updated: 1652712233332
 created: 1648641849229
 ---
 # Reading 2022-03-30
@@ -26,6 +26,32 @@ created: 1648641849229
     - [ETFs vs. mutual funds: Tax efficiency](https://www.fidelity.com/learning-center/investment-products/etf/etfs-tax-efficiency)
 
 ## Notes from reading
+
+### How does ETF provider make money from running an ETF? or What is ETF business model?
+
+The main way ETF providers benefit from running the ETF is through 
+- their management fee
+- lending underlying assets/securities of an ETF, or the ETF units itself [^1]
+
+[^1]: [ETF lending: An even more lucrative approach than securities lending?](https://www.etfstream.com/features/etf-lending-an-even-more-lucrative-approach-than-securities-lending/)
+
+The management fee is taken out of the NAV and this goes to cover all relevant costs involved with managing the ETF, which consist of things like custodian fees, accounting fees, audit fees and index licencing fees, along with salaries, marketing and office space.
+
+#### What happens if the ETF provider falls over?
+
+ETF providers must hold each of their fund’s assets in separate trusts, so each individual fund should be protected from creditors if the provider fails. The provider is also required to appoint an independent custodian for each fund, who holds the assets in the fund for the benefit of the unit holders.
+
+In the case of an ETF, the assets are kept safe through a combination of measures:
+1. All ETFs are issued using a unit trust structure;
+2. The assets of the unit trust are owned by the trustee, which can only use them for the benefit of unit holders as permitted by the ETF’s constitution and product disclosure statement;
+3. The ETF units give each unit holder an ownership share in the assets of the ETF as a whole;
+4. For further investor protection, the ETF assets are commonly held by a separate custodian, providing an extra layer of protection.
+
+#### What happens if the ETF itself closes down?
+
+As with any fund, sometimes the ETF provider may decide to close the ETF. This could happen because the ETF provider isn’t making enough money to reasonably cover the cost of running the ETF.
+
+If investors don’t sell their units in the ETF through their brokerage account prior to the termination date, they will receive a cash distribution equivalent to the NAV on the termination date to their nominated bank account.
 
 ### How do ETFs works
 
@@ -83,28 +109,6 @@ There are two ways for passive ETFs to track an index or benchmark
 
 8. Economic risk
     - The volatility of the market can be directly related to economic factors that are outside of the control of the fund. Investors should be aware that outside economic factors can directly affect the performance of their investment
-
-### How does ETF provider make money from running an ETF?
-
-The main way ETF providers benefit from running the ETF is through their management fee.
-
-The management fee is taken out of the NAV and this goes to cover all relevant costs involved with managing the ETF, which consist of things like custodian fees, accounting fees, audit fees and index licencing fees, along with salaries, marketing and office space.
-
-#### What happens if the ETF provider falls over?
-
-ETF providers must hold each of their fund’s assets in separate trusts, so each individual fund should be protected from creditors if the provider fails. The provider is also required to appoint an independent custodian for each fund, who holds the assets in the fund for the benefit of the unit holders.
-
-In the case of an ETF, the assets are kept safe through a combination of measures:
-1. All ETFs are issued using a unit trust structure;
-2. The assets of the unit trust are owned by the trustee, which can only use them for the benefit of unit holders as permitted by the ETF’s constitution and product disclosure statement;
-3. The ETF units give each unit holder an ownership share in the assets of the ETF as a whole;
-4. For further investor protection, the ETF assets are commonly held by a separate custodian, providing an extra layer of protection.
-
-#### What happens if the ETF itself closes down?
-
-As with any fund, sometimes the ETF provider may decide to close the ETF. This could happen because the ETF provider isn’t making enough money to reasonably cover the cost of running the ETF.
-
-If investors don’t sell their units in the ETF through their brokerage account prior to the termination date, they will receive a cash distribution equivalent to the NAV on the termination date to their nominated bank account.
 
 ### ETFs vs Shares
 

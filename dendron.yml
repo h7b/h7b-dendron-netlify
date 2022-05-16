@@ -89,11 +89,12 @@ publishing:
     siteFaviconPath: vault/assets/favicon.ico
     siteHierarchies:
         - root
+        - notes
         - p-fin
         - t-journal
-        - p-fin.t-journal
+        - notes.p-fin.t-journal
     hierarchy:
-        p-fin.t-journal:
+        notes.p-fin.t-journal:
             publishByDefault:
                 h7b-dendron: false
     enableSiteLastModified: false
