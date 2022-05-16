@@ -2,7 +2,7 @@
 id: Iwqrmz3QRqEmIS1ALcXp7
 title: Image Hosting Service
 desc: ''
-updated: 1641334422713
+updated: 1652741255433
 created: 1637436371459
 ---
 # Image hosting service provider 
@@ -10,7 +10,7 @@ created: 1637436371459
 How to upload images to cloud and embed in markdown files?
 
 [ImageKit](https://imagekit.io/)
-- Upload images to [ImageKit](https://imagekit.io/). [Pricing plan](https://imagekit.io/plans) starts at USD 49/month. Their `Free` tier might be sufficient for personal blog, with 20GB bandwidth and 20GB media storage.
+- Upload images to [ImageKit](https://imagekit.io/). [Pricing plan](https://imagekit.io/plans) starts at USD 49/month. Their `Free` tier might be sufficient for personal blog, with 20GB bandwidth and 20GB media storage
 - I'm currently use ImageKit for this blog.
 
 [imgur](https://imgur.com/)

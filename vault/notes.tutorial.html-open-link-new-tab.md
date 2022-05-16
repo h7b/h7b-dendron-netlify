@@ -2,9 +2,10 @@
 id: gjiUUh-JR3_2C4D0O2vPa
 title: HTML Open Link New Tab
 desc: ''
-updated: 1625541791935
+updated: 1652741099758
 created: 1625526336326
 ---
+# HTML tag to Open Link New Tab
 
 Ref: [freeCodeCamp tutorial](https://www.freecodecamp.org/news/how-to-use-html-to-open-link-in-new-tab/)
 

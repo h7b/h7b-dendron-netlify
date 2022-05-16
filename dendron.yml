@@ -91,7 +91,6 @@ publishing:
         - root
         - notes
         - p-fin
-        - t-journal
         - notes.p-fin.t-journal
     hierarchy:
         notes.p-fin.t-journal:

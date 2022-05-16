@@ -2,7 +2,7 @@
 id: I4vsY3q3vnRfMhKb
 title: Docusaurus
 desc: ''
-updated: 1642175445437
+updated: 1652741021853
 created: 1627044913994
 ---
 # Publish documents and blog with Docusaurus
@@ -30,7 +30,7 @@ Cons:
     - update the reference links to other markdown files 
 - does not support wikilink style, need custom script to convert to markdown link. Or use a [plugin](https://github.com/ozntel/obsidian-link-converter) in Obsidian to convert the link in notes within your vault.
 
-## Helpful resources
+## Related resources
 
 - Tutorial in details by [Zatta Production](https://zatta.link/en/web/docusaurus-how-to.html)
 - Tutorial in details by [Danny Chávez](https://github.com/dochavez/Documenting-with-Docusaurus-V2.-)

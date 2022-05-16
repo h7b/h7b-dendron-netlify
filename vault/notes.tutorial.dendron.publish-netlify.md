@@ -2,7 +2,7 @@
 id: 3UHqQ5XkT3JvF1JE4jUdR
 title: Publish Netlify
 desc: ''
-updated: 1643248718915
+updated: 1652740947933
 created: 1640060126202
 ---
 # Publish my Dendron vault using Netlify
@@ -119,4 +119,3 @@ To inherit the changes currently:
 - Copy the latest `package.json`, `.gitignore`, `netlify.toml`, and `dendron-publish-site.sh` into your repo, in case any of these files have updated since you started using the template.
 - Remove `package-lock.json` if that is present.
 - Use yarn upgrade to upgrade the packages of your repo. You can also just choose to copy over `yarn.lock`, instead.
-

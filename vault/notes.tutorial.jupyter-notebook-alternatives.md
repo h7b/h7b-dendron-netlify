@@ -2,21 +2,24 @@
 id: zUTHtkQuKQWwnIiQhb9uJ
 title: Jupyter Notebook and Alternatives
 desc: ''
-updated: 1652648488022
+updated: 1652741539087
 created: 1639628094199
 ---
 # Jupyter notebook and alternatives
 
 ## Getting started with [Mito](https://trymito.io/)
 
+[Mito](https://trymito.io/) is an extension that enable the Excel-like UI within Jupyter notebook
+
 ### Installing Mito
+
 ref: [Mito | Install Mito inside a virtual environment](https://docs.trymito.io/getting-started/installing-mito/installing-mito-inside-a-virtual-environment),
 
 Preparation: Install [[virtualenvwrapper|notes.tutorial.python.virtual-environment.virtualenvwrapper#install-virtualenvwrapper]] or any [[alternatives|notes.tutorial.python.virtual-environment]] like [[poetry|notes.tutorial.python.virtual-environment.poetry.jupyter-in-poetry]]
 
 Step-by-step:
 
-1. Create a new virtual environment named `mitoenv`
+1. Create a new virtual environment named `mitoenv`. I used [[virtualenvwrapper|notes.tutorial.python.virtual-environment.virtualenvwrapper]] for this example
     ```shell
     mkvirtualenv mitoenv
     ```
