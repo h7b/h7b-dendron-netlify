@@ -2,7 +2,7 @@
 id: 3k0n1c6p4b81ugvg085nza4
 title: Jupyter in Poetry
 desc: ''
-updated: 1652654674252
+updated: 1652751576146
 created: 1652632280394
 ---
 # Setup Jupyter in Poetry
@@ -82,8 +82,6 @@ The workflow outlined here makes projects that can easily be run on other machin
     - If the `poetry.lock` file exists, use the exact dependency version specified in the lock file to build the virtual environment
     - If the `poetry.lock` file doesn’t exist, then use the `pypoetry.toml` file to resolve the dependencies, build a lock file, and setup the virtual environment
 - If you're ever having trouble with the virtual environment or lock file, feel free to simply delete them and recreate them with `poetry install`. Don't manually modify the lock file or virtual environment.
-
-
 
 ## Related resources
 

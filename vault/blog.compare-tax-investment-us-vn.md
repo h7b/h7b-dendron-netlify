@@ -2,7 +2,7 @@
 id: iqrxok09sbvykmc3cjsn4me
 title: Compare tax on investment VN vs US
 desc: ''
-updated: 1652485721648
+updated: 1652753465121
 created: 1651971908547
 excerpt: Mô hình so sánh mức thuế trên thu nhập từ đầu tư cổ phiếu giữa hai nước VN và US
 published: true
@@ -157,4 +157,4 @@ View code and visuals in my [Deepnote](https://deepnote.com/workspace/huy-f7e5ba
 
 ### Conclusion
 
-Surprisingly, with the simple and strict assumption as mentioned above, the tax bill of an investor in Vn will be much less than the one in US.   
+Surprisingly, with the simple and strict assumption as mentioned above, the tax bill of an investor in Vn will be much less than the one in US.

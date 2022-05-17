@@ -2,7 +2,7 @@
 id: 839n1pguofbfmcyyull5chx
 title: Virtualenvwrapper
 desc: ''
-updated: 1652653676404
+updated: 1652751507257
 created: 1652604401624
 ---
 # Manage Virtual Environments with [virtualenvwrapper](https://virtualenvwrapper.readthedocs.org/en/latest/)
@@ -83,3 +83,19 @@ Activate the desired environment
 ```shell
 $ workon project-name
 ```
+
+### Specify project directory
+
+ref: [Adam Lombard](https://dev.to/adamlombard/easy-python-specify-a-project-directory-with-virtualenvwrapper-280h)
+
+If you're using `virtualenvwrapper` to manage your Python environments, you can specify your project directory in your environment settings. Doing so will automatically `cd` you into your project when you open its environment — a nice little time-saving feature.
+
+So how:
+- When creating our environment, we can use the `-a` flag to specify the project directory:
+    ```shell
+    $ mkvirtualenv -a [/path/to/project] [name-of-environment]
+    ```
+- if we've already created a project and environment without this setting? In that case, we can use `setvirtualenvproject` to change this setting
+    ```shell
+    $ setvirtualenvproject [/path/to/environment] [/path/to/project]
+    ```
