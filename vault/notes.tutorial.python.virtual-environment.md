@@ -2,7 +2,7 @@
 id: 5AA8KKYfUpbCkcdm7CaMX
 title: Virtual Environment
 desc: ''
-updated: 1652655107454
+updated: 1652825766572
 created: 1639626240928
 ---
 # Python Virtual Environments
@@ -33,9 +33,16 @@ Python workspace management can be split into two phases:
 - [[virtualenvwrapper|notes.tutorial.python.virtual-environment.virtualenvwrapper]] keeps all your environments in one place `~/.virtualenvs` by default
 - Similar default behavior with [[poetry|notes.tutorial.python.virtual-environment.poetry]]
     ![[Jupyter in Poetry|notes.tutorial.python.virtual-environment.poetry.jupyter-in-poetry#^gaqhf9yjjqhs]]
-- This setup depends on personal taste. Others will prefer that the project's virtual environment folder is located inside their project's folder
-- VS Code, which I use for Python development, cannot automatically select the right virtual environment if they are all stored in one place
-    -  However, it can automatically activate the environment if it is stored in the `.venv` directory inside your project `root`
+- This setup depends on personal preference. Others will prefer that the project's virtual environment folder is located inside their project's folder
+- Visual Studio Code, which I use for Python development, cannot automatically select the right virtual environment if they are all stored in one place. But it can automatically activate the environment if it is stored in the `.venv` directory inside your project `root`
+- [Python Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-python.python) can automatically looks for interpreters in the following locations [^1]
+    - Standard install paths such as `/usr/local/bin`, `/usr/sbin`, `/sbin`, `c:\\python27`, `c:\\python36`, etc.
+    - Virtual environments located directly under the workspace (project) folder
+    - Virtual environments located in the folder identified by the `python.venvPath` setting (see [General Python settings](https://code.visualstudio.com/docs/python/settings-reference#_general-python-settings)), which can contain multiple virtual environments
+    - Virtual environments located in the path identified by `WORKON_HOME` (as used by [[virtualenvwrapper|notes.tutorial.python.virtual-environment.virtualenvwrapper]])
+    - Interpreters installed by [[pyenv|notes.tutorial.python.virtual-environment.pyenv]], [[poetry|notes.tutorial.python.virtual-environment.poetry.jupyter-in-poetry]], etc.
+
+[^1]: [Visual Studio Code | Docs | Using Python environments in VS Code](https://code.visualstudio.com/docs/python/environments#_where-the-extension-looks-for-environments)
 
 ## Related resources
 
