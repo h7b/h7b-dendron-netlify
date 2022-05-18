@@ -2,7 +2,7 @@
 id: efp2kf71iy2tpqvy5z7veqg
 title: Roland
 desc: ''
-updated: 1652140030340
+updated: 1652912267291
 created: 1652137883788
 ---
 # [Roland](https://www.roland.com/global/)
@@ -12,7 +12,7 @@ created: 1652137883788
 - Specs: 
     - for beginners, entry-level
     - keyboard: 88 fully weighted keys (PHA-4 Standard Keyboard)
-    - connections: USB B (connect to computer to transfer MIDI data), USB A (update firmware only), Bluetooth 4.0, Headphone jack (3.5mm), Pedal jack
+    - connections: USB B (connect to computer to transfer MIDI data), USB A (update firmware only), Bluetooth 4.0, Headphone jack (3.5 mm), Pedal jack
     - dimensions: 128.4 x 25.8 x 14 cm
     - weight: 12.3 kg
     - release date: January 2019

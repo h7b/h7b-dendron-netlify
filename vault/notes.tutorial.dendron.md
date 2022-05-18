@@ -2,7 +2,7 @@
 id: c1-h7c_wOFHJkpzI1t4Gx
 title: Dendron
 desc: ''
-updated: 1649885487578
+updated: 1652895240701
 created: 1625432744672
 ---
 # Write and publish notes using [Dendron](https://www.dendron.so/)

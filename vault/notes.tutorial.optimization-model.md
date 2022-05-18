@@ -2,7 +2,7 @@
 id: 8i2ct9tkybvztia1ltyrz7j
 title: Optimization Modelling
 desc: ''
-updated: 1651973168557
+updated: 1652895913646
 created: 1651100841775
 ---
 # Optimization Modelling
@@ -43,44 +43,9 @@ I encountered an interesting question from playing a game. I want to find the op
 - the max unit supply must be equal or less than 300: $18*x + 18*y + 16*z <= 300$
 - the output damage from this combinations is max: $22013*x + 12653*y + 10312*z$
 
-Below are the code using PuLP.
+Find below a solution using PuLP in [GitHub Gist](https://gist.github.com/h7b/5e02ceaa6545617464e40fc2dee71227).
 
 <script src="https://gist.github.com/h7b/5e02ceaa6545617464e40fc2dee71227.js"></script>
-
-```python
-from pulp import LpMaximize, LpProblem, LpStatus, LpVariable
-
-# Create the model
-model = LpProblem(name="fleet-combination", sense=LpMaximize)
-
-# Initialize the decision variables
-x = LpVariable(name="x", lowBound=0)
-y = LpVariable(name="y", lowBound=0)
-z = LpVariable(name="z", lowBound=0)
-
-# Add the constraints to the model
-model += (18*x + 18*y + 16*z <= 300, "max_unit_supply")
-model += (x <= 8, "max_quantity_ship_type_1")
-model += (y <= 12, "max_quantity_ship_type_2")
-model += (z <= 12, "max_quantity_ship_type_3")
-
-# Add the objective function to the model
-obj_func = 22013*x + 12653*y + 10312*z
-model += obj_func
-
-# Solve the problem
-status = model.solve()
-
-# Print the status of solved model
-print(f'status: {model.status}, {LpStatus[model.status]}')
-
-# Print the result of objective function
-print(f'objective: {model.objective.value()}')
-
-# Print the solved x,y,z constraint variables
-for var in model.variables():
-    print(f'{var.name}: {var.value()}')
-```
 
 ## Related resources
 

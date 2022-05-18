@@ -2,7 +2,7 @@
 id: A1NAKQqOicRxVaLJJbbDu
 title: How to Take Note
 desc: ''
-updated: 1652741218817
+updated: 1652895156536
 created: 1625962637983
 ---
 # How to take smart note
@@ -39,3 +39,24 @@ To understand why journals are useful in PKMs like Logeq and Roam it is importan
 
 Use hierarchy:
 - example: create `[[contact/family]]` and `[[contact/business]]` to differentiate pages with different kinds of contacts
+
+## How to use and organize Tags?
+
+ref: [Obsidian Community](https://forum.obsidian.md/t/how-to-use-tags/35320/11)
+
+![types-tags](https://forum.obsidian.md/uploads/default/optimized/3X/f/d/fdd6723105ddc8de1d41a8a3a821856b75f4bff1_2_750x750.jpeg){max-width: 300px, display: block, margin: 0 auto}
+
+I choose using tags for Zettelkasten with three different goals in mind:
+- to build up an index
+    - The terms in my index are leading me to important entry points in the slip-box
+    - tags for indexing should link only a few important notes, the entry points for further investigation
+- to define clusters
+    - The terms which define clusters are leading me to a number of similar notes that belong together
+    - tags for clustering connect larger groups of notes with similar focus
+- conceptual/idea tags that are never actually used for searching and only function as psychological reassurance that you’ll be able to find things again
+
+Two figures below listed the most typical tags used by Obsidian community.
+
+![list-tags-1](https://forum.obsidian.md/uploads/default/optimized/3X/6/d/6d3577cea621692e3785f6d5cb82ce1f1da88bba_2_750x750.jpeg){max-width: 300px, display: block, margin: 0 auto}
+
+![list-tags-2](https://forum.obsidian.md/uploads/default/optimized/3X/7/9/790c3c2d97c7b6b0c5ea72b43afba0928cb7a91f_2_598x750.jpeg){max-width: 300px, display: block, margin: 0 auto}

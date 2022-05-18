@@ -2,7 +2,7 @@
 id: qvacktliy1b7kqnigmvewo1
 title: Workflow
 desc: ''
-updated: 1652307403174
+updated: 1652894485061
 created: 1647820438689
 ---
 # Typical workflow of Obsidian users
@@ -59,7 +59,4 @@ This script uses the Templater template.
 
 Template File: [Templater script hosted on GIST GitHub](https://gist.github.com/tfthacker/c48bca69f1520deed0ecbc8840f6241a)
 
-### Bonus
-
-use this site to upload and annotate any local document
-https://docdrop.org/
+Note: Can use this site to upload and annotate any local document: https://docdrop.org/

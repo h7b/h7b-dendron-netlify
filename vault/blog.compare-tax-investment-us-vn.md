@@ -2,7 +2,7 @@
 id: iqrxok09sbvykmc3cjsn4me
 title: Compare tax on investment VN vs US
 desc: ''
-updated: 1652753465121
+updated: 1652896957892
 created: 1651971908547
 excerpt: Mô hình so sánh mức thuế trên thu nhập từ đầu tư cổ phiếu giữa hai nước VN và US
 published: true
@@ -154,6 +154,14 @@ $$
 ### Visualization
 
 View code and visuals in my [Deepnote](https://deepnote.com/workspace/huy-f7e5bafc-3b5f-4e8e-86f0-50e9b599d9b9/project/comparetax-de6e2d11-321b-4c63-95bb-4cf14b2c868b/%2Fnotebook.ipynb).
+
+As shown in figure below,
+- The current Tax VN policy is always better for investor
+- Tax VN = Tax US only if
+    - initial investment $V_0 = 0$
+    - or year $t = -20$
+
+![tax-compare](https://ik.imagekit.io/casa/h7b-dendron/Screenshot_2022-05-18_195315_OajCY9rjFs.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1652896465225){max-width: 300px, display: block, margin: 0 auto}
 
 ### Conclusion
 
