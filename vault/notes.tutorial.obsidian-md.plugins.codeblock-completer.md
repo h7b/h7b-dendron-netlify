@@ -1,15 +1,15 @@
 ---
 id: juw4cvf7a3du2t5m29x3x03
-title: Codeblock Completer
+title: Code Block Completer
 desc: ''
-updated: 1652747494471
+updated: 1652997039116
 created: 1652747220007
 ---
-# Codeblock Completer
+# Code Block Completer
 
 - GitHub: https://github.com/SkepticMystic/codeblock-completer
 - Thoughts:
-    - This plugin adds a editor suggestor modal for you to quickly complete codeblock names
+    - This plugin adds an editor suggestor modal for you to quickly complete codeblock names
 - demo 
     - Simply type ``` to see a dropdown list of possible options. ![codeblock-completer-1](https://camo.githubusercontent.com/042dd844ca6dd53c81aceb8c0155e074f1a952bc6c362d17d31230de948f6ade/68747470733a2f2f692e696d6775722e636f6d2f484637394849722e706e67){max-width: 300px, display: block, margin: 0 auto}
     - You can filter the list by typing more letters ![codeblock-completer-2](https://camo.githubusercontent.com/e4af0220e782d3365c7bb9c7ad817dfc83369e4f8752a0aec732c000c41bb7ae/68747470733a2f2f692e696d6775722e636f6d2f3759794a7657372e706e67){max-width: 300px, display: block, margin: 0 auto}

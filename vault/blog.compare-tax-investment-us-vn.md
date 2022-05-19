@@ -2,7 +2,7 @@
 id: iqrxok09sbvykmc3cjsn4me
 title: Compare tax on investment VN vs US
 desc: ''
-updated: 1652896957892
+updated: 1652958602702
 created: 1651971908547
 excerpt: Mô hình so sánh mức thuế trên thu nhập từ đầu tư cổ phiếu giữa hai nước VN và US
 published: true
@@ -34,7 +34,7 @@ published: true
 
 ### Assumptions:
 
-- portfolio in both country use the same currency
+- Initial investment value $V_0$ is in USD
 - portfolio growth is constantly positive
 - US tax situation: 
     - Single tax filling, 
@@ -50,7 +50,9 @@ published: true
 - constant dividend annual rate: $r_d = 3\%$
 - constant capital annual rate of return: $r = 12\%$
 
-### Calculate sum of Dividends
+## Formulate the concept
+
+### Dividends
 
 Dividends at:
 - Initial: $D_0 = r_dV_0$
@@ -76,7 +78,7 @@ D &= r_d\Big[\frac{1-(1+r)^t}{1-(1+r)}\Big]V_0 \\
 \end{align}
 $$
   
-## Tax in Vietnam
+### Tax in Vietnam
 
 $$
 \begin{align}
@@ -98,9 +100,9 @@ T_{VN} &= (0.0135*1.12^t - 0.0125)V_0 \\
 \end{align}
 $$
 
-## Tax in U.S.
+### Tax in U.S.
 
-### Federal tax
+#### Federal tax
 $$
 \begin{align}
 T_F &= T_C + T_{DO} + T_{DQ} \\
@@ -113,7 +115,7 @@ where
 - tax for ordinary dividend: $T_{DO} = 24\%D_O = 0.24*0.6D = 0.144D$
 - tax for qualified dividend: $T_{DQ} = 15\%D_Q = 0.15*0.4D = 0.06D$
 
-### State tax (California) 
+#### State tax (California) 
 
 $$
 \begin{align}
@@ -122,7 +124,7 @@ T_S &= 9.3\%(G + D_O + D_Q) \\
 \end{align}
 $$
 
-### Total tax bill in US
+#### Total tax bill in US
 
 $$
 \begin{align} 
@@ -163,6 +165,6 @@ As shown in figure below,
 
 ![tax-compare](https://ik.imagekit.io/casa/h7b-dendron/Screenshot_2022-05-18_195315_OajCY9rjFs.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1652896465225){max-width: 300px, display: block, margin: 0 auto}
 
-### Conclusion
+## Conclusion
 
-Surprisingly, with the simple and strict assumption as mentioned above, the tax bill of an investor in Vn will be much less than the one in US.
+Surprisingly, with the simple and strict assumption as mentioned above, the tax bill of an investor in VN will be much less than the one in US.

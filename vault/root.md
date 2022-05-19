@@ -2,7 +2,7 @@
 id: bK2oWh3nbKjoUhY34x9dy
 title: Welcome
 desc: ''
-updated: 1652598410001
+updated: 1652916190337
 created: 1625408489834
 ---
 # Hey 👋
@@ -14,7 +14,7 @@ I use this as a frictionless way to
 - share my thoughts without being constrained to long, polished blog posts
 - write ideas and quickly reference my notes
 
-> [Digital garden](https://maggieappleton.com/garden-history) are imperfect by design. They don't hide their rough edges or claim to be a permanent source of truth 
+> [Digital garden](https://maggieappleton.com/garden-history) are imperfect by design. They don't hide their rough edges or claim to be a permanent source of truth
 
 Feel free to drop an email at `h(at)kool(dot)casa` or start a [discussion in GitHub](https://github.com/h7b/h7b-dendron-netlify/discussions/1).
 

@@ -2,7 +2,7 @@
 id: 1prqzlrmmy6o1ltnzks515l
 title: Tax Basics for Investors in US
 desc: ''
-updated: 1648757157873
+updated: 1652957808481
 created: 1648757157873
 ---
 # Reading 2022-03-31
@@ -32,8 +32,12 @@ The federal government taxes
 - but also realized capital gains [^1]
 
 Investors that earn dividends or capital gains, by selling assets from their portfolios resulting in either a [realized gain](https://www.investopedia.com/terms/r/realizedprofit.asp) or loss, are subject to pay taxes on those gains
-- `Short-term capital gains` and `ordinary dividends` are treated the same as income and taxed at the current income tax bracket level
-- `Long-term capital gains` and `qualified dividends` have favorable tax treatment that is lower than ordinary income tax rates
+- [[Federal Income Tax|notes.reading.tax-investors-us.income-tax-us#federal-income-tax]] on
+    - `Short-term capital gains` and `ordinary dividends` are treated the same as income and taxed at the current income tax bracket level
+    - `Long-term capital gains` and `qualified dividends` have favorable tax treatment that is lower than ordinary income tax rates
+- [[State Income Tax|notes.reading.tax-investors-us.income-tax-us#state-income-tax]] on
+    - `Short-term capital gains` and `ordinary dividends`
+    - `Long-term capital gains` and `qualified dividends`
 
 ### Tax on Dividends
 

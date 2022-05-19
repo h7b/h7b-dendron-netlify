@@ -2,10 +2,11 @@
 id: YnP5koZlwJH69LZHccDna
 title: Archive Forbes
 desc: ''
-updated: 1642557987834
+updated: 1652996752409
 created: 1642557920140
 ---
 # Billionaire Bitcoin Investor Explains Why Tokenized Stocks Are A Big Deal...Outside America
+
 ref: [Forbes](https://www.forbes.com/sites/javierpaz/2021/05/11/the-future-of-tokenized-stockswhat-they-can-replace-and-what-to-watch-out-for/), [archived pdf](https://app.box.com/s/cy26dd6413ugydlbuw1xvv0uccxucm4a)
 
 Outside of the United States, in many countries, investors don’t have easy access to U.S. securities markets or, if they do, it is a costly proposition.

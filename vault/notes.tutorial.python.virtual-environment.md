@@ -2,7 +2,7 @@
 id: 5AA8KKYfUpbCkcdm7CaMX
 title: Virtual Environment
 desc: ''
-updated: 1652825766572
+updated: 1652957090841
 created: 1639626240928
 ---
 # Python Virtual Environments
@@ -50,3 +50,4 @@ Python workspace management can be split into two phases:
 - [Liquid Web | setup Python Virtual Environment on Windows 10](https://www.liquidweb.com/kb/how-to-setup-a-python-virtual-environment-on-windows-10/)
 - [Ruslanmv | setup Python Virtual Environment in WSL](https://ruslanmv.com/blog/Python3-in-Windows-with-Ubuntu)
 - [Analyzing Alpha | Python Virtual Environments: Setup & Usage](https://analyzingalpha.com/python-virtual-environment)
+- [Predictive Hacks | How To Work With VS Code And Virtual Environments In Python](https://predictivehacks.com/how-to-work-with-vs-code-and-virtual-environments-in-python/)
