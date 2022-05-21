@@ -1,9 +1,9 @@
 ---
-id: qkyX2H9dfjwIxGeX
-title: Libraries
+id: ukxfkqt4rq665m8cy516a0r
+title: Working with External Libraries
 desc: ''
-updated: 1639159423000
-created: 1628037199320
+updated: 1653126440693
+created: 1653126424203
 ---
 # Working with External Libraries
 
@@ -53,6 +53,7 @@ ravel(...) method of numpy.ndarray instance
 ```
 
 ## Operator overloading
+
 We might think that Python strictly polices how pieces of its core syntax behave such as +, <, in, ==, or square brackets for indexing and slicing. But in fact, it takes a very hands-off approach. When you define a new type, you can choose how addition works for it, or what it means for an object of that type to be equal to something else.
 
 The designers of `lists` decided that adding them to numbers wasn't allowed. The designers of `numpy` arrays went a different way (adding the number to each element of the array).
