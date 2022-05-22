@@ -2,7 +2,7 @@
 id: 7hc6JngKcxN5XulRf02oB
 title: Pandas
 desc: ''
-updated: 1643186442687
+updated: 1653181158495
 created: 1643184543645
 ---
 # Learn Pandas
@@ -69,4 +69,3 @@ wine_reviews.to_csv("filename.csv")
 
 ## Indexing, Selecting & Assigning
 ref: [kaggle](https://www.kaggle.com/residentmario/indexing-selecting-assigning)
-

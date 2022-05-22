@@ -2,7 +2,7 @@
 id: kMyz5gwL4xY8buPuxnEa1
 title: Merge Spreadsheets
 desc: ''
-updated: 1649283134028
+updated: 1653180670537
 created: 1639180793342
 ---
 # How to combine / consolidate multiple spreadsheets
@@ -84,7 +84,7 @@ Thoughts:
 - [Pricing plan](https://trymito.io/plans) starts at USD 10/month. However, it's free to use on local machine.
 - Simpler than writing my own Python script
 - Currently Mito only works as a spreadsheet extension to the JupyterLab notebook
-- [[Installing Mito|notes.tutorial.jupyter-notebook-alternatives#getting-started-with-mito]] is not complicated but it's quite daunting for users who may not be familiar with codings
+- [[Installing Mito|notes.tutorial.python.packages.mito#getting-started-with-mito]] is not complicated but it's quite daunting for users who may not be familiar with codings
 
 ## Use Python script
 ref: [Love Spreadsheets | Medium](https://lovespreadsheets.medium.com/merging-spreadsheets-with-python-append-591d599d49da)

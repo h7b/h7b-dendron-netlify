@@ -7,6 +7,6 @@ created: 1643760497810
 ---
 # List of work in progress
 
-[[notes.tutorial.python.pandas]]
+[[notes.tutorial.python.learn.pandas]]
 
 [[notes.unsorted.collect-finance-market-data]]
