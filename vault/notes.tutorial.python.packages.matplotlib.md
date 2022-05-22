@@ -2,10 +2,12 @@
 id: zk2117bskshg7l1o9mx3e0b
 title: Matplotlib
 desc: ''
-updated: 1653124168295
+updated: 1653183829712
 created: 1652485779639
 ---
 # [Matplotlib](https://matplotlib.org/)
+
+The foundational library for visualizations.
 
 No matter what you’re doing with your data, at some point you’ll need to communicate your results to other humans, and `Matplotlib` is one of the main libraries for making that happen.
 

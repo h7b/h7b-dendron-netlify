@@ -2,7 +2,7 @@
 id: zUTHtkQuKQWwnIiQhb9uJ
 title: Jupyter Notebook
 desc: ''
-updated: 1653180562825
+updated: 1653184113658
 created: 1639628094199
 ---
 # Jupyter Notebook
@@ -35,3 +35,7 @@ The Jupyter Notebook is an open source web application that you can use to creat
 [Ellx](https://ellx.io/)
 - web-native spreadsheet where formulas and macros are both JavaScript instead of Excel formulas and VBA
 - [review](https://news.ycombinator.com/item?id=30871606) on HackerNews
+
+[notebooks.ai](https://notebooks.ai/)
+- Free Data Science environment in the cloud
+- Notebooks.ai was shut down on October 1st 2020
