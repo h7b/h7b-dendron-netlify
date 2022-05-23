@@ -2,7 +2,7 @@
 id: ypZUL3k0YAU07wTXjpfuC
 title: Dropdown List Multi Level
 desc: ''
-updated: 1639161216057
+updated: 1653346370095
 created: 1638995782583
 ---
 # Create a multi level dependent dropdown list in Google Sheets

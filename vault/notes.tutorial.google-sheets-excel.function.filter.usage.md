@@ -1,18 +1,20 @@
 ---
-id: HGAS1CK0zAaHORLkRwQ5k
-title: Filter in Google Sheets
+id: lsjlth2257shq5v12zd63ex
+title: Usage
 desc: ''
-updated: 1644516463411
-created: 1639108579551
+updated: 1653347232608
+created: 1653347072436
 ---
-# How to filter to get a subset data in Google Sheets
+# Usage
 
-ref: 
-- [Learn Google Spreadsheets | Google Sheets - Filter, Filter by Text, Date, Condition, Custom Formula, Regular Expression Tutorial](https://www.youtube.com/watch?v=e7gLjNp9Qo0)
+How to filter to get a subset data in Google Sheets?
 
-Beside of basic techniques, there are some interesting advanced tips that I used
+Beside of basic techniques, there are some advanced tips that I used.
 
-## Filter by condition using Custom formula  
+## Filter by condition using Custom formula
+
+ref: [Learn Google Spreadsheets | Google Sheets - Filter, Filter by Text, Date, Condition, Custom Formula, Regular Expression Tutorial](https://www.youtube.com/watch?v=e7gLjNp9Qo0)
+
 Logical comparison
 ![custom-formula](https://i.imgur.com/YY3puM5.jpg){max-width: 300px, display: block, margin: 0 auto}
 
@@ -32,6 +34,7 @@ Regular Expression, which is case sensitive
 ```
 
 ## Filter View and SUBTOTAL function
+
 ref: [Learn Google Spreadsheets](https://www.youtube.com/watch?v=49kkP04Whn8)
 
 Instead of apply `Filter` to table, I can create a `Filter View` for myself or temporary use, which make the data table less confused for other users.
@@ -41,6 +44,7 @@ Further I can use [SUBTOTAL](https://support.google.com/docs/answer/3093649?hl=e
 ![subtotal-example](https://i.imgur.com/80hrsbn.jpg){max-width: 300px, display: block, margin: 0 auto}
 
 ## FILTER function with multiple criteria
+
 ref: [Learn Google Spreadsheets | Google Sheets - Filter Function Tutorial, Introduction to Logical Arrays](https://www.youtube.com/watch?v=JQSlbQeEz1k)
 
 I can also use FILTER function in Google Sheets to extract data satisfying multiple criteria, through using logical arrays within FILTER function.
@@ -56,7 +60,7 @@ Though, you need to notice the caveat of this method. The length of the logical 
 ```javascript
 =FILTER(A2:A100, ARRAYFORMULA(ISNUMBER(MATCH(B2:B100,{"person-X";"person-Y"},0)))
 ```
-You can watch the explanation of formula from [here](https://youtu.be/JQSlbQeEz1k?t=927). Just a remind that `{"person-X";"person-Y"}` is an array of 2 column, read [[here|notes.tutorial.google-sheets-excel.arrays-in-sheets]] again if you forgot the logic.
+You can watch the explanation of formula from [here](https://youtu.be/JQSlbQeEz1k?t=927). Just a remind that `{"person-X";"person-Y"}` is an array of 2 columns, read [[here|notes.tutorial.google-sheets-excel.tips.arrays-in-sheets]] again if you forgot the logic.
 
 Or you can go further, by using [REGEXMATCH fucntion](https://infoinspired.com/google-docs/spreadsheet/how-to-use-regexmatch-function-in-google-sheets/) to extract data with wildcard keywords.
 

@@ -2,7 +2,7 @@
 id: fD1VlgtfwGzb36Dv3VajC
 title: Look up Multi Criteria
 desc: ''
-updated: 1644322145605
+updated: 1653347350315
 created: 1638926606960
 ---
 # Lookup with multiple criteria from multiple columns in Google Sheets
@@ -22,12 +22,11 @@ Example use case:
 - assign sales representative to office location
 
 Alternative solutions: 
-- `DGET` with a helper table. This could be a better solution for lookup with multiple criteria, vs `VLOOKUP` or `INDEX MATCH combo`. Watch [tutorial](https://www.youtube.com/watch?v=lipWG59UJts) for more details
-- [[QUERY function in Google Sheets|notes.tutorial.google-sheets-excel.query-function]]
-- [[FILTER function with logical arrays|notes.tutorial.google-sheets-excel.filter-in-google-sheets#filter-function-with-multiple-criteria,1]]
+- [[DGET|notes.tutorial.google-sheets-excel.function.dget]] with a helper table. This could be a better solution for lookup with multiple criteria, vs [[VLOOKUP|notes.tutorial.google-sheets-excel.function.vlookup]] or `INDEX MATCH combo`. Watch [tutorial](https://www.youtube.com/watch?v=lipWG59UJts) for more details
+- [[QUERY function in Google Sheets|notes.tutorial.google-sheets-excel.function.query]]
+- [[FILTER function with logical arrays|notes.tutorial.google-sheets-excel.function.filter.usage#filter-function-with-multiple-criteria]]
 
 ## Related resources
 
-[infoinspired | How to Use VLOOKUP with Multiple Criteria in Google Sheets](https://infoinspired.com/google-docs/spreadsheet/vlookup-with-multiple-criteria-in-google-sheets)
-
-[Learn Google Spreadsheets | Lookup with Multiple Criteria - VLOOKUP, MATCH solved with DGET - Google Sheets](https://www.youtube.com/watch?v=lipWG59UJts)
+- [infoinspired | How to Use VLOOKUP with Multiple Criteria in Google Sheets](https://infoinspired.com/google-docs/spreadsheet/vlookup-with-multiple-criteria-in-google-sheets)
+- [Learn Google Spreadsheets | Lookup with Multiple Criteria - VLOOKUP, MATCH solved with DGET - Google Sheets](https://www.youtube.com/watch?v=lipWG59UJts)

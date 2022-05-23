@@ -1,8 +1,8 @@
 ---
 id: ljpSs7bstswDEjkxm2Aic
-title: Dax Function
+title: DAX Function
 desc: ''
-updated: 1640399479231
+updated: 1653344218089
 created: 1640397676854
 ---
 # DAX language in Microsoft 365

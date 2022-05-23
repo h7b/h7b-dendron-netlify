@@ -1,50 +1,13 @@
 ---
-id: Xof5pPIvTRGZ0CwL6avJe
-title: Query Function
+id: uqi5q8ynnmi2r6j50seuref
+title: Usage
 desc: ''
-updated: 1644359179927
-created: 1638306065982
+updated: 1653344902247
+created: 1653344776533
 ---
-# QUERY function in Google Sheets
+# Usage
 
-ref: [cifl](https://codingisforlosers.com/google-sheets-query-function/), [BenCollins](https://www.benlcollins.com/spreadsheets/google-sheets-query-sql/), [coupler.io](https://blog.coupler.io/query-importrange/), [sheetaki](https://www.sheetaki.com/query-with-importrange-in-google-sheets/), [sheetgo](https://blog.sheetgo.com/google-sheets-formulas/combine-query-with-importrange-in-google-sheets/)
-
-## Overview
-
-This is an easier-to-write alternative function of `VLOOKUP`, the combination of `INDEX(MATCH)` or `FILTER`.
-
-This function allows me to use database-type commands (a pseudo-SQL), to manipulate data tables in Google Sheets
-
-Query Syntax:
-> =QUERY([data_range], [query_string], [header] (optional))
-
-Example:
-```javascript
-=QUERY(sales_data,"SELECT SUM(Col1),Col2 WHERE Col3>5 ORDER BY Col4 LABEL SUM(Col1) 'Sales per month'",1)
-```
-
-parameters of query:
-- `ORDER BY` clause
-    - sorts our data. We can specify column(s) and direction (ascending or descending). It comes after the SELECT and WHERE clauses.
-- `LIMIT` clause
-    - restricts the number of results returned. It comes after the SELECT, WHERE and ORDER BY clauses
-- `LABEL` clause
-    - we can rename the header title of a column using the LABEL clause, which comes at the end of the QUERY clause
-- `GROUP BY `clause
-    - is used with aggregate functions to summarize data into groups, in the same way a pivot table does
-- `CONTAINS` clause
-    - query by keywords matching
-    - ```sql
-    =query(range, "SELECT A WHERE A CONTAINS 'keyword' ")
-    ```
-- Arithmetic functions
-    - We can perform standard math operations on numeric columns.
-- Aggregation functions
-    - We can use other functions in our calculations, for example `MIN`, `MAX` and `AVERAGE`.
-
-## Tips
-
-### QUERY function with Variables, Referencing value in a cell
+## QUERY function with Variables, Referencing value in a cell
 ref: [Learn Google Spreadsheets](https://www.youtube.com/watch?v=JPrhBUhxlPY)
 
 Duplicate [this spreadsheet file](https://docs.google.com/spreadsheets/d/10QXfX2OqIbHJNnylAuTL6-MJ0EfNADG7e75ZKq-j_F4/) to practice
@@ -87,7 +50,7 @@ with the string `South` in the middle replaced by cell `B1`. Hence the modified 
 "SELECT * WHERE B = '"&B1&"'"
 ```
 
-### QUERY function with case insensitive comparison
+## QUERY function with case insensitive comparison
 ref: [Learn Google Spreadsheets](https://youtu.be/JPrhBUhxlPY?t=755)
 
 Alternate the `select` statement by `LOWER` function, to interpret the strings as `lowercase` letter. The `UPPER` function would have the same effect.
@@ -101,7 +64,7 @@ An interesting fact, in the query above,
 
 These two `LOWER` are different entities with similar syntax. 
 
-### Filtering With Dates In The QUERY Function
+## Filtering With Dates In The QUERY Function
 ref: [BenCollins](https://www.benlcollins.com/spreadsheets/query-dates/), [Learn Google Spreadsheets](https://www.youtube.com/watch?v=Fbdu5jvjBYg)
 
 The problem occurs because dates in Google Sheets are actually stored as serial numbers, but the Query function requires a date as a string literal in the format `yyyy-mm-dd`, otherwise it can’t perform the comparison filter.
@@ -129,7 +92,7 @@ Which lead to the query
 "select C, B where B > date '"&TEXT(A1,"yyyy-mm-dd")&"'"
 ```
 
-### Add a total row to a Query Function table
+## Add a total row to a Query Function table
 ref: [BenCollins](https://www.benlcollins.com/spreadsheets/query-total-row/)
 
 use an array formula
@@ -138,10 +101,10 @@ use an array formula
 = { QUERY ; { "TOTAL" , SUM(range) } }
 ```
 
-### Query from multiple ranges
+## Query from multiple ranges
 ref: [Learn Google Spreadsheets](https://www.youtube.com/watch?v=_N5zhAipVn0)
 
-- Put the combined ranges inside an `array` by enclosing them within brackets `{}`, and separating these ranges by semicolons (`;`) (read [[here|notes.tutorial.google-sheets-excel.arrays-in-sheets]] to understand the reason)
+- Put the combined ranges inside an `array` by enclosing them within brackets `{}`, and separating these ranges by semicolons (`;`) (read [[here|notes.tutorial.google-sheets-excel.tips.arrays-in-sheets]] to understand the reason)
 - Instead of referencing columns by their letter `A, B`, refer to them as `Col1, Col2` depending on their order
 
 Example
@@ -150,7 +113,7 @@ Example
 =query({sheets1!A:B; sheets2!A:B}, "SELECT Col1 WHERE Col2 CONTAINS 'value' ")
 ```
 
-### Query from a different sheet
+## Query from a different sheet
 ref: [Learn Google Spreadsheets](https://www.youtube.com/watch?v=_N5zhAipVn0)
 
 use `IMPORTRANGE` function inside of `QUERY` function.
@@ -160,7 +123,7 @@ use `IMPORTRANGE` function inside of `QUERY` function.
   "SELECT Col1,Col4,Col5 WHERE Col5>50 ORDER BY Col4 LABEL Col1 'Sandwich name'")
 ```
 
-### How to build Less Error-Prone QUERY Function
+## How to build Less Error-Prone QUERY Function
 
 ref: [Learn Google Spreadsheets](https://www.youtube.com/watch?v=qHm7P155wWo)
 
@@ -186,9 +149,9 @@ This inspire us to find a better, but longer syntax by choosing separately 3 col
 =QUERY({data!A1:A100,data!D1:D100,data!G1:G100}, "SELECT Col1, Col2, Col3 WHERE Col3 > 8000", 1)
 ```
 - be aware that the 3 elements in the array are seperated by commas (`,`)
-- read [[here|notes.tutorial.google-sheets-excel.arrays-in-sheets]] to understand the reason
+- read [[here|notes.tutorial.google-sheets-excel.tips.arrays-in-sheets]] to understand the reason
 
-### Use `QUERY` to filter data based on dropdown list
+## Use `QUERY` to filter data based on dropdown list
 ref: [Learn Google Spreadsheets](https://www.youtube.com/watch?v=nLW8SerwnJo)
 
 Use combination of `IF` and `QUERY` to enable an `All Regions` option in dropdown list.
@@ -206,7 +169,7 @@ When `All Regions` and `All Reps` are chosen, the output strings will be blank. 
 SELECT * WHERE 1=1
 ```
 
-### Rename columns and format results
+## Rename columns and format results
 ref: [Learn Google Spreadsheets](https://www.youtube.com/watch?v=eQKmAcdVccs)
 
 how to rename columns using `label`, `format` clause in Google Sheets QUERY & format results as number, currency, different date types, rename and format multiple columns.
@@ -221,24 +184,8 @@ example:
 )
 ```
 
-### Use TEXTJOIN to create dynamic Query statement
+## Use TEXTJOIN to create dynamic Query statement
 ref: [Learn Google Spreadsheets](https://youtu.be/cH__zeKlo7Q?t=798)
 
 By integrating [TEXTJOIN](https://www.sheetaki.com/how-to-use-textjoin-function-in-google-sheets/) function, you can create a dynamic Query statement based on user inputs.
 ![dynamic-query-example](https://ik.imagekit.io/casa/h7b-dendron/Screenshot_2022-02-08_214228_KAe5rRHro.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1644353011231){max-width: 300px, display: block, margin: 0 auto}
-
-## Related resources
-
-[Learn Google Spreadsheets | Google Sheets Query function | Youtube playlist](https://www.youtube.com/playlist?list=PLv9Pf9aNgemvAMlqvHP9RhXPW98g_eo7d)
-
-[Learn Google Spreadsheets | Google Sheets QUERY Function Tutorial - SELECT, WHERE, LIKE, AND, OR, LIMIT statements - Part 1](https://www.youtube.com/watch?v=bW6P2YvLyZg)
-
-[Learn Google Spreadsheets | Google Sheets - Search, QUERY function](https://www.youtube.com/watch?v=VSGKO5gx974)
-
-[Learn Google Spreadsheets | Google Sheets QUERY - Filter by Date Range using WHERE Statement Tutorial - Part 3](https://www.youtube.com/watch?v=LFZnSY0YdwU)
-
-[Learn Google Spreadsheets | QUERY Function - Select Columns with Checkboxes - Google Sheets](https://www.youtube.com/watch?v=VFSrvcqXgi8)
-
-[Learn Google Spreadsheets | QUERY Pivot Table -Google Sheets - Query Pivot, Group By, Month, Year Functions Tutorial - Part 6](https://www.youtube.com/watch?v=q0B58muHybM)
-
-[Learn Google Spreadsheets | Google Sheets - Query IN List Like SQL or Many ORs Using a Range Tutorial - Part 7](https://www.youtube.com/watch?v=AH1mRGBsjrk)

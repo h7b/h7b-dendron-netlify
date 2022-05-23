@@ -1,8 +1,8 @@
 ---
 id: kIBTZXaWHfCSnxg14W1Jb
-title: Forecast Function
+title: Forecast in Excel
 desc: ''
-updated: 1641946042977
+updated: 1653347529812
 created: 1641944906767
 ---
 # Create a forecast in Excel for Windows

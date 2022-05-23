@@ -2,7 +2,7 @@
 id: o29BprtAIME1WpDHPQWGO
 title: Regex Tutorial
 desc: ''
-updated: 1652307592063
+updated: 1653348896096
 created: 1639111891554
 ---
 # How to use Regular Expression Regex
@@ -17,6 +17,7 @@ Regular Expressions (regex or regexp) are a very useful tool to identify specifi
 Regex can be used to validate inputs, web scrapping, finding specific strings in documents, syntax validation for compilers, and so many others examples.
 
 ## Helpful resources
+
 Regex editor to build and test: [regular expression 101](https://regex101.com/)
 
 Regex visualization tools to breakdown and understand:

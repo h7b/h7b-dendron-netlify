@@ -2,7 +2,7 @@
 id: kMyz5gwL4xY8buPuxnEa1
 title: Merge Spreadsheets
 desc: ''
-updated: 1653180670537
+updated: 1653345395374
 created: 1639180793342
 ---
 # How to combine / consolidate multiple spreadsheets
@@ -44,7 +44,7 @@ Append multiple spreadsheet by combinining [IMPORTRANGE](https://support.google.
     }
 ```
 
-Append only records which is non blank in column A (1st column), using [[QUERY|notes.tutorial.google-sheets-excel.query-function]] function
+Append only records which is non-blank in column A (1st column), using [[QUERY function|notes.tutorial.google-sheets-excel.function.query]]
 ```javascript
 =QUERY({
     IMPORTRANGE();

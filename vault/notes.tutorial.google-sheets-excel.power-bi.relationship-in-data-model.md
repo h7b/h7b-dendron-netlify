@@ -26,8 +26,8 @@ A model relationship relates one column in a table to one column in a different 
 
 Supported relationships in Power BI
 - One-to-many (1:*)
-- [[One-to-one (1:1)|notes.tutorial.google-sheets-excel.relationship-in-data-model.one-to-one]]
-- [[Many-to-many (*:*)|notes.tutorial.google-sheets-excel.relationship-in-data-model.many-to-many]]
+- [[One-to-one (1:1)|notes.tutorial.google-sheets-excel.power-bi.relationship-in-data-model.one-to-one]]
+- [[Many-to-many (*:*)|notes.tutorial.google-sheets-excel.power-bi.relationship-in-data-model.many-to-many]]
 
 The one to many relationship is the foundation of Power Pivot
 - Dimension tables (or Lookup tables): 

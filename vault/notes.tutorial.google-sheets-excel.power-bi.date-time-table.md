@@ -2,7 +2,7 @@
 id: 6rqb1ZRRrep7N7taDmmKc
 title: Date Time Table
 desc: ''
-updated: 1640320534639
+updated: 1653346672842
 created: 1640233847463
 ---
 # Create Date Time table as a dimension in data model

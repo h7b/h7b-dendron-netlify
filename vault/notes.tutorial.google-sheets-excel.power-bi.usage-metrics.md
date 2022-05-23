@@ -2,10 +2,11 @@
 id: kOJzZYotr90UM6tJVWKez
 title: Usage Metrics
 desc: ''
-updated: 1641777381170
+updated: 1653347605376
 created: 1641774705630
 ---
 # How do you evaluate and define success of BI team?
+
 ref: 
 - [powerbi.tips | Standardizing KPI’s around a Business Intelligence Team](https://powerbi.tips/2021/05/standardizing-kpis-around-a-business-intelligence-team/), 
 - [powerbi.tips | Custom usage metrics reporting](https://powerbi.tips/2017/11/custom-usage-metrics-reporting/)

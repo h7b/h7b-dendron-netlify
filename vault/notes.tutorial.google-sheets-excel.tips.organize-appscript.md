@@ -2,10 +2,11 @@
 id: 5qWfZgO0gRlSIQoh1cB4F
 title: Organize Appscript
 desc: ''
-updated: 1644529088022
+updated: 1653346537517
 created: 1644525406032
 ---
 # Organize Google Apps Script in Google Sheets
+
 ref: [NummeriBlog](https://thierryvanoffe.com/google-apps-script-et-google-sheets-centraliser-un-script-a-laide-dune-bibliotheque/), [Romain Vialard](https://romain-vialard.medium.com/deploy-easily-with-the-new-google-apps-script-ide-69343c71a889)
 
 Situation: if I have to develop a script for many users in Google Sheets, how should I centralize it and maintain

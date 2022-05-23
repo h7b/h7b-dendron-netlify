@@ -2,7 +2,7 @@
 id: 0dKo7zOErpWH24U0En0LD
 title: Check Error Type
 desc: ''
-updated: 1644283688414
+updated: 1653346282268
 created: 1638929794651
 ---
 # Different Error Types in Google Sheets and How to Correct Them

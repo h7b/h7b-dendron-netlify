@@ -1,8 +1,8 @@
 ---
 id: zyrVip3Nt6gOLMI30uar5
-title: Mail Merge Create Pdf
+title: Mail Merge and Create PDF
 desc: ''
-updated: 1644529113662
+updated: 1653346484821
 created: 1639351577521
 ---
 # Reiterate the workflow I used in Google Sheets
