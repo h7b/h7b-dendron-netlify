@@ -2,7 +2,7 @@
 id: vqj4r9v5nv7m06sdtygsvzu
 title: Shindelhauer
 desc: ''
-updated: 1652444450359
+updated: 1653395461075
 created: 1652096644272
 ---
 # [Shindelhauer Bikes](https://www.schindelhauerbikes.com/en/home/)
@@ -11,7 +11,7 @@ created: 1652096644272
 
 - Price: EUR 4,195
 - Included features:
-    - Frame: Aluminium 6061
+    - Frame: Aluminum 6061
     - Weight: 13.4 Kg
     - Range: N/A
     - Drivetrain: [[Gates Carbon Belt Drive|notes.misc.my-curated-list.electric-bike.gates-carbon-belt-drive]]. Gates CDX Belt Drive, front 60T, rear 22T, belt 118T
@@ -29,7 +29,7 @@ created: 1652096644272
 
 - Price: EUR 4,995
 - Included features:
-    - Frame: Aluminium 6061
+    - Frame: Aluminum 6061
     - Weight: 15.7 Kg
     - Range: N/A
     - Drivetrain: [[Gates Carbon Belt Drive|notes.misc.my-curated-list.electric-bike.gates-carbon-belt-drive]]. Gates CDX Belt Drive, front 39T, rear 34T/28T, belt 118T/115T

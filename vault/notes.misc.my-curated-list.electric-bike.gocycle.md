@@ -2,7 +2,7 @@
 id: 73bnqu68nlnh8uv2tqder73
 title: Gocycle
 desc: ''
-updated: 1652441141673
+updated: 1653395432495
 created: 1651759316600
 ---
 # [Gocycle](https://gocycle.com/?noredirect=true#intro)
@@ -11,7 +11,7 @@ created: 1651759316600
 
 - Price: EUR 4,263.47
 - Included features:
-    - Frame: Aluminium 6061
+    - Frame: Aluminum 6061
     - Weight: 17.6 kg, including battery
     - Range: Up to 65km
     - Drivetrain: Patented Cleandrive® Shimano Nexus 3-speed, chainset

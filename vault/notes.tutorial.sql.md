@@ -2,7 +2,7 @@
 id: 5x44glikmxl3ujbmfbdic3h
 title: SQL Database Query Language
 desc: ''
-updated: 1652896169364
+updated: 1653394383178
 created: 1649716888911
 ---
 # SQL database query language
@@ -29,3 +29,6 @@ created: 1649716888911
 - Jailer is a tool for database subsetting, schema and data browsing
 - It creates small slices from your database and lets you navigate through your database following the relationships
 - Ideal for creating small samples of test data or for local problem analysis with relevant production data.
+
+[Franchise](https://franchise.cloud/)
+- an open-source notebook for sql

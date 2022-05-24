@@ -2,7 +2,7 @@
 id: 8zy6zqoiafsjjw6h5nm0spi
 title: Priority Bicycles
 desc: ''
-updated: 1652566443423
+updated: 1653400578353
 created: 1652093549194
 ---
 # [Priority Bicycles](https://www.prioritybicycles.com/)
@@ -11,7 +11,7 @@ created: 1652093549194
 
 - Price: USD 3,299
 - Included features:
-    - Frame: 6061 Aluminium
+    - Frame: 6061 Aluminum
     - Weight: 15 Kg
     - Range: up to 80 Km Range of Pedal Assistance
     - Drivetrain: [[Gates Carbon Belt Drive|notes.misc.my-curated-list.electric-bike.gates-carbon-belt-drive]]. Gates CDX Belt Drive
@@ -22,7 +22,7 @@ created: 1652093549194
         - top speed: 32 km/h
     - Sensor: Torque sensor
     - Brakes: hydraulic disc brakes
-    - Gear shift (integrated in rear wheel): E-bike specific Shimano Inter-5 internal hub or Enviolo Sportive
+    - Gear shift: E-bike specific Shimano Inter-5 internal hub or Enviolo Sportive, integrated in rear wheel
 
 ![current](https://cdn.shopify.com/s/files/1/1245/1481/t/42/assets/eb3.gif?v=27698765335492847981601465493){max-width: 300px, display: block, margin: 0 auto}
 
@@ -32,7 +32,7 @@ This is not an electric bike. But simple and cheap.
 
 - Price: USD 599
 - Included features:
-    - Frame: 6061 Aluminium
+    - Frame: 6061 Aluminum
     - Weight: 10.89 Kg
     - Range: N/A
     - Drivetrain: [[Gates Carbon Belt Drive|notes.misc.my-curated-list.electric-bike.gates-carbon-belt-drive]]. Gates CDN Belt Drive

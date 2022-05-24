@@ -2,7 +2,7 @@
 id: 8yvt8c8rpvo5aerh5c43bbp
 title: TENWAYS
 desc: ''
-updated: 1652441308901
+updated: 1653395473572
 created: 1651701379764
 ---
 # [TENWAYS](https://www.tenways.com/)
@@ -13,7 +13,7 @@ My current favorite.
 
 - Price: EUR 1,599
 - Included features:
-    - Frame: 6061 Aluminium
+    - Frame: 6061 Aluminum
     - Weight: 15 kg
     - Range: up to 70 km
     - Drivetrain: [[Gates Carbon Belt Drive|notes.misc.my-curated-list.electric-bike.gates-carbon-belt-drive]], offers 30k km of free-maintenance travel. Gates Carbon Drive CDX, 60T/22T

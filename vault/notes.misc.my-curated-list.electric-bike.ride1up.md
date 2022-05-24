@@ -2,7 +2,7 @@
 id: nevr9txcw07mugjhergpb75
 title: Ride1Up
 desc: ''
-updated: 1652441257075
+updated: 1653395454058
 created: 1652092567717
 ---
 # [Ride1Up](https://ride1up.com/)
@@ -13,7 +13,7 @@ Thoughts: has LCD display similar to [[notes.misc.my-curated-list.electric-bike.
 
 - Price: USD 1,095
 - Included features:
-    - Frame: 6061 Aluminium
+    - Frame: 6061 Aluminum
     - Weight: 15 Kg
     - Range: up to 75 km Range of Pedal Assistance
     - Drivetrain: [[Gates Carbon Belt Drive|notes.misc.my-curated-list.electric-bike.gates-carbon-belt-drive]]

@@ -2,7 +2,7 @@
 id: aa8nch05mblj40bc14z256u
 title: Modmo
 desc: ''
-updated: 1652441177777
+updated: 1653395443867
 created: 1651701607168
 ---
 # [MODMO](https://modmo.io/)
@@ -11,7 +11,7 @@ created: 1651701607168
 
 - Price: EUR 2,249
 - Included features:
-    - Frame: 6061 Aluminium
+    - Frame: 6061 Aluminum
     - Weight: N/A
     - Range: up to 75 km Range of Pedal Assistance
     - Drivetrain: 44T/18T Chainset
@@ -29,7 +29,7 @@ created: 1651701607168
 
 - Price: EUR 2,999
 - Included features:
-    - Frame: 6061 Aluminium
+    - Frame: 6061 Aluminum
     - Weight: N/A
     - Range: up to 120 km Range of Pedal Assistance
     - Drivetrain: 55T/22T- [[Gates Carbon Belt Drive|notes.misc.my-curated-list.electric-bike.gates-carbon-belt-drive]]

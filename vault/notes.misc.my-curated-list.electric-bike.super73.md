@@ -2,7 +2,7 @@
 id: 7i8rualfx4tg3jde12f5x3o
 title: Super73
 desc: ''
-updated: 1652441293622
+updated: 1653395469389
 created: 1651760163393
 ---
 # [Super73](https://eu.super73.com/)
@@ -29,7 +29,7 @@ created: 1651760163393
 
 - Price: EUR 2,790
 - Included features:
-    - Frame: Aluminium 6061
+    - Frame: Aluminum 6061
     - Weight: 30 kg, including battery
     - Range: 40-80km
     - Drivetrain: chain
@@ -47,7 +47,7 @@ created: 1651760163393
 
 - Price: EUR 3,699
 - Included features:
-    - Frame: Aluminium 6061
+    - Frame: Aluminum 6061
     - Weight: 33 kg, including battery
     - Range: 64-120km
     - Drivetrain: chain

@@ -2,7 +2,7 @@
 id: uy5nff071mkz6ljp6sgkvek
 title: Cowboy
 desc: ''
-updated: 1652441117433
+updated: 1653395422488
 created: 1651702651924
 ---
 # [Cowboy](https://cowboy.com/)
@@ -11,7 +11,7 @@ created: 1651702651924
 
 - Price: EUR 2,790
 - Included features:
-    - Frame: Aluminium 6061
+    - Frame: Aluminum 6061
     - Weight: 19.2 kg, including battery
     - Range: up to 70 km
     - Drivetrain: [[Gates Carbon Belt Drive|notes.misc.my-curated-list.electric-bike.gates-carbon-belt-drive]], gear ratio 57T/21T

@@ -2,7 +2,7 @@
 id: 6shg7zgpx7w4mp6m8i4x5n0
 title: Trek
 desc: ''
-updated: 1652444470856
+updated: 1653395477952
 created: 1652444024171
 ---
 # [Trek](https://www.trekbikes.com/fr/fr_FR/)
@@ -13,7 +13,7 @@ This is not an electric bike. But beautiful, so I included in the list.
 
 - Price: EUR 1,749
 - Included features:
-    - Frame: Aluminium Alpha Smooth
+    - Frame: Aluminum Alpha Smooth
     - Weight: 15.5 kg
     - Range: N/A
     - Drivetrain: [[Gates Carbon Belt Drive|notes.misc.my-curated-list.electric-bike.gates-carbon-belt-drive]]. Gates Carbon Drive CDX S250

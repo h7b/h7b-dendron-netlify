@@ -2,7 +2,7 @@
 id: 6o6rthrm9jlfn0kxnb5pl0g
 title: Vvolt
 desc: ''
-updated: 1652444452681
+updated: 1653395485563
 created: 1652098042230
 ---
 # [Vvolt](https://vvolt.com/)
@@ -11,7 +11,7 @@ created: 1652098042230
 
 - Price: USD 1,399
 - Included features:
-    - Frame: Aluminium 6061
+    - Frame: Aluminum 6061
     - Weight: 20 Kg
     - Range: up to 64 Km
     - Drivetrain: [[Gates Carbon Belt Drive|notes.misc.my-curated-list.electric-bike.gates-carbon-belt-drive]]. Gates CDN Belt Drive
@@ -29,7 +29,7 @@ created: 1652098042230
 
 - Price: USD 2,699
 - Included features:
-    - Frame: Aluminium 6061
+    - Frame: Aluminum 6061
     - Weight: 23.6 Kg
     - Range: up to 64 Km
     - Drivetrain: [[Gates Carbon Belt Drive|notes.misc.my-curated-list.electric-bike.gates-carbon-belt-drive]]. Gates CDX Belt Drive

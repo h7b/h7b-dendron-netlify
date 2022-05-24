@@ -2,7 +2,7 @@
 id: 0ndptxltg7qhy4npqpg2mdd
 title: Electric Bike
 desc: ''
-updated: 1652566486367
+updated: 1653400222199
 created: 1651617348774
 ---
 # Electric Bike
@@ -19,6 +19,10 @@ created: 1651617348774
 
 ![[notes.misc.my-curated-list.electric-bike.aventon#soltera-step-through,1:#*]]
 
+## [Pure Flux One Electric Hybrid Bike](https://www.pureelectric.com/collections/pure-electric-bikes/products/pure-flux-one-electric-hybrid-bike)
+
+![[notes.misc.my-curated-list.electric-bike.pure#pure-flux-one-electric-hybrid-bike,1:#*]]
+
 ## [ChainFree One](https://www.honbike.com/products/chainfreeone?variant=39979859017798)
 
 ![[notes.misc.my-curated-list.electric-bike.honbike#chainfree-one,1:#*]]
@@ -31,9 +35,21 @@ created: 1651617348774
 
 ![[notes.misc.my-curated-list.electric-bike.kakuka#kakuka-k70-electric-bike,1:#*]]
 
+## [New York](https://www.wattelectric.bike/us/new-york/)
+
+![[notes.misc.my-curated-list.electric-bike.watt#new-york,1:#*]]
+
 ## [Super73-ZG](https://eu.super73.com/collections/z-series/products/super73-zg-jet-black)
 
 ![[notes.misc.my-curated-list.electric-bike.super73#super73-zg,1:#*]]
+
+## [Black Lava](https://www.rosebikes.com/bikes/urban/black-lava)
+
+![[notes.misc.my-curated-list.electric-bike.rose#black-lava,1:#*]]
+
+## [Brooklyn](https://www.wattelectric.bike/us/brooklyn/)
+
+![[notes.misc.my-curated-list.electric-bike.watt#brooklyn,1:#*]]
 
 ## [MODMO Saigon S](https://modmo.io/products/saigon-s)
 
@@ -51,6 +67,10 @@ created: 1651617348774
 
 ![[notes.misc.my-curated-list.electric-bike.cowboy#cowboy-4-st,1:#*]]
 
+## [Urtopia Carbon E-Bike](https://newurtopia.de/products/urtopia-carbon-e-bike)
+
+![[notes.misc.my-curated-list.electric-bike.urtopia#urtopia-carbon-e-bike,1:#*]]
+
 ## [Priority Current E-BIKE](https://www.prioritybicycles.com/products/current)
 
 ![[notes.misc.my-curated-list.electric-bike.prioritybicycles#priority-current-e-bike,1:#*]]
@@ -62,6 +82,10 @@ created: 1651617348774
 ## [MODMO Saigon+](https://modmo.io/products/saigon)
 
 ![[notes.misc.my-curated-list.electric-bike.modmo#modmo-saigon,1:#*]]
+
+## [Brooklyn FAT](https://www.coboc.biz/en/product/brooklyn-fat/)
+
+![[notes.misc.my-curated-list.electric-bike.coboc#brooklyn-fat,1:#*]]
 
 ## [Super73-S2](https://eu.super73.com/collections/s-series/products/super73-s2-obsidian)
 

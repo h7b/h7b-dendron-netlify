@@ -2,7 +2,7 @@
 id: Ruw6Q1WlSQPTSGrK5fi29
 title: Tools Spreadsheet Alternatives
 desc: ''
-updated: 1649282303463
+updated: 1653396524429
 created: 1636706940589
 ---
 # The alternatives of spreadsheet 
@@ -85,6 +85,13 @@ Thoughts:
 ### [Seatable](https://seatable.io/en/)
 - [Pricing](https://seatable.io/en/preise/) starts at EUR 7/month. With Free tier
 - database, open source alternative of [Airtable](https://www.airtable.com/)
+
+### [NocoBase](https://www.nocobase.com/)
+- database, open source alternative of [Airtable](https://www.airtable.com/)
+- might be a copycat of [Nocodb](https://nocodb.com/)
+- it's from Alibaba or one of their teams [^1]
+
+[^1]: statement of [o1lab](https://discord.com/channels/661905455894888490/661905455894888493/978639468506542171), Nocodb's developer, in their Discord server
 
 ### [Subset](https://subset.so/)
 - modern spreadsheet built on an endless canvas

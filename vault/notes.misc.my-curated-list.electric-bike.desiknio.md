@@ -2,7 +2,7 @@
 id: n3kr8d7vfnn5fizobx7h4xu
 title: Desiknio
 desc: ''
-updated: 1652441123464
+updated: 1653395428462
 created: 1651761981585
 ---
 # [Desiknio](https://desiknio.com/)
@@ -13,7 +13,7 @@ Thoughts: both specs and appearance are similar to [[TENWAYS CGO600|notes.misc.m
 
 - Price: EUR 4,000
 - Included features:
-    - Frame: Aluminium 6061
+    - Frame: Aluminum 6061
     - Weight: 15.6 kg, including battery
     - Range: up to 50 km
     - Drivetrain: [[Gates Carbon Belt Drive|notes.misc.my-curated-list.electric-bike.gates-carbon-belt-drive]], gear ratio 46T/30T
