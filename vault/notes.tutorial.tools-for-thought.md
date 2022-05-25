@@ -2,7 +2,7 @@
 id: JM7rJtqjPECioZxYc3k3Y
 title: Tools for Thought
 desc: ''
-updated: 1650673432711
+updated: 1653419304378
 created: 1635205995281
 nav_order: 2
 ---
@@ -221,6 +221,14 @@ Thoughts: This is a solution for technical project documentation, rather a pkm l
 - [Pricing](https://cloverapp.com/pricing) starts at USD 10/month. With limited Free tier
 - note taking with whiteboard
 - alternative of [Scrintal](https://www.scrintal.com/)
+
+### [Kinopio](https://kinopio.club/)
+- whiteboard canvas to share ideas with others
+- currently free to use
+
+### [Stemic](https://stemic.app/)
+- [Pricing](https://stemic.app/pricing/) starts at USD 9/month. With free tier
+- their [feature] list seems to be a whiteboard canvas for plotting map of concepts
 
 ## Related resources 
 - [review from slite](https://slite.com/learn/knowledge-base-softwares) about knowledge base software

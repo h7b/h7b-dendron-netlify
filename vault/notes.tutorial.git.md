@@ -2,16 +2,18 @@
 id: H43H7VIbIQdZLQwB
 title: Git
 desc: ''
-updated: 1640871930731
+updated: 1653431911475
 created: 1625430775779
 ---
 # How to use Git
 
 ## Helpful resources:
- 
+
+- [Learn Git Branching](https://learngitbranching.js.org/?locale=en)
+    - the most visual and interactive way to learn Git on the web 
 - [Git Guides](https://github.com/git-guides/)
 - [GitHub Docs | About Git](https://docs.github.com/en/get-started/using-git/about-git)
-- [freeCodeCamp Guides](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)
+- [freeCodeCamp | Learn the Basics of Git in Under 10 Minutes](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)
 - [opensource.com | A step-by-step guide to Git](https://opensource.com/article/18/1/step-step-guide-git)
 
 ## Connect and authenticate to GitHub remote repos via SSH key

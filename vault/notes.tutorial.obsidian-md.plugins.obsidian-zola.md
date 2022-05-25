@@ -2,7 +2,7 @@
 id: fpptfefac92f28t2ugen29x
 title: Obsidian Zola
 desc: ''
-updated: 1652342874820
+updated: 1653431133247
 created: 1652342498789
 ---
 # obsidian-zola

@@ -2,7 +2,7 @@
 id: 5x44glikmxl3ujbmfbdic3h
 title: SQL Database Query Language
 desc: ''
-updated: 1653394383178
+updated: 1653431643415
 created: 1649716888911
 ---
 # SQL database query language
@@ -32,3 +32,20 @@ created: 1649716888911
 
 [Franchise](https://franchise.cloud/)
 - an open-source notebook for sql
+
+[Ultorg](https://www.ultorg.com/)
+- this is a general-purpose, graphical user interface for relational databases. That means any data that's organized into tables with rows and named columns
+- Connect to:
+    - Microsoft Excel Files (.xls/.xlsx)
+    - Google Sheets
+    - CSV/TSV Files
+    - PostgreSQL
+
+[dbdiagram](https://dbdiagram.io/home)
+- A free, simple tool to draw ER diagrams by just writing code. Designed for developers and data analysts.
+
+[dbdocs](https://dbdocs.io/)
+- A free & simple tool to create web-based database documentation using DSL code
+
+[DBML - Database Markup Language](https://www.dbml.org/home/#intro)
+- DBML is an open-source DSL language designed to define and document database schemas and structures
