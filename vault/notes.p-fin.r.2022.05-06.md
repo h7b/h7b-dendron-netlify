@@ -1,13 +1,13 @@
 ---
 id: 97mjccw9paebfaiyd2616pr
-title: '2022-05-06'
+title: Market Research 2022-05-06
 desc: ''
 excerpt: My current holdings in Betterment account
-updated: 1651886500403
+updated: 1653522297783
 created: 1651793000574
 tags: topic.etf
 ---
-# Research 2022-05-06
+# Market Research 2022-05-06
 
 My current holdings in Betterment account
 

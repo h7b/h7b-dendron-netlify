@@ -2,7 +2,7 @@
 id: iqrxok09sbvykmc3cjsn4me
 title: Compare tax on investment VN vs US
 desc: ''
-updated: 1652958602702
+updated: 1653524936097
 created: 1651971908547
 excerpt: Mô hình so sánh mức thuế trên thu nhập từ đầu tư cổ phiếu giữa hai nước VN và US
 published: true
@@ -34,6 +34,7 @@ published: true
 
 ### Assumptions:
 
+- long term buy and hold strategy only
 - Initial investment value $V_0$ is in USD
 - portfolio growth is constantly positive
 - US tax situation: 
@@ -158,8 +159,10 @@ $$
 View code and visuals in my [Deepnote](https://deepnote.com/workspace/huy-f7e5bafc-3b5f-4e8e-86f0-50e9b599d9b9/project/comparetax-de6e2d11-321b-4c63-95bb-4cf14b2c868b/%2Fnotebook.ipynb).
 
 As shown in figure below,
-- The current Tax VN policy is always better for investor
-- Tax VN = Tax US only if
+- The current Tax VN policy is always better for investor, under the assumption that
+    - investment value increases in general
+    - investor is lazy with long term buy and hold strategy
+- Tax VN = Tax US when
     - initial investment $V_0 = 0$
     - or year $t = -20$
 
@@ -167,4 +170,5 @@ As shown in figure below,
 
 ## Conclusion
 
-Surprisingly, with the simple and strict assumption as mentioned above, the tax bill of an investor in VN will be much less than the one in US.
+- Surprisingly, with the simple and strict assumption as mentioned above, the tax bill of an investor in VN will be much less than the one in US
+- However, my previous statement will be absolutely meaningless (or wrong) if investors trade frequently. Because the VN tax policy does not take into account of investor's loss.

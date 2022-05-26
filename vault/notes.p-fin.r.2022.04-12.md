@@ -1,12 +1,12 @@
 ---
 id: qr9gdx0txg2y98s4a5j59ga
-title: '2022-04-12'
+title: Market Research 2022-04-12
 desc: ''
 excerpt: Alphabet Inc. (GOOGL)
-updated: 1651880777172
+updated: 1653522245943
 created: 1649805744654
 ---
-# Research 2022-04-12
+# Market Research 2022-04-12
 
 ## Alphabet Inc.
 

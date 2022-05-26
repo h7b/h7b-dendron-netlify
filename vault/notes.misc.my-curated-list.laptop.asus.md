@@ -2,7 +2,7 @@
 id: jyzjcy29qh1hnyfacs5w0wb
 title: Asus
 desc: ''
-updated: 1653241892642
+updated: 1653473635495
 created: 1653241615587
 ---
 # Asus
@@ -11,6 +11,7 @@ created: 1653241615587
 
 - [Tech Specs](https://www.asus.com/Laptops/For-Home/Zenbook/Zenbook-S-13-OLED-UM5302-AMD-Ryzen-6000-series/techspec/)
 - Auth login: fingerprint
+- Weight: 1.1 kg
 
 ### Related
 
