@@ -2,7 +2,7 @@
 id: IFkmOftixcfW3dCs93j3d
 title: Tools Internal Business Apps
 desc: ''
-updated: 1647552702587
+updated: 1653584811625
 created: 1640117790361
 ---
 # Tools to build internal business apps
@@ -32,3 +32,6 @@ created: 1640117790361
 
 ## [Anvil](https://anvil.works/)
 ![[notes.tutorial.tools-build-website-nocode#anvil,1:#*]]
+
+## [Airplane](https://www.airplane.dev/)
+- [Pricing](https://www.airplane.dev/pricing) starts at USD 10/month. Unlimited free to use with up to 5 users

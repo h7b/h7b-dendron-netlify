@@ -2,7 +2,7 @@
 id: JM7rJtqjPECioZxYc3k3Y
 title: Tools for Thought
 desc: ''
-updated: 1653419304378
+updated: 1653584568980
 created: 1635205995281
 nav_order: 2
 ---
@@ -229,6 +229,23 @@ Thoughts: This is a solution for technical project documentation, rather a pkm l
 ### [Stemic](https://stemic.app/)
 - [Pricing](https://stemic.app/pricing/) starts at USD 9/month. With free tier
 - their [feature] list seems to be a whiteboard canvas for plotting map of concepts
+
+### [TiddlyWiki](https://tiddlywiki.com/#GettingStarted)
+- a non-linear notebook for capturing, organising and sharing complex information
+- free to use. It’s been around for about 15 years
+- publish for free on [TiddlyHost](https://tiddlyhost.com/)
+- review
+    - [Ness Labs](https://nesslabs.com/tiddlywiki-beginner-tutorial)
+- thoughts:
+    - notes are stored as `.tiddler` files. Obsidian community tried to [export tiddler to Obsidian](https://forum.obsidian.md/t/import-from-tiddlywiki-5-to-obsidian/731/2)
+    - I can't find specific reason to experiment this. Obsidian or Dendron are much simpler and better
+
+### [Muse](https://museapp.com/)
+- text note and canvas for iPad and Mac
+- [Pricing](https://museapp.com/pricing/) starts at USD 4/month. Limited free for casual use
+
+### [Thymer](https://thymer.com/)
+- specific tool for todo and task management
 
 ## Related resources 
 - [review from slite](https://slite.com/learn/knowledge-base-softwares) about knowledge base software

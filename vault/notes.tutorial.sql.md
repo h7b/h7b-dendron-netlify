@@ -2,7 +2,7 @@
 id: 5x44glikmxl3ujbmfbdic3h
 title: SQL Database Query Language
 desc: ''
-updated: 1653431643415
+updated: 1653584327728
 created: 1649716888911
 ---
 # SQL database query language
@@ -49,3 +49,6 @@ created: 1649716888911
 
 [DBML - Database Markup Language](https://www.dbml.org/home/#intro)
 - DBML is an open-source DSL language designed to define and document database schemas and structures
+
+[Arctype SQL client](https://arctype.com/)
+- free SQL client and database management tool

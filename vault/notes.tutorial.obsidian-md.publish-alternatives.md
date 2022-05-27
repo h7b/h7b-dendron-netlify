@@ -2,19 +2,21 @@
 id: aIzdxkgBr2LmKOsw
 title: Publish Alternatives
 desc: ''
-updated: 1652344094448
+updated: 1653584039738
 created: 1628033267974
 ---
 ## Alternative methods to publish Obsidian vault
 
 Obsidian is great but finding a way to publish the Obsidian vault without purchasing the [USD-20 monthly subscription](https://obsidian.md/publish) of `Obsidian Publish` is a fun experiment though.
 
-- [Obsidian Digital Garden](https://github.com/oleeskild/obsidian-digital-garden) plugin
+- [Obsidian Digital Garden](https://github.com/oleeskild/obsidian-digital-garden)
     - ![[notes.tutorial.obsidian-md.plugins.digital-garden#obsidian-digital-garden,1:#*]]
 - [obsidian-zola](https://github.com/ppeetteerrs/obsidian-zola)
     - ![[notes.tutorial.obsidian-md.plugins.obsidian-zola#obsidian-zola,1:#*]]
 - [MindStone](https://github.com/TuanManhCao/digital-garden)
     - ![[notes.tutorial.obsidian-md.plugins.mindstone#mindstone,1:#*]]
+- [Markbase](https://github.com/markbaseteam/obsidian-markbase)
+    - ![[notes.tutorial.obsidian-md.plugins.markbase#markbase-for-obsidian,1:#*]]
 - [Obsius Publish](https://github.com/jonstodle/obsius-obsidian-plugin)
     - ![[notes.tutorial.obsidian-md.plugins.obsius#obsius,1:#*]]
 - [obsidian-mkdocs-publisher](https://github.com/Mara-Li/obsidian-mkdocs-publisher)
