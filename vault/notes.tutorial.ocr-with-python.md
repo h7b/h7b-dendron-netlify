@@ -2,10 +2,11 @@
 id: gTrrg6PbbxwXcylipnXYL
 title: OCR with Python
 desc: ''
-updated: 1646870687845
+updated: 1653787076078
 created: 1642107096458
 ---
 # Use OCR to extract text from pdf with Tesseract, OpenCV and Python
+
 ref:
 - [Nanonets | How to OCR with Tesseract, OpenCV and Python](https://nanonets.com/blog/ocr-with-tesseract/)
 - [Zoum datascience | Youtube](https://www.youtube.com/watch?v=bk5u3rZk8Vk)

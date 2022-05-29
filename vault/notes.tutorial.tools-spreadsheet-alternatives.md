@@ -2,7 +2,7 @@
 id: Ruw6Q1WlSQPTSGrK5fi29
 title: Tools Spreadsheet Alternatives
 desc: ''
-updated: 1653396524429
+updated: 1653794627624
 created: 1636706940589
 ---
 # The alternatives of spreadsheet 
@@ -45,7 +45,7 @@ Thoughts:
   - publish beautiful, interactive report
 
 ### [Modeloptic](https://www.modeloptic.com/)
-- [Pricing] starts at USD 350/month
+- [Pricing](https://www.modeloptic.com/pricing) starts at USD 350/month
 - alternative of [Causal](https://www.causal.app/)
 - focus in financial reporting and modeling
 
@@ -72,8 +72,8 @@ Thoughts:
 - [Pricing](https://stackby.com/pricing) starts at USD 5/month. With limited free tier
 - Thoughts: database, alternative of [Airtable](https://www.airtable.com/)
 
-### [Nocodb](https://nocodb.com/)
-- database, open source alternative of [Airtable](https://www.airtable.com/)
+### [NocoDB](https://nocodb.com/)
+- ![[notes.tutorial.nocodb#nocodb,1:#*]]
 
 ### [rowy](https://www.rowy.io/)
 - database, open source alternative of [Airtable](https://www.airtable.com/)

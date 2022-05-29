@@ -2,7 +2,7 @@
 id: o29BprtAIME1WpDHPQWGO
 title: Regex Tutorial
 desc: ''
-updated: 1653348896096
+updated: 1653787355702
 created: 1639111891554
 ---
 # How to use Regular Expression Regex
@@ -14,7 +14,7 @@ ref:
 
 Regular Expressions (regex or regexp) are a very useful tool to identify specific patterns in any text, which helps to extract information regardless the format of the text.
 
-Regex can be used to validate inputs, web scrapping, finding specific strings in documents, syntax validation for compilers, and so many others examples.
+Regex can be used to validate inputs, web scraping, finding specific strings in documents, syntax validation for compilers, and so many others examples.
 
 ## Helpful resources
 

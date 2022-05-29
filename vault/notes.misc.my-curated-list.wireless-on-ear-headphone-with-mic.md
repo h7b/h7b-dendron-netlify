@@ -2,12 +2,16 @@
 id: 23Hv2OWJu3IHwPNtKj43q
 title: Wireless on Ear Headphone with Mic
 desc: ''
-updated: 1643183194900
+updated: 1653793606316
 created: 1643182810996
 ---
 # Wireless on Ear Headphone with Mic
 
 a list of items might be interesting to test
+
+[OnePlus Nord Buds](https://www.oneplus.com/product/oneplus-nord-buds)
+- Price: USD 39
+- Review by [The Verge](https://www.theverge.com/23130957/oneplus-nord-buds-budget-earbuds-review)
 
 [JLab Go Work Wireless Headset](https://www.amazon.com/dp/B09674F2X6?%2AVersion%2A=1&%2Aentries%2A=0#cm_cr_carousel_images_section)
 
