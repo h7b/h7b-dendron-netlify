@@ -19,4 +19,4 @@ My current experiment with robo-advisor Betterment.
 
 ## Current holdings
 
-![[notes.p-fin.r.2022.05-06#market-research-2022-05-06,1]]
+![[notes.p-fin.r.2022-05-06#market-research-2022-05-06,1]]
