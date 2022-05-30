@@ -2,22 +2,22 @@
 id: 0eIzRYJpCANhKEHPnHldc
 title: Web Browsers
 desc: ''
-updated: 1653784969615
+updated: 1653866232440
 created: 1639704630401
 ---
 # List of Web Browsers
 
 [Opera](https://www.opera.com/)
-Thoughts: 
-- I use [Flow](https://www.opera.com/features/flow) feature to share links between Opera on my laptop and [Opera on iPhone](https://apps.apple.com/app/id1411869974)
-- I also use the [beta and developer channel](https://www.opera.com/computer/beta) as separate instances.
+- Thoughts: 
+    - I use [Flow](https://www.opera.com/features/flow) feature to share links between Opera on my laptop and [Opera on iPhone](https://apps.apple.com/app/id1411869974)
+    - I also use the [beta and developer channel](https://www.opera.com/computer/beta) as separate instances.
 
 [Microsoft Edge](https://www.microsoft.com/en-us/edge)
-Thoughts: 
-- I use both the normal and [insider channel](https://www.microsoftedgeinsider.com/en-us/download/)
-- normal for temporary view, where cookies and tmp files will be deleted on closing browser
-- Beta channel for media consuming
-- Dev channel as personal workspace
+- Thoughts: 
+    - I use both the normal and [insider channel](https://www.microsoftedgeinsider.com/en-us/download/)
+    - normal for temporary view, where cookies and tmp files will be deleted on closing browser
+    - Beta channel for media consuming
+    - Dev channel as personal workspace
 
 [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)
 - Thoughts: I install both the normal and [Developer Edition](https://www.mozilla.org/en-US/firefox/developer/)

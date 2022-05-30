@@ -2,7 +2,7 @@
 id: 5x44glikmxl3ujbmfbdic3h
 title: SQL Database Query Language
 desc: ''
-updated: 1653584327728
+updated: 1653866294013
 created: 1649716888911
 ---
 # SQL database query language
@@ -52,3 +52,6 @@ created: 1649716888911
 
 [Arctype SQL client](https://arctype.com/)
 - free SQL client and database management tool
+
+[Awesome Database Tools](https://github.com/mgramin/awesome-db-tools)
+- Community driven curated list of database tools

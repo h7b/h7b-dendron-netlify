@@ -2,7 +2,7 @@
 id: KE2M6fdHkylIGsY795s7e
 title: Tools Build Website Nocode
 desc: ''
-updated: 1653585147105
+updated: 1653867749990
 created: 1636706914265
 ---
 # Nocode tools to build app and website
@@ -126,6 +126,10 @@ created: 1636706914265
 - [Pricing](https://www.the.com/pricing) starts at USD 36/month. Free plan available for demo only
 - Thoughts:
     - they break any website you build into Blocks, which can be re-used and remixed by others, turning web-development into a multi-player experience. YOU as the (no-code) builder can earn credit and get paid for your work (for the Blocks you create and that others are remixing)
+
+### [Microsoft Power Pages](https://powerpages.microsoft.com/en-us/)
+- is a spin-off and rebrand of [Power Apps - Portal](https://powerapps.microsoft.com/en-us/portals/)
+- [Documentation](https://docs.microsoft.com/en-us/power-pages/)
 
 ## Design Prototype Mockup tool
 
