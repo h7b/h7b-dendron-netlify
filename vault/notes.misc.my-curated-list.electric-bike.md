@@ -2,7 +2,7 @@
 id: 0ndptxltg7qhy4npqpg2mdd
 title: Electric Bike
 desc: ''
-updated: 1653400222199
+updated: 1654123324946
 created: 1651617348774
 ---
 # Electric Bike
@@ -118,6 +118,14 @@ created: 1651617348774
 ## [Arthur VI/IX](https://www.schindelhauerbikes.com/en/Bikes/Current/Arthur-VI-IX.html)
 
 ![[notes.misc.my-curated-list.electric-bike.shindelhauer#arthur-viix,1:#*]]
+
+## [ST2](https://www.stromerbike.com/fr/modeles/st2)
+
+![[notes.misc.my-curated-list.electric-bike.stromer#st2,1:#*]]
+
+## [ST3 - Pinion LE](https://www.stromerbike.com/fr/modeles/st3-pinion-launch-edition)
+
+![[notes.misc.my-curated-list.electric-bike.stromer#st3---pinion-le,1:#*]]
 
 ## [District 4 Equipped](https://www.trekbikes.com/fr/fr_FR/vélos/vélos-hybrides/vélos-fitness/district/district-4-equipped/p/33497/)
 

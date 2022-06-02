@@ -2,7 +2,7 @@
 id: 5x44glikmxl3ujbmfbdic3h
 title: SQL Database Query Language
 desc: ''
-updated: 1653866294013
+updated: 1654116737764
 created: 1649716888911
 ---
 # SQL database query language
@@ -52,6 +52,9 @@ created: 1649716888911
 
 [Arctype SQL client](https://arctype.com/)
 - free SQL client and database management tool
+
+[Datastation](https://github.com/multiprocessio/datastation)
+- open-source data IDE for developers. It allows you to easily build graphs and tables with data pulled from SQL databases
 
 [Awesome Database Tools](https://github.com/mgramin/awesome-db-tools)
 - Community driven curated list of database tools

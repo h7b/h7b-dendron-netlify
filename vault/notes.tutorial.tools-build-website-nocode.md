@@ -2,7 +2,7 @@
 id: KE2M6fdHkylIGsY795s7e
 title: Tools Build Website Nocode
 desc: ''
-updated: 1653867749990
+updated: 1654064593379
 created: 1636706914265
 ---
 # Nocode tools to build app and website
@@ -206,6 +206,11 @@ created: 1636706914265
 ### [mdBook](https://github.com/rust-lang/mdBook)
 - the Rust equivalent of R's [Bookdown](https://bookdown.org/)
 - demo page: [mdBook Documentation](https://rust-lang.github.io/mdBook/index.html)
+
+### [Quarto](https://quarto.org/)
+- an open-source scientific and technical publishing system built on Pandoc
+- documents can be written using VS Code or any text editor
+-  create beautiful documentation to share online with Quarto that auto-updates with Github
 
 ## Related resources
 - [Curated list](https://www.makerpad.co/tool-directory) by Makerpad
