@@ -2,7 +2,7 @@
 id: CroxQVfNqCIcpUBNCgLaW
 title: Calculation in Txt Editor
 desc: ''
-updated: 1647793178028
+updated: 1654244015552
 created: 1635893931967
 ---
 # Implement inline calculations in text editor
@@ -19,10 +19,7 @@ created: 1635893931967
     - results of calculations are written in the markdown file
 
 ## Obsidian plugin
-- [Meld Calc](https://github.com/meld-cp/obsidian-calc)
-    - have to run command `Meld Calc: Evaluate` manually on the current selection through `command palette` to execute calculations
-    - If you need to change inputs and update output, you have to clear the output before running command again.
-    - results of calculations are written in the markdown file.
+- Meld Calc ![[notes.tutorial.obsidian-md.plugins.meld-calc#obsidian-calculator-aka-meld-calc,1:#*]]
 
 ## Coda
 - In [coda](https://coda.io/), you can 

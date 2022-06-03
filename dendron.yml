@@ -54,6 +54,9 @@ workspace:
             L: low
         todoIntegration: false
         createTaskSelectionType: selection2link
+        taskCompleteStatus:
+            - done
+            - x
     graph:
         zoomSpeed: 1
     enableAutoCreateOnDefinition: false
@@ -68,6 +71,8 @@ workspace:
     dendronVersion: 0.89.0
     enableEditorDecorations: true
     enableFullHierarchyNoteTitle: false
+    enableHandlebarTemplates: false
+    templateHierarchy: template
 preview:
     enableFMTitle: false
     enableNoteTitleForLink: true
@@ -117,3 +122,4 @@ publishing:
     enablePrettyLinks: true
     enableHierarchyDisplay: true
     hierarchyDisplayTitle: Children
+    enableTaskNotes: true
