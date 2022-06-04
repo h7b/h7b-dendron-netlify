@@ -2,7 +2,7 @@
 id: vdiqSQXd_rCr7H-c441_Z
 title: Vscode
 desc: ''
-updated: 1642802117477
+updated: 1654301471390
 created: 1625532619492
 ---
 # VS Code cheat sheet
@@ -42,3 +42,14 @@ Settings of interest:
 [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
 - change the color of your Visual Studio Code workspace. Ideal when you have multiple VS Code instances, use VS Live Share, or use VS Code's Remote features, and you want to quickly identify your editor
 ![peacock-plugin](https://raw.githubusercontent.com/johnpapa/vscode-peacock/main/resources/hero.png){max-width: 300px, display: block, margin: 0 auto}
+
+## Remove blank lines from a text file
+
+ref: [Computer Hope](https://www.computerhope.com/issues/ch000924.htm)
+
+- `Ctrl+H` to open `Replace` modal
+- In the Replace window, in the `Find what`, type `^\n` and leave the `Replace` with blank
+    - caret (`^`), which is a regular expression and a way of saying the beginning of the line
+    - the `\n` escape sequence, which is a newline
+    - or  the `\r`, which is a carriage return
+- Tick the Regular Expression option
