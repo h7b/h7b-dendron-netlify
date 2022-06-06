@@ -2,7 +2,7 @@
 id: xIHUqgJilv3BmnvbvwlhF
 title: Side Business Idea
 desc: ''
-updated: 1652566892199
+updated: 1654502503333
 created: 1643854567901
 tags: topic.investment
 ---
@@ -117,6 +117,11 @@ Is there an equivalent entity of [Regulated Investment Company (RIC)](https://ww
 - founded: 2007
 - asset type: stocks, etf, crypto, cfd
 - can buy fractional share
+
+[moomoo](https://www.moomoo.com/)
+- backed by Futu Holdings Ltd.
+- 2022-06-06, currently only open for residents in Hong Kong, Macao, Taiwan, Singapore, Japan, Malaysia
+- tradable markets: US, China, Hong Kong, Singapore
 
 #### Tokenized commodities, securities
 

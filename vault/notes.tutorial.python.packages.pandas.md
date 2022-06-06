@@ -2,7 +2,7 @@
 id: 64tofo8d38zdb4rvs2bc2xl
 title: Pandas
 desc: ''
-updated: 1653124112152
+updated: 1654395005341
 created: 1653123756009
 ---
 # [Pandas](https://pandas.pydata.org/)
@@ -14,3 +14,4 @@ created: 1653123756009
 - [Real Python | Pandas and Python to Explore Your Dataset](https://realpython.com/pandas-python-explore-dataset/)
 - [Real Python | Introducing the Pandas DataFrame](https://realpython.com/pandas-dataframe/)
 - [Real Python | Pandas for Data Science](https://realpython.com/learning-paths/pandas-data-science/)
+- [Pandas cheat sheet](https://github.com/deganza/jupyter_pandas_cheat_sheet/blob/main/Jupyter_Pandas_Cheat_Sheet.ipynb)

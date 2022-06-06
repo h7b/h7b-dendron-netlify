@@ -2,7 +2,7 @@
 id: pLRYz6BnANNzAcmFyZ8ap
 title: Breadcrumbs
 desc: ''
-updated: 1652339325664
+updated: 1654392172955
 created: 1640942481973
 ---
 # Breadcrumbs
@@ -40,3 +40,7 @@ type: tree
 dir: down
 ```
 ````
+
+## Related resources
+
+- [Obsidian Hub | Breadcrumbs Quickstart Guide](https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/Guides/Breadcrumbs+Quickstart+Guide)

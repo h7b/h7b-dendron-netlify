@@ -2,7 +2,7 @@
 id: 5x44glikmxl3ujbmfbdic3h
 title: SQL Database Query Language
 desc: ''
-updated: 1654116737764
+updated: 1654394881865
 created: 1649716888911
 ---
 # SQL database query language
@@ -55,6 +55,17 @@ created: 1649716888911
 
 [Datastation](https://github.com/multiprocessio/datastation)
 - open-source data IDE for developers. It allows you to easily build graphs and tables with data pulled from SQL databases
+
+[SeekWell](https://seekwell.io/)
+- [Pricing](https://seekwell.io/pricing) starts at USD 50/month
+- Limited free plan is available
+- Write SQL and sync the results to the apps your team operates in
+- MySQL, Postgres, Redshift, MS SQL Server, and Snowflake are supported. You can also query Google Sheets, Excel and CSV files just like they were SQL tables. You can even [query cross database and files](https://doc.seekwell.io/query-blocks) (e.g. join a Google Sheet, Postgres table and MySQL table)
+
+[Steampipe](https://steampipe.io/)
+- an open source project that enables cloud pros (e.g. software developers, operations engineers and security teams) to query their favorite cloud services with SQL
+- The heart of Steampipe is an intuitive command line interface (CLI) that solves the challenges encountered when asking questions of cloud resources and services
+- Steampipe is an open source Postgres Foreign Data Wrapper with 73 [plugins](https://hub.steampipe.io/plugins) including [Google Sheets support](https://hub.steampipe.io/plugins/turbot/googlesheets). A lot of our users use it to connect custom metadata with other systems - e.g. join ownership info in Google Sheets with tags on AWS resources
 
 [Awesome Database Tools](https://github.com/mgramin/awesome-db-tools)
 - Community driven curated list of database tools

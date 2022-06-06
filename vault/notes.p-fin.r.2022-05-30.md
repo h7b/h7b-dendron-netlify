@@ -2,9 +2,9 @@
 id: rif81n9qcccam8u8f57anvq
 title: Research 2022-05-30
 desc: ''
-updated: 1653959499478
+updated: 1654512298507
 created: 1653932690064
-excerpt: VFMVN DIAMOND ETF (FUEVFVND)
+excerpt: vn diamond index, vn30 index, related ETFs
 tags: topic.etf
 ---
 # Market Research 2022-05-30

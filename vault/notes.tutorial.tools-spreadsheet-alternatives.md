@@ -2,7 +2,7 @@
 id: Ruw6Q1WlSQPTSGrK5fi29
 title: Tools Spreadsheet Alternatives
 desc: ''
-updated: 1653868602546
+updated: 1654394641703
 created: 1636706940589
 ---
 # The alternatives of spreadsheet 
@@ -122,6 +122,10 @@ created: 1636706940589
 
 ### [Clay](https://www.clay.run/)
 - [pricing](https://www.clay.run/pricing) need to contact sales. 14-day free trial
+
+### [Equals](https://equals.app/)
+- next generation spreadsheet with built in connections to any data warehouse, modern versioning, and collaboration
+- [Pricing](https://equals.app/pricing) starts at USD 19/month
 
 ![[notes.tutorial.tools-for-thought#lark,0:#*]]
 
