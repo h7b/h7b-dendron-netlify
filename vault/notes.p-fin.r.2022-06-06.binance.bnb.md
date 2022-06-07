@@ -2,10 +2,12 @@
 id: dh1dzkchj3jghvpgx8da453
 title: BNB Utility Coin
 desc: ''
-updated: 1654526774489
+updated: 1654607386523
 created: 1654523625272
 ---
 # BNB Utility Coin
+
+## Overview
 
 BNB stands for "Build and Build".
 
