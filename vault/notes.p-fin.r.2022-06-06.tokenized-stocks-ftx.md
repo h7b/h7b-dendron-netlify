@@ -2,12 +2,14 @@
 id: tv866k101cli1gwflsbu5d0
 title: Tokenized Stocks on FTX
 desc: ''
-updated: 1654513353079
+updated: 1654654781264
 created: 1654512470542
 ---
 # Tokenized Stocks on FTX Crypto Derivatives Exchange
 
 ref: [FTX Crypto Derivatives Exchange](https://help.ftx.com/hc/en-us/articles/360051229472-Equities)
+
+## Overview
 
 FTX Switzerland (Canco GmbH) is authorized to provide brokerage services for tokenized stock trading.
 

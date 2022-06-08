@@ -2,7 +2,7 @@
 id: 80kxZq79ET2QJGySDpp3t
 title: Tokenized Equity
 desc: ''
-updated: 1652996724158
+updated: 1654655058540
 created: 1635538030093
 ---
 # Reading 2021-10-29
@@ -15,7 +15,7 @@ created: 1635538030093
 - Year of publication:: 2021
 - Category:: Blog
 - Topic:: #topic.crypto-asset
-- Related:: [Investopedia](https://www.investopedia.com/terms/t/tokenized-equity.asp), [ftx](https://help.ftx.com/hc/en-us/articles/360051229472-Tokenized-Stocks), [[Bloomberg|notes.reading.tokenized-equity.archive-bloomberg]], [[Coin68|notes.reading.tokenized-equity.archive-coin68]]
+- Related:: [Investopedia](https://www.investopedia.com/terms/t/tokenized-equity.asp), [[Bloomberg|notes.reading.tokenized-equity.archive-bloomberg]], [[Coin68|notes.reading.tokenized-equity.archive-coin68]], [[notes.p-fin.r.2022-06-06.tokenized-stocks-ftx]]
 
 ## Notes from reading
 
@@ -27,13 +27,5 @@ The underlying blockchain infrastructure also supports all necessary activities 
 For instance, [Templum](https://www.templuminc.com/) is one such blockchain-based platform that is aiming to become the leading regulatory-compliant platform for tokenized asset offerings and their secondary trading.
 
 ---
-ref: [ftx](https://help.ftx.com/hc/en-us/articles/360051229472-Tokenized-Stocks)  
-**What exactly is traded on FTX?**
 
-FTX itself lists tokens on the equities.  For instance, ftx.com/trade/TSLA/USD is a market to trade tokens on Tesla stock.
-
-These spot tokens are backed by shares of Tesla stock custodied by CM-Equity.  They can be redeemed with CM-Equity for the underlying shares if desired.
-
-**How are corporate actions handled?**
-
-Holding tokenized stocks on FTX entitles users to dividends, etc. of the underlying stock.  FTX will pursue all reasonable actions to have the tokens on FTX reflect the corporate actions of the underlying equities, including through dividends and stock splits.  It is not anticipated that the shares will exercise their voting rights but CM-Equity may do so in its discretion.
+![[notes.p-fin.r.2022-06-06.tokenized-stocks-ftx#tokenized-stocks-on-ftx-crypto-derivatives-exchange,1]]

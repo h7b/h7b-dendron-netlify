@@ -2,12 +2,14 @@
 id: qvfych1tml6qsystou1seo3
 title: Crypto Wallets
 desc: ''
-updated: 1654525090858
+updated: 1654654700869
 created: 1654520340700
 ---
 # Custodial vs Non-Custodial Wallets
 
 ref: [Cryptopedia](https://www.gemini.com/cryptopedia/crypto-wallets-custodial-vs-noncustodial)
+
+## Overview
 
 - With a non-custodial wallet, you have sole control of your private keys
 - With a custodial wallet, another party controls your private keys
