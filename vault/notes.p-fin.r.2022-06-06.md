@@ -2,8 +2,10 @@
 id: 6j7xafq8tgigph0exze943b
 title: Research 2022-06-06
 desc: ''
-updated: 1654654792945
+updated: 1654656425058
 created: 1654512334176
+tags: topic.crypto-asset
+excerpt: Tokenized Stocks on FTX; stablecoins BUSD, DAI; crypto-backed lending platform NEXO
 ---
 # Market Research 2022-06-06
 
