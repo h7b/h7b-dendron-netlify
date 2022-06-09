@@ -4,7 +4,14 @@
 #     root.notes.reading.note1
 #     root.notes.reading.note2
 # It will not match
-#     root.notes.reading.note1.highlight 
+#     root.notes.reading.note1.highlight
+# Schema for my market research notes
+# It wil match 
+#     root.notes.p-fin.r
+#     root.notes.p-fin.r.note1
+#     root.notes.p-fin.r.note2
+# It will not match
+#     root.notes.p-fin.r.note1.highlight
 
 version: 1
 imports: []
@@ -16,3 +23,8 @@ schemas:
       - pattern: reading
         namespace: true
         template: templates.notes-reading
+      - pattern: p-fin
+        children:
+        - pattern: r
+          namespace: true
+          template: templates.notes-market-research

@@ -1,8 +1,8 @@
 ---
 id: vboxhekg3xhdozlgqhkju25
-title: Dai stablecoin
+title: Dai
 desc: ''
-updated: 1654607353752
+updated: 1654780776400
 created: 1654521640245
 ---
 # Dai stablecoin
@@ -14,6 +14,8 @@ ref: [MakerDAO Community Portal](https://makerdao.world/en/learn/Dai)
 The `Dai` stablecoin is a decentralized, unbiased, collateral-backed cryptocurrency whose value is soft-pegged to the US Dollar.
 
 Dai $1 USD equivalent is maintained through automatic pricing mechanisms built into smart contracts. When Dai is worth more than $1, the smart contract pricing mechanism works to decrease the price. Conversely, when Dai is worth less than $1, the smart contract pricing mechanism works to increase the price.
+
+Balance of `Dai` in circulation on 2022-05-27 is $6.58B
 
 Dai is held in digital wallets and supported on Ethereum and other popular blockchains.
 

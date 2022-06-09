@@ -1,8 +1,8 @@
 ---
 id: 8ZMvIucZ2ryx5TABZIhvi
-title: Template for notes from reading
+title: Template for reading notes
 desc: ''
-updated: 1647562641885
+updated: 1654688877755
 created: 1642461639244
 ---
 # Reading <%=CURRENT_YEAR%>-<%= CURRENT_MONTH%>-<%= CURRENT_DAY%>

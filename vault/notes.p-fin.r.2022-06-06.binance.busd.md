@@ -2,7 +2,7 @@
 id: felkmbsndl6mqzc0lm2u6up
 title: BUSD
 desc: ''
-updated: 1654654627435
+updated: 1654780563261
 created: 1654651724026
 ---
 # BUSD
@@ -10,6 +10,8 @@ created: 1654651724026
 ## Overview
 
 [BUSD](https://academy.binance.com/en/articles/what-is-busd) is a regulated, fiat-backed stablecoin pegged to the U.S. dollar. The supply of BUSD is pegged to the U.S. dollar at a 1:1 ratio. Paxos, the token's issuer, releases [monthly attestations](https://paxos.com/attestations/) of BUSD's reserves.
+
+Balance of BUSD in circulation on 2022-04-29 is $17.6B
 
 As a [[stablecoin|notes.p-fin.r.2022-06-06.stablecoin]], BUSD is designed to maintain a stable market value. It allows investors and traders to hold a low-volatility asset on the blockchain without the need to exit the crypto space.
 

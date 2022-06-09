@@ -2,7 +2,7 @@
 id: 5x44glikmxl3ujbmfbdic3h
 title: SQL Database Query Language
 desc: ''
-updated: 1654394881865
+updated: 1654775300949
 created: 1649716888911
 ---
 # SQL database query language
@@ -66,6 +66,10 @@ created: 1649716888911
 - an open source project that enables cloud pros (e.g. software developers, operations engineers and security teams) to query their favorite cloud services with SQL
 - The heart of Steampipe is an intuitive command line interface (CLI) that solves the challenges encountered when asking questions of cloud resources and services
 - Steampipe is an open source Postgres Foreign Data Wrapper with 73 [plugins](https://hub.steampipe.io/plugins) including [Google Sheets support](https://hub.steampipe.io/plugins/turbot/googlesheets). A lot of our users use it to connect custom metadata with other systems - e.g. join ownership info in Google Sheets with tags on AWS resources
+
+### [evidence](https://evidence.dev/)
+- [Hacker News discussion](https://news.ycombinator.com/item?id=28304781)
+- build automated reports as static website with inline SQL-query and markdown
 
 [Awesome Database Tools](https://github.com/mgramin/awesome-db-tools)
 - Community driven curated list of database tools

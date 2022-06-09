@@ -2,7 +2,7 @@
 id: KE2M6fdHkylIGsY795s7e
 title: Tools Build Website Nocode
 desc: ''
-updated: 1654064593379
+updated: 1654776790144
 created: 1636706914265
 ---
 # Nocode tools to build app and website
@@ -95,10 +95,6 @@ created: 1636706914265
 
 ### [Streamlit](https://streamlit.io/)
 - free, open-source, all-python framework to quickly build interactive dashboards and web apps
-
-### [evidence](https://evidence.dev/)
-- [Hacker News discussion](https://news.ycombinator.com/item?id=28304781)
-- build automated reports as static website with inline SQL-query and markdown
 
 ### [Anvil](https://anvil.works/)
 - Founded: 2015
@@ -209,8 +205,12 @@ created: 1636706914265
 
 ### [Quarto](https://quarto.org/)
 - an open-source scientific and technical publishing system built on Pandoc
-- documents can be written using VS Code or any text editor
--  create beautiful documentation to share online with Quarto that auto-updates with Github
+- Quarto is a way to render plain text source files that contain code written in Python, R, or Observable
+- create beautiful documentation to share online with Quarto that auto-updates with Github
+- related resources
+    - [Nicholas Tierney | Notes on Changing from Rmarkdown/Bookdown to Quarto](https://www.njtierney.com/post/2022/04/11/rmd-to-qmd/)
+    - [Alison Hill | We don't talk about Quarto](https://www.apreshill.com/blog/2022-04-we-dont-talk-about-quarto/)
+    - [Yihui Xie | With Quarto Coming, is R Markdown Going Away? No.](https://yihui.org/en/2022/04/quarto-r-markdown/)
 
 ## Related resources
 - [Curated list](https://www.makerpad.co/tool-directory) by Makerpad
