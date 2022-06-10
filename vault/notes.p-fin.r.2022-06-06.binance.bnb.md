@@ -2,7 +2,7 @@
 id: dh1dzkchj3jghvpgx8da453
 title: BNB Utility Coin
 desc: ''
-updated: 1654607386523
+updated: 1654848105282
 created: 1654523625272
 ---
 # BNB Utility Coin
@@ -23,3 +23,7 @@ You can find BNB in three different forms:
 - BNB [[BEP-2|notes.p-fin.r.2022-06-06.binance.bep2]] on the BNB Beacon Chain (former Binance Chain)
 - BNB [[BEP-20|notes.p-fin.r.2022-06-06.binance.bep20]] on the BNB Smart Chain (former Binance Smart Chain)
 - BNB ERC-20 on the Ethereum network
+
+## Related resources
+
+- [Binance Research | BNB The Fuel Of The Binance Ecosystem](https://research.binance.com/en/projects/bnb)

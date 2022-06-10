@@ -2,7 +2,7 @@
 id: c37viqbvc8tqg1dlh750s98
 title: Research 2022-06-10
 desc: 'Gold ETFs and Gold-Backed Cryptocurrencies'
-updated: 1654840731851
+updated: 1654851062571
 created: 1654839157458
 excerpt: Gold ETFs and Gold-Backed Cryptocurrencies
 tags: [topic.etf, topic.crypto-asset]
@@ -24,11 +24,12 @@ Gold-Backed Cryptocurrencies are token collateralized by Gold. A company issues 
 
 List of tokenized gold projects:
 - DigixGlobal (DGX)
-- PerthMint (PMGT)
-- PAX Gold (PAXG)
+- [[notes.p-fin.r.2022-06-10.pmgt]]
+- [[notes.p-fin.r.2022-06-10.paxg]]
 - OneGram (OGC)
 
 ## Related resources
 
-- [Nicoya Research | Gold-Backed Cryptocurrencies, a Better Alternative to Gold ETF’s?](https://nicoyaresearch.com/gold-backed-cryptocurrencies-a-better-alternative-to-gold-etfs/)
+- [Nicoya Research | Gold-Backed Cryptocurrencies, a Better Alternative to Gold ETFs?](https://nicoyaresearch.com/gold-backed-cryptocurrencies-a-better-alternative-to-gold-etfs/)
 - [Igor | A Comparison of Gold ETFs and Gold-Backed Cryptocurrencies](https://medium.com/swlh/a-comparison-of-gold-etfs-and-gold-backed-cryptocurrencies-7457353ea1b9)
+- [Goldscape.net | A Complete Guide To Gold-Backed Cryptocurrency](https://www.goldscape.net/gold-blog/gold-backed-cryptocurrency/)

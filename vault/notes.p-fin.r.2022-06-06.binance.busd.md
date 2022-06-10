@@ -2,7 +2,7 @@
 id: felkmbsndl6mqzc0lm2u6up
 title: BUSD
 desc: ''
-updated: 1654780563261
+updated: 1654848737682
 created: 1654651724026
 ---
 # BUSD
@@ -21,7 +21,7 @@ There are 2 types of BUSD
 
 ## What exactly is BUSD?
 
-BUSD is a stablecoin founded by Paxos and Binance. [Paxos](https://paxos.com/) uses blockchain technology to offer their Stablecoin as a Service product to external companies. In the past, they also created a gold-backed stablecoin called [PAX Gold (PAXG)](https://paxos.com/paxgold/). The NYSDFS regulates both BUSD and PAXG tokens.
+BUSD is a stablecoin founded by Paxos and Binance. [Paxos](https://paxos.com/) uses blockchain technology to offer their Stablecoin as a Service product to external companies. In the past, they also created a gold-backed stablecoin called [[notes.p-fin.r.2022-06-10.paxg]]. The NYSDFS regulates both BUSD and PAXG tokens.
 
 On a technical level, BUSD is a fiat-backed stablecoin that maintains a U.S. dollar peg. An amount of U.S. dollars equal to the total supply of BUSD is held in custody by Paxos, acting as its reserves in FDIC-insured U.S. banks or backed by U.S. Treasuries.
 
