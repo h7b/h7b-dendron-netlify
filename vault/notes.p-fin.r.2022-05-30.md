@@ -1,8 +1,8 @@
 ---
 id: rif81n9qcccam8u8f57anvq
 title: Research 2022-05-30
-desc: ''
-updated: 1654512298507
+desc: 'vn diamond index, vn30 index, related ETFs'
+updated: 1654837665337
 created: 1653932690064
 excerpt: vn diamond index, vn30 index, related ETFs
 tags: topic.etf

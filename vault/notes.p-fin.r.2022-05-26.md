@@ -1,10 +1,10 @@
 ---
 id: kr46x3dfuo451zf7kps6t82
 title: Research 2022-05-26
-desc: ''
-updated: 1653932569848
+desc: 'Value Fund and related ETFs'
+updated: 1654837669569
 created: 1653522423247
-excerpt: Value Fund and ETFs
+excerpt: Value Fund and related ETFs
 tags: topic.etf
 ---
 # Market Research 2022-05-26

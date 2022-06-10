@@ -1,13 +1,11 @@
 ---
 id: 9p6o1ogvn2tkyhh0le6dppi
 title: Research 2022-05-03
-desc: ''
-updated: 1653932465780
+desc: 'Vanguard Financials ETF (VFH), Vanguard S&P 500 ETF (VOO), Invesco QQQ Trust (QQQ), Invesco NASDAQ 100 ETF (QQQM)'
+updated: 1654837708664
 created: 1651533060813
 tags: topic.etf
-excerpt: >-
-  Vanguard Financials ETF (VFH), Vanguard S&P 500 ETF (VOO), Invesco QQQ Trust
-  (QQQ), Invesco NASDAQ 100 ETF (QQQM)
+excerpt: Vanguard Financials ETF (VFH), Vanguard S&P 500 ETF (VOO), Invesco QQQ Trust (QQQ), Invesco NASDAQ 100 ETF (QQQM)
 ---
 # Market Research 2022-05-03
 

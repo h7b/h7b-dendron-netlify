@@ -1,8 +1,8 @@
 ---
 id: abnoc4rjo7cpuee0zpdnnzi
-title: ETF
+title: etf
 desc: ''
-updated: 1651886588911
+updated: 1654840426851
 created: 1648641269621
 ---
 # ETF related notes

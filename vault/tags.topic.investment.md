@@ -1,8 +1,8 @@
 ---
 id: dAHQA4XNlgopAtRMDy7MF
-title: Investment
+title: investment
 desc: ''
-updated: 1649884703750
+updated: 1654840422051
 created: 1642560464013
 ---
 # Investment related resources
