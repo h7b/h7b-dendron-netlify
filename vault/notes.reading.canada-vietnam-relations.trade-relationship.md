@@ -2,7 +2,7 @@
 id: 54c07637o4jpb18obg1p8ae
 title: Trade Relationship
 desc: ''
-updated: 1650922232190
+updated: 1654920632089
 created: 1650906297555
 ---
 # Trade relationship
@@ -18,4 +18,8 @@ On January 10, 2022, Canada and Vietnam established the Canada-Vietnam Joint Eco
 
 ## Trade and investment agreements
 
-![[notes.reading.canada-vietnam-relations.trade-investment-agreements#trade-and-investment-agreements,1]]
+![[notes.reading.canada-vietnam-relations.trade-investment-agreements#trade-and-investment-agreements,1:#*]]
+
+## [Canada Border Services Agency (CBSA)](https://www.cbsa-asfc.gc.ca/agency-agence/menu-eng.html)
+
+![[notes.reading.canada-vietnam-relations.cbsa#overview,1:#*]]
