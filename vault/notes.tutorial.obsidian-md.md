@@ -2,7 +2,7 @@
 id: tQP1ujPMEgGv6hMZ2lf8z
 title: Obsidian MD
 desc: ''
-updated: 1652895217016
+updated: 1655040079206
 created: 1633862309359
 ---
 # Obsidian - Tips and Experiences
@@ -16,6 +16,8 @@ In Obsidian apps, When I modify
 all of these elements will also be updated:
 - the references link between notes
 - tags in note
+
+According to their [Terms of Service](https://obsidian.md/terms), the legal business name of Obsidian is Dynalist Inc. incorporated in Canada and their services are subjected to the laws or jurisdiction of Canada.
 
 ## Typical workflows
 

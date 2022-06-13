@@ -2,7 +2,7 @@
 id: v63jja0eea9ils1vu602whn
 title: Canada Vietnam Relations
 desc: ''
-updated: 1650924211230
+updated: 1655037798769
 created: 1650906063543
 ---
 # Reading 2022-04-25
@@ -26,3 +26,7 @@ Canada established diplomatic relations with Vietnam in 1973, opening an Embassy
 ### Trade relationship
 
 ![[notes.reading.canada-vietnam-relations.trade-relationship#trade-relationship,1]]
+
+### [Canada Border Services Agency (CBSA)](https://www.cbsa-asfc.gc.ca/agency-agence/menu-eng.html)
+
+![[notes.reading.canada-vietnam-relations.cbsa#overview,1:#*]]

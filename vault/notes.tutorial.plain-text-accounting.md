@@ -2,10 +2,12 @@
 id: BMYLBFSZCzSdDt1hjzmA0
 title: Plain Text Accounting
 desc: ''
-updated: 1646781583950
+updated: 1655040903602
 created: 1643679182773
 ---
-# Plain text accounting with Beancount
+# Plain text accounting
+
+## [Beancount](https://github.com/beancount/beancount)
 
 ref:
 - [plain text accounting](https://plaintextaccounting.org/)
@@ -14,11 +16,11 @@ ref:
 
 `Plain Text Accounting` (PTA) means doing accounting with plain text data formats and scriptable software
 
-Beancount does not represent time, only dates. The minimal time interval is one day.
+[Beancount](https://github.com/beancount/beancount) does not represent time, only dates. The minimal time interval is one day.
 
 Most (not all) plain text accounting implementations use signed amounts instead of debits and credits. It has been a rather successful simplification, intuitive to most newcomers. It is also by far the preferred way to export a trial balance or general ledger account from any system to excel. It is the norm in the accounting industry.
 
-## Syntax directives
+### Syntax directives
 
 - Open a new account. Accounts must be opened before being referenced.
   ```text
