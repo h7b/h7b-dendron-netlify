@@ -2,7 +2,7 @@
 id: 8yvt8c8rpvo5aerh5c43bbp
 title: TENWAYS
 desc: ''
-updated: 1655139080173
+updated: 1655331285819
 created: 1651701379764
 ---
 # [TENWAYS](https://www.tenways.com/)
@@ -51,9 +51,11 @@ My current favorite.
 ## Related resources
 
 - Reviews
+    - [Numerama | Test du Tenways CGO800S : ce vélo CROWDFUNDÉ est-il bon ?](https://www.youtube.com/watch?v=oLU26sk2igg)
     - [Electroheads | I wish I had this e-bike YEARS ago: Tenways CGO800S](https://www.youtube.com/watch?v=j95kemr-YyI)
     - [Electroheads | I've tested dozens of E-bikes and HERE'S the one I've chosen! (Tenways CGo600)](https://www.youtube.com/watch?v=d5gygPVTfOA)
     - [Tech Advisor | Tenways C-GO 600 review](https://www.techadvisor.com/review/tenways-c-go-600-review-3807952/)
     - [Techcrunch | The Tenways CGO 600 is a very serviceable, urban, belt-drive e-bike, great for commutes](https://techcrunch.com/2021/10/28/the-tenways-cgo-600-is-a-very-serviceable-urban-belt-drive-e-bike-great-for-commutes/)
 - [Company info](https://www.tenways.com/pages/about-us)
     - headquarters in the Netherlands, offices, assembly and warehousing in Europe
+    - Hong Kong based company, as said in the [clip of Numerama](https://www.youtube.com/watch?v=oLU26sk2igg)?
