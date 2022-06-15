@@ -1,11 +1,11 @@
 ---
 id: 6j7xafq8tgigph0exze943b
 title: Research 2022-06-06
-desc: 'Tokenized Stocks on FTX; stablecoins USDC, BUSD, DAI; crypto-backed lending platform NEXO, Aave'
-updated: 1654837658444
+desc: 'Tokenized Stocks on FTX; stablecoins USDC, BUSD, DAI, VNDC; crypto-backed lending platform NEXO, Aave'
+updated: 1655292998905
 created: 1654512334176
 tags: topic.crypto-asset
-excerpt: Tokenized Stocks on FTX; stablecoins USDC, BUSD, DAI; crypto-backed lending platform NEXO, Aave
+excerpt: Tokenized Stocks on FTX; stablecoins USDC, BUSD, DAI, VNDC; crypto-backed lending platform NEXO, Aave
 ---
 # Market Research 2022-06-06
 
