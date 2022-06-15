@@ -2,7 +2,7 @@
 id: c3m8t0ezod4av3gtme57wfw
 title: Ethereum
 desc: ''
-updated: 1655157959534
+updated: 1655275175260
 created: 1655156595719
 ---
 # [Ethereum](https://www.ethereum.org/)
@@ -28,8 +28,8 @@ A standard transaction sending ETH normally costs 21,000 gas.
 ## Tokens
 
 Aside from ether, the native currency of the Ethereum network, there are two main types of tokens that get used on Ethereum:
-- [ERC-20](https://eips.ethereum.org/EIPS/eip-20), which are "fungible" tokens and correspond to what people call "cryptocurrencies"
-- [ERC-721](https://eips.ethereum.org/EIPS/eip-721), the "non-fungible tokens", the origin of the acronym [NFT](https://ethereum.org/en/nft/).
+- [[ERC-20|notes.p-fin.r.2022-06-13.ethereum.erc20]], which are "fungible" tokens and correspond to what people call "cryptocurrencies"
+- [[ERC-721|notes.p-fin.r.2022-06-13.ethereum.erc721]], the "non-fungible tokens", the origin of the acronym [NFT](https://ethereum.org/en/nft/).
 
 ## Ethereum mainnet, testnets, sidechains and the rest
 
