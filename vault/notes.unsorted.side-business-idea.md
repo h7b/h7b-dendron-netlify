@@ -2,7 +2,7 @@
 id: xIHUqgJilv3BmnvbvwlhF
 title: Side Business Idea
 desc: ''
-updated: 1654502503333
+updated: 1655370902643
 created: 1643854567901
 tags: topic.investment
 ---
@@ -48,6 +48,13 @@ Is there an equivalent entity of [Regulated Investment Company (RIC)](https://ww
 - Management fee
     - ≥$10,000 Net Deposits: 1% AUM Per Year
     - <$10,000 Net Deposits: $5 per month
+
+[CryptoSimple](https://www.cryptosimple.app/)
+- robo advisor dedicated to crypto investment
+- CryptoSimple is registered as a Digital Asset Service Provider (DASP) by the French Financial Markets Authority (AMF)
+- Related:
+    - [Cryptoast | CryptoSimple, l'outil qui personnalise et optimise votre portefeuille de cryptomonnaies](https://cryptoast.fr/cryptosimple-outil-personnalise-optimise-portefeuille-cryptomonnaies/)
+        - My thoughts: 0,11 % de frais mensuels. It is equivalent to 1.32% per annum, which is almost double of the already high expense ratio of a thematic ETF like [ARKK](https://ark-funds.com/funds/arkk/). I'm not sure how can they convince their customers for such a high premium without being backed by any historical performances
 
 ### Investing app, Funds
 
