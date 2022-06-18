@@ -2,7 +2,7 @@
 id: ipiddqz6grb10tg5eehsv63
 title: My Curated List
 desc: ''
-updated: 1655140684722
+updated: 1655550553935
 created: 1651617180092
 ---
 # My curated list
@@ -14,3 +14,5 @@ created: 1651617180092
 ![[notes.misc.my-curated-list.headphone-with-mic#headphone-with-mic,1]]
 
 ![[notes.misc.my-curated-list.laptop#laptop,1]]
+
+![[notes.misc.my-curated-list.headset#ar-vr-kit,1]]
