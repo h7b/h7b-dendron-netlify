@@ -2,7 +2,7 @@
 id: en8t3d0ryljp9c3j67pimkc
 title: VN DIAMOND Index
 desc: ''
-updated: 1653957959119
+updated: 1655748181876
 created: 1653933111366
 ---
 # VN DIAMOND Index
@@ -29,6 +29,12 @@ Việc xây dựng VN Diamond là một trong những phương án giúp thu hú
     - read [2020 - Prospectus - p. 16](https://masvn.com/api/attachment/file/1634787192160-ETF_VFMVN-Diamond-Prospectus_V1.pdf#page=16)
 - List of holdings: 
     - source: [HOSE](https://www.hsx.vn/Modules/Listed/Web/StockIndexView/188802591)
+
+## My thoughts
+
+Notes on 2022-06-20
+- VN DIAMOND index consists of 18 companies, in which 10 of them are also part of the [[notes.p-fin.r.2022-05-30.vn30-index]]. Check my [spreadsheet](https://docs.google.com/spreadsheets/d/1sz8XlAl_-7Y4xiE-J-aO4FpzBkg3QKsYD5g6_IK-DWQ/edit?usp=sharing) for details.
+
 ## Related
 
 - [ETF Monitor – How new rules will change the VN DIAMOND](https://www.vndirect.com.vn/en/etf-monitor-how-new-rules-will-change-the-vn-diamond/)

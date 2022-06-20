@@ -2,7 +2,7 @@
 id: hwxvcubx65z2njtfyugzj50
 title: VFMVN30 ETF (E1VFVN30)
 desc: ''
-updated: 1653959219060
+updated: 1655677984319
 created: 1653958168354
 ---
 # [VFMVN30 ETF (E1VFVN30)](https://dragoncapital.com.vn/en/etf-vfmvn30-fund-e1vfvn30/etf-overview/)
@@ -14,10 +14,16 @@ created: 1653958168354
 - Inception: 2014-10-06
 - Issuer: [Dragon Capital Vietfund Management (DCVFM)](https://dragoncapital.com.vn/en/our-company/introduction/)
 - [Fund Performance](https://dragoncapital.com.vn/en/etf-vfmvn30-fund-e1vfvn30/etf-performance/)
-- List of documents:
-    - [2022 - Charter](https://vfmcomvnaz.azureedge.net/dcvfmcomvn/uploads/vfm_files/report/2022/04/DCVFMVN30-ETF-Fund-Charter-2022.pdf)
-    - [2016 - Prospectus](https://vfmcomvnaz.azureedge.net/dcvfmcomvn/uploads/vfm_files/report/2017/04//ETF_Fund-Prospectus-update_201608.pdf)
-    - [2014 - Prospectus](https://vfmcomvnaz.azureedge.net/dcvfmcomvn/uploads/vfm_files/report/2014/07/ETF_IPO-Prospectus.pdf)
+- Fees:
+    - Management fee: 0.65% annually
+    - Subscription fee: 0%
+    - Redemption fee: 0% - 0.15%
+
+## Fund's documents
+
+- [2022 - Charter](https://vfmcomvnaz.azureedge.net/dcvfmcomvn/uploads/vfm_files/report/2022/04/DCVFMVN30-ETF-Fund-Charter-2022.pdf)
+- [2016 - Prospectus](https://vfmcomvnaz.azureedge.net/dcvfmcomvn/uploads/vfm_files/report/2017/04//ETF_Fund-Prospectus-update_201608.pdf)
+- [2014 - Prospectus](https://vfmcomvnaz.azureedge.net/dcvfmcomvn/uploads/vfm_files/report/2014/07/ETF_IPO-Prospectus.pdf)
 
 ## Product summary
 
