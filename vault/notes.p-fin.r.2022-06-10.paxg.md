@@ -2,7 +2,7 @@
 id: oae8lsgs3agz2qnregxpuds
 title: PAX Gold (PAXG)
 desc: ''
-updated: 1654850949141
+updated: 1655850728051
 created: 1654848208114
 ---
 # [PAX Gold (PAXG)](https://paxos.com/paxgold/)
@@ -18,6 +18,11 @@ PAXG gives customers the benefits of actual physical ownership of specific gold 
 The issuance of PAXG is approved by the New York State Department of Financial Services (NYDFS).
 
 The minimum purchasable amount on the Paxos platform is 0.01 PAXG.
+
+## Info
+
+- White paper: read on [paxos.com](https://paxos.com/wp-content/uploads/2019/09/PAX-Gold-Whitepaper.pdf)
+- Price statistics: read on [CoinMarketCap](https://coinmarketcap.com/currencies/pax-gold/)
 
 ## Fees
 

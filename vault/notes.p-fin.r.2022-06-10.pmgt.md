@@ -2,7 +2,7 @@
 id: jr1aq6c3mb0cugvvcj7zioj
 title: Perth Mint Gold Token (PMGT)
 desc: ''
-updated: 1654851022369
+updated: 1655850716187
 created: 1654849506447
 ---
 # Perth Mint Gold Token (PMGT)
@@ -17,7 +17,12 @@ Every PMGT is a tokenised version of a GoldPass certificate and therefore 100% b
 
 The PMGT tokens are 100% backed by GoldPass certificates issued by The Perth Mint, the world's largest refiner of newly mined gold. GoldPass certificates are fully backed by physical Perth Mint gold, with the weight and purity of every ounce guaranteed by the Government of Western Australia.
 
-PMGT is the first digital gold token on a public blockchain backed by government-guaranteed gold. PMGT is also [backed by the Australian Government](https://www.perthmint.com/about/government-guarantee/), making it the first tokenized gold product with a sovereign state backing it. 
+PMGT is the first digital gold token on a public blockchain backed by government-guaranteed gold. PMGT is also [backed by the Australian Government](https://www.perthmint.com/about/government-guarantee/), making it the first tokenized gold product with a sovereign state backing it.
+
+## Info
+
+- White paper: read on [pmgt.io](https://pmgt.io/static/assets/pmgt_whitepaper.pdf)
+- Price statistics: read on [CoinMarketCap](https://coinmarketcap.com/currencies/perth-mint-gold-token/)
 
 ## Fees
 
