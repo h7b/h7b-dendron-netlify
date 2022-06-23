@@ -1,8 +1,8 @@
 ---
 id: bv8jt5xo8oas1vho8oschnv
-title: Apple MacBook
+title: Apple
 desc: ''
-updated: 1655140621189
+updated: 1656005920471
 created: 1653241405395
 ---
 # Apple MacBook
@@ -12,12 +12,24 @@ created: 1653241405395
 - Buy from [Apple](https://www.apple.com/shop/buy-mac/macbook-air/with-m1-chip)
 - Auth login: fingerprint Touch ID
 - Weight: 1.29 kg
+- Price of base model: USD 999
+    - Base model specs: M1 8-Core CPU 7-Core GPU; 8GB Unified Memory; 256GB SSD Storage
 
 ## [MacBook Air M2 chip](https://www.apple.com/macbook-air-m2/)
 
 - Buy from [Apple](https://www.apple.com/shop/buy-mac/macbook-air/with-m2-chip)
 - Auth login: fingerprint Touch ID
 - Weight: 1.24 kg
+- Price of base model: USD 1199
+    - Base model specs: M2 8-Core CPU 8-Core GPU; 8GB Unified Memory; 256GB SSD Storage
+
+## [MacBook Pro 14-inch M1 Pro chip](https://www.apple.com/shop/buy-mac/macbook-pro/14-inch)
+
+- Buy from [Apple](https://www.apple.com/shop/buy-mac/macbook-pro/14-inch)
+- Auth login: fingerprint Touch ID
+- Weight: 1.6 kg
+- Price of base model: USD 1,999
+    - Base model specs: M1 Pro 8-Core CPU 14-Core GPU; 16GB Unified Memory; 512GB SSD Storage
 
 ## [AppleCare products](https://www.apple.com/support/products/)
 

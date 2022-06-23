@@ -2,7 +2,7 @@
 id: d1t8yo7mbwq7773anjk0qm6
 title: How ETFs make money
 desc: ''
-updated: 1652712233332
+updated: 1655909216718
 created: 1648641849229
 ---
 # Reading 2022-03-30
@@ -134,4 +134,4 @@ ETFs have fewer "taxable events" than mutual funds
 
 An ETF is more tax-efficient than a mutual fund because most buying and selling occur through an exchange and the ETF sponsor does not need to redeem shares each time an investor wishes to sell or issue new shares each time an investor wishes to buy. Redeeming shares of a fund can trigger a tax liability, so listing the shares on an exchange can keep tax costs lower. 
 
-In the case of a mutual fund, each time an investor sells their shares, they sell it back to the fund and incur a tax liability that must be paid by the shareholders of the fund.
+In the case of a mutual fund, each time an investor sells their shares, they sell it back to the fund and incur a tax liability that must be paid by the shareholders of the fund. Currently (2022), this rule is not applicable to mutual funds' holder in Vietnam market (read [[here|notes.reading.etf-business-model.20220622-vn-tax]])
