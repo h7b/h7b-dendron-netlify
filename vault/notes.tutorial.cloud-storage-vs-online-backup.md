@@ -2,7 +2,7 @@
 id: RSCijRCuIR1xl0R3TWCg5
 title: Cloud Storage Vs Online Backup
 desc: ''
-updated: 1655551957771
+updated: 1656020378984
 created: 1641946099458
 ---
 # Cloud Storage vs Online Backup: What’s The Difference
@@ -65,6 +65,16 @@ Please don't use the [Download provided by MacLife](https://maclife.vn/cloudmoun
 
 Please don't use the [Download provided by MacLife](https://maclife.vn/mountain-duck-ung-dung-ket-noi-ftp-tren-mac.html)
 
+### ExpanDrive
+
+[ExpanDrive](https://www.expandrive.com/desktop/) gives you seamless access to cloud storage from many storage service providers within any application.
+
+[Pricing](https://www.expandrive.com/desktop/buy/):
+- Lifetime Personal License (1 user) is USD 50
+- Yearly subscription for future updates: USD 24.95/year
+
+Please don't use the [Download provided by MacLife](https://maclife.vn/expandrive-quan-ly-du-lieu-tren-cac-dich-vu-cloud.html)
+
 ## Related resources
 
 - [iDrive review](https://www.bestbackupreviews.com/reviews/idrive-backup-review/) with plenty of screencap
@@ -82,3 +92,4 @@ Please don't use the [Download provided by MacLife](https://maclife.vn/mountain-
 - [Mountain Duck | Mountain Duck vs CloudMounter](https://mountainduck.io/comparison/)
 - [User feedback from MacLife community](https://www.facebook.com/groups/maclife.vn/permalink/989220715097859/)
     - testimonial from a user who use CloudMounter to store movies in Google Drive, then watch on macbook via [IINA](https://iina.io/) -- an open source media player for macOS
+- [Cloudwards | CloudMounter vs ExpanDrive](https://www.cloudwards.net/cloudmounter-vs-expandrive/)
