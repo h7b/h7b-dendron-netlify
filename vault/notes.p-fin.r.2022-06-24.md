@@ -1,9 +1,10 @@
 ---
 id: cowlgppasj61gb9cdw0x3bk
 title: Research 2022-06-24
-desc: ''
-updated: 1656046770532
+desc: International brokerage services for Vietnam citizen
+updated: 1656087486227
 created: 1656041057249
+excerpt: International brokerage services for Vietnam citizen
 ---
 # Market Research 2022-06-24
 
@@ -15,4 +16,4 @@ created: 1656041057249
 
 ![[notes.p-fin.r.2022-06-24.etoro#overview,1:#*]]
 
-gotrade?
+![[notes.p-fin.r.2022-06-24.gotrade#overview,1:#*]]

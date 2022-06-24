@@ -2,7 +2,7 @@
 id: xIHUqgJilv3BmnvbvwlhF
 title: Side Business Idea
 desc: ''
-updated: 1655370902643
+updated: 1656087208350
 created: 1643854567901
 tags: topic.investment
 ---
@@ -113,14 +113,12 @@ Is there an equivalent entity of [Regulated Investment Company (RIC)](https://ww
 
 #### Brokerage apps for non-US residents to invest in US companies
 
-[Gotrade](https://www.heygotrade.com/)
+[[notes.p-fin.r.2022-06-24.gotrade]]
 - founded: 2020
 - asset type: stocks
 - can buy fractional share
-- related: 
-    - [Techcrunch](https://techcrunch.com/2021/06/24/gotrade-gets-7m-led-by-localglobe-to-let-investors-around-the-world-buy-fractional-shares-of-u-s-stocks/)
 
-[eToro](https://www.etoro.com/)
+[[notes.p-fin.r.2022-06-24.etoro]]
 - founded: 2007
 - asset type: stocks, etf, crypto, cfd
 - can buy fractional share
