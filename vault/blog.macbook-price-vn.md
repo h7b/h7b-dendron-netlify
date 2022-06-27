@@ -2,16 +2,16 @@
 id: c94yuuUyyzUNGRTmq3JBx
 title: Macbook Price VN
 desc: ''
-updated: 1652083568991
+updated: 1656285894064
 created: 1644126854458
 ---
 # Price of macbook in Vietnam
 
-The VN retail price markup vs apple-us is impressively low. However due to the high demand, there are so many retail shops which target only Apple users. Vietnamese could feel relief when they look at the retail price in France with the highest markup 20%, based on VND or 19%, based on EUR.
+The VN retail price markup vs apple-us is impressively low. However due to the high demand, there are so many retail shops which target only Apple users. Vietnamese could feel relief when they look at the retail price in France with the highest markup 20%, based on VND.
 
-![chart](https://docs.google.com/spreadsheets/d/e/2PACX-1vTmE3yTc1k5LYrDGkECxZsso3Ca0zEVlPu_-fAUI9YDrxLieO71HZ6wSB_yrXMijYt6srjK-f8lB60L/pubchart?oid=333778645&format=image){max-width: 300px, display: block, margin: 0 auto}
+![price-chart](https://ik.imagekit.io/casa/h7b-dendron/20220206_-_retail_price_macbook_Fhfpu8Six.svg?ik-sdk-version=javascript-1.4.3&updatedAt=1656285817730){max-width: 300px, display: block, margin: 0 auto}
 
-Table: retail price of a `macbook air M1 8GB 256GB` from retailer and Apple Authorized Resellers (AAR) in Vietnam, sorted from low to high, scraped on 2022-02-06. Data in [Sheets](https://docs.google.com/spreadsheets/d/e/2PACX-1vTmE3yTc1k5LYrDGkECxZsso3Ca0zEVlPu_-fAUI9YDrxLieO71HZ6wSB_yrXMijYt6srjK-f8lB60L/pubhtml) or [Excel file](https://app.box.com/s/470qvkyzugjkkeoyrdh6wtcms7yo90j3).
+Table: retail price of a `macbook air M1 8GB 256GB` from retailer and Apple Authorized Resellers (AAR) in Vietnam, sorted from low to high, scraped on 2022-02-06. Data in [Google Sheets](https://docs.google.com/spreadsheets/d/1OOEPLCrdq5ODI9fu4yrQKV_rqEypfsvpfNRs1FKYozU/edit?usp=sharing) or [Excel file](https://app.box.com/s/470qvkyzugjkkeoyrdh6wtcms7yo90j3).
 
 | seller         |  vnd                      | usd    | usd+tax  | eur      | markup vs apple-us |
 |----------------|---------------------------|--------|----------|----------|--------------------|

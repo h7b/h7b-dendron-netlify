@@ -2,7 +2,7 @@
 id: erjxdkgds53cy52hxy2rs3p
 title: Capital.com
 desc: ''
-updated: 1656046367000
+updated: 1656288681185
 created: 1656045273943
 ---
 # Capital.com
@@ -31,6 +31,15 @@ Capital.com is regulated by four distinct financial regulatory bodies:
 - Australian Securities and Investments Commission (ASIC) in Australia
 
 Each of these regulators has their own rules designed to protect users investors. For example, the Financial Conduct Authority covers deposits up to £85,000, which means that if Capital.com went bankrupt, you’d get back 100% of your account balance up to £85,000.
+
+## My thoughts
+
+Capital.com support center can be found at [here](https://capitalcysec.zendesk.com/hc/en-us)
+
+- Can not transfer stocks to other brokers.[^1]
+- Capital.com is primarily a CFD broker. Be vigilant what you buy, whether it's a CFD or physical securities. 
+
+[^1]: https://capitalcysec.zendesk.com/hc/en-us/articles/4416964924690-Can-I-transfer-my-shares-to-from-Capital-com-
 
 ## How to use Capital.com in Vietnam
 

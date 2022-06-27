@@ -2,7 +2,7 @@
 id: 8qu0oy2bmzsaf1zqy7bnefr
 title: Anfin
 desc: ''
-updated: 1656203027541
+updated: 1656287953119
 created: 1656201085711
 ---
 # Anfin
@@ -30,7 +30,7 @@ Có vẻ Anfin chỉ là giao diện frontend để người dùng mua cổ phi�
 ## My thoughts
 
 - Mình nghĩ đối với thị trường Vietnam thì USP của Anfin không có ý nghĩa. Vì mệnh giá 1 cổ phiếu ở Vietnam thấp chứ không cao như thị trường US khi mệnh giá của 1 cổ phiếu có thể rất cao (vd GOOGL giá 2,359.50 USD).
-- Dù mình không thấy hứng thú với những gì Anfin cung cấp so với các công ty môi giới chứng khoán khác, nhưng mình đánh giá cao tính minh bạch khi Anfin công bố về phí và quyền của người dùng
+- Dù mình không thấy hứng thú với những gì Anfin cung cấp so với các công ty môi giới chứng khoán khác, nhưng mình đánh giá cao việc Anfin đã công bố minh bạch về phí và quyền của người dùng
     - Người dùng không thể chuyển nhượng cổ phiếu của mình ra khỏi app Anfin. Muốn rút vốn, chỉ có thể bán cổ phiếu [^1]
     - Người dùng không đứng tên trực tiếp sở hữu cổ phiếu mà phải thông qua Anfin [^2]
     - Quyền của nguòi dùng khi sở hữu cổ phiếu thông qua Anfin [^3]

@@ -2,7 +2,7 @@
 id: omsfn9s1ccqvjc80zwa43ew
 title: Gotrade
 desc: ''
-updated: 1656087637890
+updated: 1656290044212
 created: 1656085990670
 ---
 # Gotrade
@@ -27,6 +27,10 @@ Gotrade does not charge commission on trade, custody, inactivity or dividend fee
 
 Gotrade monetizes by charging a 0.5% to 1.2% foreign exchange fees if users deposit funds in local currency that is converted into U.S. dollars for trading, and interest generated from uninvested cash in brokerage accounts.
 
+Gotrade has [withdrawal fee](https://intercom.help/heygotrade/en/articles/5977624-how-much-is-the-withdrawal-fee).
+
+Please read carefully the [Fee schedules V12 05/2022](https://www.heygotrade.com/legal/gotrade-fees.pdf).
+
 ## Regulations
 
 Gotrade is a trading name of Gotrade Securities Inc., which is a securities licensee licensed by the Labuan Financial Services Authority.
@@ -42,8 +46,26 @@ To protect users, Gotrade works only with fully-funded cash accounts without any
 
 FINRA and Securities Exchange Commission regulations also mean accounts under $25,000 can only day trade, or buy and sell a security on the same day, up to three times every five trading days.
 
+## My thoughts
+
+Read [Gotrade Global FAQ docs](https://intercom.help/heygotrade/en/collections/3335076-gotrade).
+
+- This is not a CFD broker [^1]
+- You own the stocks you bought. While stocks are held in 'street name' under the clearing broker partner of Gotrade, your name are still listed as the real and beneficial owner and have the rights associated with the security such as dividends and voting rights at the company's annual general meeting. [^2] [^3]
+- I found a contradiction in their docs
+    - the [FAQ docs](https://intercom.help/heygotrade/en/articles/5977666-what-are-the-different-order-types) writes that Gotrade supports Limit Order
+    - the ["Fractional share disclosure" V03 11/2021](https://www.heygotrade.com/legal/gotrade-fractional-shares-disclosure.pdf) states 
+        - a "No Limit Order" policy, that customers will only be permitted to place market orders on the Gotrade 
+        - There may not be voting rights for the fraction of a share owned
+        - In some circumstances, dividends on fractional positions may not be processed on your account, if the value of the dividend is too small
+        - Fractional shares are not transferable. If you close your account or transfer your account to another firm, the fractional shares held in your account will need to be liquidated. Similarly, Fractional shares cannot be put into certificated form and mailed
+
+[^1]: https://intercom.help/heygotrade/en/articles/5977554-are-these-contracts-for-difference-cfds
+[^2]: https://intercom.help/heygotrade/en/articles/5977509-why-should-i-switch-to-gotrade-if-i-already-use-another-broker
+[^3]: https://intercom.help/heygotrade/en/articles/5977563-do-i-own-the-stocks-i-buy
+
 ## Related resources
 
 - [TechCrunch | Gotrade, the app that lets international users buy fractions of US stocks, raises $15.5M Series A](https://techcrunch.com/2022/04/04/gotrade-the-app-that-lets-international-users-buy-fractions-of-u-s-stocks-raises-15-5m-series-a/)
 - [TechCrunch | Gotrade gets $7M led by LocalGlobe to let investors around the world buy fractional shares of U.S. stocks](https://techcrunch.com/2021/06/24/gotrade-gets-7m-led-by-localglobe-to-let-investors-around-the-world-buy-fractional-shares-of-u-s-stocks/?guccounter=1)
-- [Gotrade Global FAQ docs](https://intercom.help/heygotrade/en/collections/3335076-gotrade)
+- 
