@@ -2,7 +2,7 @@
 id: omsfn9s1ccqvjc80zwa43ew
 title: Gotrade
 desc: ''
-updated: 1656290044212
+updated: 1656347481819
 created: 1656085990670
 ---
 # Gotrade
@@ -52,13 +52,12 @@ Read [Gotrade Global FAQ docs](https://intercom.help/heygotrade/en/collections/3
 
 - This is not a CFD broker [^1]
 - You own the stocks you bought. While stocks are held in 'street name' under the clearing broker partner of Gotrade, your name are still listed as the real and beneficial owner and have the rights associated with the security such as dividends and voting rights at the company's annual general meeting. [^2] [^3]
-- I found a contradiction in their docs
-    - the [FAQ docs](https://intercom.help/heygotrade/en/articles/5977666-what-are-the-different-order-types) writes that Gotrade supports Limit Order
-    - the ["Fractional share disclosure" V03 11/2021](https://www.heygotrade.com/legal/gotrade-fractional-shares-disclosure.pdf) states 
-        - a "No Limit Order" policy, that customers will only be permitted to place market orders on the Gotrade 
-        - There may not be voting rights for the fraction of a share owned
-        - In some circumstances, dividends on fractional positions may not be processed on your account, if the value of the dividend is too small
-        - Fractional shares are not transferable. If you close your account or transfer your account to another firm, the fractional shares held in your account will need to be liquidated. Similarly, Fractional shares cannot be put into certificated form and mailed
+- The [FAQ docs](https://intercom.help/heygotrade/en/articles/5977666-what-are-the-different-order-types) writes that Gotrade supports Limit Order for a whole share but **NOT for fractional shares**
+- The ["Fractional share disclosure" V03 11/2021](https://www.heygotrade.com/legal/gotrade-fractional-shares-disclosure.pdf) states that
+    - a "No Limit Order" policy for fractional shares 
+    - There may not be voting rights for the fraction of a share owned
+    - In some circumstances, dividends on fractional positions may not be processed on your account, if the value of the dividend is too small
+    - Fractional shares are not transferable. If you close your account or transfer your account to another firm, the fractional shares held in your account will need to be liquidated. Similarly, Fractional shares cannot be put into certificated form and mailed
 
 [^1]: https://intercom.help/heygotrade/en/articles/5977554-are-these-contracts-for-difference-cfds
 [^2]: https://intercom.help/heygotrade/en/articles/5977509-why-should-i-switch-to-gotrade-if-i-already-use-another-broker
@@ -68,4 +67,3 @@ Read [Gotrade Global FAQ docs](https://intercom.help/heygotrade/en/collections/3
 
 - [TechCrunch | Gotrade, the app that lets international users buy fractions of US stocks, raises $15.5M Series A](https://techcrunch.com/2022/04/04/gotrade-the-app-that-lets-international-users-buy-fractions-of-u-s-stocks-raises-15-5m-series-a/)
 - [TechCrunch | Gotrade gets $7M led by LocalGlobe to let investors around the world buy fractional shares of U.S. stocks](https://techcrunch.com/2021/06/24/gotrade-gets-7m-led-by-localglobe-to-let-investors-around-the-world-buy-fractional-shares-of-u-s-stocks/?guccounter=1)
-- 

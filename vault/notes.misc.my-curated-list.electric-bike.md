@@ -2,7 +2,7 @@
 id: 0ndptxltg7qhy4npqpg2mdd
 title: Electric Bike
 desc: ''
-updated: 1655333285162
+updated: 1656355683455
 created: 1651617348774
 ---
 # Electric Bike
@@ -21,11 +21,15 @@ created: 1651617348774
 
 ![[notes.misc.my-curated-list.electric-bike.canyon#precedeon-7-step-through,1:#*]]
 
+## Good to know
+
+### [Weal Clever](https://www.weal.fr/produit/clever/)
+
+![[notes.misc.my-curated-list.electric-bike.weal#weal-clever,1:#*]]
+
 ## [Precede:ON CF 9 step-through](https://www.canyon.com/en-fr/electric-bikes/electric-city-bike/precede-on/cf/precede-on-cf-9-step-through/2928.html?dwvar_2928_pv_rahmenfarbe=GD&dwvar_2928_pv_rahmengroesse=XS)
 
 ![[notes.misc.my-curated-list.electric-bike.canyon#precedeon-cf-9-step-through,1:#*]]
-
-## Good to know
 
 ### [Roadster V2](https://ride1up.com/product/roadster-v2/)
 
