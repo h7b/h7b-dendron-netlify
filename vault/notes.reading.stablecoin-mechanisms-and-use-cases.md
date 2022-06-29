@@ -2,9 +2,8 @@
 id: jxrpd7ntohv84cxg9yhwaef
 title: Stablecoin Mechanisms and Use Cases
 desc: Stablecoin Mechanisms and Use Cases
-updated: 1656380679175
+updated: 1656519698909
 created: 1656378494030
-excerpt: Stablecoin Mechanisms and Use Cases
 ---
 # Reading 2022-06-28
 

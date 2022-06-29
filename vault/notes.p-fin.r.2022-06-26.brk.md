@@ -1,11 +1,12 @@
 ---
 id: deux99q0zzl8vr0glrhbxgd
-title: BRK
-desc: ''
-updated: 1656257793540
+title: Berkshire Hathaway Inc. (BRK)
+desc: 'Berkshire Hathaway Inc. (BRK)'
+updated: 1656519639021
 created: 1656256411583
+excerpt: Berkshire Hathaway Inc. (BRK)
 ---
-# Berkshire Hathaway Inc.
+# Berkshire Hathaway Inc. (BRK)
 
 - Berkshire Hathaway Inc. Class B
 - Ticker: NYSE: BRK.B

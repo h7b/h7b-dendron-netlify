@@ -2,9 +2,8 @@
 id: yjf8gtpepd2mgk3muv1413l
 title: Expensive Stocks Make for Good Bonds
 desc: Expensive Stocks Make for Good Bonds
-updated: 1656380631292
+updated: 1656519739145
 created: 1656380166445
-excerpt: Expensive Stocks Make for Good Bonds
 ---
 # Reading 2022-06-28
 
