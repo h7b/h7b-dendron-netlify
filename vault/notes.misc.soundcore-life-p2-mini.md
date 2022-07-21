@@ -2,7 +2,7 @@
 id: IeDdy1sZi2diosokSZ0vT
 title: Soundcore Life P2 Mini
 desc: ''
-updated: 1640699575846
+updated: 1657637781811
 created: 1632787128221
 ---
 # Soundcore Life P2 Mini
@@ -44,4 +44,4 @@ If you are using two earbuds, you can put either one of the earbuds back into th
 ## User Manual
 Check [here](https://us.soundcore.com/pages/documents-drivers?page=3) to see if they are uploaded.  
 2021-09-28: Currently, the docs are not available  
-2021-11-24: Read [pdf](here)
+2021-11-24: Read pdf at [here](https://dix7fd4yse9rd.cloudfront.net/s/Soundcore/product/6933204992190/files/1636378915914_soundcore-a3944ummulti20211020.pdf)

@@ -2,7 +2,7 @@
 id: RSCijRCuIR1xl0R3TWCg5
 title: Cloud Storage Vs Online Backup
 desc: ''
-updated: 1656020378984
+updated: 1658427596050
 created: 1641946099458
 ---
 # Cloud Storage vs Online Backup: What’s The Difference
@@ -42,6 +42,14 @@ A summary table of 3 best `Online Backup` services by [Wirecutter](https://www.n
 | File   syncing | No | Yes | No |
 
 ## Multi-cloud management app
+
+### Spacedrive
+
+[Spacedrive](https://www.spacedrive.com/) is a FREE app that allows you to manage files across all devices, drives and clouds at once.
+
+Spacedrive consolidates files and the metadata associated with them. If you have external hard drives, cloud accounts and more than one device—you'll get a birds eye view of every file you own. With the ability to create folders, tags and albums that contain files from all different locations.
+
+Spacedrive is not a storage provider. Spacedrive is simply a database that exists on top of existing storage layers, from cloud services like Dropbox, Google Drive and iCloud to physical devices and external drives you already own. It doesn't provide you more storage, rather a supercharged view of your existing storage.
 
 ### CloudMounter
 
